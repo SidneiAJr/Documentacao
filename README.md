@@ -7,7 +7,7 @@
 
 | Linguagens | Variaveis | Tipo |
 |-------------|-------------|-------------|
-| C#             | Tipada     | Valor 3     |
-| Java           | Tipada     | Valor 6     |
-| TypeScript     | Tipada     | Valor 9     |
-| Javascript     | Não Tipada    | Valor 9     |
+| C#             | Tipada     | Int Double Booelan Float     |
+| Java           | Tipada     | Int Double Booelan Float     |
+| TypeScript     | Tipada     | Int Double Booelan Float      |
+| Javascript     | Não Tipada  | Int  Booelan Float     |
