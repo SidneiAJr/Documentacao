@@ -8,8 +8,4 @@
 | Javascript     | Não Tipada  | Int  Booelan Float     |
 
 
-- C#
-- JAVA
-- JavaScript
-- Typescript
 
