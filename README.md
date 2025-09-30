@@ -5,7 +5,7 @@
 | C#             | Tipada     | Int Double Booelan Float     |
 | Java           | Tipada     | Int Double Booelan Float     |
 | TypeScript     | Tipada     | Int Double Booelan Float      |
-| Javascript     | Não Tipada  | Int  Booelan Float     |
+| Javascript     | Não Tipada  | Number Booelan Float    |
 
 
 
