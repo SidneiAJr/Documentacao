@@ -8,3 +8,5 @@
 | Javascript     | Não Tipada  | Number Booelan Float    | Não|
 
 
+
+
