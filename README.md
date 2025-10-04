@@ -1,4 +1,9 @@
-# Repositorio para Documentação de Linguagens:
+# Esse Respositorio foi feito pra documentar conhecimento.
+
+***Ainda Sendo escrito***
+
+
+## Repositorio para Documentação de Linguagens:
 
 | Linguagens | Variaveis | Tipo |Tem POO
 |-------------|-------------|-------------|-------------|
