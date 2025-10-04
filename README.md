@@ -1,8 +1,6 @@
 # Esse Respositorio foi feito pra documentar conhecimento.
 
-***Repositorio Feito pra Documentar***
-
-
+***Repositório criado para registrar e organizar estudos sobre linguagens de programação.***
 
 ## Repositorio para Documentação de Linguagens:
 
@@ -14,5 +12,7 @@
 | Javascript     | Não Tipada  | Number Booelan Float    | Não|
 
 
+## 🗂️ Objetivo
 
+-Documentar conceitos, práticas e diferenças entre linguagens, facilitando revisões e consultas futuras.
 
