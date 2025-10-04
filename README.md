@@ -1,6 +1,7 @@
 # Esse Respositorio foi feito pra documentar conhecimento.
 
-***Ainda Sendo escrito***
+***Repositorio Feito pra Documentar***
+
 
 
 ## Repositorio para Documentação de Linguagens:
