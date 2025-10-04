@@ -4,6 +4,10 @@
 
 ![Dev Jogos](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/1.PNG)
 
+## Exemplo de Codigo:
+
+![Exemplo de codigo](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/2.PNG)
+
 ## Tipos de Variaveis(Tipagem)
 - Int -> Inteiro
 - Double -> Numero quebrado
