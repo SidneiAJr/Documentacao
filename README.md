@@ -14,5 +14,5 @@
 
 ## 🗂️ Objetivo
 
--Documentar conceitos, práticas e diferenças entre linguagens, facilitando revisões e consultas futuras.
+- Documentar conceitos, práticas e diferenças entre linguagens, facilitando revisões e consultas futuras.
 
