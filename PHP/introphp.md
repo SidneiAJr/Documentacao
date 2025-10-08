@@ -38,6 +38,6 @@
 
 - NULL: variável sem valor
 
-# Concatenação: 
+## Concatenação: 
 
 - echo $nome . " " . $sobrenome; // Ana Silva
