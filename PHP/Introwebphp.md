@@ -1,6 +1,6 @@
 # Introdução a web PHP:
 
-- <?php
+## Exemplo de codigo para web em php(Comentado):
 // Conexão com o banco de dados
 include('conex.php'); // inclui o arquivo que deve criar a variável $conn (provavelmente um mysqli)
 
@@ -27,4 +27,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "Erro ao cadastrar usuário: " . $stmt->error;
     }
 }
-?>
+
