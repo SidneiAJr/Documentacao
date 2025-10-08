@@ -1,6 +1,6 @@
 # 🐘Tutorial sobre PHP🐘
 
-## 🤔PHP e uma linguagem fortemente tipada ***(Necessario usar ; Sempre)***🤔
+## 🤔PHP e uma linguagem fortemente tipada ***(Necessario usar ; Sempre)*** 🤔
 
 - Exemplo de Hello Word:
 
