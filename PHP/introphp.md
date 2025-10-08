@@ -14,6 +14,7 @@
 
 ## Exemplos em PHP:
 
+
 - $nome = "Maria";    // String
 
 - $idade = 25;        // Inteiro
