@@ -25,7 +25,7 @@
 ## Condicao:
 
 ```
-if(n1===n2){
+if(n1==n2){
     console.log("Não e Igual")
 }else{
     console.log("E igual")
