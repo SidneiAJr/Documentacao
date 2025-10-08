@@ -45,8 +45,11 @@
 ## Funções em PHP:
 
 - <?php
+
 function saudacao() {
+    
     echo "Olá!";
+
 }
 ?>
 
