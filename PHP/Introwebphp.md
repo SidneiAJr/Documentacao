@@ -33,10 +33,10 @@
         echo "Erro ao cadastrar usuário: " . $stmt->error;
     }
 
- ## Dicas de Segurança
+ ## 🔒Dicas de Segurança
 
  - Nunca usa senha em Texto.
 
  - Nunca Usar Metodo Get ***(Não Passar As Informações via URL)***.
 
- - 
+ - Blindagem de Parametro contra SQLInjection
