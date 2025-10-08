@@ -24,17 +24,15 @@
 
 ## Condicao:
 
-if(n1===n2){
+```if(n1===n2){
     console.log("Não e Igual")
 }else{
     console.log("E igual")
 }
-
+```
 ## Loop For:
 
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
-
+```
 class Main {
     public static void main(String[] args) {
         for(int i=0; i<=10; i++){
@@ -42,3 +40,4 @@ class Main {
 }
     }
 }
+```
