@@ -44,12 +44,10 @@
 
 ## Funções em PHP:
 
-- <?php
-
-function saudacao() {
+- function saudacao() {
     
     echo "Olá!";
 
 }
-?>
+
 
