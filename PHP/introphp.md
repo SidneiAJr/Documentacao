@@ -14,11 +14,11 @@
 
 ## Exemplos em PHP:
 
-$nome = "Maria";    // String
+- $nome = "Maria";    // String
 
-$idade = 25;        // Inteiro
+- $idade = 25;        // Inteiro
 
-$altura = 1.75;     // Float
+- $altura = 1.75;     // Float
 
-$ativo = true;      // Boolean
+- $ativo = true;      // Boolean
 
