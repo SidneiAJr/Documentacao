@@ -1,6 +1,6 @@
-# 🌐Introdução a web PHP🌐:
+# 🌐Introdução a web PHP:
 
-## Exemplo de codigo para web em php(Comentado):
+## 🐘Exemplo de codigo para web em php(Comentado):
 
     // Conexão com o banco de dados
 
