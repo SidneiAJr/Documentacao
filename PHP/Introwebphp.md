@@ -10,7 +10,7 @@
     // Verifica se o formulário foi enviado via POST
 
 
-    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    if ($_SERVER["REQUEST_METHOD"] == "POST") 
 
     // Recebe os dados do formulário (sem validação ainda)
     $nome = $_POST['nome'];
@@ -32,5 +32,4 @@
     } else {
         echo "Erro ao cadastrar usuário: " . $stmt->error;
     }
-}
 
