@@ -28,7 +28,14 @@ function limparEntrada($valor) {
 ?>
 ```
 
-- Aqui sempre usar senha fortes.
+## 💡 Dicas importantes
 
-- Sempre Bloquear com .htcacess
+- ***Sempre use senhas fortes para o banco de dados e evite deixar a senha vazia ou padrão.***
 
+- ***Bloqueie o acesso a arquivos sensíveis usando .htaccess (exemplo: impedir acesso direto a arquivos PHP que contenham senhas ou configurações).***
+
+- ***Use variáveis de ambiente ou arquivos fora da raiz pública para guardar suas credenciais de banco de dados, evitando expor no código fonte.***
+
+- ***Considere usar PDO ao invés de mysqli para maior flexibilidade e recursos avançados.***
+
+- ***Sempre valide e sanitize dados recebidos do usuário antes de usar em queries.***
