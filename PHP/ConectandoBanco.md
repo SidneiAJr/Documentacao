@@ -1,5 +1,7 @@
 # Tutorial de conexção em banco em php:
 
+## Exemplo de codigo:
+
 ```
 <?php
 
