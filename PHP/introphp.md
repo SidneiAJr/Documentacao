@@ -41,3 +41,12 @@
 ## Concatenação: 
 
 - echo $nome . " " . $sobrenome; // Ana Silva
+
+## Funções em PHP:
+
+- <?php
+function saudacao() {
+    echo "Olá!";
+}
+?>
+
