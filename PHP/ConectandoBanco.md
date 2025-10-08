@@ -1,13 +1,13 @@
 # Tutorial de conexção em banco em php:
 
-''
+```
 <?php
 
 // Conexão segura
-$host = 'localhost';
-$usuario = 'root';
-$senha = '';
-$banco = 'hidrografia_rs';
+$host = 'localhost'; // Host do Banco de dados
+$usuario = 'root'; // Usuario do Banco de dados
+$senha = ''; // Senha do Banco de dados
+$banco = ''; // Nome do Banco de dados
 
 $con = new mysqli($host, $usuario, $senha, $banco);
 
@@ -26,4 +26,4 @@ function limparEntrada($valor) {
     return htmlspecialchars(trim($valor), ENT_QUOTES, 'UTF-8');
 }
 ?>
-''
+```
