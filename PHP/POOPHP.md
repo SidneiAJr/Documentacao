@@ -10,3 +10,6 @@
 - private: Só pode ser acessado dentro da própria classe.
 
 - protected: Pode ser acessado dentro da própria classe e pelas classes que herdam dela.
+
+## Herança 
+- é um conceito importante da POO que permite criar uma nova classe baseada em uma classe existente. Você pode mostrar como uma classe filha pode herdar métodos e propriedades da classe pai, além de como sobrescrever métodos.
