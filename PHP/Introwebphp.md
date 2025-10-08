@@ -37,6 +37,6 @@
 
  - Nunca usa senha em Texto.
 
- - Nunca Usar Metodo Get(Não Passar As Informações via URL).
+ - Nunca Usar Metodo Get ***(Não Passar As Informações via URL)***.
 
  - 
