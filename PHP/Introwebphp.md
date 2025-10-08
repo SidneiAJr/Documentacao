@@ -40,3 +40,5 @@
  - Nunca Usar Metodo Get ***(Não Passar As Informações via URL)***.
 
  - Blindagem de Parametro contra SQLInjection
+
+- Use prepared statements para blindar seus parâmetros e evitar SQL Injection — você já está no caminho certo!
