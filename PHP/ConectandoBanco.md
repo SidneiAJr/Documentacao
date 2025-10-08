@@ -27,3 +27,8 @@ function limparEntrada($valor) {
 }
 ?>
 ```
+
+- Aqui sempre usar senha fortes.
+
+- Sempre Bloquear com .htcacess
+
