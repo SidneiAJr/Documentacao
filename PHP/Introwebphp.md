@@ -7,7 +7,7 @@
     //include('conex.php'); // inclui o arquivo que deve criar a variável $conn (provavelmente um mysqli)
 
 
-***// Verifica se o formulário foi enviado via POST***
+    // Verifica se o formulário foi enviado via POST
 
 
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
