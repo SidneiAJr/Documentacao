@@ -35,7 +35,7 @@
 
  ## 🔒Dicas de Segurança
 
- - Nunca usa senha em Texto.
+ - Nunca usa senha em Texto ***password_hash()***
 
  - Nunca Usar Metodo Get ***(Não Passar As Informações via URL)***.
 
