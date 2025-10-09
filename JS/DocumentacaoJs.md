@@ -38,9 +38,9 @@ if(n1===n2){
 }
 ```
 ## Array:
-
+```JS
 let array = [1,2,3,5,6,7]
-
+```
 - map(): Para criar um novo array com base em um array existente.
 - filter(): Para filtrar elementos de um array.
 - reduce(): Para reduzir um array a um único valor.
