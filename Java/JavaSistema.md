@@ -1,6 +1,6 @@
 # Sistema sem IC - Alura Oracle Next Education:
 
-´´´Java
+```Java
 import java.util.Scanner;  // Importa a classe Scanner para ler entradas do usuário
 
 public class Main {
@@ -125,4 +125,4 @@ public class Main {
         return valorTotal;  // Retorna o valor total do financiamento
     }
 }
-´´´
+```
