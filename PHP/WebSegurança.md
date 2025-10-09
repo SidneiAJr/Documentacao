@@ -142,4 +142,18 @@ $novo_nome = uniqid() . '.' . $extensao;
 move_uploaded_file($arquivo['tmp_name'], '/uploads/' . $novo_nome);
 ````
 
+## 14. $ciphering = "AES-128-CTR";
+````php
+$iv_length = openssl_cipher_iv_length($ciphering);
+$options = 0;
+$encryption_iv = '1234567890123456';
+$encryption_key = "key123";
+
+// Criptografar
+$encryption = openssl_encrypt($data, $ciphering, $encryption_key, $options, $encryption_iv);
+
+// Descriptografar
+$decryption = openssl_decrypt($encryption, $ciphering, $encryption_key, $options, $encryption_iv);
+````
+
 
