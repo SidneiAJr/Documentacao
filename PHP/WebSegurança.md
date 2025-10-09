@@ -113,3 +113,18 @@ $ip = escapeshellarg($_GET['ip']);
 exec("ping $ip");
 ```
 
+## 12. Proteção contra IDOR (Insecure Direct Object Reference)
+- Nunca confiar em IDs na URL como prova de autorização:
+```php
+// Errado
+arquivo.php?id=42
+
+// Correto
+if ($_SESSION['user_id'] !== $arquivo['dono_id']) {
+    http_response_code(403);
+    exit("Acesso negado.");
+}
+```
+
+
+
