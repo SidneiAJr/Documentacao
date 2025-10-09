@@ -9,14 +9,15 @@
 
 ## Operações de Comperações:
 
-- int n1 = 5;
-- int n2 = 5;
-- n1 === n2 -> Comparações
-- n1 + n2 -> Soma Porem e int não double, implicitamente não permite
-- n1 - n2 -> Subtracao Porem e int não double, implicitamente não permite
-- n1 < n2 -> Maior que
-- n1 > n2 -> Menor que
-
+```Java
+int n1 = 5;
+int n2 = 5;
+n1 === n2 -> Comparações
+n1 + n2 -> Soma Porem e int não double, implicitamente não permite
+n1 - n2 -> Subtracao Porem e int não double, implicitamente não permite
+n1 < n2 -> Maior que
+n1 > n2 -> Menor que
+```
 ## Array:
 
 - int[] array = { 1, 2, 3, 4, 5 };
