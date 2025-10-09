@@ -1,6 +1,6 @@
 ## Tutorial de PHP 2
 
-´´´
+```
 <?php
 // Inclui o arquivo de conexão com o banco de dados
 include "conexao.php";
@@ -45,4 +45,4 @@ else
     }
 }
 ?>
-´´´
+```
