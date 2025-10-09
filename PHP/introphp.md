@@ -109,4 +109,19 @@ if (in_array("banana", $frutas)) {
 }
 ```
 
+## GET e POST
+```php
+// Exemplo: script.php?nome=Maria
+echo $_GET['nome']; // Imprime "Maria"
+// Exemplo de um formulário HTML com método POST
+<form method="POST" action="script.php">
+    <input type="text" name="nome">
+    <input type="submit">
+</form>
+
+// No script.php
+echo $_POST['nome']; // Imprime o nome enviado pelo formulário
+```
+
+
 
