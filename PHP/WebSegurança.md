@@ -1,6 +1,6 @@
 # 🔐Documento voltado para camadas de segurança em php:
 
-## 1. Blindagem contra SQL Injection
+```## 1. Blindagem contra SQL Injection
 - Uso de Prepared Statements (parâmetros bindados) com PDO ou mysqli
 $stmt = $pdo->prepare("SELECT * FROM users WHERE email = ?");
 $stmt->execute([$email]);
@@ -16,7 +16,7 @@ $stmt->execute([$email]);
 ### 4. **Organização Visual (opcional, mas ajuda muito)**
 - Você pode agrupar os tópicos por **camadas** ou temas:
 
-```markdown
+
 ### 🔐 Segurança em Autenticação
 - password_hash / password_verify
 - 2FA
