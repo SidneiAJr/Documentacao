@@ -10,11 +10,11 @@
 JavaScript não tem tipo direto, pode usar Number ou int, parsefloat.
 
 ## Loop: 
-
+```JS
 for(let i=0; i<=10; i++){
     console.log(`Incrementado ${i}`)
 }
-
+```
 ## Operações Matematicas:
 
 - let n1 = 5;
