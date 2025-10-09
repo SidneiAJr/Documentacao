@@ -59,3 +59,16 @@ session_set_cookie_params([
     'samesite' => 'Strict'
 ]);
  ```
+
+## 7.Limitação de Tentativas de Login (Brute Force Protection)
+- Impedir ataques de força bruta:
+- Implementar delay progressivo entre tentativas
+- Lockout temporário após várias falhas
+- Usar ReCaptcha
+ ```php
+if ($_SESSION['tentativas_login'] >= 5) {
+    die("Muitas tentativas. Tente novamente em 15 minutos.");
+}
+ ```
+
+
