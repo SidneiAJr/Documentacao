@@ -12,7 +12,7 @@
 ```Java
 int n1 = 5;
 int n2 = 5;
-n1 === n2 -> Comparações
+n1 == n2 -> Comparações Uso de equals
 n1 + n2 -> Soma Porem e int não double, implicitamente não permite
 n1 - n2 -> Subtracao Porem e int não double, implicitamente não permite
 n1 < n2 -> Maior que
