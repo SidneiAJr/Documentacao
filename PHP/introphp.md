@@ -83,13 +83,30 @@ echo $frutas[1]; // Imprime "banana"
 ```
 
 ## Array Associativo( Objeto JS)
-```
+```php
 $pessoa = [
     "nome" => "Maria",
     "idade" => 25,
     "cidade" => "São Paulo"
 ];
 echo $pessoa["nome"]; // Imprime "Maria"
+```
+
+## Comandos Array
+```php
+// Contar o número de elementos
+echo count($frutas);
+
+// Adicionar elemento no final
+array_push($frutas, "manga");
+
+// Remover elemento do final
+array_pop($frutas);
+
+// Verificar se um valor existe no array
+if (in_array("banana", $frutas)) {
+    echo "Banana está na lista!";
+}
 ```
 
 
