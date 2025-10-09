@@ -4,7 +4,9 @@
 
 - Exemplo de Hello Word:
 
-- echo "Hello Word";
+```php
+echo "Hello Word";
+```
 
 ## Escrita PHP VS JS
 
