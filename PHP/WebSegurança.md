@@ -36,19 +36,19 @@ $nome  = htmlspecialchars($_POST['nome'], ENT_QUOTES, 'UTF-8');
 
 ## 5.Proteção contra XSS (Cross-site Scripting)
 - Escapar todas as saídas de dados dinâmicos no HTML:
- ```
+ ```php
  <p><?= htmlspecialchars($usuario['nome']) ?></p>
  ```
 
 ## 6. Proteção contra CSRF (Cross-Site Request Forgery)
 - Gerar token CSRF único por formulário e armazenar na sessão:
- ```
+ ```php
 $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
  ```
 
 ## 6. Gerenciamento de Sessões Seguro
 - Regenerar o ID de sessão após login:
- ```
+ ```php
 session_regenerate_id(true);
 session_set_cookie_params([
     'lifetime' => 0,
