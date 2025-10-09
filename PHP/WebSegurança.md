@@ -92,3 +92,14 @@ header('X-XSS-Protection: 1; mode=block');
 header('Referrer-Policy: no-referrer-when-downgrade');
  ```
 
+## 10.Timeouts e Expiração de Sessões
+```php
+$tempo_inatividade = 900; // 15 minutos
+if (isset($_SESSION['ultimo_acesso']) && time() - $_SESSION['ultimo_acesso'] > $tempo_inatividade) {
+    session_destroy();
+    header('Location: login.php');
+    exit;
+}
+$_SESSION['ultimo_acesso'] = time();
+ ```
+
