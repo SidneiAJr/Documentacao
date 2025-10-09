@@ -24,7 +24,7 @@
 
 ## Condicao:
 
-```
+```Java
 if(n1==n2){
     console.log("Não e Igual")
 }else{
@@ -33,7 +33,7 @@ if(n1==n2){
 ```
 ## Loop For:
 
-```
+```Java
 class Main {
     public static void main(String[] args) {
         for(int i=0; i<=10; i++){
