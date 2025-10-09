@@ -89,8 +89,6 @@ class Usuario extends UsuarioBase {
         }
     }
 }
-```
-
 
 // 🔹 EXEMPLO DE USO
 // Aqui criamos um objeto da classe Usuario (que já conecta ao banco automaticamente)
@@ -100,3 +98,7 @@ $login = new Usuario();
 $login->Login("sidnei", "1234");
 
 ?>
+```
+
+
+
