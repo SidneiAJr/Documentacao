@@ -1,4 +1,4 @@
-# Esse Respositorio foi feito pra documentar conhecimento.
+# Esse Repositório foi feito pra documentar conhecimento.
 
 ***Repositório criado para registrar e organizar estudos sobre linguagens de programação.***
 
