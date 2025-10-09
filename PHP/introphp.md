@@ -60,5 +60,36 @@ if ($idade >= 18) {
     echo "Você é menor de idade.";
 }
 ```
+## Switch
+```php
+$cor = "vermelho";
+
+switch ($cor) {
+    case "azul":
+        echo "Você escolheu azul!";
+        break;
+    case "vermelho":
+        echo "Você escolheu vermelho!";
+        break;
+    default:
+        echo "Cor não reconhecida.";
+}
+```
+
+## Array 
+```php
+$frutas = ["maçã", "banana", "laranja"];
+echo $frutas[1]; // Imprime "banana"
+```
+
+## Array Associativo( Objeto JS)
+```
+$pessoa = [
+    "nome" => "Maria",
+    "idade" => 25,
+    "cidade" => "São Paulo"
+];
+echo $pessoa["nome"]; // Imprime "Maria"
+```
 
 
