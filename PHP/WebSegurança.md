@@ -80,3 +80,15 @@ if ($_SESSION['tipo_usuario'] !== 'admin') {
 }
 ``` 
 
+## 9. Headers de Segurança (via PHP ou .htaccess)
+ ```php
+header('X-Frame-Options: SAMEORIGIN');
+header('X-Content-Type-Options: nosniff');
+header('X-XSS-Protection: 1; mode=block');
+header('Referrer-Policy: no-referrer-when-downgrade');
+header('X-Frame-Options: SAMEORIGIN');
+header('X-Content-Type-Options: nosniff');
+header('X-XSS-Protection: 1; mode=block');
+header('Referrer-Policy: no-referrer-when-downgrade');
+ ```
+
