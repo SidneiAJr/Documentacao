@@ -123,5 +123,12 @@ echo $_GET['nome']; // Imprime "Maria"
 echo $_POST['nome']; // Imprime o nome enviado pelo formulário
 ```
 
-
+## Operações Matematicas
+```php
+$soma = 5 + 3; // 8
+$subtracao = 5 - 3; // 2
+$multiplicacao = 5 * 3; // 15
+$divisao = 5 / 3; // 1.666...
+$resto = 5 % 3; // 2 (resto da divisão)
+```
 
