@@ -47,3 +47,25 @@ public interface UsuarioRepository extends JpaRepository<Usuario, Long> { }
 
 Segurança embutida (Spring Security):
 Permite autenticação e controle de acesso sem precisar programar tudo do zero.
+
+# 🔍 Como criar um projeto rapidamente
+
+Acesse: 👉 https://start.spring.io
+
+Escolha:
+
+Project: Maven Project
+
+Language: Java
+
+Spring Boot: última versão estável
+
+Adicione dependências como:
+
+Spring Web
+
+Spring Data JPA
+
+MySQL Driver
+
+Clique em "Generate", baixe o .zip, extraia e abra no VS Code ou IntelliJ IDEA.
