@@ -28,6 +28,7 @@ O projeto já vem com o Tomcat, Jetty ou Undertow, então basta rodar mvn spring
 REST APIs Simplificadas:
 Criar uma API REST é tão simples quanto usar:
 
+```Java
 @RestController
 @RequestMapping("/api")
 public class MeuController {
@@ -36,7 +37,7 @@ public class MeuController {
         return "Olá, mundo!";
     }
 }
-
+```
 
 Integração com Banco de Dados (Spring Data JPA):
 Você pode criar repositórios com poucos comandos:
