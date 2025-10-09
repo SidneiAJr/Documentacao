@@ -30,13 +30,13 @@ for(let i=0; i<=10; i++){
 - n2 >= n1 -> Menor ou igual 
 
 ## Condicao:
-
+```JS
 if(n1===n2){
     console.log("Não e Igual")
 }else{
     console.log("E igual")
 }
-
+```
 ## Array:
 
 let array = [1,2,3,5,6,7]
