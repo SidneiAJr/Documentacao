@@ -71,4 +71,12 @@ if ($_SESSION['tentativas_login'] >= 5) {
 }
  ```
 
+## 8. Controle de Acesso e Autorização
+- Verificar permissões de usuário antes de acessar rotas/páginas sensíveis:
+ ```php
+if ($_SESSION['tipo_usuario'] !== 'admin') {
+    header("Location: sem_permissao.php");
+    exit;
+}
+``` 
 
