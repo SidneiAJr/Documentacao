@@ -103,3 +103,13 @@ if (isset($_SESSION['ultimo_acesso']) && time() - $_SESSION['ultimo_acesso'] > $
 $_SESSION['ultimo_acesso'] = time();
  ```
 
+## 11. Escape de comandos em Shell ou sistema
+```php
+// INCORRETO: pode permitir injeção de comandos
+exec("ping " . $_GET['ip']);
+
+// CORRETO: valida e escapa
+$ip = escapeshellarg($_GET['ip']);
+exec("ping $ip");
+```
+
