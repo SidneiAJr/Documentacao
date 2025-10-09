@@ -3,8 +3,9 @@
 ```
 <?php 
 // Recebe o parâmetro 'cod' da URL via GET
+```
 $idaluno = $_GET["cod"];
-
+```
 // VERIFICAÇÃO INCORRETA: a variável checada não existe ($idcod)
 // Deveria ser $idaluno
 if(!isset($idcod))
