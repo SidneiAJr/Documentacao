@@ -3,15 +3,9 @@
 ## 🐘Exemplo de codigo para web em php(Comentado):
   ```php
     // Conexão com o banco de dados
-
     //include('conex.php'); // inclui o arquivo que deve criar a variável $conn (provavelmente um mysqli)
-
-
     // Verifica se o formulário foi enviado via POST
-
-
     if ($_SERVER["REQUEST_METHOD"] == "POST") 
-
     // Recebe os dados do formulário (sem validação ainda)
     $nome = $_POST['nome'];
     $sobrenome = $_POST['sobrenome'];
