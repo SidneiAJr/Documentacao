@@ -1,1 +1,14 @@
-# 🔐Documento voltado para camadas de segurança em php: ## 1. Blindagem contra SQL Injection - Uso de Prepared Statements (parâmetros bindados) com PDO ou mysqli $stmt = $pdo->prepare("SELECT * FROM users WHERE email = ?"); $stmt->execute([$email]); ## 2.Método POST (vs GET) - Utilizar POST para envio de dados sensíveis como: - Senhas - Dados pessoais - Formulários de login, cadastro, alteração - Evitar expor dados na URL (GET), principalmente em links compartilháveis. ## 3.Uso de password_hash() e password_verify() (nativo, seguro e atualizado com algoritmos modernos como bcrypt e Argon2). ## 4. Validação e Sanitização de Dados - Nunca confiar em dados do usuário. - Funções úteis: - filter_var() (ex: FILTER_VALIDATE_EMAIL, FILTER_SANITIZE_STRING) - htmlspecialchars() (XSS) - intval(), floatval() para forçar tipo ## 5. Proteção contra XSS (Cross-site Scripting) - Escapar todas as saídas de dados dinâmicos no HTML: ## 6. Proteção contra CSRF (Cross-Site Request Forgery) ## 7. Gerenciamento de Sessões Seguro ## 8. Limitação de Tentativas de Login (Brute Force Protection) ## 9. Autenticação de Dois Fatores (2FA) ## 10. Controle de Acesso e Autorização ## 11.Proteção contra Uploads Maliciosos ## 12.Headers de Segurança (via PHP ou .htaccess) ## 13.Proteção de Arquivos com .htaccess ## 14. Forçar HTTPS ## 15. Logs de Atividades e Auditoria ## 16.Evitar Exposição de Erros ao Usuário Final ## 17.Timeouts e Expiração de Sessões ## 18.Escape de comandos em Shell ou sistema ## 19.Proteção contra IDOR (Insecure Direct Object Reference) o que tu acha?
+# 🔐 Documento voltado para camadas de segurança em PHP
+
+## 1. Blindagem contra SQL Injection
+- Uso de **Prepared Statements** (parâmetros bindados) com **PDO** ou **mysqli**:
+  ```php
+  $stmt = $pdo->prepare("SELECT * FROM users WHERE email = ?");
+  $stmt->execute([$email]);
+
+## 2. Método POST (vs GET)
+- ***Utilizar POST para envio de dados sensíveis como:***
+- Senhas
+- Dados pessoais
+- Formulários de login, cadastro, alteração
+- Evitar expor dados na URL (GET), principalmente em links compartilháveis.
