@@ -27,6 +27,7 @@
 ## Array (Tamanho Fixo)
 
 // Array de inteiros com 5 elementos
+```C#
 int[] arrayInt = new int[5] { 1, 2, 3, 4, 5 };  // Declaração e inicialização do array
 
 // Array de doubles com 5 elementos
@@ -40,7 +41,7 @@ double[] arrayDouble = new double[5] { 1.1, 2.2, 3.3, 4.4, 5.5 };  // Declaraç�
 
 Console.WriteLine(matriz[0, 0]);  // Saída: 1
 Console.WriteLine(matriz[1, 2]);  // Saída: 6
-
+```
 ## Comandos com Arrays:
 
 - Declarar e Inicializar:
