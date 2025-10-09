@@ -63,3 +63,19 @@ switch (diaDaSemana) {
 }
 
 ```
+
+## Retorno:
+
+```Java
+public class Main {
+
+    public static int soma(int a, int b) {
+        return a + b;
+    }
+
+    public static void main(String[] args) {
+        int resultado = soma(5, 10);
+        System.out.println("Resultado da soma: " + resultado);
+    }
+}
+```
