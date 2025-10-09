@@ -1,5 +1,6 @@
 # PHP WEB 3
-```
+
+```php
 <?php
 
 // 🔹 INTERFACE
