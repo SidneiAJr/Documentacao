@@ -120,8 +120,7 @@ Console.WriteLine(matriz[1, 2]);  // Saída: 6
 - lista.ForEach(action)
 
 ## Condicao:
-````
-if(n1===n2){
+````if(n1===n2){
     console.log("Não e Igual")
 }else{
     console.log("E igual")
