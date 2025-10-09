@@ -12,18 +12,28 @@ $stmt->execute([$email]);
 - Formulários de login, cadastro, alteração
 - Evitar expor dados na URL (GET), principalmente em links compartilháveis.
 
-## 3.Uso de password_hash() e password_verify() (nativo, seguro e atualizado com algoritmos modernos como bcrypt e Argon2).
 
-## 4. Validação e Sanitização de Dados
-- Nunca confiar em dados do usuário.
-- Funções úteis:
-- filter_var() (ex: FILTER_VALIDATE_EMAIL, FILTER_SANITIZE_STRING)
-- htmlspecialchars() (XSS)
-- intval(), floatval() para forçar tipo
+### 4. **Organização Visual (opcional, mas ajuda muito)**
+- Você pode agrupar os tópicos por **camadas** ou temas:
 
-## 5. Proteção contra XSS (Cross-site Scripting)
-- Escapar todas as saídas de dados dinâmicos no HTML:
+```markdown
+### 🔐 Segurança em Autenticação
+- password_hash / password_verify
+- 2FA
+- Limite de tentativas
+- Sessão segura
 
-## 6. Proteção contra CSRF (Cross-Site Request Forgery)
+### 🧼 Validação e Sanitização
+- filter_var, htmlspecialchars, escapeshellarg, etc.
 
-## 7. Gerenciamento de Sessões Seguro
+### 🛡️ Proteção contra ataques
+- SQL Injection
+- XSS
+- CSRF
+- IDOR
+
+### 🔒 Segurança de Arquivos e Sistema
+- Uploads
+- .htaccess
+- HTTPS
+- Headers
