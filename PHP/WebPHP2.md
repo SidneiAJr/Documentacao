@@ -1,11 +1,10 @@
 # Tutorial PHP - Web3
 
-```
+```php
 <?php 
 // Recebe o parâmetro 'cod' da URL via GET
-```
 $idaluno = $_GET["cod"];
-```
+
 // VERIFICAÇÃO INCORRETA: a variável checada não existe ($idcod)
 // Deveria ser $idaluno
 if(!isset($idcod))
@@ -53,4 +52,4 @@ else
     
     // Fecha a conexão com o banco
     mysqli_close($close); // <- errado: variável de conexão é $conexao
-?>````
+?>
