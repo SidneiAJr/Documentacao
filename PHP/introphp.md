@@ -17,13 +17,10 @@ echo "Hello Word";
 ## Exemplos em PHP:
 
 ```php
-- $nome = "Maria";    // String
-
-- $idade = 25;        // Inteiro
-
-- $altura = 1.75;     // Float
-
-- $ativo = true;      // Boolean
+$nome = "Maria";    // String
+$idade = 25;        // Inteiro
+$altura = 1.75;     // Float
+$ativo = true;      // Boolean
 ```
 
 ## Tipos de Variaveis:
@@ -43,15 +40,15 @@ echo "Hello Word";
 - NULL: variável sem valor
 
 ## Concatenação: 
-
-- echo $nome . " " . $sobrenome; // Ana Silva
-
+```php
+echo $nome . " " . $sobrenome; // Ana Silva
+```
 ## Funções em PHP:
-
+```php
 - function saudacao() {
     
     echo "Olá!";
 
 }
-
+```
 
