@@ -12,3 +12,11 @@
 - Dados pessoais
 - Formulários de login, cadastro, alteração
 - Evitar expor dados na URL (GET), principalmente em links compartilháveis.
+
+## 3. Uso de password_hash() e password_verify()
+- Funções nativas, seguras e atualizadas com algoritmos modernos como bcrypt e Argon2.
+ ```
+$hash = password_hash($senha, PASSWORD_DEFAULT);
+if (password_verify($senhaDigitada, $hash)) {
+    // Senha válida
+}
