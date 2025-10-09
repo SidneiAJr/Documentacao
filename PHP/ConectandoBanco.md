@@ -2,8 +2,7 @@
 
 ## Exemplo de codigo:
 
-```
-<?php
+```php
 
 // Conexão segura
 $host = 'localhost'; // Host do Banco de dados
