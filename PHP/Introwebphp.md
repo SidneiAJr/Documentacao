@@ -1,7 +1,7 @@
 # 🌐Introdução a web PHP:
 
 ## 🐘Exemplo de codigo para web em php(Comentado):
-
+  ```php
     // Conexão com o banco de dados
 
     //include('conex.php'); // inclui o arquivo que deve criar a variável $conn (provavelmente um mysqli)
@@ -32,7 +32,7 @@
     } else {
         echo "Erro ao cadastrar usuário: " . $stmt->error;
     }
-
+  ```
  ## 🔒Dicas de Segurança
 
  - Nunca usa senha em Texto ***password_hash()***
