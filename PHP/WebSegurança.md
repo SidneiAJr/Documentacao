@@ -126,5 +126,20 @@ if ($_SESSION['user_id'] !== $arquivo['dono_id']) {
 }
 ```
 
+## 13. Proteção contra Uploads Maliciosos
+````php
+$arquivo = $_FILES['upload'];
+$extensao = pathinfo($arquivo['name'], PATHINFO_EXTENSION);
+
+// Verificar se a extensão é permitida
+$extensoes_permitidas = ['jpg', 'jpeg', 'png', 'gif'];
+if (!in_array($extensao, $extensoes_permitidas)) {
+    die('Tipo de arquivo não permitido.');
+}
+
+// Renomear o arquivo para evitar conflitos
+$novo_nome = uniqid() . '.' . $extensao;
+move_uploaded_file($arquivo['tmp_name'], '/uploads/' . $novo_nome);
+````
 
 
