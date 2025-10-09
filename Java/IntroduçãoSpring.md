@@ -50,22 +50,22 @@ Permite autenticação e controle de acesso sem precisar programar tudo do zero.
 
 # 🔍 Como criar um projeto rapidamente
 
-Acesse: 👉 https://start.spring.io
+- Acesse: 👉 https://start.spring.io
 
-Escolha:
+- Escolha:
 
-Project: Maven Project
+- Project: Maven Project
 
-Language: Java
+- Language: Java
 
-Spring Boot: última versão estável
+- Spring Boot: última versão estável
 
-Adicione dependências como:
+- Adicione dependências como:
 
-Spring Web
+- Spring Web
 
-Spring Data JPA
+- Spring Data JPA
 
-MySQL Driver
+- MySQL Driver
 
-Clique em "Generate", baixe o .zip, extraia e abra no VS Code ou IntelliJ IDEA.
+- Clique em "Generate", baixe o .zip, extraia e abra no VS Code ou IntelliJ IDEA.
