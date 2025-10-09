@@ -16,7 +16,7 @@ echo "Hello Word";
 
 ## Exemplos em PHP:
 
-
+```php
 - $nome = "Maria";    // String
 
 - $idade = 25;        // Inteiro
@@ -24,6 +24,7 @@ echo "Hello Word";
 - $altura = 1.75;     // Float
 
 - $ativo = true;      // Boolean
+```
 
 ## Tipos de Variaveis:
 
