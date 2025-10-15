@@ -75,3 +75,47 @@ HTML (HyperText Markup Language) é a linguagem de marcação padrão utilizada 
 
 - main: Define o conteúdo principal de uma página (boa para SEO).  
 
+| Elemento      | Descrição                                   | Exemplo                                     |
+|---------------|---------------------------------------------|---------------------------------------------|
+| **h1 a h6**   | Títulos de diferentes níveis                 | `<h1> Título Principal </h1>`                |
+| **li**        | Item de lista                                | `<li> Item da lista </li>`                   |
+| **ul**        | Lista não ordenada                           | `<ul><li>Item 1</li></ul>`                    |
+| **div**       | Container genérico, usado com class ou id   | `<div class="container"></div>`              |
+| **p**         | Parágrafo                                   | `<p>Texto do parágrafo</p>`                   |
+| **strong**    | Texto em negrito (semântico)                 | `<strong>Texto em negrito</strong>`           |
+| **img**       | Imagem                                      | `<img src="imagem.jpg" alt="Descrição">`     |
+
+---
+
+| Elemento      | Descrição                                   | Exemplo                                     |
+|---------------|---------------------------------------------|---------------------------------------------|
+| **table**     | Define uma tabela                            | `<table></table>`                            |
+| **tr**        | Linha da tabela                             | `<tr></tr>`                                 |
+| **td**        | Célula da tabela                            | `<td>Conteúdo</td>`                          |
+| **th**        | Cabeçalho da tabela                         | `<th>Cabeçalho</th>`                         |
+
+---
+
+| Elemento      | Descrição                                   | Exemplo                                     |
+|---------------|---------------------------------------------|---------------------------------------------|
+| **form**      | Agrupa campos de formulário                 | `<form></form>`                             |
+| **input**     | Campo de entrada (texto, senha, botão etc) | `<input type="text" />`                      |
+| **label**     | Rótulo para o input                         | `<label for="nome">Nome:</label>`           |
+| **textarea**  | Área de texto maior                         | `<textarea></textarea>`                       |
+| **select**    | Lista suspensa                             | `<select><option>Opção</option></select>`  |
+| **option**    | Opção dentro do select                      | `<option value="1">Opção 1</option>`         |
+
+---
+
+| Elemento      | Descrição                                   | Exemplo                                     |
+|---------------|---------------------------------------------|---------------------------------------------|
+| **section**   | Agrupa conteúdo relacionado (seções)        | `<section></section>`                        |
+| **article**   | Conteúdo independente                        | `<article></article>`                        |
+| **nav**       | Links de navegação                           | `<nav></nav>`                               |
+| **footer**    | Rodapé da página                            | `<footer></footer>`                          |
+| **header**    | Cabeçalho da página                         | `<header></header>`                          |
+| **aside**     | Conteúdo relacionado, não principal         | `<aside></aside>`                            |
+| **figure**    | Agrupa conteúdo visual com legenda          | `<figure><img src="x.jpg"/><figcaption>Legenda</figcaption></figure>` |
+| **figcaption**| Legenda da figura                            | `<figcaption>Legenda da imagem</figcaption>` |
+| **main**      | Conteúdo principal da página (SEO)           | `<main></main>`                             |
+
