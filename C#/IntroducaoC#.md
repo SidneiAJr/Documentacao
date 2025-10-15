@@ -10,7 +10,6 @@ C# (C-Sharp) é uma linguagem de programação moderna, orientada a objetos, cri
 
 ![Exemplo de codigo](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/2.PNG)
 
-## Tipos de Variaveis(Tipagem)
 ## 📦 Tipos de Variáveis em C#
 
 | Tipo      | Descrição                                 | Exemplo                  |
