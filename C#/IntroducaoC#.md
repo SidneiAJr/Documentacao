@@ -1,4 +1,4 @@
-#💻 Introdução ao C#
+# 💻 Introdução ao C#
 
 C# (C-Sharp) é uma linguagem de programação moderna, orientada a objetos, criada pela Microsoft. Muito usada em aplicações .NET, também é amplamente usada para desenvolvimento de jogos com a engine Unity.
 
