@@ -5,6 +5,18 @@
 - Let: Mutavel
 - Const: Não Mutavel
 
+| Tipo       | Descrição                         | Exemplo                  |
+|------------|---------------------------------|--------------------------|
+| `string`   | Texto                           | `"Olá, mundo"`           |
+| `number`   | Números (inteiros e decimais)   | `42`, `3.14`             |
+| `boolean`  | Verdadeiro ou falso             | `true`, `false`          |
+| `undefined`| Variável declarada sem valor    | `let x;`                 |
+| `null`     | Valor nulo                      | `let y = null;`          |
+| `object`   | Objetos, arrays, funções        | `{ nome: "Ana" }`, `[1,2,3]` |
+| `symbol`   | Identificador único             | `Symbol("id")`           |
+| `bigint`   | Números inteiros muito grandes | `9007199254740991n`      |
+
+
 ## Declaração de Variaveis: 
 
 JavaScript não tem tipo direto, pode usar Number ou int, parsefloat.
