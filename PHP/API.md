@@ -21,6 +21,7 @@ echo json_encode($usuario);
 ```
 
 ## 2. Java (usando Spring Boot)
+```JAVA
 @RestController
 @RequestMapping("/api")
 public class UsuarioController {
@@ -35,7 +36,7 @@ public class UsuarioController {
         return ResponseEntity.ok(usuario);
     }
 }
-
+```
 ## 3. C# (usando ASP.NET Core Web API)
 ```c#
 [ApiController]
