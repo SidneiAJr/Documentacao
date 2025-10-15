@@ -14,7 +14,7 @@ function soma(a: number, b: number): number {
 ```
 
 ```TS
-Função anônima / arrow function
+## Função anônima / arrow function
 const multiplicar = (a: number, b: number): number => a * b;
 ```
 
