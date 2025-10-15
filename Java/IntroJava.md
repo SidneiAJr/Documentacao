@@ -2,10 +2,20 @@
 
 ## Tipos de Variaveis(Tipagem)
 
-- Int -> Inteiro
-- Double -> Numero quebrado
-- Floar -> Com numero ou virgula
-- char -> Um caracter
+## 📦 Tipos de Variáveis em C#
+
+| Tipo      | Descrição                                 | Exemplo                  |
+|-----------|-------------------------------------------|--------------------------|
+| `int`     | Número inteiro                            | `int idade = 25;`        |
+| `double`  | Número decimal (alta precisão)            | `double pi = 3.14;`      |
+| `float`   | Número decimal (menos preciso, usa `f`)   | `float peso = 70.5f;`    |
+| `decimal` | Número decimal (usado em finanças)        | `decimal valor = 10.5m;` |
+| `char`    | Um único caractere (entre aspas simples)  | `char letra = 'A';`      |
+| `string`  | Conjunto de caracteres (texto)            | `string nome = "Ana";`   |
+| `bool`    | Verdadeiro ou falso (booleano)            | `bool ativo = true;`     |
+| `var`     | Tipo inferido automaticamente             | `var idade = 30;`        |
+| `object`  | Tipo genérico base de todos os tipos      | `object x = "texto";`    |
+
 
 ## Operações de Comperações:
 
