@@ -1,4 +1,5 @@
 # 💻 Introdução a TypeScript(Delirio Coletivo)
+
 Tipos de Variáveis
 
 var: Pode ser mutável, com escopo de função (evite usar).
@@ -7,6 +8,21 @@ let: Variável mutável, escopo de bloco.
 
 const: Constante, imutável após inicialização
 
+| Tipo       | Descrição                              | Exemplo                |
+|------------|--------------------------------------|------------------------|
+| `string`   | Texto                                | `let nome: string = "Ana";`  |
+| `number`   | Números (inteiros e decimais)        | `let idade: number = 30;`    |
+| `boolean`  | Verdadeiro ou falso                   | `let ativo: boolean = true;` |
+| `any`      | Aceita qualquer tipo (evite usar)    | `let valor: any = 5;`        |
+| `void`     | Funções sem retorno                   | `function log(): void {}`    |
+| `unknown`  | Tipo desconhecido, precisa ser verificado | `let x: unknown;`        |
+| `array`    | Lista de elementos de um tipo        | `let nums: number[] = [1,2,3];` |
+| `tuple`    | Array com tipos fixos por posição    | `let pessoa: [string, number] = ["Maria", 30];` |
+| `enum`     | Enumeração de valores nomeados       | `enum Cor { Vermelho, Verde, Azul }` |
+| `null`     | Valor nulo                          | `let nulo: null = null;`      |
+| `undefined`| Valor indefinido                     | `let indef: undefined = undefined;` |
+
+
 ```TS
 function soma(a: number, b: number): number {
   return a + b;
@@ -14,7 +30,7 @@ function soma(a: number, b: number): number {
 ```
 
 ```TS
-## Função anônima / arrow function
+Função anônima / arrow function
 const multiplicar = (a: number, b: number): number => a * b;
 ```
 
