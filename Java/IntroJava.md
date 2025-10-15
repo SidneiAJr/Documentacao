@@ -27,9 +27,9 @@ n1 > n2 -> Menor que
 
 ```Java
 if(n1==n2){
-    console.log("Não e Igual")
+   System.out.println("Não e Igual")
 }else{
-    console.log("E igual")
+    System.out.println("E igual")
 }
 ```
 ## Loop For:
