@@ -1,4 +1,6 @@
-# 💻Introducao a C#:
+#💻 Introdução ao C#
+
+C# (C-Sharp) é uma linguagem de programação moderna, orientada a objetos, criada pela Microsoft. Muito usada em aplicações .NET, também é amplamente usada para desenvolvimento de jogos com a engine Unity.
 
 ## Respositorios com C#
 
@@ -121,7 +123,7 @@ Console.WriteLine(matriz[1, 2]);  // Saída: 6
 - lista.ForEach(action)
 
 ## Condicao:
-````C#
+```C#
 if(n1===n2){
     console.log("Não e Igual")
 }else{
@@ -144,3 +146,61 @@ for(int i=0; i<=10; i++){
 }
 ```
 
+## 📋 Comandos com List<T>
+```C#
+List<int> lista = new List<int> { 1, 2, 3 };
+
+lista.Add(4);              // Adiciona no final
+lista.Insert(1, 99);       // Insere na posição 1
+lista.Remove(2);           // Remove o número 2 (valor)
+lista.RemoveAt(0);         // Remove pelo índice
+lista.Clear();             // Limpa a lista
+bool tem = lista.Contains(99); // Verifica se contém
+int pos = lista.IndexOf(3);    // Índice do valor 3
+lista.Sort();              // Ordena
+lista.Reverse();           // Inverte
+lista.ForEach(Console.WriteLine); // Itera
+```
+
+```C#
+int n1 = 10;
+int n2 = 20;
+
+if (n1 == n2) {
+    Console.WriteLine("São iguais");
+} else {
+    Console.WriteLine("Não são iguais");
+}
+```
+
+```C#
+for (int i = 0; i <= 10; i++) {
+    Console.WriteLine($"Incrementando: {i}");
+}
+```
+
+```C#
+int i = 0;
+while (i < 5) {
+    Console.WriteLine(i);
+    i++;
+}
+```
+
+```C#
+int[] numeros = { 1, 2, 3 };
+foreach (int n in numeros) {
+    Console.WriteLine(n);
+}
+```
+```C#
+static int Soma(int a, int b) {
+    return a + b;
+}
+
+
+static void Main() {
+    int resultado = Soma(5, 3);
+    Console.WriteLine($"Resultado: {resultado}");
+}
+```
