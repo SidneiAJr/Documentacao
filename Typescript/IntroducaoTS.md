@@ -18,7 +18,7 @@ Função anônima / arrow function
 const multiplicar = (a: number, b: number): number => a * b;
 ```
 
-```
+```TS
 Condicional
 if (idade > 18) {
   console.log("Maior de idade");
@@ -27,7 +27,7 @@ if (idade > 18) {
 }
 ```
 
-```
+```TS
 let numeros: number[] = [1, 2, 3];
 let nomes: Array<string> = ["Ana", "Carlos"];
 
@@ -35,7 +35,7 @@ let nomes: Array<string> = ["Ana", "Carlos"];
 let pessoa: [string, number] = ["Maria", 30];
 ```
 
-```
+```TS
 let numeros: number[] = [1, 2, 3];
 let nomes: Array<string> = ["Ana", "Carlos"];
 
@@ -44,7 +44,7 @@ let pessoa: [string, number] = ["Maria", 30];
 
 ```
 
-```
+```TS
 for (let i = 0; i < numeros.length; i++) {
   console.log(numeros[i]);
 }
@@ -53,7 +53,7 @@ for (let i = 0; i < numeros.length; i++) {
 numeros.forEach((num) => console.log(num));
 ```
 
-```
+```TS
 interface Pessoa {
   nome: string;
   idade: number;
@@ -66,7 +66,7 @@ const pessoa1: Pessoa = {
 };
 ```
 
-```
+```TS
 Classes
 class Animal {
   nome: string;
@@ -84,7 +84,7 @@ const cachorro = new Animal("Rex");
 cachorro.mover(10);
 ```
 
-```
+```TS
 Manipulação do DOM
 const botao = document.getElementById("btn") as HTMLButtonElement;
 
