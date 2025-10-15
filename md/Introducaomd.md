@@ -1,33 +1,29 @@
 # Como Usar Arquivos MD
 
-## Arquivos MD são Muitos são faceis de usar.
+## Arquivos MD são muitos e fáceis de usar.
 
-- Com # se faz Titulo Grande
-- Com ## Se faz meio titulo 
-- com ## Se faz Titulo Pequeno
+- Com `#` se faz título grande (nível 1)
+- Com `##` se faz título médio (nível 2)
+- Com `###` se faz título pequeno (nível 3)
 
-- usando - pode fazer uma bolinha
+- Usando `-` pode fazer uma bolinha (lista não ordenada)
 
-## Formação:
+## Formatação de Texto
 
-Formatações de Texto
-
-- Negrito → **texto** → texto
-
-- Itálico → *texto* → texto
-
-- Riscado → ~~texto~~ → texto
-
-- Código inline → `codigo` → codigo
+- Negrito → `**texto**` → **texto**
+- Itálico → `*texto*` → *texto*
+- Riscado → `~~texto~~` → ~~texto~~
+- Código inline → `` `codigo` `` → `codigo`
 
 ## Tabela
 
-| Nome   | Classe   | Nível |
-|--------|----------|-------|
-| Gandalf| Mago     | 99    |
-| Aragorn| Guerreiro| 85    |
+| Nome    | Classe     | Nível |
+|---------|------------|-------|
+| Gandalf | Mago       | 99    |
+| Aragorn | Guerreiro  | 85    |
 
 ## CheckList
+
 - [x] Aprender Markdown  
 - [ ] Terminar documentação  
 - [ ] Tomar café ☕
