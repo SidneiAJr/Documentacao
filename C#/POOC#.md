@@ -73,3 +73,47 @@ public class ContaBancaria
 
 }
 ```
+
+``` C#
+2. Herança
+
+Uma classe pode herdar de outra.
+
+public class Animal
+{
+    public void Comer() => Console.WriteLine("Comendo...");
+}
+
+public class Cachorro : Animal
+{
+    public void Latir() => Console.WriteLine("Au au!");
+}
+
+3. Polimorfismo
+
+Um mesmo método pode funcionar de várias formas.
+
+public class Animal
+{
+    public virtual void FazerSom() => Console.WriteLine("Som genérico");
+}
+
+public class Gato : Animal
+{
+    public override void FazerSom() => Console.WriteLine("Miau");
+}
+
+4. Abstração
+
+Criar uma estrutura genérica que pode ser usada por várias classes concretas.
+
+public abstract class Veiculo
+{
+    public abstract void Mover();
+}
+
+public class Carro : Veiculo
+{
+    public override void Mover() => Console.WriteLine("O carro está andando.");
+}
+```
