@@ -81,3 +81,10 @@ git branch -d feature/menu-principal
 
 git commit -m "Primeiro commit"
 ```
+
+# 🔄 Atualizando o Projeto (Sincronização)
+
+Antes de começar a alterar qualquer coisa no projeto, puxa as mudanças mais recentes do GitHub:
+```git
+git pull origin main
+```
