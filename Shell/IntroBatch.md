@@ -26,3 +26,10 @@ Um **Batch File** é um arquivo de texto simples que contém comandos do **Promp
 @echo off
 echo Olá, mundo!
 pause
+```
+
+📂 Variáveis
+@echo off
+set nome=Sidnei
+echo Olá %nome%!
+pause
