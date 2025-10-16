@@ -6,7 +6,7 @@
 
 ## Tutorial de Instalação:
 
-- 1. Baixe o Netbeans.
+  1. Baixe o Netbeans.
   2. Depois Instale Normamente
   3. Depois de Feito Isso, Abra o NetBeans
   4. Depois criei um Projeto ![Criando Projeto](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/8.png)
