@@ -140,7 +140,7 @@ switch (dia) {
 }
 ```
 
-```
+```Java
 int i = 0;
 do {
     System.out.println("Contador: " + i);
@@ -148,7 +148,7 @@ do {
 } while (i < 10);
 ```
 
-```
+```Java
 public class Pessoa {
     String nome;
     int idade;
