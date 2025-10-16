@@ -25,7 +25,7 @@ JavaFX Application (interface gráfica com JavaFX)
 
 ![CriandoProjeto](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/8.png)
 
-🎨 Trabalhando com JavaFX
+## 🎨 Trabalhando com JavaFX
 
 Se você escolheu um projeto JavaFX, verá a seguinte interface:
 
@@ -33,7 +33,11 @@ Se você escolheu um projeto JavaFX, verá a seguinte interface:
 
 ![Lista_tools](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/10.PNG)
 
+## 🧩 Explorando a Aba "Source"
+
+Dentro da aba Source, você encontrará o menu de opções relacionadas ao código:
 Dentro da Opção Source:
+
 - Menu de Opções(Source->Codigo)
 
 ![source](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/11.PNG)
@@ -43,4 +47,13 @@ Dentro da Opção Source:
 ![codigo](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/12.PNG)
 
 
+## ⌨️ Atalhos de Teclado Úteis
+
+| Ação                     | Atalho (Windows/Linux) | Atalho (macOS)      |
+|--------------------------|------------------------|----------------------|
+| Executar o Projeto       | `F6`                   | `Cmd + F6`           |
+| Compilar Arquivo Atual   | `Shift + F11`          | `Shift + Cmd + F11`  |
+| Executar Arquivo Atual   | `Shift + F6`           | `Shift + Cmd + F6`   |
+| Comentar/Descomentar     | `Ctrl + Shift + C`     | `Cmd + Shift + C`    |
+| Formatar Código          | `Alt + Shift + F`      | `Cmd + Shift + F`    |
 
