@@ -1,27 +1,26 @@
-# 🐘Tutorial sobre PHP🐘
+# 🐘 Tutorial sobre PHP 🐘
 
-## 🤔PHP e uma linguagem fortemente tipada ***(Necessario usar ; Sempre)*** 🤔
+PHP é uma linguagem de **script do lado do servidor**, usada principalmente para desenvolvimento web dinâmico.  
+É **interpretada**, **multiparadigma** e **fracamente tipada**, o que significa que o tipo de variável é definido automaticamente em tempo de execução.
 
-- Exemplo de Hello Word:
+---
+
+## 🤔 Características do PHP
+
+- É **fracamente tipada**, ou seja, não é necessário declarar o tipo da variável.  
+- Sempre termina comandos com **`;`**.  
+- Pode ser embutida dentro do **HTML**.  
+- É executada no **servidor** e retorna **HTML** para o navegador.
+
+---
+
+## 👋 Exemplo de “Hello World”
 
 ```php
-echo "Hello Word";
-```
+<?php
+echo "Hello World!";
+?>
 
-## Escrita PHP VS JS
-
-- JS usasse let const e var.
-
-- Php a variavel e dinamica e fracamente tipada.
-
-## Exemplos em PHP:
-
-```php
-$nome = "Maria";    // String
-$idade = 25;        // Inteiro
-$altura = 1.75;     // Float
-$ativo = true;      // Boolean
-```
 
 ## Tipos de Variaveis:
 
