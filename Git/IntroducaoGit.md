@@ -63,7 +63,7 @@ git push origin main
 ## 🌿 Branches (Ramificações)
 
 As branches permitem trabalhar em novas funcionalidades sem alterar a versão principal.
-
+```git
 # Criar nova branch
 git checkout -b feature/menu-principal
 
@@ -80,4 +80,4 @@ git merge feature/menu-principal
 git branch -d feature/menu-principal
 
 git commit -m "Primeiro commit"
-
+```
