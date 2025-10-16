@@ -265,3 +265,46 @@ public class Menu : MonoBehaviour
     }
 }
 ```
+
+## 💡 UIManager.cs — Atualizar Vida, Munição e Pontuação
+```C#
+using UnityEngine;
+using TMPro;
+using UnityEngine.UI;
+
+public class UIManager : MonoBehaviour
+{
+    public TMP_Text scoreText;
+    public TMP_Text ammoText;
+    public Slider healthBar;
+
+    public void UpdateUI(PlayerStats stats)
+    {
+        scoreText.text = "Score: " + stats.score;
+        ammoText.text = "Munição: " + stats.munition;
+        healthBar.value = stats.currentHealth;
+    }
+}
+```
+
+## 💾 GameManager.cs — Gerenciamento Geral do Jogo
+```C#
+using UnityEngine;
+
+public class GameManager : MonoBehaviour
+{
+    public static GameManager instance;
+    public PlayerStats playerStats;
+    public UIManager uiManager;
+
+    void Awake()
+    {
+        instance = this;
+    }
+
+    void Update()
+    {
+        uiManager.UpdateUI(playerStats);
+    }
+}
+```
