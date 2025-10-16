@@ -35,9 +35,11 @@ Se você escolheu um projeto JavaFX, verá a seguinte interface:
 
 Dentro da Opção Source:
 - Menu de Opções(Source->Codigo)
+
 ![source](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/11.PNG)
 
 - Dentro de Source -> Codigo
+
 ![codigo](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/12.PNG)
 
 
