@@ -107,4 +107,56 @@ public class Main {
 }
 ```
 
+## Operadores Comuns
+Operador	Descrição	Exemplo
++	Soma	5 + 3 = 8
+-	Subtração	10 - 4 = 6
+*	Multiplicação	2 * 3 = 6
+/	Divisão	10 / 2 = 5
+%	Resto da divisão	10 % 3 = 1
+==	Igualdade (primitivos)	a == b
+!=	Diferente	a != b
+<	Menor que	a < b
+>	Maior que	a > b
+<=	Menor ou igual	a <= b
+>=	Maior ou igual	a >= b
+
+```Java
+int dia = 3;
+switch (dia) {
+    case 1: System.out.println("Domingo"); break;
+    case 2: System.out.println("Segunda-feira"); break;
+    case 3: System.out.println("Terça-feira"); break;
+    default: System.out.println("Dia inválido");
+}
+```
+
+```
+int i = 0;
+do {
+    System.out.println("Contador: " + i);
+    i++;
+} while (i < 10);
+```
+
+```
+public class Pessoa {
+    String nome;
+    int idade;
+
+    public Pessoa(String nome, int idade) {
+        this.nome = nome;
+        this.idade = idade;
+    }
+
+    public void apresentar() {
+        System.out.println("Olá, meu nome é " + nome + " e tenho " + idade + " anos.");
+    }
+
+    public static void main(String[] args) {
+        Pessoa p = new Pessoa("Ana", 25);
+        p.apresentar();
+    }
+}
+```
 
