@@ -1,25 +1,45 @@
-# 💻Introducao a JavaScript:
+# 💻 Introdução ao JavaScript
 
-**Tipo de Variaveis**
-- Var: Pode ser Mutavel e para escopo Global
-- Let: Mutavel
-- Const: Não Mutavel
+JavaScript é uma linguagem de programação amplamente utilizada para desenvolvimento web,  
+tanto no front-end (navegador) quanto no back-end (Node.js).  
+É uma linguagem dinâmica, interpretada e orientada a objetos baseada em protótipos.
+
+---
+
+## 🧩 Tipos de Variáveis
+
+- `var`: Escopo global ou de função. Pode ser reatribuída (mutável).  
+- `let`: Escopo de bloco. Mutável.  
+- `const`: Escopo de bloco. Imutável (não pode ser reatribuída).
+
+---
+
+## 📦 Tipos de Dados
 
 | Tipo       | Descrição                         | Exemplo                  |
-|------------|---------------------------------|--------------------------|
-| `string`   | Texto                           | `"Olá, mundo"`           |
-| `number`   | Números (inteiros e decimais)   | `42`, `3.14`             |
-| `boolean`  | Verdadeiro ou falso             | `true`, `false`          |
-| `undefined`| Variável declarada sem valor    | `let x;`                 |
-| `null`     | Valor nulo                      | `let y = null;`          |
-| `object`   | Objetos, arrays, funções        | `{ nome: "Ana" }`, `[1,2,3]` |
-| `symbol`   | Identificador único             | `Symbol("id")`           |
-| `bigint`   | Números inteiros muito grandes | `9007199254740991n`      |
+|------------|----------------------------------|--------------------------|
+| `string`   | Texto                            | `"Olá, mundo"`           |
+| `number`   | Números (inteiros e decimais)    | `42`, `3.14`             |
+| `boolean`  | Verdadeiro ou falso              | `true`, `false`          |
+| `undefined`| Variável declarada sem valor     | `let x;`                 |
+| `null`     | Valor nulo                       | `let y = null;`          |
+| `object`   | Objetos, arrays, funções         | `{ nome: "Ana" }`, `[1,2,3]` |
+| `symbol`   | Identificador único              | `Symbol("id")`           |
+| `bigint`   | Números inteiros muito grandes   | `9007199254740991n`      |
 
+---
 
-## Declaração de Variaveis: 
+## ✏️ Declaração de Variáveis
 
-JavaScript não tem tipo direto, pode usar Number ou int, parsefloat.
+JavaScript não tem tipagem explícita.  
+Os tipos são definidos automaticamente em tempo de execução.
+
+Exemplo:
+```js
+let numero = 10;
+const nome = "Sidnei";
+var ativo = true;
+
 
 ## Loop: 
 ```JS
