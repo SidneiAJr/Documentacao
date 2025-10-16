@@ -140,7 +140,7 @@ CREATE INDEX idx_nome_personagem ON personagem(nome_personagem);
 CREATE INDEX idx_habilidade_nome ON habilidade(nome_habilidade);
 ```
 
-🔒 8️⃣ TRANSAÇÕES
+## 🔒 8️⃣ TRANSAÇÕES
 ```SQL
 Permitem executar várias operações juntas com segurança.
 
@@ -151,4 +151,24 @@ UPDATE personagem SET idade = 421 WHERE nome_personagem = 'Rhaegor';
 
 COMMIT;   -- Confirma as operações
 -- ROLLBACK; -- Cancela se algo der errado
+```
+
+## 🧩 10️⃣ Exemplo Avançado — Relatório Completo
+```SQL
+SELECT 
+    p.nome_personagem AS "Personagem",
+    e.nome_especie AS "Espécie",
+    h.nome_habilidade AS "Habilidade",
+    a.nome_arma AS "Arma",
+    CASE 
+        WHEN p.idade > 300 THEN 'Antigo'
+        WHEN p.idade BETWEEN 100 AND 300 THEN 'Veterano'
+        ELSE 'Jovem'
+    END AS "Classificação de Idade"
+FROM caracteristica_personagem cp
+JOIN personagem p ON cp.id_personagem = p.id_personagem
+JOIN especie e ON cp.id_especie = e.id_especie
+JOIN habilidade h ON cp.id_habilidade = h.id_habilidade
+JOIN armas a ON cp.id_arma = a.id_arma
+ORDER BY p.idade DESC;
 ```
