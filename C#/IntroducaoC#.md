@@ -1,14 +1,21 @@
 # 💻 Introdução ao C#
 
-C# (C-Sharp) é uma linguagem de programação moderna, orientada a objetos, criada pela Microsoft. Muito usada em aplicações .NET, também é amplamente usada para desenvolvimento de jogos com a engine Unity.
+C# (C-Sharp) é uma linguagem de programação moderna, orientada a objetos, criada pela Microsoft.  
+Muito usada em aplicações .NET e também amplamente empregada no desenvolvimento de jogos com a engine Unity.
 
-## Respositorios com C#
+---
+
+## 📁 Repositórios com C#
 
 ![Dev Jogos](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/1.PNG)
 
-## Exemplo de Codigo - Unity:
+---
 
-![Exemplo de codigo](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/2.PNG)
+## 🧩 Exemplo de Código — Unity
+
+![Exemplo de código](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/2.PNG)
+
+---
 
 ## 📦 Tipos de Variáveis em C#
 
@@ -24,16 +31,20 @@ C# (C-Sharp) é uma linguagem de programação moderna, orientada a objetos, cri
 | `var`     | Tipo inferido automaticamente             | `var idade = 30;`        |
 | `object`  | Tipo genérico base de todos os tipos      | `object x = "texto";`    |
 
+---
 
-## Operações de Comperações:
+## ⚖️ Operadores de Comparação
 
-- int n1 = 5;
-- int n2 = 5;
-- n1 === n2 -> Comparações
-- n1 + n2 -> Soma Porem e int não double, implicitamente não permite
-- n1 - n2 -> Subtracao Porem e int não double, implicitamente não permite
-- n1 < n2 -> Maior que
-- n1 > n2 -> Menor que
+```csharp
+int n1 = 5;
+int n2 = 10;
+
+Console.WriteLine(n1 == n2); // Igualdade
+Console.WriteLine(n1 != n2); // Diferente
+Console.WriteLine(n1 > n2);  // Maior que
+Console.WriteLine(n1 < n2);  // Menor que
+Console.WriteLine(n1 >= n2); // Maior ou igual
+Console.WriteLine(n1 <= n2); // Menor ou igual
 
 ## Array (Tamanho Fixo)
 
