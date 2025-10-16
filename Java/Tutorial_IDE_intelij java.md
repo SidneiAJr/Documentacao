@@ -1,4 +1,13 @@
-# 📘 Tutorial de Instalação do IntelliJ IDEA para Java
+# ☕ O que é o Java JDK?
+
+O Java Development Kit (JDK) é o kit oficial para desenvolvimento Java, que inclui o compilador, bibliotecas e ferramentas necessárias para criar, compilar e executar programas Java.
+
+Para programar em Java, você precisa ter o JDK instalado no seu computador.
+
+Você pode baixar o JDK oficial da Oracle em:
+https://www.oracle.com/java/technologies/javase-jdk17-downloads.html
+
+## 📘 Tutorial de Instalação do IntelliJ IDEA para Java
 
 IntelliJ IDEA é uma IDE poderosa e popular para desenvolvimento em Java, Kotlin e outras linguagens.
 
