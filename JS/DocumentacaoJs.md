@@ -79,3 +79,72 @@ let array = [1,2,3,5,6,7]
 - document.getElementsByClassName(): Seleciona elementos pela classe.
 - document.querySelector(): Seleciona o primeiro elemento que corresponde ao seletor CSS.
 - document.querySelectorAll(): Seleciona todos os elementos que correspondem ao seletor.
+
+## Função:
+```JS
+Funções
+// Declaração de função tradicional
+function soma(a, b) {
+  return a + b;
+}
+
+// Função anônima / arrow function
+const multiplica = (a, b) => a * b;
+```
+
+## Objetos(Dicionario)
+```
+let pessoa = {
+  nome: "Ana",
+  idade: 25,
+  falar() {
+    console.log(`Olá, meu nome é ${this.nome}`);
+  }
+};
+
+pessoa.falar();
+```
+
+## Manipulação de Eventos (DOM)
+```
+// Adiciona um evento de clique a um botão
+const btn = document.getElementById('meuBotao');
+btn.addEventListener('click', () => {
+  alert('Botão clicado!');
+});
+```
+
+## Promises e Assíncrono
+```
+// Promise simples
+const promessa = new Promise((resolve, reject) => {
+  setTimeout(() => resolve('Sucesso!'), 1000);
+});
+promessa.then((resultado) => console.log(resultado));
+```
+
+## Async/Await
+```
+async function fetchData() {
+  try {
+    const response = await fetch('https://api.example.com/dados');
+    const data = await response.json();
+    console.log(data);
+  } catch (error) {
+    console.error('Erro:', error);
+  }
+}
+fetchData();
+```
+
+## Módulos (import/export)
+```
+// arquivo.js
+export const pi = 3.14;
+export function soma(a, b) {
+  return a + b;
+}
+
+// main.js
+import { pi, soma } from './arquivo.js';
+```
