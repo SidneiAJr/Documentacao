@@ -37,6 +37,8 @@ appsettings.json: arquivo de configuração.
 No terminal, dentro da pasta do projeto, rode:
 
 
+Exemplo ASP.NET Core (Razor Pages)
+
 ## 4. Criar uma rota simples
 
 Vamos criar uma página nova.
@@ -50,3 +52,56 @@ Opcional: criar um arquivo Pages/Saudacao.cshtml.cs para código C# por trás (c
 
 Rode a aplicação (dotnet run) e acesse:
 
+Exemplo ASP.NET Core (Razor Pages)
+
+// Pages/Index.cshtml.cs
+
+using Microsoft.AspNetCore.Mvc.RazorPages;
+
+```C#
+public class IndexModel : PageModel
+{
+    public string Mensagem { get; private set; }
+
+    public void OnGet()
+    {
+        Mensagem = "Olá do ASP.NET Core Razor Pages!";
+    }
+}
+```
+
+## 6. Testar a nova página
+
+```C#
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WebFormsApp.Default" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Exemplo ASP.NET Web Forms</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:Label ID="LabelMensagem" runat="server" Text="Mensagem padrão"></asp:Label>
+        </div>
+    </form>
+</body>
+</html>
+```
+
+```C#
+// Default.aspx.cs
+using System;
+
+namespace WebFormsApp
+{
+    public partial class Default : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            LabelMensagem.Text = "Olá do ASP.NET Web Forms (.aspx)!";
+        }
+    }
+}
+```
