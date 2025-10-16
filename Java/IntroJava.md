@@ -106,8 +106,7 @@ public class Main {
 ```
 
 ## Operadores Comuns
-Operador	Descrição	Exemplo
-
+```Java
 +	Soma	5 + 3 = 8
 
 -	Subtração	10 - 4 = 6
@@ -129,6 +128,7 @@ Operador	Descrição	Exemplo
 <=	Menor ou igual	a <= b
 
 >=	Maior ou igual	a >= b
+```
 
 ```Java
 int dia = 3;
