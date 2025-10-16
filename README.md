@@ -55,5 +55,26 @@
 
 ---
 
+---
+✍️ Autor: Sidnei A. Jr  
+📅 Última atualização: Outubro de 2025  
+🚀 Objetivo: Criar uma documentação completa de aprendizado técnico pessoal.
 
 ---
+
+## 📚 Linguagens
+- [Java](./Java/IntroJava.md)
+- [C#](./C%23/Script_Unity3C.md)
+- [TypeScript](./Typescript/IntroducaoTS.md)
+- [JavaScript](./JS/DocumentacaoJs.md)
+- [PHP](./PHP/Introphp.md)
+- [SQL](./SQL/AvancadoSQL.md)
+
+## 🧰 Ferramentas
+- [Git & GitHub](./Git/IntroducaoGit.md)
+- [Docker](./Docker/Introducaodocker.md)
+- [Shell & Batch](./Shell/IntroBatch.md)
+- [Bootstrap](./WEB/Bootstrap.md)
+- [Unity](./C%23/Script_Unity3C.md)
+- [Blender](./Blender/)
+
