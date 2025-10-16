@@ -1,26 +1,35 @@
-# 💻 Introdução a TypeScript(Delirio Coletivo)
+# 💻 Introdução a TypeScript (Delírio Coletivo)
 
-Tipos de Variáveis
+TypeScript é um **superset do JavaScript** criado pela Microsoft que adiciona **tipagem estática**, **interfaces**, **classes** e **recursos avançados de orientação a objetos**.  
+Ele é compilado para **JavaScript puro**, sendo totalmente compatível com navegadores e Node.js.
 
-var: Pode ser mutável, com escopo de função (evite usar).
+---
 
-let: Variável mutável, escopo de bloco.
+## 📦 Tipos de Variáveis
 
-const: Constante, imutável após inicialização
+| Tipo        | Descrição                                | Exemplo                              |
+|--------------|------------------------------------------|--------------------------------------|
+| `string`     | Texto                                   | `let nome: string = "Ana";`         |
+| `number`     | Números inteiros e decimais             | `let idade: number = 30;`           |
+| `boolean`    | Verdadeiro ou falso                     | `let ativo: boolean = true;`        |
+| `any`        | Aceita qualquer tipo (⚠️ evite usar)   | `let valor: any = 5;`               |
+| `unknown`    | Tipo desconhecido, precisa verificação  | `let dado: unknown;`                |
+| `void`       | Usado em funções sem retorno            | `function log(): void {}`           |
+| `array`      | Lista de elementos                      | `let numeros: number[] = [1,2,3];`  |
+| `tuple`      | Array com tipos fixos por posição        | `let pessoa: [string, number] = ["Maria", 30];` |
+| `enum`       | Enumeração de valores nomeados          | `enum Cor { Vermelho, Verde, Azul }`|
+| `null`       | Valor nulo                              | `let nulo: null = null;`            |
+| `undefined`  | Valor indefinido                        | `let indef: undefined;`             |
 
-| Tipo       | Descrição                              | Exemplo                |
-|------------|--------------------------------------|------------------------|
-| `string`   | Texto                                | `let nome: string = "Ana";`  |
-| `number`   | Números (inteiros e decimais)        | `let idade: number = 30;`    |
-| `boolean`  | Verdadeiro ou falso                   | `let ativo: boolean = true;` |
-| `any`      | Aceita qualquer tipo (evite usar)    | `let valor: any = 5;`        |
-| `void`     | Funções sem retorno                   | `function log(): void {}`    |
-| `unknown`  | Tipo desconhecido, precisa ser verificado | `let x: unknown;`        |
-| `array`    | Lista de elementos de um tipo        | `let nums: number[] = [1,2,3];` |
-| `tuple`    | Array com tipos fixos por posição    | `let pessoa: [string, number] = ["Maria", 30];` |
-| `enum`     | Enumeração de valores nomeados       | `enum Cor { Vermelho, Verde, Azul }` |
-| `null`     | Valor nulo                          | `let nulo: null = null;`      |
-| `undefined`| Valor indefinido                     | `let indef: undefined = undefined;` |
+---
+
+## 🔢 Declaração de Variáveis
+
+```ts
+var nome = "João";   // Escopo de função — evite usar
+let idade = 25;      // Escopo de bloco, mutável
+const ativo = true;  // Constante, imutável
+
 
 
 ```TS
