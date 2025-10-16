@@ -33,6 +33,11 @@ Se você escolheu um projeto JavaFX, verá a seguinte interface:
 
 ![Lista_tools](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/10.PNG)
 
+Dentro da Opção Source:
+- Menu de Opções(Source-Codigo)
 ![source](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/11.PNG)
+
+![codigo](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/12.PNG)
+
 
 
