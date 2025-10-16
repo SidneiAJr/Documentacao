@@ -172,23 +172,35 @@ JOIN armas a ON a.id_arma = cp.id_arma;
 
 ```
 
-🧠 Filtrando e Ordenando
+## 🧠 Filtrando e Ordenando
 ```sql
 SELECT * FROM produtos
 WHERE preco BETWEEN 100 AND 1000
 ORDER BY preco DESC;
 ```
 
-🧩 Junções (JOIN)
+## 🧩 Junções (JOIN)
 ```sql
 SELECT c.nome, p.data_pedido
 FROM clientes c
 JOIN pedidos p ON c.id = p.id_cliente;
 ```
 
-🗂️ Agrupamentos
+## 🗂️ Agrupamentos
 ```sql
 SELECT id_cliente, COUNT(*) AS total_pedidos
 FROM pedidos
 GROUP BY id_cliente;
+```
+
+## 💾 Backup e Restore (MySQL)
+```sql
+Backup:
+
+mysqldump -u root -p loja > backup_loja.sql
+
+
+Restauração:
+
+mysql -u root -p loja < backup_loja.sql
 ```
