@@ -1,7 +1,5 @@
 # 💻Introducao a Java:
 
-## Tipos de Variaveis(Tipagem)
-
 ## 📦 Tipos de Variáveis em C#
 
 | Tipo      | Descrição                                 | Exemplo                  |
