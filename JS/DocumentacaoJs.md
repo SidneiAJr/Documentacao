@@ -93,7 +93,7 @@ const multiplica = (a, b) => a * b;
 ```
 
 ## Objetos(Dicionario)
-```
+```JS
 let pessoa = {
   nome: "Ana",
   idade: 25,
@@ -106,7 +106,7 @@ pessoa.falar();
 ```
 
 ## Manipulação de Eventos (DOM)
-```
+```JS
 // Adiciona um evento de clique a um botão
 const btn = document.getElementById('meuBotao');
 btn.addEventListener('click', () => {
@@ -115,7 +115,7 @@ btn.addEventListener('click', () => {
 ```
 
 ## Promises e Assíncrono
-```
+```JS
 // Promise simples
 const promessa = new Promise((resolve, reject) => {
   setTimeout(() => resolve('Sucesso!'), 1000);
@@ -124,7 +124,7 @@ promessa.then((resultado) => console.log(resultado));
 ```
 
 ## Async/Await
-```
+```JS
 async function fetchData() {
   try {
     const response = await fetch('https://api.example.com/dados');
@@ -138,7 +138,7 @@ fetchData();
 ```
 
 ## Módulos (import/export)
-```
+```JS
 // arquivo.js
 export const pi = 3.14;
 export function soma(a, b) {
