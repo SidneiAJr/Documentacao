@@ -1,41 +1,59 @@
-# Esse Repositório foi feito pra documentar conhecimento.
+# 🧠 Repositório de Documentação de Linguagens de Programação
 
-***Repositório criado para registrar e organizar estudos sobre linguagens de programação.***
+> **Repositório criado para registrar, organizar e revisar conhecimentos adquiridos sobre linguagens de programação.**  
+> Aqui serão documentados conceitos fundamentais, boas práticas e comparações entre diferentes linguagens.
 
-## Lista de Respositorios:
+---
 
-### Repositorio 1:
+## 📁 Lista de Repositórios
 
+### 🧩 Repositório 1
 ![rep1](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/1.PNG)
 
 ---
-### Repositorio 2:
 
+### 🧩 Repositório 2
 ![rep2](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/3.PNG)
 
 ---
 
-### Repositorio 3:
-
+### 🧩 Repositório 3
 ![rep3](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/5.PNG)
 
 ---
-### Repositorio 4:
 
+### 🧩 Repositório 4
 ![rep4](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/6.PNG)
 
 ---
-## Repositorio para Documentação de Linguagens:
 
-| Linguagens | Variaveis | Tipo |Tem POO
-|-------------|-------------|-------------|-------------|
-| C#             | Tipada     | Int Double Booelan Float     | Sim |
-| Java           | Tipada     | Int Double Booelan Float     | Sim |
-| TypeScript     | Tipada     | Int Double Booelan Float      | Sim|
-| Javascript     | Não Tipada  | Number Booelan Float    | Não|
+## 🧾 Documentação de Linguagens
+
+| Linguagem     | Tipagem     | Tipos Comuns                     | POO |
+|----------------|--------------|----------------------------------|------|
+| **C#**         | Estática     | `int`, `double`, `bool`, `float` | ✅ Sim |
+| **Java**       | Estática     | `int`, `double`, `bool`, `float` | ✅ Sim |
+| **TypeScript** | Estática     | `number`, `string`, `boolean`    | ✅ Sim |
+| **JavaScript** | Dinâmica     | `number`, `string`, `boolean`    | ❌ Não |
+
+---
+
+## 🎯 Objetivo do Projeto
+
+- 📚 **Centralizar o aprendizado** sobre diferentes linguagens.  
+- 🧩 **Comparar conceitos e sintaxes** entre elas.  
+- 🧠 **Facilitar revisões futuras** e consultas rápidas.  
+- 💡 **Servir como guia pessoal de estudos e boas práticas.**
+
+---
+
+## 💬 Observações
+
+- Cada linguagem possui seu próprio arquivo `.md` dentro do repositório.  
+- Todos os exemplos e explicações são baseados em estudos práticos.  
+- As imagens acima mostram a organização e evolução do projeto.  
+
+---
 
 
-## 🗂️ Objetivo
-
-- Documentar conceitos, práticas e diferenças entre linguagens, facilitando revisões e consultas futuras.
-
+---
