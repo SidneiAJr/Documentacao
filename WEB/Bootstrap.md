@@ -6,7 +6,7 @@
 
 ## 🚀 Como Começar
 
-### ✅ 1. Adicionando o Bootstrap via CDN
+## ✅ 1. Adicionando o Bootstrap via CDN
 
 ```html
 <!-- CSS -->
@@ -45,7 +45,7 @@
 ```
 
 
-🔘 Botões
+## 🔘 Botões
 
 ```html
 <button class="btn btn-primary">Primário</button>
@@ -54,7 +54,7 @@
 <button class="btn btn-outline-dark">Contorno</button>
 ```
 
-🧭 Navbar (Menu de Navegação)
+## 🧭 Navbar (Menu de Navegação)
 ```html
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
@@ -74,7 +74,7 @@
 </nav>
 ```
 
-📑 Cards
+## 📑 Cards
 ```html
 <div class="card" style="width: 18rem;">
   <img src="https://via.placeholder.com/150" class="card-img-top" alt="Exemplo">
@@ -86,7 +86,7 @@
 </div>
 ```
 
-🧾 Formulários
+## 🧾 Formulários
 ```html
 <form class="p-3">
   <div class="mb-3">
@@ -103,7 +103,7 @@
 </form>
 ```
 
-💬 Alertas
+## 💬 Alertas
 ```html
 <div class="alert alert-success">Sucesso!</div>
 <div class="alert alert-danger">Erro!</div>
@@ -112,7 +112,7 @@
 ```
 
 
-🎯 Exemplo de Layout Completo
+## 🎯 Exemplo de Layout Completo
 ```html
 <div class="container mt-5">
   <div class="row">
