@@ -1,31 +1,45 @@
-# 💻Introducao a Java:
+# 💻 Introdução ao Java
 
-## 📦 Tipos de Variáveis em C#
+Java é uma linguagem de programação **orientada a objetos**, **fortemente tipada** e **multiplataforma**.  
+É amplamente usada para desenvolvimento de aplicações corporativas, Android e sistemas backend.
 
-| Tipo      | Descrição                                 | Exemplo                  |
-|-----------|-------------------------------------------|--------------------------|
-| `int`     | Número inteiro                            | `int idade = 25;`        |
-| `double`  | Número decimal (alta precisão)            | `double pi = 3.14;`      |
-| `float`   | Número decimal (menos preciso, usa `f`)   | `float peso = 70.5f;`    |
-| `decimal` | Número decimal (usado em finanças)        | `decimal valor = 10.5m;` |
-| `char`    | Um único caractere (entre aspas simples)  | `char letra = 'A';`      |
-| `string`  | Conjunto de caracteres (texto)            | `string nome = "Ana";`   |
-| `bool`    | Verdadeiro ou falso (booleano)            | `bool ativo = true;`     |
-| `var`     | Tipo inferido automaticamente             | `var idade = 30;`        |
-| `object`  | Tipo genérico base de todos os tipos      | `object x = "texto";`    |
+---
 
+## 📦 Tipos de Variáveis em Java
 
-## Operações de Comperações:
+| Tipo      | Descrição                                 | Exemplo                    |
+|------------|-------------------------------------------|-----------------------------|
+| `int`     | Número inteiro                            | `int idade = 25;`          |
+| `double`  | Número decimal (alta precisão)            | `double pi = 3.14;`        |
+| `float`   | Número decimal (menos preciso, usa `f`)   | `float peso = 70.5f;`      |
+| `long`    | Número inteiro longo                      | `long populacao = 7800000;`|
+| `short`   | Número inteiro curto                      | `short codigo = 120;`      |
+| `byte`    | Valor numérico pequeno (-128 a 127)       | `byte b = 10;`             |
+| `char`    | Um único caractere                        | `char letra = 'A';`        |
+| `String`  | Conjunto de caracteres (texto)            | `String nome = "Ana";`     |
+| `boolean` | Verdadeiro ou falso                       | `boolean ativo = true;`    |
 
-```Java
+---
+
+## 🔢 Operações e Comparações
+
+```java
 int n1 = 5;
 int n2 = 5;
-n1 == n2 -> Comparações Uso de equals
-n1 + n2 -> Soma Porem e int não double, implicitamente não permite
-n1 - n2 -> Subtracao Porem e int não double, implicitamente não permite
-n1 < n2 -> Maior que
-n1 > n2 -> Menor que
-```
+
+// Comparações
+System.out.println(n1 == n2); // Igualdade
+System.out.println(n1 != n2); // Diferença
+System.out.println(n1 > n2);  // Maior que
+System.out.println(n1 < n2);  // Menor que
+
+// Operações matemáticas
+System.out.println(n1 + n2);  // Soma
+System.out.println(n1 - n2);  // Subtração
+System.out.println(n1 * n2);  // Multiplicação
+System.out.println(n1 / n2);  // Divisão
+System.out.println(n1 % n2);  // Resto da divisão
+
 ## Array:
 
 - int[] array = { 1, 2, 3, 4, 5 };
