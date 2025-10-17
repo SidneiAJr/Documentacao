@@ -114,3 +114,81 @@ F12: Ir para a definição de um método ou variável.
 Organização de Código:
 
 O Visual Studio organiza automaticamente seu código em soluções e projetos. Uma solução pode conter múltiplos projetos. Isso é útil para organizar aplicativos grandes.
+
+```c#
+using Microsoft.AspNetCore.Mvc.RazorPages; // Importar Biblioteca
+using Microsoft.AspNetCore.Mvc; // Importar Blindador de Parametros
+
+public class calccotasModel : PageModel
+{
+    [BindProperty]
+    public double valor_invest { get; set; }
+
+    [BindProperty]
+    public double preco_cota { get; set; }
+
+    [BindProperty]
+    public double provento { get; set; }
+
+    public double? Total { get; set; }
+
+    public double? Total_provento { get; set; }
+
+    public void OnPost()
+    {
+        Total = valor_invest / preco_cota;
+        Total_provento = Total * provento;
+    }
+    
+}
+```
+
+# Exemplo de Janela com Windows Form
+
+```c#
+﻿namespace CalculadoraRF
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            SuspendLayout();
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Name = "Form1";
+            Text = "Calculadora 1";
+            ResumeLayout(false);
+        }
+
+        #endregion
+    }
+}
+```
