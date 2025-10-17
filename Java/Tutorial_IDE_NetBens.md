@@ -191,7 +191,9 @@ String valorIni = txtvalor.getText();
 ##  Java FX Netbeans vs Javafx no Intejij
 
 ***JavaFX: NetBeans vs IntelliJ IDEA***
+
 ###  1. NetBeans
+
 Características
 
 Suporte nativo a JavaFX (principalmente em versões mais antigas do JDK que incluem JavaFX)
@@ -208,6 +210,7 @@ Gerenciamento automático do FXML, CSS e Controller
 
 
 ***2. IntelliJ IDEA***
+
 ###  Características
 
 Não possui GUI Builder nativo para JavaFX; você geralmente usa Scene Builder separado
