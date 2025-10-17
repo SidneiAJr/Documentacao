@@ -192,3 +192,126 @@ public class calccotasModel : PageModel
     }
 }
 ```
+
+```C#
+﻿namespace CalculadoraRendaFixa
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Variável de designer necessária.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Limpar os recursos que estão sendo usados.
+        /// </summary>
+        /// <param name="disposing">true se for necessário descartar os recursos gerenciados; caso contrário, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Código gerado pelo Windows Form Designer
+
+        /// <summary>
+        /// Método necessário para suporte ao Designer - não modifique 
+        /// o conteúdo deste método com o editor de código.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.Calcular = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.txtValorInvestido = new System.Windows.Forms.Label();
+            this.txtTaxaJuros = new System.Windows.Forms.Label();
+            this.txtTempo = new System.Windows.Forms.Label();
+            this.lblResultado = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // Calcular
+            // 
+            this.Calcular.Location = new System.Drawing.Point(48, 111);
+            this.Calcular.Name = "Calcular";
+            this.Calcular.Size = new System.Drawing.Size(75, 23);
+            this.Calcular.TabIndex = 3;
+            this.Calcular.Text = "btnCalcular";
+            this.Calcular.UseVisualStyleBackColor = true;
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(129, 111);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(75, 23);
+            this.button4.TabIndex = 4;
+            this.button4.Text = "Limpar";
+            this.button4.UseVisualStyleBackColor = true;
+            // 
+            // txtValorInvestido
+            // 
+            this.txtValorInvestido.AutoSize = true;
+            this.txtValorInvestido.Location = new System.Drawing.Point(7, 15);
+            this.txtValorInvestido.Name = "txtValorInvestido";
+            this.txtValorInvestido.Size = new System.Drawing.Size(80, 13);
+            this.txtValorInvestido.TabIndex = 5;
+            this.txtValorInvestido.Text = "Valor Investido:";
+            this.txtValorInvestido.Click += new System.EventHandler(this.txtValorInvestido_Click);
+            // 
+            // txtTaxaJuros
+            // 
+            this.txtTaxaJuros.AutoSize = true;
+            this.txtTaxaJuros.Location = new System.Drawing.Point(7, 38);
+            this.txtTaxaJuros.Name = "txtTaxaJuros";
+            this.txtTaxaJuros.Size = new System.Drawing.Size(32, 13);
+            this.txtTaxaJuros.TabIndex = 6;
+            this.txtTaxaJuros.Text = "Juros";
+            // 
+            // txtTempo
+            // 
+            this.txtTempo.AutoSize = true;
+            this.txtTempo.Location = new System.Drawing.Point(7, 64);
+            this.txtTempo.Name = "txtTempo";
+            this.txtTempo.Size = new System.Drawing.Size(40, 13);
+            this.txtTempo.TabIndex = 7;
+            this.txtTempo.Text = "Tempo";
+            // 
+            // lblResultado
+            // 
+            this.lblResultado.AutoSize = true;
+            this.lblResultado.Location = new System.Drawing.Point(199, 15);
+            this.lblResultado.Name = "lblResultado";
+            this.lblResultado.Size = new System.Drawing.Size(58, 13);
+            this.lblResultado.TabIndex = 8;
+            this.lblResultado.Text = "Resultado:";
+            // 
+            // Form1
+            // 
+            this.ClientSize = new System.Drawing.Size(606, 300);
+            this.Controls.Add(this.lblResultado);
+            this.Controls.Add(this.txtTempo);
+            this.Controls.Add(this.txtTaxaJuros);
+            this.Controls.Add(this.txtValorInvestido);
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.Calcular);
+            this.Name = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+  
+        private System.Windows.Forms.Button Calcular;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Label txtValorInvestido;
+        private System.Windows.Forms.Label txtTaxaJuros;
+        private System.Windows.Forms.Label txtTempo;
+        private System.Windows.Forms.Label lblResultado;
+    }
+}
+
+```
