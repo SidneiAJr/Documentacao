@@ -144,6 +144,7 @@ Dentro da Opção Source:
     }              
 ```
 
+## Exemplo de codigo 2:
 ```Java
 String valorIni = txtvalor.getText();
         String tempo = txttmp.getText();
