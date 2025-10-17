@@ -315,3 +315,55 @@ public class calccotasModel : PageModel
 }
 
 ```
+
+## Exemplo de Uso Windows Form
+
+```C#
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace CalculadoraRendaFixa
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        // Função para calcular o valor futuro
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // Obter os valores inseridos pelos usuários
+                double valorInvestido = double.Parse(txtValorInvestido.Text);
+                double taxaJuros = double.Parse(txtTaxaJuros.Text) / 100; // Converter para decimal
+                int tempo = int.Parse(txtTempo.Text);
+
+                // Fórmula para o cálculo do valor futuro
+                double valorFuturo = valorInvestido * Math.Pow(1 + taxaJuros, tempo);
+
+                // Exibir o resultado
+                lblResultado.Text = $"Valor Futuro: R$ {valorFuturo:0.00}";
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Erro ao calcular. Verifique os valores inseridos.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void txtValorInvestido_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
+```
