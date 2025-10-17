@@ -72,3 +72,44 @@ Iniciar o Projeto:
 No canto superior, clique em Iniciar (ou pressione Ctrl + F5).
 
 O terminal do Visual Studio será aberto e você verá a saída do seu código, que no caso será Olá, Mundo!.
+
+
+## 5. Criando um Projeto Web Simples (ASP.NET)
+
+Se quiser explorar o desenvolvimento web, siga os passos abaixo:
+
+Criar um Novo Projeto Web:
+
+Na tela inicial do Visual Studio, clique em Criar um novo projeto e selecione Aplicativo Web ASP.NET Core.
+
+Escolher um Template:
+
+Escolha um template simples como Aplicativo Web (Modelo vazio) ou Aplicativo Web (Model-View-Controller).
+
+Clique em Criar.
+
+Escrever o Código:
+
+Depois que o projeto for criado, você verá pastas como Controllers, Views, e wwwroot.
+
+O arquivo Startup.cs é onde você configura o comportamento da sua aplicação (rotas, middlewares, etc.).
+
+Em Views você pode criar arquivos .cshtml, que são páginas HTML com sintaxe C# embutida.
+
+Executar o Projeto:
+
+Clique em Iniciar ou pressione Ctrl + F5 para rodar a aplicação web.
+
+## 6. Dicas Extras
+
+Atalhos Úteis:
+
+Ctrl + K, Ctrl + C: Comenta o código selecionado.
+
+Ctrl + K, Ctrl + U: Descomenta o código selecionado.
+
+F12: Ir para a definição de um método ou variável.
+
+Organização de Código:
+
+O Visual Studio organiza automaticamente seu código em soluções e projetos. Uma solução pode conter múltiplos projetos. Isso é útil para organizar aplicativos grandes.
