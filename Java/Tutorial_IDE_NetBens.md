@@ -192,7 +192,7 @@ String valorIni = txtvalor.getText();
 ## ⚔️ JavaFX: NetBeans vs IntelliJ IDEA
 🟦 NetBeans
 
-Suporte nativo para JavaFX
+***Suporte nativo para JavaFX***
 
 GUI Builder integrado (arrasta e solta)
 
@@ -200,7 +200,7 @@ Gera código automaticamente com FXML e Controller
 
 🟥 IntelliJ IDEA
 
-Não possui GUI Builder nativo para JavaFX
+***Não possui GUI Builder nativo para JavaFX***
 
 Precisa configurar JavaFX SDK manualmente
 
