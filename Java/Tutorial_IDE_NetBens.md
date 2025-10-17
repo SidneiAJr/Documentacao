@@ -35,10 +35,11 @@ Se você escolheu um projeto JavaFX, verá a seguinte interface:
 
 ![Lista_tools](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/10.PNG)
 
- - Label -> É apenas um rótulo usado para mostrar texto fixo
- - TextArea -> Area de Texto
- - TextField -> Campo de Texto
- - Menu -> Submenu
+ - **Label** → Rótulo usado para exibir texto fixo, como "Nome:", "Senha:", etc.
+- **TextArea** → Área de texto com várias linhas, útil para escrever parágrafos.
+- **TextField** → Campo de texto de uma linha, usado para entrada simples (nome, e-mail...).
+- **Menu** → Cria menus de navegação no topo da aplicação (ex: Arquivo, Editar).
+
 
 ## 🧩 Explorando a Aba "Source"
 
