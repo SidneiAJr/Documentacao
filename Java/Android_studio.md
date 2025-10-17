@@ -44,7 +44,7 @@ Passo 3: Escrever o Código em Java
 
 Aqui está um exemplo simples de MainActivity.java:
 
-## Exemplo de codigo em Java 2
+## Exemplo de codigo em Java 
 
 ```Java
 package com.exemplo.meuapp;
@@ -87,7 +87,7 @@ Passo 2: Executar o Projeto no Emulador
 Quando o emulador estiver configurado, basta clicar em Run ou pressionar Shift + F10 para executar o aplicativo no emulador Android.
 
 
-## Exemplo de Aplicação:
+## Exemplo de Aplicação 2:
 
 ```Java
 package com.example.brabodemesa;
