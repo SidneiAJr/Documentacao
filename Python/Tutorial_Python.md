@@ -3,7 +3,6 @@
 Python é uma linguagem de programação de alto nível, interpretada e orientada a objetos.
 É amplamente usada em diversos domínios, como desenvolvimento web, automação, análise de dados, inteligência artificial, entre outros.
 
-
 ## 🧩 Tipos de Variáveis
 
 int: Números inteiros.
@@ -29,13 +28,15 @@ Em Python, não precisamos declarar o tipo de variável explicitamente. O tipo �
 
 Exemplo:
 
+```PY
 numero = 10
 nome = "Sidnei"
 ativo = True
-
+```
 
 ## 🌀 Estruturas de Controle
 Condicional:
+```PY
 n1 = 5
 n2 = 5
 
@@ -47,7 +48,7 @@ else:
 Loop (Laço de Repetição):
 for i in range(11):
     print(f"Incrementado {i}")
-
+```
 ## 🗃️ Listas
 
 Em Python, as listas são usadas para armazenar vários itens.
@@ -70,6 +71,8 @@ lista_filtrada = [x for x in lista if x > 3]
 Dicionários são estruturas de dados que armazenam pares chave-valor.
 
 # Criando um dicionário
+
+```PY
 pessoa = {
     "nome": "Ana",
     "idade": 25,
@@ -81,7 +84,7 @@ print(pessoa["nome"])  # Saída: Ana
 
 # Adicionando ou modificando um valor
 pessoa["idade"] = 26
-
+```
 
 ## 🧮 Funções
 
