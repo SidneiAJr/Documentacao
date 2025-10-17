@@ -3,30 +3,6 @@
 > **Repositório criado para registrar, organizar e revisar conhecimentos adquiridos sobre linguagens de programação.**  
 > Aqui serão documentados conceitos fundamentais, boas práticas e comparações entre diferentes linguagens.
 
----
-
-## 📁 Lista de Repositórios
-
-### 🧩 Repositório 1
-![rep1](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/1.PNG)
-
----
-
-### 🧩 Repositório 2
-![rep2](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/3.PNG)
-
----
-
-### 🧩 Repositório 3
-![rep3](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/5.PNG)
-
----
-
-### 🧩 Repositório 4
-![rep4](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/6.PNG)
-
----
-
 ## 🧾 Documentação de Linguagens
 
 | Linguagem     | Tipagem     | Tipos Comuns                     | POO |
