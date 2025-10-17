@@ -130,7 +130,7 @@ with open("exemplo.txt", "r") as arquivo:
     print(conteudo)
 ```
 
-## Lib tkinter
+## Exemplo de Uso de Lib(Pacote) tkinter
 
 ```PY
 from tkinter import *
