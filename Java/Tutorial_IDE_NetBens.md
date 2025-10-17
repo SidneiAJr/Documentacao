@@ -35,10 +35,63 @@ Se você escolheu um projeto JavaFX, verá a seguinte interface:
 
 ![Lista_tools](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/10.PNG)
 
- - **Label** → Rótulo usado para exibir texto fixo, como "Nome:", "Senha:", etc.
-- **TextArea** → Área de texto com várias linhas, útil para escrever parágrafos.
-- **TextField** → Campo de texto de uma linha, usado para entrada simples (nome, e-mail...).
-- **Menu** → Cria menus de navegação no topo da aplicação (ex: Arquivo, Editar).
+ # 🧰 Ferramentas Visuais no NetBeans (GUI Builder)
+
+Aqui estão os principais **componentes (tools)** disponíveis no **NetBeans** ao criar interfaces gráficas com JavaFX ou Swing. Esses elementos são utilizados para construir janelas, formulários e menus em aplicações visuais.
+
+---
+
+## 🎯 Componentes de Interface Gráfica
+
+| Componente        | Função                                                                 |
+|-------------------|------------------------------------------------------------------------|
+| **Label**         | Rótulo usado para exibir texto fixo (ex: "Nome:", "Senha:")            |
+| **TextField**     | Campo de texto de uma linha para entrada de dados                      |
+| **TextArea**      | Área de texto com várias linhas (ex: para comentários ou mensagens)     |
+| **PasswordField** | Campo de texto que esconde os caracteres digitados (senha)             |
+| **Button**        | Botão que executa uma ação quando clicado                              |
+| **CheckBox**      | Caixa de seleção que pode ser marcada ou desmarcada (sim/não, on/off)  |
+| **RadioButton**   | Botão de opção; usado em grupo para selecionar apenas uma alternativa  |
+| **ComboBox**      | Caixa de seleção com uma lista suspensa (tipo drop-down menu)          |
+| **List**          | Lista de itens onde você pode selecionar um ou mais                    |
+| **Table**         | Tabela para exibir dados organizados em linhas e colunas               |
+| **Slider**        | Controle deslizante para selecionar um valor num intervalo             |
+| **Spinner**       | Campo com setas para aumentar/diminuir valores numéricos               |
+| **ProgressBar**   | Barra de progresso visual para indicar carregamentos                   |
+| **ToolTip**       | Dica que aparece ao passar o mouse sobre um componente (texto flutuante)|
+| **Panel**         | Contêiner usado para agrupar outros componentes                        |
+| **TabbedPane**    | Abas de navegação (como as de navegadores)                             |
+| **ScrollPane**    | Permite rolar o conteúdo se ele for maior que a área visível           |
+| **MenuBar**       | Barra de menus (no topo da janela)                                     |
+| **Menu**          | Menu individual (ex: Arquivo, Editar)                                  |
+| **MenuItem**      | Opções dentro de um menu (ex: Salvar, Sair)                            |
+| **Separator**     | Linha visual usada para separar seções ou grupos de botões             |
+| **ImageIcon**     | Componente para exibir imagens                                          |
+
+---
+
+## 🧩 Exemplo de Uso Comum em Formulários
+
+Um formulário simples pode conter os seguintes elementos:
+
+- `Label` → "Nome", "Email", "Senha"
+- `TextField` → entrada do nome e e-mail
+- `PasswordField` → entrada da senha
+- `Button` → botão "Cadastrar"
+- `CheckBox` → opção "Aceito os termos"
+- `ComboBox` → seleção de país ou estado
+- `TextArea` → campo para observações
+- `MenuBar` com `Menu` e `MenuItem` → Arquivo > Salvar, Sair, etc.
+
+---
+
+## 📌 Dica
+
+Você pode acessar essas ferramentas no **GUI Builder** do NetBeans, arrastando os componentes para o painel de design. Cada componente pode ser configurado visualmente (tamanho, cor, ação, etc.) ou diretamente pelo código Java.
+
+---
+
+
 
 
 ## 🧩 Explorando a Aba "Source"
