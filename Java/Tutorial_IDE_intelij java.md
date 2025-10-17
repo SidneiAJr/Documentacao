@@ -72,3 +72,107 @@ public class Swing {
      }
 }
 ```
+
+## Exemplo de codigo Java:
+
+```Java
+import p.Pessoa; // Importando a classe p do pacote pessoa;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.printf("================================================================= \n");
+        Pessoa p1 = new Pessoa("Kalleo",21,"SL",false);
+        p1.VerificarNome();
+        p1.VerificarIdade();
+        p1.CidadePessoa();
+        p1.Apresentacao();
+        p1.Rei();
+        System.out.printf("================================================================= \n");
+        Pessoa p2 = new Pessoa("Arthur",22,"SP",false);
+        p2.VerificarNome();
+        p2.VerificarIdade();
+        p2.CidadePessoa();
+        p2.Apresentacao();
+        p2.Rei();
+        System.out.printf("================================================================= \n");
+        Pessoa p3 = new Pessoa("Dalvano Prime",30,"SL",false);
+        p3.Apresentacao();
+        p3.CidadePessoa();
+        p3.VerificarNome();
+        p3.VerificarNome();
+        p3.Rei();
+        System.out.printf("================================================================= \n");
+        Pessoa p4 = new Pessoa("Silveiro Lima",900,"SL",true);
+        p4.Apresentacao();
+        p4.CidadePessoa();
+        p4.VerificarNome();
+        p4.VerificarNome();
+        p4.Rei();
+        }
+    }
+```
+
+``` Java
+package p;
+
+public class Pessoa {
+
+    String NomePessoa;
+    int IdadePessoa;
+    String cidadePessoa;
+    boolean isKing;
+    public Pessoa(String NomePessoa, int IdadePessoa,String cidadePessoa,boolean isKing){
+        this.cidadePessoa = cidadePessoa;
+        this.NomePessoa = NomePessoa;
+        this.IdadePessoa = IdadePessoa;
+    }
+
+    public void VerificarNome(){
+        if(NomePessoa.equals("Kalleo")){
+            System.out.println("Nome Prime");
+        }else{
+            System.out.println("Ta sem Nome");
+        }
+    }
+    public void VerificarIdade(){
+        if(IdadePessoa>=18){
+            System.out.println("Maior de Idade " + IdadePessoa);
+        }else{
+            System.out.println("Menor de Idade "+ IdadePessoa);
+        }
+    }
+    public void CidadePessoa(){
+        switch (cidadePessoa){
+            case "SP":
+                System.out.println("São Paulo");
+                break;
+            case "Sl":
+                System.out.println("São Leopoldo");
+                break;
+            case "NH":
+                System.out.println("Novo Hamburgo");
+                break;
+            default:
+                break;
+        }
+    }
+
+    public void Apresentacao(){
+        System.out.println("Nome " +NomePessoa+ " idade "+IdadePessoa +" cidade "+cidadePessoa);
+    }
+
+    public void Rei(){
+          if(isKing==true){
+              System.out.printf("È rei");
+          }else{
+              System.out.printf("Not King");
+          }
+    }
+
+
+
+
+
+}
+
+```
