@@ -149,9 +149,9 @@ if(n1===n2){
 }else{
     console.log("E igual")
 }
-
+```
 ## Loop: 
-
+```C#
 using System;
 
 public class HelloWorld
