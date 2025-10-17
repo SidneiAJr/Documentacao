@@ -91,35 +91,41 @@ pessoa["idade"] = 26
 Em Python, as funções são definidas com a palavra-chave def.
 
 # Função simples
+```PY
 def soma(a, b):
     return a + b
-
+```
 # Função com valor de retorno
+```PY
 resultado = soma(10, 20)
 print(resultado)  # Saída: 30
 
 # Função lambda (função anônima)
 multiplica = lambda a, b: a * b
 print(multiplica(2, 3))  # Saída: 6
-
+```
 
 ## 🖥️ Interação com o Usuário
 
 Python permite interação com o usuário via a função input(), que lê entradas no terminal.
 
+```PY
 nome = input("Qual é o seu nome? ")
 print(f"Olá, {nome}!")
 
-
+```
 ## 🧩 Trabalhando com Arquivos
 
 Para ler e escrever arquivos em Python, usamos as funções open(), read(), e write().
 
 # Abrir um arquivo e escrever nele
+```PY
 with open("exemplo.txt", "w") as arquivo:
     arquivo.write("Olá, Mundo!\nEste é um arquivo de exemplo.")
-
+```
 # Ler um arquivo
+```PY
 with open("exemplo.txt", "r") as arquivo:
     conteudo = arquivo.read()
     print(conteudo)
+```
