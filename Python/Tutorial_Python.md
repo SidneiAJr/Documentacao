@@ -54,17 +54,21 @@ for i in range(11):
 Em Python, as listas são usadas para armazenar vários itens.
 
 # Criando uma lista
+```PY
 lista = [1, 2, 3, 5, 6, 7]
-
+```
 # Adicionando um item
+```PY
 lista.append(8)
-
+```
 # Removendo o último item
+```PY
 lista.pop()
-
+```
 # Filtrando elementos
+```PY
 lista_filtrada = [x for x in lista if x > 3]
-
+```
 
 ## 🔑 Dicionários (ou Objetos)
 
