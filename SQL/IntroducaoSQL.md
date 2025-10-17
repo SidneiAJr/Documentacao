@@ -204,3 +204,33 @@ Restauração:
 
 mysql -u root -p loja < backup_loja.sql
 ```
+
+## 📌 Quadro Resumo — Comandos SQL Essenciais
+
+| Categoria | Comando | Exemplo | Uso |
+|-----------|--------|--------|-----|
+| 🎮 **Banco de Dados** | `CREATE DATABASE nome;` | `CREATE DATABASE sraneis;` | Cria um banco |
+| | `USE nome;` | `USE sraneis;` | Seleciona banco |
+| | `DROP DATABASE nome;` | `DROP DATABASE sraneis;` | Apaga banco |
+| 🧱 **Tabela** | `CREATE TABLE` | `CREATE TABLE personagem (...);` | Cria tabela |
+| | `ALTER TABLE` | `ALTER TABLE personagem ADD reino VARCHAR(50);` | Altera estrutura |
+| | `DROP TABLE` | `DROP TABLE personagem;` | Apaga tabela |
+| 📥 **Inserir Dados** | `INSERT INTO` | `INSERT INTO personagem VALUES (...);` | Adiciona registro |
+| 📤 **Consultar Dados** | `SELECT * FROM tabela;` | `SELECT * FROM personagem;` | Lista tudo |
+| | `SELECT coluna1, coluna2 FROM tabela;` | `SELECT nome, idade FROM personagem;` | Colunas específicas |
+| 🎯 **Filtros** | `WHERE` | `SELECT * FROM personagem WHERE idade > 100;` | Filtra |
+| | `BETWEEN` | `SELECT * FROM armas WHERE id_arma BETWEEN 1 AND 5;` | Intervalo |
+| | `LIKE` | `SELECT * FROM personagem WHERE nome LIKE 'S%';` | Busca por padrão |
+| | `IN / NOT IN` | `SELECT * FROM especie WHERE nome_especie IN ('Elfo', 'Humano');` | Lista de valores |
+| 🔄 **Atualizar / Deletar** | `UPDATE` | `UPDATE personagem SET idade = 300 WHERE id_personagem = 1;` | Atualiza |
+| | `DELETE` | `DELETE FROM personagem WHERE id_personagem = 10;` | Deleta |
+| 🔗 **JOIN — Relacionar Tabelas** | `INNER JOIN` | `SELECT * FROM personagem JOIN especie ON ...;` | Junta dados |
+| 📊 **Agrupamento e Ordenação** | `GROUP BY` | `SELECT id_especie, COUNT(*) FROM personagem GROUP BY id_especie;` | Agrupa |
+| | `ORDER BY` | `SELECT * FROM personagem ORDER BY idade DESC;` | Ordena |
+| | `HAVING` | `HAVING COUNT(*) > 1` | Filtro pós-agrupamento |
+| 📐 **Funções SQL** | `COUNT()` | `SELECT COUNT(*) FROM personagem;` | Quantidade |
+| | `AVG()` | `SELECT AVG(idade) FROM personagem;` | Média |
+| | `MAX() / MIN()` | `SELECT MAX(idade) FROM personagem;` | Maior/Menor |
+| 💾 **Backup / Restore MySQL** | `mysqldump` | `mysqldump -u root -p sraneis > backup.sql` | Exporta |
+| | `mysql <` | `mysql -u root -p sraneis < backup.sql` | Restaura |
+
