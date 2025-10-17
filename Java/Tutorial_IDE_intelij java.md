@@ -168,11 +168,17 @@ public class Pessoa {
               System.out.printf("Not King");
           }
     }
-
-
-
-
-
 }
 
 ```
+
+## Problemas Comuns no IntelliJ IDEA:
+
+JDK não encontrado:
+Se o IntelliJ não encontrar o JDK, vá até File > Project Structure > Project e configure o caminho do JDK.
+
+Erro ao compilar "java: invalid source release: 11":
+Certifique-se de que a versão do JDK que você configurou é compatível com o código que você está tentando rodar
+
+
+
