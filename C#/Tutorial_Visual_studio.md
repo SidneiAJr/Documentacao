@@ -46,3 +46,22 @@ Dê um nome ao seu projeto (por exemplo, "MeuPrimeiroApp").
 Escolha o local onde deseja salvar.
 
 Clique em "Criar".
+
+
+Escrever o Código
+
+Se você escolheu um Aplicativo de Console, o Visual Studio criará automaticamente um arquivo chamado Program.cs com um código básico para você.
+
+O código básico para um aplicativo de console simples em C# será algo como:
+
+```C#
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Olá, Mundo!");
+    }
+}
+```
