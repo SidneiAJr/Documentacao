@@ -29,9 +29,9 @@ JavaFX Application (interface gráfica com JavaFX)
 
 Se você escolheu um projeto JavaFX, verá a seguinte interface:
 
-- ***Tools NetBeans***
-
 ![Tools](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/9.png)
+
+- ***Tools NetBeans***
 
 ![Lista_tools](https://github.com/SidneiAJr/Documentacao_Linguagens/blob/main/prints/10.PNG)
 
