@@ -65,3 +65,23 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
+## 🛠️ Configuração de Emuladores Android
+
+Uma das grandes vantagens do Android Studio é o Emulador Android, que permite testar seus aplicativos sem precisar de um dispositivo físico.
+
+Passo 1: Criar um AVD (Android Virtual Device)
+
+Clique em Tools > AVD Manager.
+
+Clique em Create Virtual Device.
+
+Selecione o dispositivo que você deseja emular (por exemplo, Pixel 3).
+
+Selecione a versão do Android (recomendo usar a versão mais recente).
+
+Clique em Finish para criar o emulador.
+
+Passo 2: Executar o Projeto no Emulador
+
+Quando o emulador estiver configurado, basta clicar em Run ou pressionar Shift + F10 para executar o aplicativo no emulador Android.
