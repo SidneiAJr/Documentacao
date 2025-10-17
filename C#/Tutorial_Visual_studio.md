@@ -65,3 +65,10 @@ class Program
     }
 }
 ```
+## 3. Executando o Projeto
+
+Iniciar o Projeto:
+
+No canto superior, clique em Iniciar (ou pressione Ctrl + F5).
+
+O terminal do Visual Studio será aberto e você verá a saída do seu código, que no caso será Olá, Mundo!.
