@@ -118,3 +118,29 @@ Dentro da Opção Source:
 | Comentar/Descomentar     | `Ctrl + Shift + C`     | `Cmd + Shift + C`    |
 | Formatar Código          | `Alt + Shift + F`      | `Cmd + Shift + F`    |
 
+## Exemplo de codigo:
+
+```JAVA
+ private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        // TODO add your handling code here:
+    String nome = it_nome.getText();
+    String turma = tj_Turma.getText();
+    String idade = it_idade.getText();
+    
+    int idadeuser = Integer.parseInt(idade);
+    
+    if(idadeuser<=18){
+    
+    }else{
+        
+    }
+    
+    // monta a mensagem completa
+    String mensagem = "Nome: " + nome + ", Turma: " + turma + "Idade Meliante" + idadeuser;
+    
+    // coloca a mensagem no JLabel
+    jLabel4.setText(mensagem);
+         
+    }              
+```
+
