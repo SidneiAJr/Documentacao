@@ -39,3 +39,29 @@ MainActivity.java – O ponto de entrada do aplicativo.
 activity_main.xml – O layout XML da tela principal.
 
 AndroidManifest.xml – Contém as permissões e configurações do aplicativo.
+
+Passo 3: Escrever o Código em Java
+
+Aqui está um exemplo simples de MainActivity.java:
+
+## Exemplo de codigo em Java
+
+```Java
+package com.exemplo.meuapp;
+
+import android.os.Bundle;
+import android.widget.Toast;
+import androidx.appcompat.app.AppCompatActivity;
+
+public class MainActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        // Exemplo simples de exibição de mensagem
+        Toast.makeText(this, "Bem-vindo ao Meu App!", Toast.LENGTH_SHORT).show();
+    }
+}
+```
