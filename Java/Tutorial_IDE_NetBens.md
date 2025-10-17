@@ -189,56 +189,22 @@ String valorIni = txtvalor.getText();
             lbbruto.setText("O Valor Bruto R$"+brutototal);
 ```
 
-##  Java FX Netbeans vs Javafx no Intejij
+## ⚔️ JavaFX: NetBeans vs IntelliJ IDEA
+🟦 NetBeans
 
-***JavaFX: NetBeans vs IntelliJ IDEA***
+Suporte nativo para JavaFX
 
-###  1. NetBeans
+GUI Builder integrado (arrasta e solta)
 
-Características
+Gera código automaticamente com FXML e Controller
 
-Suporte nativo a JavaFX (principalmente em versões mais antigas do JDK que incluem JavaFX)
+🟥 IntelliJ IDEA
 
-GUI Builder integrado: permite criar interfaces visuais (arrastar e soltar componentes) usando o Scene Builder
+Não possui GUI Builder nativo para JavaFX
 
-Gera automaticamente código estruturado, com classes que já estendem Application ou JFrame (no caso de Swing)
+Precisa configurar JavaFX SDK manualmente
 
-Layouts e componentes configurados visualmente, menos código manual
-
-Facilita a criação de projetos JavaFX completos: já adiciona bibliotecas necessárias e arquivos .fxml
-
-Gerenciamento automático do FXML, CSS e Controller
-
-
-***2. IntelliJ IDEA***
-
-###  Características
-
-Não possui GUI Builder nativo para JavaFX; você geralmente usa Scene Builder separado
-
-Você precisa configurar manualmente o JavaFX SDK, incluir no módulo do projeto e setar VM options:
-
---module-path "C:\caminho\para\javafx-sdk\lib" --add-modules javafx.controls,javafx.fxml
-
-Criação de interfaces é feita manualmente ou usando arquivos FXML com Scene Builder
-
-Total controle sobre código, organização de pacotes e módulos
-
-***Vantagens***
-
-Mais flexível e moderno para projetos grandes
-
-Controle completo sobre o código e dependências
-
-Melhor integração com ferramentas de build modernas (Maven, Gradle)
-
-Atualizações frequentes e compatibilidade com novas versões do JDK
-
-***Desvantagens***
-
-Configuração inicial mais complexa (SDK, VM options, módulos)
-
-Não há GUI Builder integrado nativo → precisa usar Scene Builder externo
+Ideal para projetos maiores e profissionais
 
 Mais trabalho para iniciantes que querem criar GUI rapidamente
 
