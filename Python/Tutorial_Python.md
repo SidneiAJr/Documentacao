@@ -199,3 +199,26 @@ label_formapag.pack(pady=10)
 
 root.mainloop()
 ```
+
+```PY
+import requests
+
+url = "https://economia.awesomeapi.com.br/json/last/USD-BRL,BTC-BRL,EUR-BRL,CNY-BRL,GBP-BRL,ARS-BRL,JPY-BRL,RUB-BRL"
+
+resposta = requests.get(url)
+
+if resposta.status_code == 200:
+    dados = resposta.json()
+    print(dados)  # Aqui você pode acessar, por exemplo: dados["USDBRL"]["bid"]
+  print("Dólar:", dados["USDBRL"]["bid"])
+print("Dólar:", dados["USDBRL"]["bid"])
+print("Dólar:", dados["USDBRL"]["bid"])
+print("Dólar:", dados["USDBRL"]["bid"])
+print("Dólar:", dados["USDBRL"]["bid"])
+print("Dólar:", dados["USDBRL"]["bid"])
+print("Dólar:", dados["USDBRL"]["bid"])
+print("Dólar:", dados["USDBRL"]["bid"])
+else:
+    print("Erro:", resposta.status_code)
+```
+
