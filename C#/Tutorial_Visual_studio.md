@@ -1,6 +1,6 @@
-# Tutorial de Visual Studio para Iniciantes
+# 📚Tutorial de Visual Studio para Iniciantes
 
-## 1. Instalando o Visual Studio
+## ⚠️1. Instalando o Visual Studio
 
 Baixar o Visual Studio:
 
@@ -23,6 +23,7 @@ Concluir a instalação:
 Clique em "Instalar" e aguarde o processo ser concluído. Isso pode demorar alguns minutos, dependendo dos componentes que você escolheu.
 
 ## 2. Primeiros Passos no Visual Studio
+
 Abrir o Visual Studio
 
 Depois de instalar, abra o Visual Studio. Ao iniciar, você verá uma tela de boas-vindas.
