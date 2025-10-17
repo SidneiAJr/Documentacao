@@ -113,7 +113,7 @@ public class Main {
 ```
 
 ``` Java
-package p;
+package p; // Pacote P para mandar pra main
 
 public class Pessoa {
 
