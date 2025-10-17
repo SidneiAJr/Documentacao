@@ -212,3 +212,8 @@ public class custvida extends AppCompatActivity {
     }
 }
 ```
+## 📚 Dicas Extras
+
+Dart e Flutter: Embora você tenha mencionado que o foco é Java, vale notar que o Android Studio também oferece suporte completo para Flutter (utilizando Dart) para o desenvolvimento de aplicativos multiplataforma (iOS e Android).
+
+Kotlin: O Kotlin é agora a linguagem oficial recomendada pelo Google para o desenvolvimento Android, e o Android Studio tem suporte completo para Kotlin, incluindo conversão de código Java para Kotlin.
