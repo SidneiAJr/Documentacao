@@ -44,7 +44,7 @@ Passo 3: Escrever o Código em Java
 
 Aqui está um exemplo simples de MainActivity.java:
 
-## Exemplo de codigo em Java
+## Exemplo de codigo em Java 2
 
 ```Java
 package com.exemplo.meuapp;
