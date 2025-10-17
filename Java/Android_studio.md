@@ -85,3 +85,60 @@ Clique em Finish para criar o emulador.
 Passo 2: Executar o Projeto no Emulador
 
 Quando o emulador estiver configurado, basta clicar em Run ou pressionar Shift + F10 para executar o aplicativo no emulador Android.
+
+
+## Exemplo de Aplicação:
+
+```Java
+package com.example.brabodemesa;
+
+import android.os.Bundle;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+
+import androidx.activity.EdgeToEdge;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.graphics.Insets;
+import androidx.core.view.ViewCompat;
+import androidx.core.view.WindowInsetsCompat;
+
+import org.w3c.dom.Text;
+
+public class valac extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        EdgeToEdge.enable(this);
+        setContentView(R.layout.activity_valac);
+        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
+            Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
+            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
+            return insets;
+        });
+        EditText editTextvaloremp = findViewById(R.id.ed_valtotal);
+        EditText editTextquantac = findViewById(R.id.ed_quant);
+        Button buttoncalc = findViewById(R.id.btn_calculadora);
+        TextView textViewsaida = findViewById(R.id.txt_saida);
+        TextView textViewreal = findViewById(R.id.txt_real);
+
+        buttoncalc.setOnClickListener(V->{
+            String entradavalor = editTextvaloremp.getText().toString();
+            String entradaquant = editTextquantac.getText().toString();
+            if(!entradaquant.isEmpty()&&!entradavalor.isEmpty()){
+                double entrada1 = Double.parseDouble(entradaquant);
+                double entrada2 = Double.parseDouble(entradavalor);
+                double res = entrada2/entrada1;
+                double real = (entrada2/entrada1)*5.86;
+                textViewsaida.setText(String.format("O Valor em Dolar será %.2f",res));
+                textViewreal.setText(String.format("O Valor em Real será %.2f",real));
+            }else {
+                textViewsaida.setText("Favor Inserir corretamente");
+            }
+        });
+
+
+    }
+}
+```
