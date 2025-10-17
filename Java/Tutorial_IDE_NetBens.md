@@ -220,7 +220,6 @@ Você precisa configurar manualmente o JavaFX SDK, incluir no módulo do projeto
 
 --module-path "C:\caminho\para\javafx-sdk\lib" --add-modules javafx.controls,javafx.fxml
 
-
 Criação de interfaces é feita manualmente ou usando arquivos FXML com Scene Builder
 
 Total controle sobre código, organização de pacotes e módulos
