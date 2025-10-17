@@ -143,7 +143,7 @@ public class valac extends AppCompatActivity {
 }
 ```
 
-## Exemplo 3 de codigo:
+## Exemplo de codigo 3:
 
 ```Java
 package com.example.calcauladoras;
