@@ -81,16 +81,7 @@
 
 ---
 
-## 🚀 Roadmap Futuro
 
-- [ ] Adicionar seção sobre **Design Patterns**
-- [ ] Criar **PDF para download** dos resumos
-- [ ] Documentar **boas práticas de Git** (commit semântico, rebase, etc)
-- [ ] **Cheatsheets rápidos** para cada linguagem (`.md` e `.pdf`)
-- [ ] Criar **banner gráfico de capa** para o repositório
-- [ ] **Comparativo de sintaxe lado a lado** entre linguagens
-
----
 
 ## ✍️ Autor
 
