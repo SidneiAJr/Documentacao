@@ -224,7 +224,7 @@ Criação de interfaces é feita manualmente ou usando arquivos FXML com Scene B
 
 Total controle sobre código, organização de pacotes e módulos
 
-Vantagens
+***Vantagens***
 
 Mais flexível e moderno para projetos grandes
 
@@ -234,7 +234,7 @@ Melhor integração com ferramentas de build modernas (Maven, Gradle)
 
 Atualizações frequentes e compatibilidade com novas versões do JDK
 
-Desvantagens
+***Desvantagens***
 
 Configuração inicial mais complexa (SDK, VM options, módulos)
 
