@@ -142,3 +142,73 @@ public class valac extends AppCompatActivity {
     }
 }
 ```
+
+## Exemplo 3 de codigo:
+
+```Java
+package com.example.calcauladoras;
+
+import android.os.Bundle;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+
+import androidx.activity.EdgeToEdge;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.graphics.Insets;
+import androidx.core.view.ViewCompat;
+import androidx.core.view.WindowInsetsCompat;
+
+public class custvida extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        EdgeToEdge.enable(this);
+        setContentView(R.layout.activity_custvida);
+        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
+            Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
+            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
+            return insets;
+        });
+        EditText valor1 = findViewById(R.id.ed_1);
+        EditText valor2 = findViewById(R.id.ed_2);
+        EditText valor3 = findViewById(R.id.ed_3);
+        EditText valor4 = findViewById(R.id.ed_4);
+        EditText valor5 = findViewById(R.id.ed_5);
+        EditText valor6 = findViewById(R.id.ed_6);
+        TextView saida1 = findViewById(R.id.saida_1);
+        TextView saida2 = findViewById(R.id.saida_2);
+        TextView saida3 = findViewById(R.id.saida_3);
+        TextView saida4 = findViewById(R.id.saida_4);
+        Button calculadora = findViewById(R.id.vf_c);
+
+        calculadora.setOnClickListener(v->{
+            String val1 = valor1.getText().toString();
+            String val2 = valor2.getText().toString();
+            String val3 = valor3.getText().toString();
+            String val4 = valor4.getText().toString();
+            String val5 = valor5.getText().toString();
+            String val6 = valor6.getText().toString();
+            if(!val1.isEmpty()&&!val2.isEmpty()&&!val3.isEmpty()&&!val4.isEmpty()&&!val5.isEmpty()&&!val6.isEmpty()){
+                double vl1 = Double.parseDouble(val1);
+                double vl2 = Double.parseDouble(val2);
+                double vl3 = Double.parseDouble(val3);
+                double vl4 = Double.parseDouble(val4);
+                double vl5 = Double.parseDouble(val5);
+                double vl6 = Double.parseDouble(val6);
+                double resultado = vl1+vl2+vl3+vl4+vl5;
+                double ano = resultado*12;
+                double sobra = vl6-resultado;
+                double perc = (resultado/vl6)*100;
+                saida1.setText(String.format("Necessario para um 1 ano R$ %.2f",ano));
+                saida2.setText(String.format("Valor Necessario R$ %.2f",resultado));
+                saida3.setText(String.format("Sobra Salario R$ %.2f",sobra));
+                saida4.setText(String.format("Percentual do salario %.2f%%",perc ));
+            }else{
+                saida1.setText("Favor Inserir Um Numero!");
+            }
+        });
+    }
+}
+```
