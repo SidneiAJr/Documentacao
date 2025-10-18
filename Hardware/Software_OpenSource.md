@@ -8,7 +8,7 @@ FreeBSD
 
 ReactOS (tentativa open-source do Windows)
 
-🌐 Navegadores
+## 🌐 Navegadores
 
 Firefox
 
@@ -18,7 +18,7 @@ Brave (baseado em Chromium)
 
 Pale Moon
 
-📦 Produtividade / Escritório
+## 📦 Produtividade / Escritório
 
 LibreOffice
 
@@ -26,7 +26,7 @@ OnlyOffice
 
 Apache OpenOffice
 
-🎥 Áudio e Vídeo
+## 🎥 Áudio e Vídeo
 
 VLC
 
@@ -36,7 +36,7 @@ Audacity
 
 OBS Studio (streaming e gravação)
 
-🌐 Rede / Downloads
+## 🌐 Rede / Downloads
 
 qBittorrent
 
@@ -44,7 +44,7 @@ Transmission
 
 FileZilla
 
-👨‍💻 Desenvolvimento
+## 👨‍💻 Desenvolvimento
 
 Git
 
@@ -60,6 +60,6 @@ Inkscape (vetores)
 
 Blender (3D)
 
-🔒 Segurança / Privacidade
+## 🔒 Segurança / Privacidade
 
 OpenSSH
