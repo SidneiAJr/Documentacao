@@ -21,6 +21,8 @@ Escolha a versão compatível com o seu sistema e com a versão do PHP desejada.
 
 É recomendado abrir o painel **como Administrador** para evitar erros nas portas (80 e 443).
 
+![painel_xamp](https://github.com/SidneiAJr/Documentacao/blob/main/prints/painel.PNG)
+
 ---
 
 ## 4️⃣ Iniciar os Serviços
