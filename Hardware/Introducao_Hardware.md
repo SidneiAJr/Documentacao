@@ -121,6 +121,32 @@ Se a maior parte da potência é entregue em +12V (comum em CPU+GPU):
 Ex.: se CPU+GPU consomem 345 W (250 + 95):
 
 
+Ex.: para uma PSU escolhida de 650 W com eficiência prática de 90% (0.90):
+
+- `P_in = 650 / 0.90 = 722.22 W`
+
+Em tomadas de 230 V:
+- `I_input = 722.22 / 230 ≈ 3.14 A`
+
+Em tomadas de 127 V:
+- `I_input = 722.22 / 127 ≈ 5.69 A`
+
+---
+
+## Recomendações práticas
+- **Prefira PSUs com selo 80 PLUS Bronze ou superior** (Gold/Platinum melhor eficiência).
+- **Dê preferência a PSUs com boa margem na(s) linha(s) +12V** (GPU/CPU dependem disso).
+- **Evite comprar no limite** (escolha sempre com 20–30% a mais do que o somatório dos componentes).
+- **Considere picos de corrente** (por exemplo, alguns GPUs têm picos no arranque).
+- **Não baseie a compra apenas no preço** — qualidade de componentes internos (capacitores, filtros) importa.
+- **Cheque conectores**: se a sua GPU precisa de 2×8-pin PCIe, confirme que a PSU tem essas saídas nativas (não use adaptadores sempre que possível).
+- **Se planeja upgrades (GPU mais potente)**, prefira uma PSU mais robusta desde já.
+
+---
+
+## Exemplos rápidos
+1. **Corrente necessária em +12V** para 500 W inteiramente no 12V:
+
 
 
 
