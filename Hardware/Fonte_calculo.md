@@ -25,3 +25,17 @@ Onde:
 
 Se uma GPU consome 180W na linha de +12V:
 
+
+Ou seja: a fonte deve fornecer **pelo menos 15 ampères** na linha +12V **só para a GPU**.
+
+Se CPU consome 95W:
+
+
+---
+
+## Eficiência e Consumo da Tomada
+
+Toda fonte perde um pouco de energia em forma de calor. A certificação **80 PLUS** indica quanta energia ela “desperdiça”.
+
+Para saber o consumo REAL da tomada:
+
