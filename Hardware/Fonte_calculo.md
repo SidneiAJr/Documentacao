@@ -48,7 +48,8 @@ Vamos considerar o exemplo usado:
 
 ### 1️⃣ Soma do consumo
 
-
+Consumo_Total = 180W (GPU) + 95W (CPU)
+Consumo_Total = 275W
 
 ### 3️⃣ Banda de segurança (margem de 30%)
 
