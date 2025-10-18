@@ -20,7 +20,7 @@ Os processadores e sistemas operacionais podem trabalhar em duas arquiteturas pr
 | Arquitetura | Limite teórico | Limite prático em SO comum |
 |-------------|----------------|-----------------------------|
 | 32 bits     | 4GB             | ~3.2GB reconhecidos          |
-| 64 bits     | ? | Virtualmente "ilimitado" para usuário final |
+| 64 bits     | ? |  ? |
 
 Um sistema **32 bits NÃO consegue usar mais de 4GB de RAM**, mesmo que o PC tenha mais física instalada.
 
