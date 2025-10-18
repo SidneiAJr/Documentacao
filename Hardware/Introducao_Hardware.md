@@ -53,3 +53,16 @@ Captura de vídeo
 | Consumo de Energia | Maior                            | Menor                               |
 | Preço              | Mais barato                      | Mais caro                           |
 
+
+## Memoria Tipos:
+
+| Geração   | Ano Aproximado | Frequência (Mhz efetivos) | Tensão | Velocidade | Observações |
+|-----------|----------------|---------------------------|--------|------------|-------------|
+| DDR (DDR1) | 2000-2002       | 200 ~ 400 MHz              | 2.5V   | Baixa      | Primeira geração de DDR usada em PCs |
+| DDR2      | 2003-2005       | 400 ~ 800 MHz              | 1.8V   | Melhor que DDR | Menor consumo que DDR1 |
+| DDR3      | 2007-2010       | 800 ~ 2133 MHz             | 1.5V   | Alta       | Muito utilizada por muitos anos |
+| DDR4      | 2014-2016       | 2133 ~ 3200+ MHz           | 1.2V   | Muito alta | Mais rápida e eficiente energeticamente |
+| DDR5      | 2021            | 4800 ~ 7200+ MHz           | 1.1V   | Extremamente alta | Maior largura de banda |
+| DDR6*     | Em desenvolvimento | Pode ultrapassar 10.000 MHz | <1.1V? | Futuro | Ainda não disponível comercialmente |
+
+
