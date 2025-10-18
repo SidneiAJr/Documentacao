@@ -37,7 +37,12 @@ Placa de vídeo dedicada
 
 Placa de som
 
-Diferença entre SSD & HD:
+Placa de rede
+
+Captura de vídeo
+
+
+## Diferença entre SSD & HD:
 
 | Característica     | HD (Disco Rígido)               | SSD (Unidade de Estado Sólido)     |
 |--------------------|----------------------------------|-------------------------------------|
@@ -48,7 +53,3 @@ Diferença entre SSD & HD:
 | Consumo de Energia | Maior                            | Menor                               |
 | Preço              | Mais barato                      | Mais caro                           |
 
-
-Placa de rede
-
-Captura de vídeo
