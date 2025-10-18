@@ -148,7 +148,7 @@ Em tomadas de 127 V:
 1. **Corrente necessária em +12V** para 500 W inteiramente no 12V:
 
 
-Exemplo de Placa mãe:
+## Exemplo de Placa mãe:
 
 ![placa mae](https://github.com/SidneiAJr/Documentacao/blob/main/prints/10.png)
 
