@@ -65,4 +65,12 @@ Captura de vídeo
 | DDR5      | 2021            | 4800 ~ 7200+ MHz           | 1.1V   | Extremamente alta | Maior largura de banda |
 | DDR6*     | Em desenvolvimento | Pode ultrapassar 10.000 MHz | <1.1V? | Futuro | Ainda não disponível comercialmente |
 
+## Diferença entre SSD X NVME X SHDD X HD
+
+| Tipo        | Tecnologia | Velocidade | Partes Mecânicas | Tempo de Inicialização | Custo | Melhor Uso |
+|-------------|-------------|------------|-------------------|-------------------------|--------|-------------|
+| HD          | Disco magnético | Lento      | ✅ Sim             | Alto (30s ~ 2min)        | 💰 Barato | Armazenar grandes arquivos |
+| SSHD        | Híbrido (HD + pequena memória flash) | Médio      | ✅ Sim (mas com cache flash) | Médio (20s ~ 40s) | 💰💰 Moderado | Usuários que querem algo intermediário |
+| SSD SATA    | Memória flash (SATA) | Rápido     | ❌ Não             | Baixo (10s ~ 20s)        | 💰💰 Moderado | Sistema operacional e programas |
+| SSD NVMe    | Memória flash (PCIe / M.2) | Muito rápido | ❌ Não             | Muito baixo (5s ~ 10s)  | 💰💰💰 Mais caro | Alto desempenho, jogos e tarefas pesadas |
 
