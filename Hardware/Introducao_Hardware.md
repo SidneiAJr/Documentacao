@@ -92,6 +92,36 @@ A **PSU (Power Supply Unit)** fornece energia elétrica para todos os componente
 A relação entre potência (P), tensão (U, em volts) e corrente (I, em ampères) é:
 
 
+---
+
+## Cálculo prático — Como dimensionar a PSU
+
+### 1) Estime o consumo dos componentes
+Exemplo de somatório (valores típicos, só como exemplo):
+
+| Componente       | Consumo aproximado |
+|------------------|--------------------:|
+| CPU              | 95 W               |
+| GPU              | 250 W              |
+| Placa-mãe        | 50 W               |
+| RAM (2x)         | 20 W               |
+| SSD              | 5 W                |
+| HDD              | 8 W                |
+| Fans (3x)        | 15 W               |
+| **Total**        | **443 W**          |
+
+### 2) Adicione margem de segurança (headroom)
+Recomenda-se adicionar entre **20% e 30%** para picos, envelhecimento e upgrades:
+
+- Com 30% de margem: `443 W × 1.30 = 575.9 W` → escolher uma PSU comercial de **650 W** seria apropriado.
+
+### 3) Verifique a corrente na linha +12V
+Se a maior parte da potência é entregue em +12V (comum em CPU+GPU):
+
+Ex.: se CPU+GPU consomem 345 W (250 + 95):
+
+
+
 
 
 
