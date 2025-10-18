@@ -55,7 +55,6 @@ Consumo_Total = 275W
 
 A margem cobre picos de consumo, quedas de tensão e o desgaste natural da fonte ao longo dos anos.
 
-
 ### 4️⃣ Recomendação final
 
 Mesmo que o PC consuma cerca de **345W**,  
