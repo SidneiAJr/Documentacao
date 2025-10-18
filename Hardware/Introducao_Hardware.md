@@ -1,8 +1,8 @@
-# Introdução ao Hardware
+# 🖥️Introdução ao Hardware
 
 O hardware do computador é composto por diversos componentes físicos responsáveis pelo funcionamento da máquina. Entre os principais, podemos destacar:
 
-## 1. Processador (CPU)
+## 🧠1. Processador (CPU)
 
 É o cérebro do computador. Ele realiza cálculos e processa as instruções dos programas, controlando tudo o que acontece no sistema.
 
@@ -42,7 +42,7 @@ Placa de rede
 Captura de vídeo
 
 
-## Diferença entre SSD & HD:
+## 💾Diferença entre SSD & HD:
 
 | Característica     | HD (Disco Rígido)               | SSD (Unidade de Estado Sólido)     |
 |--------------------|----------------------------------|-------------------------------------|
