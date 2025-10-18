@@ -74,3 +74,24 @@ Captura de vídeo
 | SSD SATA    | Memória flash (SATA) | Rápido     | ❌ Não             | Baixo (10s ~ 20s)        | 💰💰 Moderado | Sistema operacional e programas |
 | SSD NVMe    | Memória flash (PCIe / M.2) | Muito rápido | ❌ Não             | Muito baixo (5s ~ 10s)  | 💰💰💰 Mais caro | Alto desempenho, jogos e tarefas pesadas |
 
+# 7. Fonte de Alimentação (PSU)
+
+A **PSU (Power Supply Unit)** fornece energia elétrica para todos os componentes do computador, convertendo a tensão da rede (AC) em tensões DC necessárias (tipicamente +12V, +5V e +3.3V). Uma boa PSU é essencial para estabilidade, segurança e longevidade do sistema.
+
+## Principais características
+- **Potência nominal** (W): capacidade total que a PSU pode fornecer (ex.: 500W, 650W, 850W).
+- **Eficiência**: relação entre potência de saída e consumo da rede (ex.: 80 PLUS Bronze, Silver, Gold, Platinum).
+- **Conectores**: 24-pin ATX, 8-pin CPU, PCIe 6/8-pin para GPU, SATA, Molex.
+- **Modularidade**: modular, semi-modular ou não modular (cabeamento removível facilita montagem).
+- **Capacidade da(s) trilha(s) +12V**: hoje em dia a maior parte da potência útil vem da(s) linha(s) +12V — confira a corrente (A) disponível nessa linha.
+- **Forma**: ATX, SFX (tamanhos físicos).
+
+---
+
+## Fórmula básica (Lei de Ohm aplicada)
+A relação entre potência (P), tensão (U, em volts) e corrente (I, em ampères) é:
+
+
+
+
+
