@@ -97,6 +97,20 @@ Ainda aparece em BIOS modernas apenas por compatibilidade.
 💬 Resumo: extremamente obsoleto.
 Hoje, só serve pra instalar sistemas muito antigos (como Windows XP).
 
+## ⚙️ 2. AHCI (modo moderno para SATA)
+
+Substituiu o IDE.
+
+Projetado para discos SATA, incluindo SSDs SATA.
+
+Permite recursos modernos como:
+
+NCQ (Native Command Queuing) → otimiza a ordem de leitura/gravação;
+
+Hot Swap → permite conectar/desconectar sem desligar;
+
+TRIM → melhora desempenho e vida útil de SSDs.
+
 ## 🚀 3. NVMe (modo atual para PCIe)
 
 Criado especificamente para SSDs (não HDs).
