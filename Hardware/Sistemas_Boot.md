@@ -64,3 +64,8 @@ Eles não são tipos de armazenamento — e sim **modos de inicialização (boot
 > 💬 **Em resumo:**  
 > O UEFI é o sucessor do BIOS. Ele é necessário para dar boot em discos NVMe e sistemas modernos (Windows 10/11, Linux atual).  
 > O Legacy/CSM serve apenas para compatibilidade com sistemas ou hardware antigos.
+
+
+## Observação Na placa mae Mancer 520DB com socket AM4 e NVME Kingston NV2:
+
+- Se for deixado em modo legacy a bios o windows 11 não boot, aparece uma mensagemn ***Sistema Operacional Não detectado*** Tive que fazer um pendrive em modo UEFI para poder bootar e instalar o windows, o dual na bios tambem não funciona.
