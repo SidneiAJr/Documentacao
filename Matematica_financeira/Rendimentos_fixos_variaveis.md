@@ -34,7 +34,7 @@ Na **renda variável**, o retorno depende das oscilações do mercado.
 Não há garantia de rentabilidade — o ganho (ou perda) é definido pela **valorização** do ativo ou **distribuição de lucros**.
 
 ### 💡 Exemplos de ativos de renda variável
-| Tipo | Exemplo | Fonte de retorno |
+| Tipo | Exemplo |  |
 |------|----------|------------------|
 | **Ações** | Petrobras, Vale, Itaú | |
 | **Fundos Imobiliários (FIIs)** | KNRI11, HGLG11 | |
