@@ -22,6 +22,7 @@ Este guia lista alguns dos problemas mais frequentes encontrados em computadores
 
 ---
 
+
 ## 💻 2. Tela Azul (BSOD - Blue Screen of Death)
 
 ### Possíveis causas:
