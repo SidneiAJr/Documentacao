@@ -130,3 +130,16 @@ igpm_total = capital * (1 + igpm)
 print("CDI (110%): R$", round(cdi_total, 2))
 print("Tesouro IPCA+5%: R$", round(ipca_total, 2))
 print("Reajuste IGP-M: R$", round(igpm_total, 2))
+
+```
+
+## 📌 Outros Indicadores Relevantes
+
+- **SELIC**: taxa básica de juros definida pelo Banco Central; referência para crédito e investimentos.
+- **IPCA-15**: prévia mensal do IPCA — sinal antecipado da inflação oficial.
+- **INPC**: inflação focada em famílias de menor renda; usada em reajustes salariais.
+- **INCC**: custo da construção; usado em contratos de obras.
+- **IGP-DI / IGP-10**: variações do IGP com datas de referência diferentes; IGP-M, IGP-DI e IGP-10 são úteis em reajustes contratuais.
+- **Ptax**: taxa de câmbio referência do Bacen.
+- **PIB / Taxa de desemprego**: indicadores macroeconômicos importantes para contexto.
+
