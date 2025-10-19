@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
 ![Git](https://img.shields.io/badge/Versionamento-Git-green)
 ![Docs](https://img.shields.io/badge/Documentação-Markdown-lightgrey)
-![Objetivo-Aprendizado%20Pessoal-orange)
+![Objetivo](https://img.shields.io/badge/Objetivo-Aprendizado%20Pessoal-orange)
 
 > **Repositório criado para registrar, organizar e revisar conhecimentos adquiridos sobre linguagens de programação e ferramentas do ecossistema de desenvolvimento.**  
 > Aqui são documentados conceitos fundamentais, boas práticas e comparações entre diferentes linguagens e tecnologias.
@@ -44,21 +44,23 @@
 
 ## 📚 Linguagens Documentadas
 
-- [Java](./Java/IntroJava.md)
-- [C#](./C%23/Script_Unity3C.md)
+- [Java](./Java/Intro_Java.md)
+- [C#](./C%23/Tutorial_Visual_studio.md)
 - [TypeScript](./Typescript/IntroducaoTS.md)
 - [JavaScript](./JS/DocumentacaoJs.md)
-- [PHP](./PHP/Introphp.md)
-- [SQL](./SQL/AvancadoSQL.md)
+- [PHP](./PHP/IntroPHP.md)
+- [SQL](./SQL/IntroducaoSQL.md)
+- [Python](./Python/Tutorial_Python.md)
 
 ---
 
 ## 🧰 Ferramentas Documentadas
 
 - [Git & GitHub](./Git/IntroducaoGit.md)
-- [Docker](./Docker/Introducaodocker.md)
-- [Shell & Batch](./Shell/IntroBatch.md)
-- [Bootstrap](./WEB/Bootstrap.md)
+- [Docker](./Docker/IntroducaoDocker.md)
+- [Shell & Batch](./Shell/IntroShell.md)
+- [Linux / Debian](./Linux-Debian/Introducao_Linux.md)
+- [Bootstrap](./HTML/Bootstrap.md)
 - [Unity](./C%23/Script_Unity3C.md)
 - [Blender](./Blender/)
 
@@ -66,27 +68,36 @@
 
 ## ✅ Mapa de Progresso
 
-| Conteúdo                     | Status |
-|---------------------------|:-----:|
-| Java - Fundamentos        | ✅ |
-| Java - OOP                | ✅ |
-| C# - Unity Scripts        | 🚧 |
-| Docker - Containers       | ✅ |
-| SQL Avançado              | 🚧 |
-| Shell Script              | ✅ |
-| Git & Versionamento       | ✅ |
-| Typescript Avançado       | 🚧 |
-| Design Patterns           | ⏳ |
-| Documentação PDF          | ⏳ |
+| Conteúdo               | Status |
+|-------------------------|:------:|
+| Java - Fundamentos      | ✅ |
+| Java - OOP              | ✅ |
+| C# - Unity Scripts      | 🚧 |
+| Docker - Containers     | ✅ |
+| SQL - Avançado          | 🚧 |
+| Shell Script            | ✅ |
+| Git & Versionamento     | ✅ |
+| TypeScript - Avançado   | 🚧 |
+| Design Patterns         | ⏳ |
+| Documentação PDF        | ⏳ |
 
 ---
 
+## 🚀 Roadmap Futuro
 
+- [ ] Adicionar seção sobre **APIs REST e JSON**
+- [ ] Documentar **Design Patterns** em múltiplas linguagens  
+- [ ] Criar **versão web estática (GitHub Pages)** para navegação da documentação  
+- [ ] Adicionar **índices automáticos** e **links internos** entre temas  
+- [ ] Exportar compilado em **PDF** e **MDBook**
+
+---
 
 ## ✍️ Autor
 
 **Sidnei A. Jr**  
 📅 Última atualização: **Outubro de 2025**  
-🚀 Objetivo: Criar uma documentação completa de aprendizado técnico pessoal.
+🚀 Objetivo: Criar uma documentação completa de aprendizado técnico pessoal.  
+🔗 [GitHub](https://github.com/SidneiAJr)
 
 ---
