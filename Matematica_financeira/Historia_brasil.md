@@ -119,6 +119,52 @@ Com o Real consolidado, o Brasil passou por novos ciclos econômicos:
 
 ---
 
+## 📑 Planos Econômicos e Mudanças de Moeda (1940–1994)
+
+Ao longo da segunda metade do século XX, o Brasil enfrentou **inflação crônica** e lançou diversos **planos econômicos** para tentar estabilizar os preços e controlar os gastos públicos.  
+Muitos deles incluíram **mudança de moeda**, **congelamento de preços** e **reformas monetárias**.
+
+### 🧾 Principais Planos Econômicos
+
+| Plano | Ano | Governo | Medidas Principais | Resultado |
+|--------|------|-----------|----------------------|------------|
+| **Plano de Metas** | 1956–1961 | Juscelino Kubitschek | “50 anos em 5” — incentivo à indústria, obras de infraestrutura e capital estrangeiro | Crescimento rápido, aumento da dívida |
+| **Plano de Estabilização** | 1964 | Castelo Branco | Corte de gastos, arrocho salarial e controle da inflação | Inflação caiu, mas houve recessão |
+| **Plano Cruzado** | 1986 | José Sarney | Criação do **Cruzado (Cz$)**, congelamento de preços e salários | Inicialmente popular, depois gerou escassez e inflação voltou |
+| **Plano Bresser** | 1987 | José Sarney | Novo congelamento parcial e reajuste salarial controlado | Alívio temporário, inflação retornou |
+| **Plano Verão** | 1989 | José Sarney | Criação do **Cruzado Novo (NCz$)**, corte de zeros e novo congelamento | Sem sucesso duradouro |
+| **Plano Collor I** | 1990 | Fernando Collor | Criação do **Cruzeiro (Cr$)**, bloqueio de poupanças e ativos financeiros | Inflação despencou, mas economia travou |
+| **Plano Collor II** | 1991 | Fernando Collor | Reajuste de preços e nova tentativa de estabilização | Sem êxito; inflação voltou a subir |
+| **Plano Real** | 1994 | Itamar Franco / FHC | URV → Real, metas fiscais e fim da indexação | Sucesso: estabilização da moeda e controle da inflação |
+
+---
+
+### 💬 Resumo dos Planos
+
+- **Planos Cruzado / Bresser / Verão:** tentativas de congelar preços, mas sem controle fiscal real → inflação voltou.  
+- **Planos Collor:** ataques diretos à liquidez (confisco de poupanças), geraram forte recessão e perda de confiança.  
+- **Plano Real:** única estratégia bem-sucedida — combateu as causas estruturais da inflação (indexação, gastos e câmbio).
+
+---
+
+### 💵 Mudanças de Moeda (Resumo)
+
+| Antiga | Nova | Ano | Fator de conversão |
+|---------|------|------|--------------------|
+| Réis | Cruzeiro | 1942 | 1 Cr$ = 1.000 Rs$ |
+| Cruzeiro | Cruzeiro Novo | 1967 | 1 NCr$ = 1.000 Cr$ |
+| Cruzeiro Novo | Cruzeiro | 1970 | Paridade nominal |
+| Cruzeiro | Cruzado | 1986 | 1 Cz$ = 1.000 Cr$ |
+| Cruzado | Cruzado Novo | 1989 | 1 NCz$ = 1.000 Cz$ |
+| Cruzado Novo | Cruzeiro | 1990 | Paridade nominal |
+| Cruzeiro | Cruzeiro Real | 1993 | 1 CR$ = 1.000 Cr$ |
+| Cruzeiro Real | Real | 1994 | 1 R$ = 2.750 CR$ |
+
+---
+
+Essas constantes trocas e planos refletem o **período de instabilidade monetária** que marcou o Brasil antes da consolidação do **Plano Real**.
+
+
 ## 💡 Curiosidades Monetárias
 
 - O Brasil já teve **nove moedas oficiais** desde 1822.  
