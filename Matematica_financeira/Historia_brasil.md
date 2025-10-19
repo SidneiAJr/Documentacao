@@ -161,6 +161,31 @@ Muitos deles incluíram **mudança de moeda**, **congelamento de preços** e **r
 
 Essas constantes trocas e planos refletem o **período de instabilidade monetária** que marcou o Brasil antes da consolidação do **Plano Real**.
 
+## 🔢 Valores recorrentes na história monetária do Brasil
+
+O Brasil teve várias moedas oficiais ao longo do tempo — mas alguns valores se repetem (2, 5, 10, 20, 50, 100, 200 e 500), aparecendo em quase todas as reformas monetárias.
+
+| Valor | Réis (até 1942) | Cruzeiro(s) (1942–1993) | Cruzado(s) (1986–1990) | Cruzeiro Real (1993–1994) | Real (1994–hoje) |
+|:------:|:----------------:|:------------------------:|:-----------------------:|:-------------------------:|:----------------:|
+| **2**   | ✓ | ✓ | ✓ | — | ✓ |
+| **5**   | ✓ | ✓ | ✓ | — | ✓ |
+| **10**  | ✓ | ✓ | ✓ | — | ✓ |
+| **20**  | ✓ | ✓ | ✓ | — | ✓ |
+| **50**  | ✓ | ✓ | ✓ | — | ✓ |
+| **100** | ✓ | ✓ | ✓ | — | ✓ |
+| **200** | ✓ | ✓ | ✓ | — | ✓ |
+| **500** | ✓ | ✓ *(inclui nota de 500.000 cruzeiros em 1993)* | ✓ | ✓ | — |
+
+> 💬 **Curiosidade:**  
+> - O valor **500** foi recorrente em várias moedas — de **500 réis** no Império até **500.000 cruzeiros** durante a hiperinflação dos anos 1990.  
+> - No **Real**, nunca houve nota de R$500 (a maior é R$200, lançada em 2020).  
+> - Esses valores eram escolhidos por convenção e praticidade: múltiplos de 2, 5 e 10 facilitavam cálculos e troco.
+
+---
+
+📚 **Fontes:**  
+Banco Central do Brasil, Wikipédia – *História das Moedas do Brasil*, Museu da Moeda – Casa da Moeda do Brasil.
+
 
 ## 💡 Curiosidades Monetárias
 
