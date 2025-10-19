@@ -66,6 +66,8 @@ Eles não são tipos de armazenamento — e sim **modos de inicialização (boot
 > O Legacy/CSM serve apenas para compatibilidade com sistemas ou hardware antigos.
 
 
-## Observação Na placa mae Mancer 520DB com socket AM4 e NVME Kingston NV2:
+> ⚠️ **Importante:**  
+> Na placa-mãe *Mancer 520DB (AM4)*, o modo **Legacy/CSM** impede o boot em SSDs **NVMe**.  
+> É obrigatório instalar o sistema com a BIOS configurada em **UEFI Only** e o pendrive de instalação formatado como **GPT/UEFI**.  
+> O modo “Dual” não reconhece corretamente o NVMe como dispositivo de boot.
 
-- Se for deixado em modo legacy a bios o windows 11 não boot, aparece uma mensagemn ***Sistema Operacional Não detectado*** Tive que fazer um pendrive em modo UEFI para poder bootar e instalar o windows, o dual na bios tambem não funciona.
