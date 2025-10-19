@@ -95,7 +95,6 @@
 
 ## ✍️ Autor
 
-**Sidnei A. Jr**  
 📅 Última atualização: **Outubro de 2025**  
 🚀 Objetivo: Criar uma documentação completa de aprendizado técnico pessoal.  
 🔗 [GitHub](https://github.com/SidneiAJr)
