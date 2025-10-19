@@ -29,6 +29,9 @@ Para cobrir as despesas, o governo **emitiu papel-moeda em larga escala**, o que
 
 Essas emissões marcaram uma das **primeiras experiências de expansão monetária** no Brasil, mostrando a dependência do Império de recursos financeiros para sustentar conflitos externos.
 
+![Moeda de 500 reis](https://upload.wikimedia.org/wikipedia/commons/9/98/Papel-moeda_-_500_r%C3%A9is.jpg)
+
+![Moeda de 500mil reis](https://upload.wikimedia.org/wikipedia/commons/f/f2/Brazil_500_Mil_Reis_Banknote_of_1931.jpg)
 ---
 
 ## 🏛️ 2. República Velha (1889–1930)
