@@ -46,4 +46,3 @@ Ele analisa cada pacote de dados que tenta entrar ou sair, verificando se a cone
 
 ### 🪟 Windows:
 - O **Windows Defender Firewall** vem ativado por padrão.  
-- Você pode acessar via:
