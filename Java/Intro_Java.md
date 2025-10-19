@@ -192,3 +192,67 @@ public class Main {
 }
 ```
 
+## Uso de Lib - Scanner
+
+```Java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Digite seu nome: ");
+        String nome = sc.nextLine();
+        System.out.println("Olá, " + nome);
+        sc.close();
+    }
+}
+```
+
+## Convertendo ind para double:
+
+```Java
+int num = 10;
+double num2 = (double) num; // int → double
+System.out.println(num2);
+```
+
+## Array List e hashMap
+
+```Java
+import java.util.ArrayList;
+import java.util.HashMap;
+
+ArrayList<String> nomes = new ArrayList<>();
+nomes.add("Ana");
+nomes.add("Lucas");
+
+HashMap<String, Integer> idades = new HashMap<>();
+idades.put("Ana", 25);
+idades.put("Lucas", 30);
+```
+
+## POO - Programação Orientada a Objeto
+
+```Java
+class Animal {
+    public void som() {
+        System.out.println("Som genérico");
+    }
+}
+
+class Cachorro extends Animal {
+    public void som() {
+        System.out.println("Latido");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Animal a = new Cachorro();
+        a.som(); // Saída: Latido
+    }
+}
+```
+
+
+
