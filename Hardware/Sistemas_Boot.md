@@ -71,6 +71,12 @@ Eles não são tipos de armazenamento — e sim **modos de inicialização (boot
 > É obrigatório instalar o sistema com a BIOS configurada em **UEFI Only** e o pendrive de instalação formatado como **GPT/UEFI**.  
 > O modo “Dual” não reconhece corretamente o NVMe como dispositivo de boot.
 
+---
+
+> 💬 **Resumo:**  
+> - **IDE →** obsoleto, compatibilidade com sistemas antigos.  
+> - **AHCI →** padrão atual para discos SATA.  
+> - **NVMe →** protocolo moderno para SSDs via PCIe, muito mais rápido.
 
 ## ⚙️ O que é AHCI
 
