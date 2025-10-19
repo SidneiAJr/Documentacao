@@ -71,3 +71,42 @@ Eles não são tipos de armazenamento — e sim **modos de inicialização (boot
 > É obrigatório instalar o sistema com a BIOS configurada em **UEFI Only** e o pendrive de instalação formatado como **GPT/UEFI**.  
 > O modo “Dual” não reconhece corretamente o NVMe como dispositivo de boot.
 
+
+## ⚙️ O que é AHCI
+
+AHCI = Advanced Host Controller Interface
+
+É um padrão de comunicação entre o sistema operacional e controladores SATA.
+
+Ele define como os dados são enviados e recebidos entre o SSD/HDD e o processador/chipset.
+
+👉 Em outras palavras:
+
+O AHCI é o “intérprete” que o sistema usa pra falar com um SSD ou HD ligado via SATA.
+
+## 🧩 1. IDE (modo legado)
+
+Criado para HDs mecânicos com interface PATA (Parallel ATA).
+
+Limitado em velocidade (~133 MB/s).
+
+Usa comandos muito simples, não suporta recursos modernos.
+
+Ainda aparece em BIOS modernas apenas por compatibilidade.
+
+💬 Resumo: extremamente obsoleto.
+Hoje, só serve pra instalar sistemas muito antigos (como Windows XP).
+
+## 🚀 3. NVMe (modo atual para PCIe)
+
+Criado especificamente para SSDs (não HDs).
+
+Usa interface PCI Express (PCIe) — muito mais rápida que SATA.
+
+Elimina as limitações do AHCI:
+
+Suporta milhares de filas e comandos simultâneos;
+
+Latência extremamente baixa;
+
+Aproveita melhor CPUs multicore.
