@@ -36,11 +36,11 @@ Não há garantia de rentabilidade — o ganho (ou perda) é definido pela **val
 ### 💡 Exemplos de ativos de renda variável
 | Tipo | Exemplo | Fonte de retorno |
 |------|----------|------------------|
-| **Ações** | Petrobras, Vale, Itaú | Valorização + Dividendos |
-| **Fundos Imobiliários (FIIs)** | KNRI11, HGLG11 | Alugueis + Valorização |
-| **ETFs** | BOVA11, IVVB11 | Índices (Ibovespa, S&P500) |
-| **BDRs** | AAPL34, TSLA34 | Ações estrangeiras |
-| **Criptomoedas** | Bitcoin, Ethereum | Oferta/demanda global |
+| **Ações** | Petrobras, Vale, Itaú | |
+| **Fundos Imobiliários (FIIs)** | KNRI11, HGLG11 | |
+| **ETFs** | BOVA11, IVVB11 |  |
+| **BDRs** | AAPL34, TSLA34 |  |
+| **Criptomoedas** | Bitcoin, Ethereum | |
 
 ---
 
