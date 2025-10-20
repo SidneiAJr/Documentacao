@@ -52,7 +52,7 @@ A tag <thead> agrupa as linhas de cabeçalho da tabela. Geralmente, é usada par
 ## 🔹 <tbody>: Corpo da tabela
 
 A tag <tbody> agrupa as linhas de dados da tabela. Isso ajuda na organização e permite que você separe visualmente o cabeçalho do corpo.
-```html
+
 <table>
   <tbody>
     <tr>
@@ -61,13 +61,13 @@ A tag <tbody> agrupa as linhas de dados da tabela. Isso ajuda na organização e
     </tr>
   </tbody>
 </table>
-```
+
 
 ## 🔹 <tfoot>: Rodapé da tabela (opcional)
 
 A tag <tfoot> é opcional, mas pode ser usada para agrupar as linhas de rodapé da tabela. Ela pode ser útil para somar ou mostrar totalizações, por exemplo.
 
-```html
+
 <table>
   <tfoot>
     <tr>
@@ -76,4 +76,4 @@ A tag <tfoot> é opcional, mas pode ser usada para agrupar as linhas de rodapé 
     </tr>
   </tfoot>
 </table>
-```
+
