@@ -1,46 +1,43 @@
-# Guia de Criação de Tabela no HTML
+# 🧾 Guia Completo de Tabelas no HTML
 
-No HTML, usamos várias tags específicas para construir tabelas de forma semântica e bem organizada. Vamos entender cada uma delas:
+Além das tags principais, existem outras formas de **melhorar, organizar e personalizar** suas tabelas no HTML.
 
-## 🔹 `<table>`: Cria a tabela
+---
 
-A tag `<table>` é o contêiner principal que engloba todos os outros elementos de tabela.
+## 🔹 Estrutura Principal
+Essas são as tags fundamentais de uma tabela:
+
+| Tag | Função |
+|-----|--------|
+| `<table>` | Contêiner principal da tabela |
+| `<tr>` | Define uma linha |
+| `<td>` | Define uma célula de dados |
+| `<th>` | Define uma célula de cabeçalho |
+| `<thead>` | Agrupa o cabeçalho da tabela |
+| `<tbody>` | Agrupa o corpo da tabela |
+| `<tfoot>` | Agrupa o rodapé da tabela |
+
+---
+
+## 🔹 `<caption>` — Título da Tabela
+Define um **título descritivo** para a tabela.  
+Ele aparece por padrão **acima da tabela**.
 
 ```html
 <table>
-  <!-- Conteúdo da tabela vai aqui -->
-</table>
-
-<tr>
-  <td>Exemplo de célula</td>
-</tr>
-
-<tr>
-  <td>Nome</td>
-  <td>João</td>
-</tr>
-
-<tr>
-  <th>Nome</th>
-  <th>Idade</th>
-</tr>
-
-<table>
+  <caption>Relatório de Vendas - 2025</caption>
   <thead>
     <tr>
-      <th>Nome</th>
-      <th>Idade</th>
+      <th>Produto</th>
+      <th>Quantidade</th>
+      <th>Valor</th>
     </tr>
   </thead>
-</table>
-
-<table>
-  <tfoot>
+  <tbody>
     <tr>
-      <td>Total</td>
-      <td>150</td>
+      <td>Camiseta</td>
+      <td>50</td>
+      <td>R$ 1.250,00</td>
     </tr>
-  </tfoot>
+  </tbody>
 </table>
-
-```
