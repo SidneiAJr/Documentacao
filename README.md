@@ -81,22 +81,3 @@
 | Design Patterns         | ⏳ |
 | Documentação PDF        | ⏳ |
 
----
-
-## 🚀 Roadmap Futuro
-
-- [ ] Adicionar seção sobre **APIs REST e JSON**
-- [ ] Documentar **Design Patterns** em múltiplas linguagens  
-- [ ] Criar **versão web estática (GitHub Pages)** para navegação da documentação  
-- [ ] Adicionar **índices automáticos** e **links internos** entre temas  
-- [ ] Exportar compilado em **PDF** e **MDBook**
-
----
-
-## ✍️ Autor
-
-📅 Última atualização: **Outubro de 2025**  
-🚀 Objetivo: Criar uma documentação completa de aprendizado técnico pessoal.  
-🔗 [GitHub](https://github.com/SidneiAJr)
-
----
