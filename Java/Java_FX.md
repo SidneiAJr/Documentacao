@@ -117,11 +117,12 @@ Main-Class: com.mycompany.bc.menu
 Caso o aplicativo não abra ao clicar duas vezes no .jar, é necessário ajustar o arquivo MANIFEST.MF para apontar corretamente a classe principal.
 
 Caminho do arquivo (geralmente):
-
+```xml
 dist/META-INF/MANIFEST.MF
 
 Manifest-Version: 1.0
 Created-By: Maven JAR Plugin 3.4.1
 Build-Jdk-Spec: 24
 Main-Class: com.mycompany.bc.menu
+```
 
