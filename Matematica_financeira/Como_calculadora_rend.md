@@ -78,16 +78,6 @@ O **DY (Dividend Yield)** é um indicador que mostra o quanto uma ação ou fund
 
 ---
 
-## 📊 Interpretação do DY
-
-| DY (%) | Interpretação |
-|:--------:|:------------------------------|
-| 0% – 3% | Baixo rendimento (empresa pode reinvestir lucros) |
-| 3% – 6% | Rendimento médio (equilibrado) |
-| 6% – 10% | Bom rendimento |
-| 10%+ | Muito alto (analisar se é sustentável) |
-
----
 
 ## 🏢 DY em Fundos Imobiliários (FIIs)
 
