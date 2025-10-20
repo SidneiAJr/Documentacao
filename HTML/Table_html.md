@@ -1,4 +1,3 @@
-
 # Guia de Criação de Tabela no HTML
 
 No HTML, usamos várias tags específicas para construir tabelas de forma semântica e bem organizada. Vamos entender cada uma delas:
@@ -7,38 +6,38 @@ No HTML, usamos várias tags específicas para construir tabelas de forma semân
 
 A tag <table> é o contêiner principal que engloba todos os outros elementos de tabela.
 
-```html
+
 <table>
   <!-- Conteúdo da tabela vai aqui -->
 </table>
-```
+
 
 ## 🔹 <tr>: Table Row → Linha da tabela
 
 Cada linha de dados na tabela é criada com a tag <tr>. Dentro dela, podemos colocar as células (<td> ou <th>).
 
-```html
+
 <tr>
   <td>Exemplo de célula</td>
 </tr>
-```
+
 
 ## 🔹 <td>: Table Data → Célula de dado
 
 A tag <td> cria uma célula dentro de uma linha da tabela. Ela é usada para adicionar dados regulares na tabela.
 
-```html
+
 <tr>
   <td>Nome</td>
   <td>João</td>
-```
+
 
 
 ## 🔹 <thead>: Cabeçalho da tabela
 
 A tag <thead> agrupa as linhas de cabeçalho da tabela. Geralmente, é usada para agrupar os <th> e facilitar a leitura do código.
 
-```html
+
 <table>
   <thead>
     <tr>
@@ -47,7 +46,7 @@ A tag <thead> agrupa as linhas de cabeçalho da tabela. Geralmente, é usada par
     </tr>
   </thead>
 </table>
-```
+
 
 ## 🔹 <tbody>: Corpo da tabela
 
