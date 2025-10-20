@@ -10,3 +10,37 @@ A tag `<table>` é o contêiner principal que engloba todos os outros elementos 
 <table>
   <!-- Conteúdo da tabela vai aqui -->
 </table>
+
+<tr>
+  <td>Exemplo de célula</td>
+</tr>
+
+<tr>
+  <td>Nome</td>
+  <td>João</td>
+</tr>
+
+<tr>
+  <th>Nome</th>
+  <th>Idade</th>
+</tr>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Idade</th>
+    </tr>
+  </thead>
+</table>
+
+<table>
+  <tfoot>
+    <tr>
+      <td>Total</td>
+      <td>150</td>
+    </tr>
+  </tfoot>
+</table>
+
+```
