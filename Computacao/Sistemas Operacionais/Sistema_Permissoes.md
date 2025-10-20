@@ -55,9 +55,7 @@ Botão direito → Propriedades → Segurança → Editar permissões
 
 ---
 
-## ⚙️ `Linux_e_Windows.md`
 
-```md
 # ⚙️ Comparativo entre Linux e Windows
 
 | Característica | Linux | Windows |
