@@ -1,3 +1,4 @@
+
 # Guia de Criação de Tabela no HTML
 
 No HTML, usamos várias tags específicas para construir tabelas de forma semântica e bem organizada. Vamos entender cada uma delas:
