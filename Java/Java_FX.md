@@ -30,6 +30,10 @@ Abra o software **NetBeans** no seu computador.
 - Selecione **New → Other → JavaFX → FXML Document** (ou Java Form, dependendo da versão).  
 - Dê um nome ao arquivo, por exemplo: `TelaPrincipal.fxml`.
 
+Imagem Tools | Netbeans
+
+![Netbenas-tools](https://github.com/SidneiAJr/Documentacao/blob/main/prints/10.PNG)
+
 ---
 
 ### 4. Montar a Interface Gráfica
@@ -58,6 +62,24 @@ Abra o software **NetBeans** no seu computador.
       lblSaida.setText("Olá, " + nome + "!");
   }
   ```
+
+### 🧠 Dica Extra — Criando Eventos Direto no Botão
+
+Você pode criar o **evento de escuta (event handler)** diretamente no botão, sem precisar acessar o *Scene Builder*.
+
+Basta clicar **com o botão direito** sobre o componente (ex: um `Button`) no editor do NetBeans e escolher **"Eventos → Ação → actionPerformed"** (ou similar).
+
+Em seguida, o NetBeans vai criar automaticamente o método de evento dentro do código, onde você pode programar a lógica desejada, por exemplo:
+
+```java
+private void btnCalcularActionPerformed(java.awt.event.ActionEvent evt) {                                            
+    // Exemplo de conversão de valores
+    String valorStr = txtValor.getText();
+    double valor = Double.parseDouble(valorStr);
+    
+    lblResultado.setText("O valor convertido é: " + valor);
+}
+
 
 ## 6. Compilar e Testar
 
