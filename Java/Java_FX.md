@@ -97,3 +97,16 @@ Isso cria os arquivos necessários para distribuir o programa.
 ## 8. Ajustar o MANIFEST.MF
 
 Vá até a pasta:
+- Onde seu Projeto foi salvo aparecera em baixo
+- Depois disso se tentar abrir o arquivo provavel que ele não abra
+- Precisa fazer uma configuração no manifest.xml
+
+```xml
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.4.1
+Build-Jdk-Spec: 24
+Main-Class: com.mycompany.bc.menu
+// Ali em Main-Class tem que colocar...
+// Chamada de Menu
+  new calcjr().setVisible(true);
+```
