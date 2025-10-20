@@ -75,9 +75,13 @@ required: Torna o campo obrigatório.
 
 ## 11. month - Mês e Ano
 ```html
-<input type="file" name="arquivo" accept="image/*, .pdf" multiple>
+<input type="month" name="mes_ano">
 ```
 
+## 12.hidden - Campo Oculto
+```html
+<input type="hidden" name="codigo_usuario" value="12345">
+```
 
 
 
