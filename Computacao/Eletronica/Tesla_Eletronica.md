@@ -94,17 +94,3 @@ Tesla sonhava com um mundo onde:
 
 ---
 
-## 📚 Referências
-- *“Nikola Tesla: O Gênio que Iluminou o Mundo”* – John J. O’Neill  
-- *Smithsonian Archives – Tesla Collection*  
-- *PBS: Tesla – Master of Lightning*  
-- *Tesla Museum – Belgrado, Sérvia*  
-- [Nikola Tesla Museum Official Site](https://teslamuseum.org/)
-
----
-
-**Autor:** _Seu Nome_  
-**Data:** `2025-10-20`  
-**Licença:** MIT  
-
-> 💬 “Tesla não apenas sonhou com o futuro — ele o construiu.”
