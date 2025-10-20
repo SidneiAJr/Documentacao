@@ -22,7 +22,7 @@ Cada linha de dados na tabela é criada com a tag <tr>. Dentro dela, podemos col
 </tr>
 ```
 
-🔹 <td>: Table Data → Célula de dado
+## 🔹 <td>: Table Data → Célula de dado
 
 A tag <td> cria uma célula dentro de uma linha da tabela. Ela é usada para adicionar dados regulares na tabela.
 
@@ -33,7 +33,7 @@ A tag <td> cria uma célula dentro de uma linha da tabela. Ela é usada para adi
 ```
 
 
-🔹 <thead>: Cabeçalho da tabela
+## 🔹 <thead>: Cabeçalho da tabela
 
 A tag <thead> agrupa as linhas de cabeçalho da tabela. Geralmente, é usada para agrupar os <th> e facilitar a leitura do código.
 
@@ -48,7 +48,7 @@ A tag <thead> agrupa as linhas de cabeçalho da tabela. Geralmente, é usada par
 </table>
 ```
 
-🔹 <tbody>: Corpo da tabela
+## 🔹 <tbody>: Corpo da tabela
 
 A tag <tbody> agrupa as linhas de dados da tabela. Isso ajuda na organização e permite que você separe visualmente o cabeçalho do corpo.
 ```html
@@ -62,7 +62,7 @@ A tag <tbody> agrupa as linhas de dados da tabela. Isso ajuda na organização e
 </table>
 ```
 
-🔹 <tfoot>: Rodapé da tabela (opcional)
+## 🔹 <tfoot>: Rodapé da tabela (opcional)
 
 A tag <tfoot> é opcional, mas pode ser usada para agrupar as linhas de rodapé da tabela. Ela pode ser útil para somar ou mostrar totalizações, por exemplo.
 
@@ -76,5 +76,3 @@ A tag <tfoot> é opcional, mas pode ser usada para agrupar as linhas de rodapé 
   </tfoot>
 </table>
 ```
-
-</tr>
