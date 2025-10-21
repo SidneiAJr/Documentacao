@@ -43,6 +43,13 @@ Imagem Tools | Netbeans
   - `Label` (rótulo)
   - `Button` (botão)
 
+### Opções de Menu: 
+
+![Menu](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20163620.png)
+
+![Configurações](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20164126.png)
+
+![Menu](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20163608.png)
 ---
 
 ### 5. Fazer a Programação
