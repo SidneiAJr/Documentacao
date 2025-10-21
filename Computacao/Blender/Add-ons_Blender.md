@@ -1,111 +1,104 @@
-# 🌲 Add-ons Naturais do Blender — Árvores, Pedras e Montanhas
+# ⚙️ Melhores Add-ons do Blender — Guia Atualizado
 
-Quer criar **cenários realistas** com árvores, pedras e montanhas no Blender?  
-Aqui estão os **melhores add-ons** (gratuitos e pagos) para gerar natureza de forma rápida e procedural.
-
----
-
-## 🌳 1. Árvores — *Sapling Tree Gen*
-
-O **Sapling Tree Gen** já vem instalado com o Blender — só precisa ser ativado.
-
-### ✅ Como ativar:
-1. Vá em **Edit → Preferences → Add-ons**  
-2. Pesquise por **Sapling**  
-3. Ative **Add Curve: Sapling Tree Gen**
-
-### 🌿 Como usar:
-1. Pressione `Shift + A → Curve → Sapling Tree Gen`  
-2. Ajuste os parâmetros na aba lateral:  
-   - Tipo de tronco  
-   - Galhos  
-   - Folhas  
-   - Densidade  
-   - Altura e espessura  
-3. Adicione materiais no **Shader Editor** para criar folhas com transparência.
-
-💡 **Dica:** Use o modo *Material Preview (Z → Material Preview)* para ver as cores e texturas.
+Aqui está uma lista organizada dos **principais add-ons** para acelerar o seu fluxo de trabalho, criar efeitos incríveis e expandir as funções do Blender.
 
 ---
 
-## 🌲 2. Árvores Avançadas — *Modular Tree Add-on*
+## 🧱 1. Add-ons Nativos (Já Vêm com o Blender)
 
-Um gerador de árvores modular e gratuito, com galhos mais realistas.
+Ative em:  
+`Edit → Preferences → Add-ons`
 
-### 🔗 Download:
-[https://github.com/abpy/ModularTree](https://github.com/abpy/ModularTree)
+| Add-on | Função | Atalho / Local |
+|---------|---------|----------------|
+| **Add Mesh: Extra Objects** | Adiciona novos tipos de malhas (pedras, engrenagens, torus etc.) | `Shift + A → Mesh` |
+| **A.N.T. Landscape** | Gera terrenos e montanhas proceduralmente | `Shift + A → Mesh → Landscape` |
+| **Sapling Tree Gen** | Cria árvores com galhos e folhas | `Shift + A → Curve → Sapling` |
+| **Node Wrangler** | Facilita conexões no Shader Editor (obrigatório!) | `Ctrl + Shift + Click` |
+| **LoopTools** | Ferramentas extras de modelagem (Bridge, Flatten, Circle, Relax etc.) | `Edit Mode → Sidebar (N)` |
+| **F2 Add-on** | Melhora a modelagem com preenchimento rápido de faces | `F` |
+| **Bool Tool** | Simplifica operações booleanas (corte e união de objetos) | `Ctrl + Shift + B` |
+| **MeasureIt** | Ferramenta de medição e anotação técnica | `View → MeasureIt` |
+| **Images as Planes** | Importa imagens como planos com transparência | `File → Import → Images as Planes` |
+| **3D Print Toolbox** | Verifica erros e prepara modelos para impressão 3D | `Sidebar → 3D-Print` |
+| **Rigify** | Sistema automático de rigging para personagens | `Armature → Rigify Human` |
+| **Cell Fracture** | Quebra objetos em pedaços (efeito destruição) | `Object → Quick Effects → Cell Fracture` |
 
-### ⚙️ Como instalar:
-1. Baixe o arquivo `.zip`  
-2. Vá em **Edit → Preferences → Add-ons → Install**  
-3. Selecione o arquivo `.zip` e ative o add-on  
-
-### 🌴 Recursos:
-- Galhos gerados proceduralmente  
-- Sistema modular (tronco, ramos, folhas)  
-- Exportação leve e compatível com motores de jogo  
-
----
-
-## 🌿 3. Add-ons Profissionais de Vegetação (Pagos)
-
-| Nome | Descrição | Onde Encontrar |
-|------|-------------|----------------|
-| **Botaniq** | Biblioteca de árvores e vegetação fotorrealista | [blendermarket.com/products/botaniq](https://blendermarket.com/products/botaniq) |
-| **The Grove** | Cria árvores realistas que crescem com parâmetros biológicos | [thegrove3d.com](https://www.thegrove3d.com) |
-| **Forestation** | Pacote otimizado de plantas e árvores | [blendermarket.com](https://blendermarket.com) |
+💡 *Dica:* Ativa o **Node Wrangler** AGORA — ele vai te poupar horas no Shader Editor.
 
 ---
 
-## 🪨 4. Pedras — *Add Mesh: Extra Objects*
+## 🪄 2. Add-ons Gratuitos Externos
 
-O Blender já inclui um **gerador de rochas** embutido neste add-on.
-
-### ✅ Como ativar:
-1. Vá em **Edit → Preferences → Add-ons**  
-2. Pesquise **Extra Objects**  
-3. Ative **Add Mesh: Extra Objects**
-
-### ⚙️ Como usar:
-1. `Shift + A → Mesh → Rock Generator`  
-2. Ajuste:
-   - Tamanho  
-   - Detalhamento  
-   - Rugosidade  
-   - Textura procedural  
-
-💎 **Dica:** Use o **Displacement Modifier** com um *Noise Texture* para criar variações realistas.
+| Nome | Função | Link |
+|------|---------|------|
+| **Modular Tree** | Gera árvores realistas com módulos | [github.com/abpy/ModularTree](https://github.com/abpy/ModularTree) |
+| **BlenderKit** | Biblioteca online de modelos, materiais e HDRIs gratuitos | [blenderkit.com](https://www.blenderkit.com) |
+| **MB-Lab** | Cria personagens humanos realistas com rig automático | [mb-lab-community.github.io](https://mb-lab-community.github.io/) |
+| **TexTools** | Ferramentas avançadas de UV e texturização | [github.com/SavMartin/TexTools-Blender](https://github.com/SavMartin/TexTools-Blender) |
+| **Sketch Style** | Gera visuais tipo desenho ou HQ | [gumroad.com/l/sketchstyle](https://gumroad.com/l/sketchstyle) |
+| **Scatter5 (Lite)** | Espalha vegetação e objetos proceduralmente | [blendermarket.com/products/scatter5](https://blendermarket.com/products/scatter5) |
+| **Graswald Lite** | Grama e vegetação realista (versão gratuita) | [graswald3d.com](https://www.graswald3d.com) |
+| **Real Snow** | Cria neve realista sobre qualquer objeto | [blendswap.com/blend/24823](https://blendswap.com/blend/24823) |
 
 ---
 
-## ⛰️ 5. Montanhas e Terrenos — *A.N.T. Landscape*
+## 🧩 3. Add-ons de Modelagem e Escultura
 
-O **A.N.T. Landscape** é outro add-on nativo que gera **montanhas e terrenos** automaticamente.
-
-### ✅ Como ativar:
-1. **Edit → Preferences → Add-ons**  
-2. Pesquise por **A.N.T. Landscape**  
-3. Ative **Add Mesh: A.N.T. Landscape**
-
-### ⚙️ Como usar:
-1. `Shift + A → Mesh → Landscape`  
-2. Ajuste parâmetros no painel:
-   - Tipo de terreno (montanha, deserto, planície, etc.)  
-   - Altura, ruído e tamanho  
-   - Textura procedural para o solo  
-
-💡 **Dica:** Combine com o **Shader Editor** para criar texturas de solo, neve ou areia.
+| Nome | Descrição |
+|------|------------|
+| **Mira Tools** | Deformações e curvas complexas |
+| **Speed Retopo** | Facilita a retopologia manual |
+| **HardOps / BoxCutter** *(pago)* | Modelagem hard-surface profissional |
+| **DECALmachine** *(pago)* | Cria detalhes e adesivos em superfícies metálicas |
 
 ---
 
-## 🧱 6. Dica Extra — Misture Tudo 🌍
+## 🌍 4. Add-ons de Terreno e Natureza
 
-Crie um **ambiente completo** combinando os três add-ons:
+| Add-on | Descrição |
+|---------|------------|
+| **A.N.T. Landscape** | Montanhas e terrenos proceduralmente |
+| **Rock Generator** | Pedras e rochas realistas |
+| **Sapling Tree Gen** | Árvores simples |
+| **Modular Tree** | Árvores detalhadas |
+| **Scatter5 / GeoScatter** | Distribuição procedural de vegetação |
+| **GEO Nodes Assets (3.0+)** | Usar Geometry Nodes para gerar florestas automáticas |
 
-1. Gere um **terreno** com *A.N.T. Landscape*  
-2. Adicione **pedras** com *Rock Generator*  
-3. Complete com **árvores** do *Sapling Tree Gen*  
-4. Ilumine com uma **HDRI** no *World Settings*  
+---
 
-Resultado: 🌄 **um cenário natural pronto para render ou exportação pro Unity!**
+## 💡 5. Add-ons de Render e Iluminação
+
+| Add-on | Função |
+|---------|---------|
+| **Light Manager** | Gerencia luzes da cena rapidamente |
+| **E-Cycles** *(pago)* | Versão otimizada do Cycles (render 2–5x mais rápido) |
+| **Physical Starlight & Atmosphere** | Cria céus, atmosferas e luz solar realista |
+| **Pure Sky Pro** | Gera céus HDR proceduralmente |
+
+---
+
+## 🎥 6. Add-ons de Animação e Rigging
+
+| Add-on | Descrição |
+|---------|------------|
+| **Rigify** | Rig automático de personagens humanos |
+| **Auto Rig Pro** *(pago)* | Rig profissional e compatível com Unity/Unreal |
+| **Animation Nodes** | Animações procedurais via nodos |
+| **Faceit** | Rig facial automático para expressões |
+
+---
+
+## 💾 7. Add-ons de Produtividade
+
+| Add-on | Função |
+|---------|---------|
+| **Node Wrangler** | Manipula nós de materiais de forma rápida |
+| **Pie Menu Editor** | Cria menus circulares personalizados |
+| **Asset Browser (interno)** | Organização e reutilização de modelos e materiais |
+| **Batch Rename** | Renomeia vários objetos de uma vez |
+| **File Browser Enhancer** | Melhora o gerenciador de arquivos do Blender |
+
+---
+
 
