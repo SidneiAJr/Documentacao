@@ -208,4 +208,11 @@ Ideal para projetos maiores e profissionais
 
 Mais trabalho para iniciantes que querem criar GUI rapidamente
 
+## Exemplo de Telas em JavaFX 1:
+
+![Tela1](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20163242.png)
+
+## Exemplo de Telas em JavaFX 2:
+
+![Tela2](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20163348.png)
 
