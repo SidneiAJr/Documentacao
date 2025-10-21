@@ -17,6 +17,8 @@ Marque as seguintes opções:
 - ✅ Auto Popup on Typing Java Dot  
 - ✅ Insert Single Proposals Automatically (opcional)
 
+![Auto Completamente](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20155223.png)
+
 ## Passo 5: Confirmar
 Clique em **Apply** e depois **OK**.
 
@@ -24,6 +26,8 @@ Clique em **Apply** e depois **OK**.
 1. Vá em **Tools → Options → Fonts & Colors**.
 2. Na aba **Profile**, selecione **Dark** ou outro tema escuro.
 3. Clique em **Apply** e **OK**.
+
+![Modo Escuro](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20155243.png)
 
 ## Passo 7: Testar
 Abra um arquivo de código e digite algo, por exemplo:
