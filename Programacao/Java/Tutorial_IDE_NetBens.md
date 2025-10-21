@@ -220,5 +220,5 @@ Mais trabalho para iniciantes que querem criar GUI rapidamente
 ![tela3](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20163608.png)
 
 ## Tools de Menu NetBeans:
-https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20163620.png
+![Menus](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20163620.png)
 
