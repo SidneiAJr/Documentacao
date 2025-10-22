@@ -8,6 +8,7 @@
 - Suporte nativo para **Spring**, **JavaFX**, **Kotlin**, **Scala**, entre outros.
 - **Performance**: Rápido, principalmente para grandes projetos, com menos lag no carregamento e navegação.
 
+
 ### **Desvantagens**:
 - **JavaFX não é nativo** na IDE, o que exige plugins adicionais ou configuração manual.
 - O **uso de JavaFX no IntelliJ** pode ter desempenho inferior quando comparado a outras IDEs que oferecem suporte nativo.
