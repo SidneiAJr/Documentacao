@@ -274,7 +274,7 @@ namespace MeuProjeto.Modelos {
     public class Produto { }
 }
 ```
-C# é case-sensitive, ou seja, diferencia maiúsculas de minúsculas (Console ≠ console).
+***C# é case-sensitive, ou seja, diferencia maiúsculas de minúsculas (Console ≠ console)***.
 
 == é o operador de comparação; não use === como em JavaScript.
 
@@ -282,4 +282,3 @@ Para imprimir no console, use sempre Console.WriteLine().
 
 Métodos e classes em C# usam PascalCase por convenção.
 
-Variáveis geralmente seguem o padrão camelCase.
