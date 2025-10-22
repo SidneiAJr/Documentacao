@@ -182,6 +182,7 @@ lista.Reverse();           // Inverte
 lista.ForEach(Console.WriteLine); // Itera
 ```
 
+## IF/ELSE
 ```C#
 int n1 = 10;
 int n2 = 20;
@@ -192,12 +193,15 @@ if (n1 == n2) {
     Console.WriteLine("Não são iguais");
 }
 ```
+## LOOP FOR
 
 ```C#
 for (int i = 0; i <= 10; i++) {
     Console.WriteLine($"Incrementando: {i}");
 }
 ```
+
+## LOOP While
 
 ```C#
 int i = 0;
@@ -206,7 +210,7 @@ while (i < 5) {
     i++;
 }
 ```
-
+## Array
 ```C#
 int[] numeros = { 1, 2, 3 };
 foreach (int n in numeros) {
