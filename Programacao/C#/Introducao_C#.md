@@ -234,7 +234,7 @@ static void Main() {
 
 - Tipos de Dados e Conversões
 
-- Explique casting implícito e explícito, Convert.ToInt32(), ToString().
+- ***Explique casting implícito e explícito, Convert.ToInt32(), ToString()***.
 
 - Mostre exemplos de conversão entre int, double, string.
 
