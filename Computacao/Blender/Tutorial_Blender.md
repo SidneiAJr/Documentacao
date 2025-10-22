@@ -35,7 +35,7 @@ O **Blender** é um software **gratuito e open-source** para:
 | **Timeline** | Usada para animações |
 | **Tool Shelf (T)** | Ferramentas rápidas de modelagem |
 
-Interface Inicial:
+## Interface Inicial:
 ![Interface Inicial](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20212859.png)
 
 ### 🧭 Navegação:
@@ -48,13 +48,13 @@ Interface Inicial:
 | Centralizar objeto | **Numpad .** |
 | Perspectiva/Ortográfica | **Numpad 5** |
 
-Navegação:
+## Navegação:
 ![Menu](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20212909.png)
 
-Preferencias:
+## Preferencias:
 ![Preferencias](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20212940.png)
 
-Renderizador:
+## Renderizador:
 ![Renderizado](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20212955.png)
 
 ---
