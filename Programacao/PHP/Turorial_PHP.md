@@ -20,7 +20,7 @@ PHP é uma linguagem de **script do lado do servidor**, usada principalmente par
 <?php
 echo "Hello World!";
 ?>
-
+```
 
 ## Tipos de Variaveis:
 
