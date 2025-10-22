@@ -1,71 +1,58 @@
-# Lista de host de Sites para PHP:
+# Lista de Hosts para Sites em PHP
 
-## 1. InfinityFree
+Aqui estão algumas opções de **hospedagem gratuita** que você pode utilizar para **testar** ou **rodar projetos pequenos** em PHP. As opções variam em capacidade, suporte a PHP, banco de dados e tráfego mensal.
 
-Gratuito e sem anúncios.
+---
 
-Suporta PHP (até PHP 8.0) e MySQL.
+## 1. [**InfinityFree**](https://infinityfree.net/)
+- **Gratuito e sem anúncios**
+- Suporta **PHP** (até versão 8.0) e **MySQL**
+- **Sem limite de tráfego**, mas com limite de uso de **CPU**
+- **5 GB de espaço em disco**
+- Suporte a **FTP** e painel de controle
+- **Ideal para**: Projetos pequenos, sites pessoais ou testes simples
 
-Sem limite de tráfego (mas com limite de uso de CPU).
+---
 
-5 GB de espaço em disco.
+## 2. [**000WebHost**](https://www.000webhost.com/)
+- **Plano grátis com limitações**
+- Suporta **PHP** (até versão 5.6) e **MySQL**
+- **1 GB de armazenamento** e **10 GB de tráfego mensal**
+- **Sem SSL gratuito**, mas bom para testes rápidos
+- **Limitado a 1 site** por conta
+- **Fácil de configurar**, ideal para iniciantes
 
-Suporte a FTP e painel de controle.
+---
 
-Ideal para projetos pequenos, sites pessoais, ou testar algo simples.
+## 3. [**AwardSpace**](https://www.awardspace.com/)
+- **Plano grátis** com **PHP** e **MySQL**
+- **1 GB de armazenamento** e **5 GB de tráfego por mês**
+- Suporta **domínios personalizados**, mas precisa de upgrade para SSL
+- **Limitado a 1 banco de dados MySQL**
 
-## 2. 000WebHost
+---
 
-Grátis com limitações.
+## 4. [**ByetHost**](https://byet.host/)
+- **Gratuito com PHP 8.x** e **MySQL**
+- **1 GB de espaço em disco** e **50 GB de tráfego mensal**
+- Suporta **FTP** e **painel cPanel**
+- **Ideal para sites de teste** ou pequenas aplicações PHP
 
-Suporta PHP (até 5.6) e MySQL.
+---
 
-1 GB de armazenamento e 10 GB de tráfego mensal.
+## 5. [**FreeHostia**](https://www.freehostia.com/)
+- **Plano grátis** com **PHP 7.x** e **MySQL**
+- **250 MB de espaço** e **6 GB de tráfego mensal**
+- **Limitado** mas útil para **sites simples** ou **testes rápidos**
 
-Não tem SSL gratuito, mas serve bem para projetos de teste.
+---
 
-Limitado a 1 site por conta.
+## 6. [**Vercel**](https://vercel.com/)
+- **Funciona com PHP via Docker** (mas requer configuração avançada)
+- **Sem suporte nativo ao PHP**
+- Ideal para **Next.js** com **PHP backend** usando **Docker**
+- **Recomendado para quem**: Já está familiarizado com **containers** e precisa de uma solução mais flexível
 
-Famoso por ser super simples de configurar.
+---
 
-## 3. AwardSpace
-
-Plano grátis com PHP e MySQL.
-
-1 GB de armazenamento e 5 GB de tráfego por mês.
-
-Suporta domínios personalizados, mas precisa de upgrade para SSL.
-
-Limitado a 1 banco de dados MySQL.
-
-## 4. ByetHost
-
-Gratuito com PHP 8.x e MySQL.
-
-1 GB de espaço em disco e 50 GB de tráfego mensal.
-
-Suporta FTP e painel cPanel.
-
-Excelente para sites de teste ou pequenas aplicações PHP.
-
-Bom suporte a PHP, ideal para rodar scripts e pequenas páginas dinâmicas.
-
-## 5. FreeHostia
-
-Plano grátis com PHP 7.x e MySQL.
-
-250 MB de espaço e 6 GB de tráfego mensal.
-
-Mais limitado, mas serve bem para sites simples ou testar.
-
-## 6. Vercel
- — Funciona com PHP via Docker (um pouco mais técnico)
-
-Sem suporte nativo ao PHP.
-
-No entanto, você pode usar Docker para rodar um container PHP (mas isso exige mais configuração).
-
-Ótimo se você quiser usar front-end com algo como Next.js + PHP backend no Docker.
-
-Ideal para quem já está familiarizado com containers e quer testar com servidor PHP customizado.
-
+Se você estiver procurando algo mais robusto, considere **migrar para opções pagas** como **Hostinger** ou **Render**, que oferecem planos mais completos para produção.
