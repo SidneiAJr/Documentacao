@@ -55,14 +55,14 @@
 
 ### Dica:
 - Se o **JavaFX** é sua principal prioridade e você não quer lidar com configurações extras, o **NetBeans** será a escolha mais prática.
-- Para quem já está habituado com **autocompletar rápido** e refatoração, o **IntelliJ** oferece uma experiência mais polida e poderosa, apesar de exigir um pouco
+- Para quem já está habituado com **autocompletar rápido** e refatoração, o **IntelliJ** oferece uma experiência mais polida e poderosa, apesar de exigir um pouco 
+mais de configuração inicial.
 
 ## JavaFX | NetBeans vs Intejij
 
-Netbeans:
+Netbeans(Java FX- Interface)
 ![Javafx](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-21%20163242.png)
 
 
 
-mais de configuração inicial.
 
