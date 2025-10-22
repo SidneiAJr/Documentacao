@@ -217,6 +217,7 @@ foreach (int n in numeros) {
     Console.WriteLine(n);
 }
 ```
+
 ```C#
 static int Soma(int a, int b) {
     return a + b;
@@ -229,8 +230,50 @@ static void Main() {
 }
 ```
 
-## Observações Importantes
+## Converter Tipos
 
+Tipos de Dados e Conversões
+
+Explique casting implícito e explícito, Convert.ToInt32(), ToString().
+
+Mostre exemplos de conversão entre int, double, string.
+
+## 6. Tratamento de Erros e Exceções
+
+Uso de try, catch, finally
+
+Criação de exceções personalizadas
+
+Exemplo:
+```C#
+try {
+    int x = 10 / 0;
+} catch (DivideByZeroException e) {
+    Console.WriteLine("Erro: divisão por zero!");
+}
+```
+
+## 🧰 7. Manipulação de Arquivos
+
+File.WriteAllText(), File.ReadAllText()
+
+StreamReader, StreamWriter
+
+Exemplo:
+```C#
+File.WriteAllText("dados.txt", "Olá, C#!");
+string texto = File.ReadAllText("dados.txt");
+Console.WriteLine(texto);
+## Observações Importantes
+```
+## 🔄 8. Namespaces e Organização
+
+Explicar como organizar classes e usar namespaces:
+```C#
+namespace MeuProjeto.Modelos {
+    public class Produto { }
+}
+```
 C# é case-sensitive, ou seja, diferencia maiúsculas de minúsculas (Console ≠ console).
 
 == é o operador de comparação; não use === como em JavaScript.
