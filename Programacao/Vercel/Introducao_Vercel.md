@@ -18,6 +18,14 @@ Conecte com sua conta GitHub (ou GitLab/Bitbucket)
 
 Autorize a Vercel a acessar seus repositórios
 
+## Selecionando Tipo de Conta:
+
+![Criando Conta](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-22%20093920.png)
+
+## Criando a Aplicação:
+
+![Importando Aplicacao](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-22%20094011.png)
+
 ## 2️⃣ Subir Projeto no GitHub (se ainda não tiver)
 
 Se seu projeto ainda não está no GitHub, faça isso:
