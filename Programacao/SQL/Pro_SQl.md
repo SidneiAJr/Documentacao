@@ -2,11 +2,11 @@
 
 ## 📘 Exemplo:
 
-1FN → Cada célula contém um único valor.
+- 1FN → Cada célula contém um único valor.
 
-2FN → Todo atributo não chave depende da chave inteira.
+- 2FN → Todo atributo não chave depende da chave inteira.
 
-3FN → Nenhum atributo depende de outro atributo não chave.
+- 3FN → Nenhum atributo depende de outro atributo não chave.
 
 ## ⚡ 2️⃣ Joins Avançados e Auto-Joins
 
