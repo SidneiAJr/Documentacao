@@ -1,4 +1,4 @@
-# Tutorial de Tratamento de Erros em Java com try-catch
+# ❌Tutorial de Tratamento de Erros em Java com try-catch
 
 ## O que é?
 
