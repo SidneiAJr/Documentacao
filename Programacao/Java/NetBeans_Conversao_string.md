@@ -4,7 +4,7 @@ Objetivo: aprender como usar os métodos mais comuns de componentes JavaFX e Swi
 
 ## 🧩 2. Métodos Importantes
 
-- ***getText()***
+## getText()
 
 Usado para pegar o texto digitado em um campo (TextField, TextArea, etc.).
 
