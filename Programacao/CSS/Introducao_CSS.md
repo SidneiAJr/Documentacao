@@ -67,4 +67,12 @@ body {
 }
 ```
 
+## Estilizando Texto H1 e P:
+
+```css
+h1,p{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+```
 
