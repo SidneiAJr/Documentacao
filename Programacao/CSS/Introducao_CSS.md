@@ -27,7 +27,6 @@ body {
 - Colocando Glass de efeito no css dentro da .b
 - Dando um padding na caixa .a para espamento na pagina.
 
-
 ```css
 .a {
     padding: 100px;
@@ -48,3 +47,24 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.3);
 }
 ```
+
+## Estilizando o botão e colocando efeito:
+
+```css
+.btn {
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.btn:hover{
+    font-weight: bolder;
+    font-size: 19px;
+    cursor: pointer;
+}
+```
+
+
