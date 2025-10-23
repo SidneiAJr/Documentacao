@@ -13,6 +13,7 @@
 ## Entrada de Informação:
 
 - ***Em JavaFX, o valor geralmente entra como String, e precisa ser convertido para double ou int***
+- ***Valor em Textinput***
 
 - ***Para pegar o texto da interface, usamos getText().***
 
