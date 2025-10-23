@@ -99,6 +99,22 @@ Os submarinos não servem apenas para fins militares — existem muitos **usos p
 
 ---
 
+## 🌬️ Sistema de Respiração — Snorkel
+
+Os submarinos que funcionam com motores a combustão (diesel) não podem operar por muito tempo totalmente submersos, pois esses motores precisam de ar para queimar combustível.
+Para resolver isso, eles utilizam um sistema chamado snorkel (ou mastro de ar).
+
+O snorkel é um tubo retrátil que se eleva até a superfície enquanto o submarino está logo abaixo d’água.
+Ele permite:
+
+Entrada de ar para o motor e para renovação do ar interno.
+
+Saída dos gases de exaustão do motor diesel.
+
+Assim, o submarino pode permanecer quase invisível, mantendo só o snorkel exposto, enquanto recarrega as baterias e ventila o interior.
+
+⚠️ O snorkel é usado apenas em profundidades rasas — se o mar estiver agitado ou o tubo for submerso, os motores são automaticamente desligados para evitar entrada de água.
+
 ## 🧠 Conclusão
 
 O submarino é um dos inventos mais fascinantes da engenharia moderna.  
