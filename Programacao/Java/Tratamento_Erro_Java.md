@@ -77,7 +77,5 @@ private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {
         } else {
             lb_saida.setText("Campo vazio! Digite um valor.");
         }
-```
-
-
-    }                                       
+    }
+```                                
