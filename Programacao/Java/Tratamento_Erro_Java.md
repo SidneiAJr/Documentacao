@@ -17,6 +17,7 @@
 - Para trabalhar com esses valores como números (double, int), é necessário converter a String para o tipo numérico desejado.
 
 - Para pegar o texto digitado pelo usuário na interface, utilizamos o método:
+- getText();
 
 - Após a conversão, você pode fazer validações, exibir mensagens ou seguir com cálculos.
 
