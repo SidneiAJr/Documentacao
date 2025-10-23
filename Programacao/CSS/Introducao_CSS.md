@@ -24,3 +24,27 @@ body {
 - Diferença entre classe e ID
 - class no css tu usa .
 - ID tu chama com #
+- Colocando Glass de efeito no css dentro da .b
+- Dando um padding na caixa .a para espamento na pagina.
+
+
+```css
+.a {
+    padding: 100px;
+}
+
+.b {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+```
