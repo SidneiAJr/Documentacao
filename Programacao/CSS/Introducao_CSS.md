@@ -1,4 +1,7 @@
-# Tutorial de CSS:
+# 🎨 Tutorial de CSS — Estilo Moderno com Glass Effect e Gradient
+🔧 Resetando o estilo global (para todos os navegadores)
+
+- Antes de começar a estilizar, é importante “resetar” as propriedades padrão dos navegadores, garantindo que todos comecem do mesmo ponto.
 
 ## Resetando Globalmente para todos os navegadores
 ```css
