@@ -8,7 +8,7 @@
 
 ***Exemplo comum: tratar erros de conversão de texto para número (NumberFormatException)***
 
-***Em JavaFx o valor entra em String precisa ser convertido para double ou int ou STring novamente podendo fazer verificação com string.***
+***Em JavaFx o valor entra em String precisa ser convertido para double ou int ou String novamente podendo fazer verificação com string.***
 
 ## Entrada de Informação:
 
