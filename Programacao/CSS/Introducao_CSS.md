@@ -22,13 +22,14 @@ body {
 }
 ```
 
-## Estilizando a div(caixa) pela classe .a e .b
+## 🧱 Estilizando as divs .a e .b
+Diferença entre classe e ID
 
-- Diferença entre classe e ID
-- class no css tu usa .
-- ID tu chama com #
-- Colocando Glass de efeito no css dentro da .b
-- Dando um padding na caixa .a para espamento na pagina.
+No CSS, usamos ponto (.) para selecionar uma classe.
+Exemplo: .a { ... }
+
+E usamos cerquilha (#) para selecionar um ID.
+Exemplo: #meuId { ... }
 
 ```css
 .a {
