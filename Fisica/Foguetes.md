@@ -1,7 +1,7 @@
 # 🚀 Desenvolvimento do Foguete
 
 ## Introdução / História (resumida)
-Os primeiros foguetes modernos começaram a ser desenvolvidos nas primeiras décadas do século XX. Durante a Segunda Guerra Mundial, foguetes como os alemães **V-1** e **V-2** demonstraram o potencial da tecnologia de foguetes em grande escala. Após a guerra, avanços continuaram e culminaram em veículos maiores e mais sofisticados, como o **Saturno V**, que levou o ser humano à Lua.
+Os primeiros foguetes modernos começaram a ser desenvolvidos nas primeiras décadas do século XX. Durante a Segunda Guerra Mundial, foguetes como os alemães **V-1** e **V-2** demonstraram o potencial da tecnologia de foguetes em grande escala. Após a guerra, avanços continuaram e culminaram em veículos maiores e mais sofisticados, como o **Saturno V**, o foguetes russos tambem como o **soyuz*** que levou o ser humano à Lua.
 
 > Observação: este projeto é de caráter educativo e visa entender os princípios físicos que regem o voo de foguetes, desde conceitos fundamentais até experimentos simples (como foguetes d'água).
 
