@@ -33,7 +33,6 @@ onde:
 - \(p_a\) é a pressão ambiente,
 - \(A_e\) é a área da saída (m²).
 
-Para foguetes escolares (ex.: foguete d'água), o termo predominante é \(\dot{m} \cdot v_e\).
 
 ---
 
