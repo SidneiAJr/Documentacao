@@ -12,12 +12,13 @@
 
 ## Entrada de Informação:
 
-- ***Em JavaFX, o valor geralmente entra como String, e precisa ser convertido para double ou int***
-- ***Valor em Textinput***
+- Em JavaFX, os valores geralmente entram como String (texto) via componentes de entrada, como TextField ou TextInput.
 
-- ***Para pegar o texto da interface, usamos getText().***
+- Para trabalhar com esses valores como números (double, int), é necessário converter a String para o tipo numérico desejado.
 
-Após a conversão, você pode fazer validações, exibir mensagens ou seguir com cálculos.
+- Para pegar o texto digitado pelo usuário na interface, utilizamos o método:
+
+- Após a conversão, você pode fazer validações, exibir mensagens ou seguir com cálculos.
 
 ## Exemplo de Ação do Botão com tratamento de erro para formação de number:
 
