@@ -1,48 +1,45 @@
-# 🎨 Criar um JFrame Form
+# 🧠 Tutorial de Componentes de Saída no NetBeans (Java Swing)
 
-No painel Projects, clique com o botão direito sobre o pacote (ex: exemplo).
+## 📘 Introdução
+Neste tutorial, você vai aprender sobre os principais **componentes de saída** usados em **Java Swing**, dentro do **NetBeans IDE**.  
+Esses componentes servem para **mostrar informações, mensagens ou resultados** ao usuário.
 
-Vá em New > JFrame Form.
+---
 
-Dê um nome (ex: TelaPrincipal) e clique em Finish.
+## 🏷️ 1. JLabel
 
-Isso abrirá o editor visual do NetBeans.
+### 💡 O que é
+O `JLabel` é um rótulo de texto usado para **mostrar informações simples** na tela.
 
-## 🏷️ 3. Adicionar um JLabel
+### 🧩 Exemplo
+```java
+JLabel label = new JLabel("Resultado:");
+label.setText("Soma = 10");
+```
 
-No painel Palette (à direita), localize Swing Controls > Label.
+### JTextArea
+💡 O que é
 
-Arraste e solte um JLabel na tela.
+O JTextArea é uma área de texto com múltiplas linhas, usada para exibir textos longos (mensagens, relatórios, logs, etc.).
 
-Clique nele e, na janela Properties, altere:
+### JTextField
+💡 O que é
 
-text → “Digite algo:”
+O JTextField é geralmente usado para entrada de texto, mas também pode ser usado para mostrar resultados curtos (uma única linha).
 
-font (opcional) → escolha uma fonte maior se quiser.
+### JOptionPane
+💡 O que é
 
-## 🏷️ JLabel
+O JOptionPane é usado para mostrar mensagens em janelas pop-up.
+Perfeito para avisos, erros ou confirmações.
 
-Um Label é um rótulo — um texto fixo que serve para identificar ou descrever algo na interface.
-👉 Exemplo: “Digite seu nome:”, “Mensagem:”, “Resultado:”.
+### JTable
+💡 O que é
 
-## 4️⃣ Adicionar um JTextArea
+O JTable serve para mostrar dados organizados em linhas e colunas, como uma planilha ou tabela de resultados.
 
-Na Palette, procure Swing Controls → Text Area.
+### 7. JTextPane e JEditorPane
+💡 O que são
 
-Arraste e solte o componente abaixo do Label.
-
-Para permitir rolagem (caso o texto seja grande):
-
-Clique com o botão direito sobre o JTextArea
-
-Escolha Surround With → JScrollPane
-
-Nas Properties:
-
-lineWrap = true (quebra de linha automática)
-
-wrapStyleWord = true (quebra por palavra)
-
-rows = 5
-
-columns = 20
+Esses componentes são versões mais avançadas do JTextArea.
+Eles permitem formatação de texto (cores, negrito, HTML, etc.).
