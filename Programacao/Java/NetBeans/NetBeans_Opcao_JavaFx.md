@@ -38,6 +38,20 @@ Perfeito para avisos, erros ou confirmações.
 
 O JTable serve para mostrar dados organizados em linhas e colunas, como uma planilha ou tabela de resultados.
 
+
+## 🧠 Resumo Geral
+
+| 🧩 **Componente** | 💬 **Tipo de Saída** | 🎯 **Ideal para** | 🧾 **Exemplo** |
+|--------------------|----------------------|------------------|----------------|
+| `JLabel` | Texto simples | Mostrar mensagens curtas | “Resultado: 10” |
+| `JTextField` | Uma linha | Exibir valores rápidos | “Usuário: João” |
+| `JTextArea` | Múltiplas linhas | Logs e textos longos | Texto com várias linhas |
+| `JOptionPane` | Pop-up | Avisos e confirmações | “Sucesso!” |
+| `JTable` | Tabela | Dados organizados | Lista de registros |
+| `JList` | Lista | Itens selecionáveis | “Item 1, Item 2…” |
+| `JTextPane` / `JEditorPane` | Texto formatado | HTML e cores | Texto estilizado |
+
+
 ### 7. JTextPane e JEditorPane
 💡 O que são
 
