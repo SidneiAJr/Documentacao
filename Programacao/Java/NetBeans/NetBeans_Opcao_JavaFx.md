@@ -38,6 +38,11 @@ Perfeito para avisos, erros ou confirmações.
 
 O JTable serve para mostrar dados organizados em linhas e colunas, como uma planilha ou tabela de resultados.
 
+### 7. JTextPane e JEditorPane
+💡 O que são
+
+Esses componentes são versões mais avançadas do JTextArea.
+Eles permitem formatação de texto (cores, negrito, HTML, etc.).
 
 ## 🧠 Resumo Geral
 
@@ -51,9 +56,3 @@ O JTable serve para mostrar dados organizados em linhas e colunas, como uma plan
 | `JList` | Lista | Itens selecionáveis | “Item 1, Item 2…” |
 | `JTextPane` / `JEditorPane` | Texto formatado | HTML e cores | Texto estilizado |
 
-
-### 7. JTextPane e JEditorPane
-💡 O que são
-
-Esses componentes são versões mais avançadas do JTextArea.
-Eles permitem formatação de texto (cores, negrito, HTML, etc.).
