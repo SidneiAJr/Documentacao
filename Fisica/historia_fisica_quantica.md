@@ -8,7 +8,7 @@ Ela é a base para tecnologias modernas como **computadores, LEDs, lasers, GPS, 
 ## 📜 1. As Origens (início do século XX)
 
 A física clássica **não conseguia explicar certos fenômenos**, como:
-- a **radiação do corpo **
+- a **radiação do corpo**
 - o **efeito fotoelétrico**
 - a **estabilidade dos átomos**
 
