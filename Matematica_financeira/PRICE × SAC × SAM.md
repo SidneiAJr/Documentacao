@@ -24,4 +24,4 @@ Se quiser, posso criar AGORA:
 ✅ **Simulação em Java ou Excel**  
 ✅ **Gráfico comparando as parcelas visualmente**
 
-É só dizer: **"quero exemplo"**, ou **"faz simulador"**, ou **"quero gráfico"**.
+
