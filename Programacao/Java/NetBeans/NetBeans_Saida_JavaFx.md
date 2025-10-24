@@ -22,7 +22,7 @@ label.setText("Soma = 10");
 
 O JTextArea é uma área de texto com múltiplas linhas, usada para exibir textos longos (mensagens, relatórios, logs, etc.).
 
-```
+```Java
 1️⃣ Saída de valores financeiros
 jt_saida1.setText(
     "Valor Pix: R$ " + String.format("%.2f", valorPix) + "\n" +
