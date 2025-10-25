@@ -65,4 +65,3 @@ Eles enviam **alertas de tempestades solares**, permitindo que:
 A **maior tempestade solar já registrada** foi a de **1859**, chamada **Evento Carrington**.  
 Ela fez **telégrafos pegarem fogo** e **auroras serem vistas até na América Central!**
 
-Se um evento desse tamanho acontecesse hoj
