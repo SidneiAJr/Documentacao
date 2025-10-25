@@ -144,6 +144,7 @@ public class Main {
 >=	Maior ou igual	a >= b
 ```
 
+## Switch Case:
 ```Java
 int dia = 3;
 switch (dia) {
@@ -153,7 +154,7 @@ switch (dia) {
     default: System.out.println("Dia inválido");
 }
 ```
-
+## Loop do int
 ```Java
 int i = 0;
 do {
@@ -162,6 +163,7 @@ do {
 } while (i < 10);
 ```
 
+## POO Java
 ```Java
 public class Pessoa {
     String nome;
