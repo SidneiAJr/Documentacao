@@ -48,32 +48,4 @@ public class Bola : MonoBehaviour
 
 ---
 
-## 🎮 **Input_e_Movimentacao_Unity.md**
 
-```markdown
-# 🎮 Input e Movimentação na Unity
-
-## 🧭 Introdução
-O sistema de **Input** controla teclas, mouse, joystick e toques na tela.  
-É a base da movimentação de personagens e interação com o jogo.
-
----
-
-## ⌨️ Movimento básico (2D/3D)
-
-```csharp
-using UnityEngine;
-
-public class Movimento : MonoBehaviour
-{
-    public float velocidade = 5f;
-
-    void Update()
-    {
-        float moveX = Input.GetAxis("Horizontal");
-        float moveZ = Input.GetAxis("Vertical");
-
-        Vector3 direcao = new Vector3(moveX, 0, moveZ);
-        transform.Translate(direcao * velocidade * Time.deltaTime);
-    }
-}
