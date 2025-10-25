@@ -24,6 +24,7 @@ Marca ou desmarca uma CheckBox ou RadioButton via código.
 
 Usado em ComboBox ou ListView pra saber qual item foi selecionado.
 
+
 ## 🔢 .setModel(new javax.swing.SpinnerNumberModel()) (Swing, não JavaFX)
 
 Se estiver usando JSpinner (Swing), define o modelo numérico do spinner.
