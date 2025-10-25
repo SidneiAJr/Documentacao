@@ -1,8 +1,8 @@
-## 🧠 **Unity_Interfaces_UI.md**  
+# 🧠 **Unity_Interfaces_UI.md**  
 (com **Slider** e **Image** incluídos 👇)
 
 
-# 🧠 Interface (UI) na Unity — Botões, Sliders e Imagens
+## 🧠 Interface (UI) na Unity — Botões, Sliders e Imagens
 
 ## 🧭 Introdução
 A UI (Interface do Usuário) permite interagir com o jogo: menus, barras de vida, botões e textos.  
