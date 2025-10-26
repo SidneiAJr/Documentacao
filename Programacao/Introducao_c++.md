@@ -58,14 +58,14 @@ if (a > b) {
     cout << "B é maior ou igual a A" << endl;
 }
 ```
-### 🔹 `for` — Contador com início e fim definidos
+## 🔹 `for` — Contador com início e fim definidos
 
 ```cpp
 for (int i = 0; i < 5; i++) {
     cout << "Valor de i: " << i << endl;
 }
 ```
-## while — Executa enquanto a condição for verdadeira
+## 🔹 while — Executa enquanto a condição for verdadeira
 
 int contador = 0;
 ```cpp
@@ -75,7 +75,7 @@ while (contador < 3) {
 }
 ```
 
-## Estrutura de uma Função
+## 🔹 Estrutura de uma Função
 ```cpp
 tipo_retorno nome_da_funcao(parâmetros) {
     // código
