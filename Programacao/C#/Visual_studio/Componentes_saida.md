@@ -1,5 +1,3 @@
-## 🖥️ **3️⃣ Tutorial — Componentes de Saída no Visual Studio**
-
 # 🖥️ Tutorial — Componentes de Saída no Visual Studio (C#)
 
 ## 🎯 Objetivo
