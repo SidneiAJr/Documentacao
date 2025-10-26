@@ -1,87 +1,39 @@
-# 🪟 Alterar Ícone e Título da Janela (Swing & JavaFX)
+# 🖼️ Tutorial — Inserir Imagens e Ícones em Botões (Swing e JavaFX)
 
 ## 🎯 Objetivo
-Aprender a mudar o **título** da janela e adicionar um **ícone personalizado** na aplicação.
+Aprender a adicionar **ícones e imagens** em botões (`JButton` no **Swing** e `Button` no **JavaFX**) para deixar sua interface mais visual e profissional.
 
 ---
 
-## 🧩 Swing
+## ☕ 1️⃣ Botões com Ícone no **Java Swing**
 
-### 📝 Exemplo
-```java
-import javax.swing.*;
+O Swing permite adicionar imagens aos botões usando a classe `ImageIcon`.
 
-public class JanelaIcone {
-    public static void main(String[] args) {
-        JFrame frame = new JFrame("Minha Primeira Janela");
-        frame.setSize(400, 300);
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
-        // Define o título
-        frame.setTitle("Sistema Financeiro 💰");
-
-        // Define o ícone
-        ImageIcon icone = new ImageIcon("src/imagens/logo.png");
-        frame.setIconImage(icone.getImage());
-
-        frame.setVisible(true);
-    }
-}
-```
-
-```java
-import javafx.application.Application;
-import javafx.scene.Scene;
-import javafx.scene.image.Image;
-import javafx.stage.Stage;
-
-public class JanelaFX extends Application {
-    @Override
-    public void start(Stage stage) {
-        stage.setTitle("Tela Principal 🪙");
-        stage.getIcons().add(new Image("file:src/imagens/icon.png"));
-        stage.setScene(new Scene(new javafx.scene.layout.StackPane(), 400, 300));
-        stage.show();
-    }
-
-    public static void main(String[] args) {
-        launch();
-    }
-}
-```
-
-
----
-
-## 🖼️ **2️⃣ Inserir Imagens e Ícones em Botões**
-
-
-# 🖼️ Inserir Imagens e Ícones em Botões
-
-## 🎯 Objetivo
-Aprender a adicionar **ícones e imagens** em botões (`JButton` no Swing e `Button` no JavaFX).
-
----
-
-## 🧩 Swing
-
+### 🧩 Exemplo Completo
 ```java
 import javax.swing.*;
 import java.awt.*;
 
-public class BotoesComIcone {
+public class BotaoComIconeSwing {
     public static void main(String[] args) {
+        // Cria a janela principal
         JFrame frame = new JFrame("Botão com Ícone");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(300, 200);
-
-        JButton botao = new JButton("Salvar");
-        botao.setIcon(new ImageIcon("src/imagens/save.png"));
-        botao.setHorizontalTextPosition(SwingConstants.RIGHT);
-
         frame.setLayout(new FlowLayout());
+
+        // Cria o botão com texto
+        JButton botao = new JButton("Salvar");
+
+        // Adiciona o ícone ao botão
+        botao.setIcon(new ImageIcon("src/imagens/save.png"));
+
+        // Define a posição do texto em relação ao ícone
+        botao.setHorizontalTextPosition(SwingConstants.RIGHT);
+        botao.setVerticalTextPosition(SwingConstants.CENTER);
+
+        // Adiciona o botão à janela
         frame.add(botao);
         frame.setVisible(true);
     }
 }
-```
