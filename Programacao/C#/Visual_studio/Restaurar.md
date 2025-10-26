@@ -1,6 +1,3 @@
-## 🔁 **2️⃣ Tutorial — Restauração de Campos no Visual Studio**
-
-
 # ♻️ Tutorial — Restauração de Campos no Visual Studio (C#)
 
 ## 🎯 Objetivo
