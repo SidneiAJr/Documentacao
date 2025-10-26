@@ -39,7 +39,7 @@ Exemplo:
 let numero = 10;
 const nome = "Sidnei";
 var ativo = true;
-
+```
 
 ## Loop: 
 ```JS
