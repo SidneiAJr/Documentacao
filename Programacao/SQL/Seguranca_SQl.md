@@ -9,5 +9,11 @@ Cada usuário deve ter apenas as permissões necessárias para executar suas tar
 
 ### MySQL
 ```sql
-CREATE USER ''@'localhost' IDENTIFIED BY 'senha123';
-```
+CREATE USER ''@'localhost' IDENTIFIED BY '';
+REVOKE DELETE ON banco_dados.* FROM ''@'localhost';
+ALTER USER ''@'localhost' IDENTIFIED BY '';
+SHOW GRANTS FOR ''@'localhost';
+
+
+```SHOW GRANTS FOR 'sidnei'@'localhost';
+
