@@ -16,6 +16,20 @@ int main() {
 }
 ```
 
+## 🧩 Explicação:
+
+#include <iostream> → adiciona a biblioteca de entrada/saída
+
+- using namespace std; → permite usar cout, cin, endl sem prefixo
+
+- int main() → ponto de entrada do programa
+
+- cout → saída (exibe informações no console)
+
+- endl → quebra de linha
+
+return 0 → encerra o programa com sucesso
+
 ```cpp
 int a = 10, b = 5;
 cout << a + b << endl; // soma
