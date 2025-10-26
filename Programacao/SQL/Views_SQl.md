@@ -1,5 +1,3 @@
-
-
 ## 🧱 5️⃣ VIEWS (Visões)
 ```SQL
 Criam consultas salvas que funcionam como tabelas virtuais.
