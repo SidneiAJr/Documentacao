@@ -35,21 +35,3 @@ try {
 
 ---
 
-## 🖱️ **2️⃣ Eventos de Botões e Atalhos no Java Swing**
-
-```markdown
-# 🖱️ Tutorial — Eventos de Botões e Atalhos no Java Swing
-
-## 🎯 Objetivo
-Aprender como **criar eventos para botões** e **definir atalhos de teclado** em uma aplicação Swing.
-
----
-
-## 🧩 Evento de Clique em Botão
-```java
-btnCalcular.addActionListener(new ActionListener() {
-    @Override
-    public void actionPerformed(ActionEvent e) {
-        JOptionPane.showMessageDialog(null, "Botão clicado!");
-    }
-});
