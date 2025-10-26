@@ -1,4 +1,4 @@
-##⚡ 3️⃣ FUNÇÕES DE AGREGAÇÃO
+## ⚡ 3️⃣ FUNÇÕES DE AGREGAÇÃO
 ```SQL
 SELECT 
     e.nome_especie,
