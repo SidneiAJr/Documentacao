@@ -1,6 +1,3 @@
-## 🔐 **Seguranca_Cpp.md**
-
-
 # 🔐 Segurança em C++
 
 ## 🎯 Objetivo
