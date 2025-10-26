@@ -2,6 +2,17 @@
 
 C++ é uma linguagem poderosa, de alto desempenho e controle total sobre memória — essencial no desenvolvimento de **jogos, sistemas embarcados e engines**.
 
+| Tipo | Descrição | Exemplo de Valor | Tamanho Aproximado |
+|------|------------|------------------|--------------------|
+| `int` | Números inteiros | `10`, `-5`, `2000` | 4 bytes |
+| `float` | Números decimais de precisão simples | `3.14`, `-0.5` | 4 bytes |
+| `double` | Números decimais de precisão dupla | `2.718281828` | 8 bytes |
+| `char` | Um único caractere | `'A'`, `'z'`, `'1'` | 1 byte |
+| `bool` | Verdadeiro ou falso | `true`, `false` | 1 byte |
+| `string` | Conjunto de caracteres (texto) | `"Olá mundo"` | variável |
+| `long` | Inteiro longo (valores grandes) | `1234567890` | 8 bytes |
+| `short` | Inteiro curto (valores pequenos) | `-100`, `250` | 2 bytes |
+
 ---
 
 ## 📦 Estrutura básica de um programa C++
@@ -28,7 +39,7 @@ int main() {
 
 - endl → quebra de linha
 
-return 0 → encerra o programa com sucesso
+- return 0 → encerra o programa com sucesso
 
 ```cpp
 int a = 10, b = 5;
@@ -46,3 +57,11 @@ if (a > b) {
 } else {
     cout << "B é maior ou igual a A" << endl;
 }
+```
+### 🔹 `for` — Contador com início e fim definidos
+
+```cpp
+for (int i = 0; i < 5; i++) {
+    cout << "Valor de i: " << i << endl;
+}
+```
