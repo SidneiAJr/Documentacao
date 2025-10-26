@@ -37,3 +37,35 @@ Usado para **entrada de texto simples (uma linha)**.
 ```java
 JTextField campoNome = new JTextField();
 String nome = campoNome.getText(); // lê o texto digitado
+```
+
+# 🧠 Resumo Rápido — Componentes de Entrada no Java Swing
+
+| 🧩 **Componente** | 🎯 **Função** | 💬 **Método Principal** | 📋 **Exemplo de Uso** |
+|--------------------|---------------|--------------------------|------------------------|
+| `JTextField` | Texto simples | `getText()` | Nome, email |
+| `JPasswordField` | Senha oculta | `getPassword()` | Login, senha |
+| `JTextArea` | Texto longo | `getText()` | Descrição, logs |
+| `JComboBox` | Seleção única | `getSelectedItem()` | Cores, opções |
+| `JRadioButton` | Escolha única | `isSelected()` | Sexo, categoria |
+| `JCheckBox` | Múltiplas opções | `isSelected()` | Preferências |
+| `JSpinner` | Valor numérico | `getValue()` | Idade, quantidade |
+| `JFileChooser` | Escolher arquivo | `getSelectedFile()` | Importar/exportar arquivo |
+
+---
+
+> 💡 **Dica:** combine esses componentes com eventos (`ActionListener`) e métodos de saída (`JLabel`, `JTextArea`, `JOptionPane`) para criar formulários completos no **Java Swing**.
+
+
+| 🧩 **Componente** | 🎯 **Função** | 💬 **Método Principal** | 📋 **Exemplo de Uso** |
+|--------------------|---------------|--------------------------|------------------------|
+| `JTextField` | Texto simples | `getText()` | Nome, email |
+| `JPasswordField` | Senha oculta | `getPassword()` | Login, senha |
+| `JTextArea` | Texto longo | `getText()` | Descrição, logs |
+| `JComboBox` | Seleção única | `getSelectedItem()` | Cores, opções |
+| `JRadioButton` | Escolha única | `isSelected()` | Sexo, categoria |
+| `JCheckBox` | Múltiplas opções | `isSelected()` | Preferências |
+| `JSpinner` | Valor numérico | `getValue()` | Idade, quantidade |
+| `JFileChooser` | Escolher arquivo | `getSelectedFile()` | Importar/exportar arquivo |
+
+
