@@ -15,5 +15,5 @@ ALTER USER ''@'localhost' IDENTIFIED BY '';
 SHOW GRANTS FOR ''@'localhost';
 
 
-```SHOW GRANTS FOR 'sidnei'@'localhost';
+```
 
