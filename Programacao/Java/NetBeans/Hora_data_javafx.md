@@ -19,3 +19,12 @@ System.out.println("Data: " + dataAtual);
 System.out.println("Hora: " + horaAtual);
 System.out.println("Data e Hora: " + dataHoraAtual);
 ```
+
+## 🧮 Formatar Datas
+```java
+import java.time.format.DateTimeFormatter;
+
+DateTimeFormatter formato = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");
+String formatada = dataHoraAtual.format(formato);
+System.out.println("Formatada: " + formatada);
+```
