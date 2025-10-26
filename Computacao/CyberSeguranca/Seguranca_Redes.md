@@ -1,4 +1,4 @@
-# 🌐 04 — Segurança em Redes
+# 🌐 Segurança em Redes
 
 ## 🎯 Objetivo
 Aprender as principais práticas de **segurança em redes de computadores**, garantindo **confidencialidade, integridade e disponibilidade** das informações.
