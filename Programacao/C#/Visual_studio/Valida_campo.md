@@ -1,5 +1,3 @@
-## 🧠 **5️⃣ Tutorial — Validação de Campos no Visual Studio**
-
 # 🧠 Tutorial — Validação de Campos no Visual Studio (C#)
 
 ## 🎯 Objetivo
