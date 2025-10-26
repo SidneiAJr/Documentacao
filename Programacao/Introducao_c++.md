@@ -50,7 +50,7 @@ cout << a / b << endl; // divisão
 cout << a % b << endl; // resto
 ```
 
-##IF/Else
+## IF/Else
 ```cpp
 if (a > b) {
     cout << "A é maior que B" << endl;
@@ -65,3 +65,22 @@ for (int i = 0; i < 5; i++) {
     cout << "Valor de i: " << i << endl;
 }
 ```
+## while — Executa enquanto a condição for verdadeira
+
+int contador = 0;
+```cpp
+while (contador < 3) {
+    cout << "Contador: " << contador << endl;
+    contador++;
+}
+```
+
+## Estrutura de uma Função
+```cpp
+tipo_retorno nome_da_funcao(parâmetros) {
+    // código
+    return valor; // opcional
+}
+```
+
+
