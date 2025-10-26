@@ -34,3 +34,13 @@ Usado para **receber informações digitadas** pelo usuário.
 
 ```csharp
 string nome = txtNome.Text;
+```
+
+| 🧩 **Componente** | 🎯 **Função**         | 💬 **Método Principal** | 📋 **Exemplo de Uso**     |
+|--------------------|----------------------|--------------------------|---------------------------|
+| `TextBox`          | Entrada de texto     | `.Text`                  | Nome, e-mail              |
+| `Label`            | Exibir mensagens     | `.Text`                  | Resultado, status         |
+| `Button`           | Executar ação        | `Click`                  | Botão Enviar              |
+| `MessageBox`       | Mostrar pop-up       | `Show()`                 | Alertas, avisos           |
+| `ComboBox`         | Seleção única        | `SelectedItem`           | Cores, categorias          |
+| `ListBox`          | Lista de itens       | `SelectedItem`           | Itens de uma lista        |
