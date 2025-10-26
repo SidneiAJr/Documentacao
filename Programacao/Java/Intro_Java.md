@@ -39,11 +39,11 @@ System.out.println(n1 - n2);  // Subtração
 System.out.println(n1 * n2);  // Multiplicação
 System.out.println(n1 / n2);  // Divisão
 System.out.println(n1 % n2);  // Resto da divisão
-
+```
 ## Array:
-
+```java
 - int[] array = { 1, 2, 3, 4, 5 };
-
+```
 
 ## Condicao:
 
