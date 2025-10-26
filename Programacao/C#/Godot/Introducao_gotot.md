@@ -23,20 +23,6 @@ O **Godot Engine** é uma engine gratuita e open-source usada para criar jogos e
 
 ---
 
-## 📚 Estrutura da Pasta
-
-| Arquivo / Pasta | Descrição |
-|:--|:--|
-| `Introducao_Godot.md` | Conceitos básicos, interface e primeiros passos. |
-| `GDScript_basico.md` | Sintaxe e exemplos práticos em GDScript. |
-| `Scenes_e_Nodes.md` | Explicação sobre o sistema de cenas e hierarquia. |
-| `Sinais_e_Eventos.md` | Comunicação entre objetos no Godot. |
-| `Fisica_2D_3D.md` | Fundamentos de física e colisões. |
-| `UI_e_Interface.md` | Criação de interfaces e menus. |
-| `Exportacao.md` | Como exportar o jogo para diferentes plataformas. |
-
-*(Adapta a tabela conforme o conteúdo que tu for adicionando.)*
-
 ---
 
 ## 🧠 Comandos e Dicas
