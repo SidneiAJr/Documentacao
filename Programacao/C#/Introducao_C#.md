@@ -64,83 +64,47 @@ double[] arrayDouble = new double[5] { 1.1, 2.2, 3.3, 4.4, 5.5 };  // Declaraç�
 Console.WriteLine(matriz[0, 0]);  // Saída: 1
 Console.WriteLine(matriz[1, 2]);  // Saída: 6
 ```
-## Comandos com Arrays:
+# 📚 Comandos com Arrays e List<T> em C#
 
-- Declarar e Inicializar:
+---
 
-- new tipo[tamanho]{ valor1, valor2, ... }
+## 🧮 Arrays
 
-- Acessar Elemento:
+| 🧩 Ação | 🧠 Comando / Exemplo |
+|---------|----------------------|
+| **Declarar e Inicializar** | `int[] numeros = new int[3] { 1, 2, 3 };` |
+| **Acessar Elemento** | `numeros[0]; // 1` |
+| **Modificar Elemento** | `numeros[1] = 10;` |
+| **Tamanho do Array** | `numeros.Length;` |
+| **Redimensionar Array** | `Array.Resize(ref numeros, 5);` |
+| **Copiar Array** | `int[] copia = (int[])numeros.Clone();` |
+| **Copiar com CopyTo** | `numeros.CopyTo(copia, 0);` |
+| **Obter Índice Máximo** | `numeros.GetUpperBound(0);` |
 
-- arr[índice]
+---
 
-- Modificar Elemento:
+## 🧩 List<T>
 
-- arr[índice] = valor
+| 🧩 Ação | 🧠 Comando / Exemplo |
+|---------|----------------------|
+| **Criar e Inicializar Lista** | `List<int> lista = new List<int> { 1, 2, 3 };` |
+| **Adicionar Elemento** | `lista.Add(4);` |
+| **Inserir Elemento em Posição** | `lista.Insert(1, 99);` |
+| **Remover Elemento (por valor)** | `lista.Remove(2);` |
+| **Remover por Índice** | `lista.RemoveAt(0);` |
+| **Limpar Lista** | `lista.Clear();` |
+| **Verificar se Contém Item** | `lista.Contains(3);` |
+| **Obter Índice de Item** | `lista.IndexOf(3);` |
+| **Ordenar Lista** | `lista.Sort();` |
+| **Inverter Lista** | `lista.Reverse();` |
+| **Iterar com ForEach** | `lista.ForEach(x => Console.WriteLine(x));` |
 
-- Tamanho do Array:
+---
 
-- arr.Length
+💡 **Dica:**  
+- Use **Array** quando o tamanho for fixo.  
+- Use **List<T>** quando precisar adicionar/remover elementos dinamicamente.  
 
-- Redimensionar o Array:
-
-- Array.Resize(ref arr, novoTamanho)
-
-- Copiar Array:
-
-- arr.Clone()
-
-- arr.CopyTo(outroArray, índice)
-
-- Obter Índice Máximo:
-
-- arr.GetUpperBound(0)
-
-- Comandos com List<T>:
-
-- Criar e Inicializar Lista:
-
-- new List<T>()
-
-- new List<T> { valor1, valor2, ... }
-
-- Adicionar Elemento:
-
-- lista.Add(valor)
-
-- Inserir Elemento:
-
-- lista.Insert(índice, valor)
-
-- Remover Elemento:
-
-- lista.Remove(valor)
-
-- lista.RemoveAt(índice)
-
-- Limpar Lista:
-
-- lista.Clear()
-
-- Verificar se Item Existe:
-
-- lista.Contains(valor)
-
-- Obter Índice de Item:
-
-- lista.IndexOf(valor)
-
-- Ordenar Lista:
-
-- lista.Sort()
-
-- Inverter Lista:
-
-- lista.Reverse()
-
-- Iterar sobre Lista:
-
-- lista.ForEach(action)
 
 ## Condicao:
 ```C#
