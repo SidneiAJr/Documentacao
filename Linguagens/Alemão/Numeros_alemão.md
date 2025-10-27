@@ -36,3 +36,28 @@
 | 80     | achtzig     | axt-tsig           |
 | 90     | neunzig     | noin-tsig          |
 | 100    | hundert     | hoon-dert          |
+
+## Unidade, Dezena e Centena
+
+| Número | Centena | Dezena | Unidade | Alemão         |
+|--------|--------|--------|---------|----------------|
+| 1      | 0      | 0      | 1       | eins           |
+| 2      | 0      | 0      | 2       | zwei           |
+| 3      | 0      | 0      | 3       | drei           |
+| 10     | 0      | 1      | 0       | zehn           |
+| 11     | 0      | 1      | 1       | elf            |
+| 12     | 0      | 1      | 2       | zwölf          |
+| 20     | 0      | 2      | 0       | zwanzig        |
+| 21     | 0      | 2      | 1       | einundzwanzig  |
+| 30     | 0      | 3      | 0       | dreißig        |
+| 45     | 0      | 4      | 5       | fünfundvierzig |
+| 100    | 1      | 0      | 0       | hundert        |
+| 101    | 1      | 0      | 1       | einhunderteins |
+| 110    | 1      | 1      | 0       | hundertzehn    |
+| 121    | 1      | 2      | 1       | einhunderteinundzwanzig |
+| 200    | 2      | 0      | 0       | zweihundert    |
+| 345    | 3      | 4      | 5       | dreihundertfünfundvierzig |
+| 999    | 9      | 9      | 9       | neunhundertneunundneunzig |
+| 1000   | 10     | 0      | 0       | tausend        |
+
+
