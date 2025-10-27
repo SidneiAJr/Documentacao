@@ -1,6 +1,4 @@
-# Tutorial De Espaçamento e Posisionamento
-
-# CSS: Layout, Posicionamento e Espaçamento
+# Tutorial De Espaçamento e Posisionamento | CSS
 
 | Categoria               | Propriedade     | Descrição |
 |-------------------------|----------------|-----------|
