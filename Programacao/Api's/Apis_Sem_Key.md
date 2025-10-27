@@ -1,6 +1,3 @@
-## 📁 `Lista_API_sem_Chave.md`
-
-
 # 🌐 Lista de APIs sem Chave
 
 Algumas APIs permitem uso **sem autenticação (sem key/token)** — ideais para testes, projetos pessoais e aprendizado.
