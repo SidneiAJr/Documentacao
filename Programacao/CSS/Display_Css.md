@@ -1,10 +1,12 @@
 # Diferença de Display no css:
 
-- Display flex -> Como nome diz Flexivel
-- Diplsya block -> Bloqueado
-- Display inlineBlock -> Bloqueado na Linha
-- Display Inline -> Diplsya na Linha
+- display: flex → Flexível, permite alinhar e distribuir elementos facilmente.
 
+- display: block → Ocupa toda a largura disponível, elementos começam em uma nova linha.
+
+- display: inline-block → Combina características de block e inline: mantém altura e largura, mas fica na mesma linha de outros elementos.
+
+- display: inline → Elemento fica na linha, mas ignora altura e largura.
 
 ## Exemplo de codigo | CSS Display Flex:
 
@@ -49,5 +51,20 @@
     border-radius: 5px;
     font-size: 15px;
     font-weight: bolder;
+}
+```
+> ⚠️ height e width não funcionam em inline.
+
+## Exemplo de Codigo | CSS 
+
+```CSS
+.caixa3 {
+    display: inline-block;
+    height: 250px;
+    background-color: #00c6ff;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bolder;
+    flex-direction: column;
 }
 ```
