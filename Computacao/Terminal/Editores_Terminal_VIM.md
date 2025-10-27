@@ -20,12 +20,11 @@ vim arquivo.txt
 
 
 Comandos para o vim 
-- sudo apt install vim -y
+- Sudo apt install vim -y
 - vim nome-arquivo.sh
-- Depois de usar pode salvar o documento aperta esc depois :wq significa write query
 - Depois disso dar permissão com chmod +x ou chmod +777
 > ⚠️ Cuidado: 777 dá permissão total (pode ser perigoso em ambientes de produção).
-O ideal é usar só o +x mesmo.
+***O ideal é usar só o +x mesmo.***
 
 | Ação                      | Comando | Explicação                        |
 | ------------------------- | ------- | --------------------------------- |
