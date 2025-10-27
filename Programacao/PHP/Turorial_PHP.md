@@ -22,21 +22,17 @@ echo "Hello World!";
 ?>
 ```
 
-## Tipos de Variaveis:
+## 💡 Tipos de Variáveis
 
-- String: texto (exemplo: "Maria")
-
-- Integer: números inteiros (exemplo: 25)
-
-- Float (double): números decimais (exemplo: 1.75)
-
-- Boolean: verdadeiro ou falso (true ou false)
-
-- Array: conjunto de valores (exemplo: $arr = [1, 2, 3];)
-
-- Object: objetos, que veremos na parte de POO
-
-- NULL: variável sem valor
+| Tipo | Descrição | Exemplo |
+|------|------------|----------|
+| `string` | Texto | `"Maria"` |
+| `int` | Número inteiro | `25` |
+| `float` / `double` | Número decimal | `1.75` |
+| `bool` | Verdadeiro ou falso | `true` / `false` |
+| `array` | Conjunto de valores | `$arr = [1, 2, 3];` |
+| `object` | Objeto (usado em POO) | `new Pessoa();` |
+| `null` | Variável sem valor | `NULL` |
 
 ## Concatenação: 
 ```php
