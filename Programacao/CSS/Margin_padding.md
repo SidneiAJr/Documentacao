@@ -4,10 +4,3 @@
 
 - ***margin → Espaço externo entre o elemento e os outros elementos ao redor.***
 
-+-----------------------+
-|       padding         |
-|   +---------------+   |
-|   |   conteúdo    |   |
-|   +---------------+   |
-+-----------------------+
-        margin
