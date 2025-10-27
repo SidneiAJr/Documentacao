@@ -45,7 +45,7 @@ Console.WriteLine(n1 > n2);  // Maior que
 Console.WriteLine(n1 < n2);  // Menor que
 Console.WriteLine(n1 >= n2); // Maior ou igual
 Console.WriteLine(n1 <= n2); // Menor ou igual
-
+```
 ## Array (Tamanho Fixo)
 
 // Array de inteiros com 5 elementos
