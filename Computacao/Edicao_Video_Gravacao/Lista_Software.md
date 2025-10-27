@@ -123,11 +123,4 @@ Lista dos melhores **editores de vídeo totalmente livres e abertos**, sem vers�
 
 ---
 
-📘 **Conclusão**
-> 🔓 Todos são **100% open source** (licenças GPL / LGPL / Apache).  
-> 💡 Recomendado:  
-> - Iniciante → **OpenShot / Shotcut**  
-> - Intermediário → **Kdenlive / Olive**  
-> - Avançado → **Blender (VSE)**  
-> - Linux puro → **Flowblade / Pitivi**
 
