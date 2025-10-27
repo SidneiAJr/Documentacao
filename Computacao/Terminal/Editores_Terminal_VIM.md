@@ -5,7 +5,9 @@ O vim é um editor poderoso e completo, baseado no clássico vi.
 
 ▶️ Abrir ou criar um arquivo:
 
+```bash
 vim arquivo.txt
+```
 
 | Ação                     | Comando |
 | ------------------------ | ------- |
