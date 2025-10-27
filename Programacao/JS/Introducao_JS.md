@@ -73,25 +73,26 @@ if(n1===n2){
 ```JS
 let array = [1,2,3,5,6,7]
 ```
-- map(): Para criar um novo array com base em um array existente.
-- filter(): Para filtrar elementos de um array.
-- reduce(): Para reduzir um array a um único valor.
-- length: Retorna o comprimento da string.
-- toUpperCase(): Converte todos os caracteres para maiúsculas.
-- toLowerCase(): Converte todos os caracteres para minúsculas.
-- substring(): Extrai uma parte da string.
-- indexOf(): Encontra a posição de um caractere ou substring dentro de uma string.
-- replace(): Substitui uma parte da string por outra.
-- push(): Adiciona um item no final do array.
-- pop(): Remove o último item do array.
-- shift(): Remove o primeiro item do array.
-- unshift(): Adiciona um item no início do array.
-- splice(): Remove ou substitui elementos do array.
-- slice(): Retorna uma nova fatia de um array.
-- forEach(): Executa uma função para cada item do array.
-- map(): Cria um novo array com base na aplicação de uma função a cada item.
-- filter(): Cria um novo array com itens que passem em uma condição.
-- reduce(): Reduz todos os itens de um array a um único valor.
+| 🧩 Categoria | 🔹 Método / Propriedade | 💬 Descrição                                                                   | 💡 Exemplo                               |
+| ------------ | ----------------------- | ------------------------------------------------------------------------------ | ---------------------------------------- |
+| **Array**    | `map()`                 | Cria um novo array com base em um existente, aplicando uma função a cada item. | `nums.map(n => n * 2)` → `[2,4,6]`       |
+|              | `filter()`              | Filtra elementos de um array com base em uma condição.                         | `nums.filter(n => n > 5)`                |
+|              | `reduce()`              | Reduz o array a um único valor (como soma ou média).                           | `nums.reduce((a,b)=>a+b,0)`              |
+|              | `forEach()`             | Executa uma função para cada item do array (sem retornar novo array).          | `nums.forEach(n => console.log(n))`      |
+|              | `push()`                | Adiciona elemento ao final do array.                                           | `arr.push('novo')`                       |
+|              | `pop()`                 | Remove o último elemento do array.                                             | `arr.pop()`                              |
+|              | `shift()`               | Remove o primeiro elemento do array.                                           | `arr.shift()`                            |
+|              | `unshift()`             | Adiciona elemento no início do array.                                          | `arr.unshift('início')`                  |
+|              | `splice()`              | Remove, adiciona ou substitui elementos em posições específicas.               | `arr.splice(1,2,'novo')`                 |
+|              | `slice()`               | Retorna uma cópia parcial do array.                                            | `arr.slice(0,3)`                         |
+|              | `length`                | Retorna o tamanho do array.                                                    | `arr.length`                             |
+| **String**   | `length`                | Retorna o comprimento da string.                                               | `"texto".length`                         |
+|              | `toUpperCase()`         | Converte para maiúsculas.                                                      | `"abc".toUpperCase()` → `"ABC"`          |
+|              | `toLowerCase()`         | Converte para minúsculas.                                                      | `"ABC".toLowerCase()` → `"abc"`          |
+|              | `substring()`           | Extrai parte de uma string.                                                    | `"JavaScript".substring(0,4)` → `"Java"` |
+|              | `indexOf()`             | Retorna o índice da primeira ocorrência de uma substring.                      | `"abc".indexOf("b")` → `1`               |
+|              | `replace()`             | Substitui parte da string por outra.                                           | `"ola mundo".replace("mundo", "JS")`     |
+
 
 
 ## Interação com DOM (JS/HTML)
