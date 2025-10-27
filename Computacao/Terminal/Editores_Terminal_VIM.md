@@ -1,4 +1,4 @@
-✍️ Vim (Vi Improved)
+# ✍️ Vim (Vi Improved)
 
 O vim é um editor poderoso e completo, baseado no clássico vi.
 É ideal para usuários mais avançados e para automação de tarefas com scripts.
