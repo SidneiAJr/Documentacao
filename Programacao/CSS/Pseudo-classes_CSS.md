@@ -35,3 +35,13 @@ li:first-child {
 | `:last-child`        | Último filho dentro de um elemento pai.                  | `li:last-child { color: blue; }`            |
 | `:nth-child(n)`      | Seleciona filhos com base em sua posição.                | `li:nth-child(2n) { background: #eee; }`    |
 | `:not(selector)`     | Seleciona todos que **não** correspondem ao seletor.     | `p:not(.destaque) { color: gray; }`         |
+
+| 💡 **Pseudo-elemento** | 📝 **Descrição**                           | 💻 **Exemplo**                        |
+| ---------------------- | ------------------------------------------ | ------------------------------------- |
+| `::before`             | Insere conteúdo antes do elemento.         | `h1::before { content: "★ "; }`       |
+| `::after`              | Insere conteúdo após o elemento.           | `h1::after { content: " ★"; }`        |
+| `::first-letter`       | Seleciona a primeira letra do texto.       | `p::first-letter { font-size: 2em; }` |
+| `::first-line`         | Seleciona a primeira linha do texto.       | `p::first-line { color: gray; }`      |
+| `::selection`          | Define o estilo do texto selecionado.      | `::selection { background: yellow; }` |
+| `::placeholder`        | Estiliza o texto do placeholder em inputs. | `input::placeholder { color: #aaa; }` |
+
