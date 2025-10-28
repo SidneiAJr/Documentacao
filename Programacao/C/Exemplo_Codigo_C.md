@@ -25,3 +25,26 @@ int main() {
     
 }
 ```
+
+## Compração de Tipos:
+
+```C
+
+#include <stdio.h>
+#include <stdbool.h>
+
+int main() {
+    double n1 = 5.;
+    int n2 = 4;
+    float n3 = 5.5;
+    bool  n4 = true;
+    
+    bool comp = n1==n2;
+    bool comp2 = n3==n4;
+    
+    printf("Comparação %d \n",comp);
+    printf("Comparação %d \n",comp2);
+    
+    
+}
+```
