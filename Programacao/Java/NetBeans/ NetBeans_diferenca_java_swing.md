@@ -1,4 +1,4 @@
-## 🪟 **5️⃣ Diferença entre JavaFX e Swing**
+## 🪟 **5️ Diferença entre JavaFX e Swing**
 
 ## 🎯 Objetivo
 Entender as principais **diferenças entre JavaFX e Swing**, as duas principais bibliotecas gráficas do Java.
