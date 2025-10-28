@@ -15,6 +15,7 @@ Rust tem uma sintaxe que lembra C++, Python e JavaScript em alguns aspectos, mas
 
 ## Variáveis em Rust são imutáveis por padrão. Para permitir alteração, use mut:
 
+```rust
 let mut x = 5;
 x += 1;
-
+```
