@@ -1,5 +1,6 @@
 # 🧠 Tutorial de Memória em C
-🎯 Objetivo
+
+## 🎯 Objetivo
 
 Aprender como a memória funciona em C, incluindo variáveis, ponteiros e alocação dinâmica, conceitos essenciais para programação avançada e sistemas operacionais.
 
