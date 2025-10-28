@@ -36,17 +36,17 @@ background-color: rgba(0, 0, 255, 0.3);
 # 🖼️ Imagem de Fundo (background-image)
 
 Adiciona uma imagem de fundo ao elemento.
-
+```CSS
 background-image: url('fundo.jpg');
-
+```
 # 🧠 Use com background-size, background-position e background-repeat para ajustar o comportamento da imagem.
 
 # 📏 Tamanho da Imagem (background-size)
 
 Define o tamanho da imagem de fundo.
-
+```CSS
 background-size: cover;
-
+```
 
 cover → cobre todo o elemento, cortando partes da imagem se necessário.
 
@@ -63,6 +63,7 @@ background-position: center top;
 
 # 📌 Outros exemplos:
 
+```CSS
 left top
 
 right bottom
@@ -70,7 +71,7 @@ right bottom
 center center
 
 50% 50%
-
+```
 # 🔁 Repetição da Imagem (background-repeat)
 
 Define se a imagem de fundo deve se repetir.
@@ -80,6 +81,7 @@ background-repeat: no-repeat;
 
 # 🔄 Valores comuns:
 
+```CSS
 repeat (padrão)
 
 no-repeat
@@ -87,13 +89,13 @@ no-repeat
 repeat-x
 
 repeat-y
-
+```
 # 🌫️ Transparência (opacity)
 
 Controla a transparência total do elemento, de 0 (invisível) a 1 (opaco).
-
+```CSS
 opacity: 0.8;
-
+```
 # ⚠️ Cuidado: o opacity afeta todo o conteúdo interno.
 Para deixar só o fundo translúcido, use rgba() no background-color.
 
