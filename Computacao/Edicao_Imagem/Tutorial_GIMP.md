@@ -50,3 +50,27 @@ Painéis (direita): camadas, canais, histórico e pincéis.
 | Texto              | **T**         | Adiciona texto à imagem    |
 | Borracha           | **Shift + E** | Apaga partes da imagem     |
 | Zoom               | **Z**         | Aproxima ou afasta a visão |
+
+## 🧱 5. Trabalhando com Camadas
+
+Camadas funcionam como folhas transparentes empilhadas.
+
+Vá em Camadas → Nova Camada para criar uma nova.
+
+Para reorganizar, arraste-as no painel de Camadas.
+
+Use o controle de opacidade para ajustar a transparência.
+
+Clique com o botão direito em uma camada para duplicar, fundir ou excluir.
+
+## 🧰 6. Ajustando Cores
+
+Vá em Cores → e escolha:
+
+Brilho e Contraste – melhora a exposição.
+
+Matiz-Saturação – altera tons de cor.
+
+Níveis ou Curvas – ajustes avançados de luz.
+
+💡 Dica: Sempre duplique a camada antes de editar — assim você mantém o original.
