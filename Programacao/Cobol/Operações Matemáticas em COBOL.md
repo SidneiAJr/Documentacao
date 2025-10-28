@@ -1,11 +1,31 @@
 # Operações Matemáticas em COBOL
 ➕ ADD (somar)
+```Cobol
+ADD 10 TO SALDO.
+ADD VALOR1 VALOR2 GIVING TOTAL.
+
+```
 
 ➖ SUBTRACT (subtrair)
 
+```Cobol
+SUBTRACT 5 FROM SALDO.
+SUBTRACT DESPESAS FROM RECEITAS GIVING LUCRO.
+
+```
+
 ✖️ MULTIPLY (multiplicar)
 
+```Cobol
+MULTIPLY PRECO BY QUANTIDADE GIVING TOTAL.
+
+```
+
 ➗ DIVIDE (dividir)
+
+```Cobol
+DIVIDE TOTAL BY 2 GIVING METADE.
+```
 
 ```cobol
 IDENTIFICATION DIVISION.
@@ -34,3 +54,12 @@ INICIO.
     STOP RUN.
 
 ```
+## 💡 Resumo Rápido
+
+| Comando | Função |
+|:--|:--|
+| `ADD` | Soma valores |
+| `SUBTRACT` | Subtrai valores |
+| `MULTIPLY` | Multiplica valores |
+| `DIVIDE` | Divide valores |
+| `COMPUTE` | Executa expressões completas (com operadores) |
