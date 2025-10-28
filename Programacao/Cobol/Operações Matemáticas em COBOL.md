@@ -1,7 +1,10 @@
 # Operações Matemáticas em COBOL
 ➕ ADD (somar)
+
 ➖ SUBTRACT (subtrair)
+
 ✖️ MULTIPLY (multiplicar)
+
 ➗ DIVIDE (dividir)
 
 ```cobol
