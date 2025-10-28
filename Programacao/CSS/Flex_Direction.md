@@ -1,4 +1,4 @@
-#📦 CSS: Flexbox – Flex Direction
+# 📦 CSS: Flexbox – Flex Direction
 
 A propriedade flex-direction define a direção principal dos itens dentro de um container flex. Com ela, você controla se os elementos aparecem em linha, coluna ou na ordem reversa.
 
