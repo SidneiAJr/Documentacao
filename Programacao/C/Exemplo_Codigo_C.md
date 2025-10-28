@@ -1,5 +1,6 @@
 # Exemplo de Codigo em C:
 
+## Soma de Int com Int
 ```C
 #include <stdio.h>
 
@@ -11,6 +12,7 @@ int main() {
 }
 ```
 
+## Comparação de Int com Double
 ```C
 
 #include <stdio.h>
