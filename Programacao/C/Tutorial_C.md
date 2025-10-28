@@ -26,9 +26,8 @@ int main() {
 
 ## Entrada e Saída
 
-#include <stdio.h>
-
 ```C
+#include <stdio.h>
 int main() {
     int idade;
     printf("Digite sua idade: ");
