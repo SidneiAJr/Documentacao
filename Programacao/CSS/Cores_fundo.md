@@ -6,28 +6,33 @@ As propriedades de cor e fundo permitem personalizar o visual dos elementos, con
 
 Define a cor do texto de um elemento.
 
+```CSS
 color: #333;
-
+```
 
 # 🎨 Você pode usar nomes de cores, valores hexadecimais, RGB, HSL ou variáveis CSS:
 
-- color: red;
+```CSS
+color: red;
 
-- color: #ff5733;
+color: #ff5733;
 
-- color: rgb(255, 87, 51);
+color: rgb(255, 87, 51);
 
-- color: hsl(10, 100%, 60%);
+color: hsl(10, 100%, 60%);
+```
 
 # 🟦 Cor de Fundo (background-color)
 
 Define a cor de fundo do elemento.
 
+```CSS
 background-color: lightblue;
-
+```
 💡 Dica: use rgba() para aplicar transparência no fundo:
+```CSS
 background-color: rgba(0, 0, 255, 0.3);
-
+```
 # 🖼️ Imagem de Fundo (background-image)
 
 Adiciona uma imagem de fundo ao elemento.
