@@ -53,6 +53,7 @@ int main() {
 
 ```C
 
+
 #include <stdio.h>
 #include <stdbool.h>
 
@@ -66,7 +67,7 @@ int main() {
         printf("Não Pode entrar|Menor de Idade \n");
     }
     
-    printf("Olá",nome);
+    printf("Olá %s",nome);
     
     
 }
