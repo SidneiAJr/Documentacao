@@ -48,3 +48,26 @@ int main() {
     
 }
 ```
+
+## Loop Para verificar Idade:
+
+```C
+
+#include <stdio.h>
+#include <stdbool.h>
+
+int main() {
+    char nome[5]= "pedro";
+    int idade = 20;
+    
+    if(idade>=18){
+        printf("Pode Entrar|Maior de Idade \n");
+    }else{
+        printf("Não Pode entrar|Menor de Idade \n");
+    }
+    
+    printf("Olá",nome);
+    
+    
+}
+```
