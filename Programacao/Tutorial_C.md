@@ -55,3 +55,19 @@ for(int i = 0; i < 5; i++) {
     printf("%d\n", i);
 }
 ```
+
+## Funções
+
+```C
+#include <stdio.h>
+
+int soma(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    int resultado = soma(5, 3);
+    printf("Resultado: %d\n", resultado);
+    return 0;
+}
+```
