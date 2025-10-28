@@ -45,3 +45,39 @@ int main() {
 
 &x → endereço de x.
 
+## Alocação Dinâmica (Heap)
+```C
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    int *ptr = (int*)malloc(sizeof(int)); // aloca memória para 1 int
+    if(ptr == NULL) {
+        printf("Falha na alocação de memória!\n");
+        return 1;
+    }
+
+    *ptr = 42; // armazena valor
+    printf("Valor alocado: %d\n", *ptr);
+
+    free(ptr); // libera memória
+    return 0;
+}
+```
+
+## Arrays e Ponteiros
+
+Arrays e ponteiros estão intimamente ligados:
+```C
+#include <stdio.h>
+
+int main() {
+    int arr[3] = {1, 2, 3};
+    int *ptr = arr; // arr é o endereço do primeiro elemento
+
+    for(int i = 0; i < 3; i++) {
+        printf("%d ", *(ptr + i)); // acesso via ponteiro
+    }
+    return 0;
+}
+```
