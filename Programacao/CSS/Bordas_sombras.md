@@ -1,5 +1,13 @@
 # CSS: Bordas e Sombras
 
+Bordas ->
+
+Border Radius->
+
+box shadow->
+
+outline -> 
+
 | 💡 **Propriedade**  | 📝 **Descrição**                                                                                                    | 💻 **Exemplo de Uso**                          |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | **`border`**        | Define a **borda completa** de um elemento (largura, estilo e cor).                                                 | `border: 2px solid #333;`                      |
