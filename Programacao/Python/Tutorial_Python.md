@@ -30,7 +30,7 @@ Exemplo:
 
 ```PY
 numero = 10
-nome = "Sidnei"
+nome = ""
 ativo = True
 ```
 
