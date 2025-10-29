@@ -1,5 +1,7 @@
 # 🔢 Tutorial de Uso do JSpinner no NetBeans
 
+![Painel](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-28%20193012.png)
+
 ## 🪟 Passo 1: Abrir o NetBeans
 Abra o **NetBeans IDE** no seu computador.
 
