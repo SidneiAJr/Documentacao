@@ -11,7 +11,9 @@ O componente `Button` é usado para **executar uma ação quando o usuário clic
 É um dos controles mais usados em interfaces gráficas JavaFX.
 
 - ***Botão Na aplicação***
+
 ![Botão](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-29%20112207.png)
 
 - ***Botao Pallete***
+
 ![Botao-Pailette](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-29%20112216.png)
