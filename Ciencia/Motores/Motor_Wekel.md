@@ -32,8 +32,29 @@ O **motor Wankel**, também conhecido como **motor rotativo**, foi desenvolvido 
 - Foi utilizado em carros da **Mazda**, como o **RX-7** e o **RX-8**.  
 - Apesar das desvantagens, o motor Wankel ainda desperta interesse pela **simplicidade e alta potência em baixo peso**.  
 - Algumas empresas continuam pesquisando versões modernas e híbridas desse motor.
+- Geralmente Bloco de ferro fundido para aguentar, motores mais modernos hoje em dia tem motor de aluminio 
 
 ---
+## 🧱 Comparativo: Bloco de Ferro Fundido × Bloco de Alumínio
+
+| Característica              | 🏋️‍♂️ **Ferro Fundido**                             | ⚙️ **Alumínio**                                 |
+|-----------------------------|-----------------------------------------------------|-------------------------------------------------|
+| **Peso**                    | Muito pesado 🧱                                     | Muito leve ⚡                                    |
+| **Resistência mecânica**    | Alta — suporta altas pressões e temperaturas        | Menor — precisa de reforços internos             |
+| **Dissipação de calor**     | Mais lenta                                          | Excelente — resfria rápido                       |
+| **Custo de fabricação**     | Mais barato                                         | Mais caro (fundição e usinagem mais complexas)   |
+| **Durabilidade**            | Muito durável (ideal para motores de carga)         | Boa, mas depende do projeto e manutenção         |
+| **Aplicações comuns**       | Caminhões, tratores, motores antigos e pesados       | Carros modernos, esportivos e leves              |
+| **Refrigeração**            | Mantém calor por mais tempo                         | Esfria rapidamente, mas pode empenar se aquecer demais |
+| **Uso atual**               | Menos comum em carros de passeio                    | Padrão nos motores modernos                     |
+
+---
+
+> ⚙️ **Resumo:**  
+> - O **ferro fundido** garante **resistência e longevidade**, mas adiciona peso.  
+> - O **alumínio** reduz **peso e consumo**, sendo ideal para carros modernos.  
+> - Muitos motores atuais combinam os dois: **bloco de alumínio com camisas de ferro**.
+
 
 > 🧠 **Resumo:**  
 > O motor Wankel é um projeto engenhoso que reduz a complexidade mecânica, mas apresenta desafios em consumo e emissões.  
