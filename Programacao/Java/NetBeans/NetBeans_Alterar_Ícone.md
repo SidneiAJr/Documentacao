@@ -12,6 +12,10 @@ Aprender a adicionar **ícones e imagens** em botões (`JButton` no **Swing** e 
 - Depois selecione o external Image
 
 
+- ***Click em Icon***
 
+![Exemplo de colocar imagem](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-29%20112504.png)
 
+- ***Click nos ... Depois em External Image***
 
+![Exemplo de colocar imagem](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-29%20112513.png)
