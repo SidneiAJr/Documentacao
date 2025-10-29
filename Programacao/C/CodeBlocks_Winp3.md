@@ -6,7 +6,7 @@
 
 - Tela Para Verificar Form ou Dialog:
 
-![Dialogue](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-29%20194231.png)
+![Dialogue](https://github.com/SidneiAJr/Documentacao/blob/main/prints/b.png)
 
 
 Este tutorial ensina passo a passo como criar uma **janela simples no Windows** usando a **API Win32 (C)** no **Code::Blocks com MinGW**.
