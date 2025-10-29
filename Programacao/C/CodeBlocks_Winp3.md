@@ -1,8 +1,12 @@
 # Tutorial de criação Tela com WinAPI32 
 
-Tela de Seleção do CodeBlocks:
+- Tela de Seleção do CodeBlocks:
 
 ![Botão](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-29%20194122.png)
+
+- Tela Para Verificar Form ou Dialog:
+
+![Dialogue](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-29%20194231.png)
 
 
 Este tutorial ensina passo a passo como criar uma **janela simples no Windows** usando a **API Win32 (C)** no **Code::Blocks com MinGW**.
