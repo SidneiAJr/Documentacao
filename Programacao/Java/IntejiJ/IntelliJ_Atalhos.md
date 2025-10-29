@@ -56,5 +56,4 @@ Perfeito pra produtividade e lembrar dos comandos de código automático.
 
 ---
 
-📅 **Última atualização:** 29/10/2025  
-✍️ **Autor:** SidneiAJr  
+
