@@ -39,4 +39,5 @@ spnIdade.setModel(modelo);
 
 ## Exemplo de Tela:
 
+***Quantidade e Um Spinner***
 ![Tela](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-23%20164839.png)
