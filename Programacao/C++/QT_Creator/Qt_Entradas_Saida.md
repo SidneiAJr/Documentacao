@@ -1,33 +1,41 @@
-# 🧩 Captura de Texto com QLineEdit no Qt Creator
-🎯 Objetivo
+# 🧩 Captura de Texto com QLineEdit no Qt Creator (C++)
 
-Criar um campo de entrada de texto utilizando QLineEdit no Qt Creator, para capturar informações do usuário e exibir em outro widget, como um QLabel ou em uma caixa de mensagem.
+## 🎯 Objetivo
+Criar um **campo de entrada de texto** utilizando `QLineEdit` no **Qt Creator**, para capturar informações do usuário e exibi-las em outro widget — como um `QLabel` ou em uma **caixa de mensagem**.
 
-## 1️⃣ Criando um Projeto no Qt Creator
+---
 
-Abra o Qt Creator.
+## 🏗️ 1️⃣ Criando o Projeto no Qt Creator
 
-Crie um novo projeto: File → New Project → Application → Qt Widgets Application.
+1. Abra o **Qt Creator**.  
+2. Vá em **File → New Project → Application → Qt Widgets Application**.  
+3. Defina o **nome** e o **diretório** do projeto.  
+4. Clique em **Next** até finalizar a criação.  
 
-Defina o nome e o diretório do seu projeto e clique em Next até terminar.
+💡 *Dica:* Mantenha o nome padrão dos arquivos (`mainwindow.h`, `mainwindow.cpp`, `mainwindow.ui`) — isso facilita o vínculo com o `Ui::MainWindow`.
 
-## 2️⃣ Adicionando o QLineEdit e o QLabel
+---
 
-Após a criação do projeto, vamos modificar a interface para adicionar um campo de texto (QLineEdit) e um rótulo (QLabel) que irá exibir o texto digitado.
+## 🧱 2️⃣ Adicionando o QLineEdit e o QLabel
 
-Abra o arquivo mainwindow.ui no Qt Designer.
+Agora, vamos montar a interface.
 
-Na paleta de widgets à esquerda, procure por QLineEdit e arraste-o para a janela principal.
+1. Abra o arquivo **`mainwindow.ui`** no **Qt Designer**.  
+2. Na paleta de widgets, localize **QLineEdit** e arraste para a janela principal.  
+3. Adicione também um **QLabel** — ele exibirá o texto digitado.  
+4. (Opcional) Adicione um **QPushButton** para capturar o evento de clique.  
+5. Ajuste o **layout** (use `QVBoxLayout` ou `QGridLayout`) para organizar os elementos.  
 
-Adicione também um QLabel para mostrar o texto digitado.
+🧩 Estrutura recomendada:
 
-Ajuste o layout, se necessário, para uma boa visualização.
 
-## 3️⃣ Escrevendo o Código
+---
 
-Agora, vamos editar o arquivo mainwindow.cpp para capturar o texto inserido no QLineEdit e exibi-lo no QLabel.
+## 💻 3️⃣ Escrevendo o Código (mainwindow.cpp)
 
-```c++
+Agora, vamos editar o código para capturar o texto do `QLineEdit` e exibir no `QLabel`.
+
+```cpp
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <QMessageBox>
@@ -59,3 +67,10 @@ void MainWindow::on_pushButton_clicked()
     QMessageBox::information(this, "Texto Capturado", "Você digitou: " + inputText);
 }
 ```
+
+| Widget      | Object Name  |
+| :---------- | :----------- |
+| QLineEdit   | `lineEdit`   |
+| QLabel      | `label`      |
+| QPushButton | `pushButton` |
+
