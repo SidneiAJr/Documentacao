@@ -35,3 +35,8 @@ Defina o modelo no código:
 ```java
 SpinnerNumberModel modelo = new SpinnerNumberModel(18, 0, 100, 1);
 spnIdade.setModel(modelo);
+```
+
+## Exemplo de Tela:
+
+![Tela](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Captura%20de%20tela%202025-10-23%20164839.png)
