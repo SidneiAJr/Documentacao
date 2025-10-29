@@ -7,7 +7,9 @@ Aprender a adicionar **ícones e imagens** em botões (`JButton` no **Swing** e 
 
 ## Como colocar Imagem no Java Swing:
 
-- Clicar em Propriedade dentro do label e icon e external imagem
+- Clicar em Propriedade dentro do label 
+- Click em Icon > Depois em imagem nos ...
+- Depois selecione o external Image
 
 ## ☕ 1️⃣ Botões com Ícone no **Java Swing**
 
