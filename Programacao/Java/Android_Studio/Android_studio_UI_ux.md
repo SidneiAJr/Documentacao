@@ -48,6 +48,5 @@ Em Android, o layout é como a tela do seu aplicativo será organizada. Já as *
 
 As animações e os efeitos visuais ajudam a tornar a experiência do usuário mais interessante e fluida. Eles podem ser usados para transições, feedbacks de interação e até para atrair a atenção do usuário.
 
-## **Tipos de Animações**
 
-### **1**
+
