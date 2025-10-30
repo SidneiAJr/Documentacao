@@ -2,6 +2,8 @@
 
 O **Android Studio** é a IDE oficial para o desenvolvimento de aplicativos Android. Ele oferece suporte para **Java, Kotlin e Dart (Flutter)**, além de ferramentas como **emulador Android, gerenciador de dispositivos virtuais e integração com Gradle**.
 
+Tambem Pode arrastar e copia a aplicação
+
 ---
 
 ## 🚀 O que você vai aprender neste guia
