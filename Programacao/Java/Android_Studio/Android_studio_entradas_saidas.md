@@ -2,8 +2,6 @@
 
 Aqui estão os principais **tipos de entrada** que você pode configurar para um `EditText` no Android:
 
-# Tipos de Entrada no Android
-
 Aqui está uma tabela com os tipos de entrada e seus valores correspondentes para a propriedade `android:inputType`.
 
 | **Tipo de Entrada**       | **Valor de `android:inputType`**    | **Descrição**                                 |
