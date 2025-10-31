@@ -108,5 +108,3 @@ Use o JLabel quando precisar:
 
 ---
 
-## 📁 Estrutura Recomendada
-
