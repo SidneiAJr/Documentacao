@@ -1,62 +1,38 @@
-# Permissões no Android
+# 🔒 Permissões no Android
 
-As **permissões** no Android são necessárias quando o aplicativo precisa acessar recursos sensíveis ou informações privadas no dispositivo do usuário, como câmera, localização, armazenamento, etc. A partir do Android 6.0 (API 23), as permissões precisam ser solicitadas em tempo de execução.
+## 📘 Introdução
 
-## Tipos Comuns de Permissões
-# Permissões no Android
+As **permissões** no Android são utilizadas quando o aplicativo precisa acessar **recursos sensíveis** ou **informações privadas** do dispositivo, como câmera, localização, armazenamento, contatos, etc.  
 
-As **permissões** no Android são necessárias quando o aplicativo precisa acessar recursos sensíveis ou informações privadas no dispositivo do usuário, como câmera, localização, armazenamento, etc. A partir do Android 6.0 (API 23), as permissões precisam ser solicitadas em tempo de execução.
+A partir do **Android 6.0 (API 23)**, as permissões passaram a ser solicitadas **em tempo de execução**, aumentando a segurança e o controle do usuário.
 
-## Tipos Comuns de Permissões
+---
 
-- **Acesso à Câmera**: Para capturar fotos ou vídeos.
-  - Ex: `android.permission.CAMERA`
-- **Acesso à Localização**: Para obter a localização do dispositivo.
-  - Ex: `android.permission.ACCESS_FINE_LOCATION`, `android.permission.ACCESS_COARSE_LOCATION`
-- **Acesso ao Armazenamento**: Para ler e gravar arquivos no armazenamento do dispositivo.
-  - Ex: `android.permission.READ_EXTERNAL_STORAGE`, `android.permission.WRITE_EXTERNAL_STORAGE`
-- **Acesso à Internet**: Para permitir que o aplicativo se conecte à internet.
-  - Ex: `android.permission.INTERNET`
-- **Acesso ao Microfone**: Para gravar áudio.
-  - Ex: `android.permission.RECORD_AUDIO`
-- **Acesso aos Contatos**: Para ler a agenda de contatos do usuário.
-  - Ex: `android.permission.READ_CONTACTS`
-- **Acesso ao Bluetooth**: Para comunicação com dispositivos via Bluetooth.
-  - Ex: `android.permission.BLUETOOTH`, `android.permission.BLUETOOTH_ADMIN`
-- **Acesso à Câmera Frontal**: Para capturar vídeos ou tirar selfies.
-  - Ex: `android.permission.CAMERA`
+## 🧩 Tipos Comuns de Permissões
 
-## Permissões em Tempo de Execução
+| Tipo | Descrição | Exemplo de Permissão |
+|------|------------|----------------------|
+| **Câmera** | Captura fotos ou vídeos | `android.permission.CAMERA` |
+| **Localização** | Obtém a localização do dispositivo | `android.permission.ACCESS_FINE_LOCATION`, `android.permission.ACCESS_COARSE_LOCATION` |
+| **Armazenamento** | Lê ou grava arquivos no armazenamento do dispositivo | `android.permission.READ_EXTERNAL_STORAGE`, `android.permission.WRITE_EXTERNAL_STORAGE` |
+| **Internet** | Permite conexão à rede | `android.permission.INTERNET` |
+| **Microfone** | Grava áudio | `android.permission.RECORD_AUDIO` |
+| **Contatos** | Acessa a agenda de contatos do usuário | `android.permission.READ_CONTACTS` |
+| **Bluetooth** | Comunicação com dispositivos via Bluetooth | `android.permission.BLUETOOTH`, `android.permission.BLUETOOTH_ADMIN` |
+| **Câmera Frontal** | Captura selfies ou vídeos com a câmera frontal | `android.permission.CAMERA` |
 
-A partir do Android 6.0, você precisa solicitar permissões em tempo de execução para acessar recursos sensíveis. Aqui está um exemplo de como pedir permissão para acessar a câmera:
+---
 
-```java
-if (ContextCompat.checkSelfPermission(this, Manifest.permission.CAMERA) != PackageManager.PERMISSION_GRANTED) {
-    ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.CAMERA}, 1);
-}
-- **Acesso à Câmera**: Para capturar fotos ou vídeos.
-  - Ex: `android.permission.CAMERA`
-- **Acesso à Localização**: Para obter a localização do dispositivo.
-  - Ex: `android.permission.ACCESS_FINE_LOCATION`, `android.permission.ACCESS_COARSE_LOCATION`
-- **Acesso ao Armazenamento**: Para ler e gravar arquivos no armazenamento do dispositivo.
-  - Ex: `android.permission.READ_EXTERNAL_STORAGE`, `android.permission.WRITE_EXTERNAL_STORAGE`
-- **Acesso à Internet**: Para permitir que o aplicativo se conecte à internet.
-  - Ex: `android.permission.INTERNET`
-- **Acesso ao Microfone**: Para gravar áudio.
-  - Ex: `android.permission.RECORD_AUDIO`
-- **Acesso aos Contatos**: Para ler a agenda de contatos do usuário.
-  - Ex: `android.permission.READ_CONTACTS`
-- **Acesso ao Bluetooth**: Para comunicação com dispositivos via Bluetooth.
-  - Ex: `android.permission.BLUETOOTH`, `android.permission.BLUETOOTH_ADMIN`
-- **Acesso à Câmera Frontal**: Para capturar vídeos ou tirar selfies.
-  - Ex: `android.permission.CAMERA`
-```
-## Permissões em Tempo de Execução
+## ⚙️ Permissões em Tempo de Execução
 
-A partir do Android 6.0, você precisa solicitar permissões em tempo de execução para acessar recursos sensíveis. Aqui está um exemplo de como pedir permissão para acessar a câmera:
+A partir do Android 6.0, **não basta declarar a permissão no Manifest** — é necessário solicitar **dinamicamente**, verificando se o usuário já concedeu ou não o acesso.
+
+📌 Exemplo de verificação e solicitação de permissão (câmera):
 
 ```java
-if (ContextCompat.checkSelfPermission(this, Manifest.permission.CAMERA) != PackageManager.PERMISSION_GRANTED) {
-    ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.CAMERA}, 1);
+if (ContextCompat.checkSelfPermission(this, Manifest.permission.CAMERA)
+        != PackageManager.PERMISSION_GRANTED) {
+
+    ActivityCompat.requestPermissions(this,
+            new String[]{Manifest.permission.CAMERA}, 1);
 }
-```
