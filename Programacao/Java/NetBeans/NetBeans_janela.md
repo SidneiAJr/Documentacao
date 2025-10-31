@@ -23,3 +23,11 @@ per2.setVisible(true);           // Exibe a nova janela
 | `setTitle("Título")`            | Define o título da janela.                                                        |
 | `pack()`                        | Ajusta automaticamente o tamanho da janela de acordo com os componentes internos. |
 | `setSize(largura, altura)`      | Define manualmente o tamanho da janela.                                           |
+
+| Ação                      | Método                                         |
+| ------------------------- | ---------------------------------------------- |
+| Mostrar janela            | `setVisible(true)`                             |
+| Esconder janela           | `setVisible(false)`                            |
+| Fechar janela atual       | `dispose()`                                    |
+| Fechar tudo (sair do app) | `System.exit(0)`                               |
+| Abrir nova e fechar atual | `this.dispose(); novaJanela.setVisible(true);` |
