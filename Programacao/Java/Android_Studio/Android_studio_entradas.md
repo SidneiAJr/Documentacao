@@ -1,41 +1,58 @@
-# Tipos de Entrada no Android
+# ⌨️ Tipos de Entrada no Android
 
-Aqui estão os principais **tipos de entrada** que você pode configurar para um `EditText` no Android:
+## 🧠 Introdução
 
-Aqui está uma tabela com os tipos de entrada e seus valores correspondentes para a propriedade `android:inputType`.
+Os **tipos de entrada** definem como o teclado virtual (soft keyboard) se comporta e quais caracteres o usuário pode digitar em um campo de texto (`EditText`).  
+Esses tipos são configurados com o atributo **`android:inputType`**, usado diretamente no XML do layout.
 
-| **Tipo de Entrada**       | **Valor de `android:inputType`**    | **Descrição**                                 |
-|---------------------------|-------------------------------------|-----------------------------------------------|
-| **Texto Simples**          | `text`                              | Entrada de texto simples.                    |
-| **Texto com E-mail**       | `textEmailAddress`                  | Entrada de e-mail.                           |
-| **Senha**                  | `textPassword`                      | Entrada de senha (texto oculto).             |
-| **Números**                | `number`                            | Entrada de números inteiros.                 |
-| **Telefone**               | `phone`                             | Entrada de número de telefone.               |
-| **Texto Multilinha**       | `textMultiLine`                     | Entrada de texto com várias linhas.          |
-| **URL**                    | `textUri`                           | Entrada de URL.                              |
-| **Nome de Pessoa**         | `textPersonName`                    | Entrada para nome da pessoa.                 |
-| **Data e Hora**            | `datetime`                          | Entrada para data e hora.                    |
-| **Endereço Postal**        | `textPostalAddress`                 | Entrada para endereço postal.                |
-| **Número Decimal**         | `numberDecimal`                     | Entrada de números decimais.                 |
-| **Número com Sinal**       | `numberSigned`                      | Entrada de números inteiros com sinal.       |
-| **Texto com Maiúsculas**   | `textCapCharacters`                 | Entrada que força caracteres em maiúsculas.  |
-| **Texto com Primeira Letra Maiúscula** | `textCapWords`             | Entrada que força a primeira letra de cada palavra em maiúscula. |
-| **Texto com Primeira Letra de Sentença Maiúscula** | `textCapSentences` | Entrada que força a primeira letra de uma sentença em maiúscula. |
-| **Texto para Pesquisa**    | `textSearch`                        | Entrada de texto para pesquisa.              |
-| **Texto com Número e Senha** | `textVisiblePassword`             | Entrada de senha visível.                    |
+---
 
-> Detalhes sobre alguns tipos:
+## 🗂️ Tabela de Tipos de Entrada
 
-- text: Entrada genérica para qualquer texto.
+| **Tipo de Entrada** | **Valor (`android:inputType`)** | **Descrição** |
+|----------------------|----------------------------------|----------------|
+| **Texto Simples** | `text` | Entrada de texto genérica. |
+| **Texto com E-mail** | `textEmailAddress` | Otimizado para entrada de e-mail (inclui “@” e “.com”). |
+| **Senha (oculta)** | `textPassword` | Oculta o texto digitado. Ideal para senhas. |
+| **Números Inteiros** | `number` | Permite apenas números inteiros. |
+| **Número Decimal** | `numberDecimal` | Permite números com ponto decimal. |
+| **Número com Sinal** | `numberSigned` | Permite números positivos e negativos. |
+| **Telefone** | `phone` | Entrada para número de telefone. |
+| **Texto Multilinha** | `textMultiLine` | Permite múltiplas linhas de texto. |
+| **URL** | `textUri` | Entrada para endereços de sites (URL). |
+| **Nome de Pessoa** | `textPersonName` | Entrada otimizada para nomes próprios. |
+| **Endereço Postal** | `textPostalAddress` | Entrada para endereços físicos. |
+| **Data e Hora** | `datetime` | Permite digitar data e/ou hora. |
+| **Texto em Maiúsculas** | `textCapCharacters` | Força todas as letras em maiúsculas. |
+| **Primeira Letra Maiúscula (Palavras)** | `textCapWords` | Primeira letra de cada palavra em maiúscula. |
+| **Primeira Letra Maiúscula (Sentenças)** | `textCapSentences` | Primeira letra de cada sentença em maiúscula. |
+| **Texto para Pesquisa** | `textSearch` | Campo de texto otimizado para pesquisa. |
+| **Senha Visível** | `textVisiblePassword` | Senha exibida no campo (sem ocultar os caracteres). |
 
-- textEmailAddress: Ajustado para facilitar a entrada de endereços de e-mail.
+---
 
-- textPassword: Oculta o texto digitado, ideal para senhas.
+## 💬 Exemplos e Detalhes
 
-- number: Permite apenas números inteiros.
+| **Atributo** | **Comportamento** |
+|---------------|--------------------|
+| `text` | Entrada genérica para qualquer tipo de texto. |
+| `textEmailAddress` | Mostra teclado com “@” e “.com”, facilitando o preenchimento de e-mails. |
+| `textPassword` | Oculta caracteres digitados (●●●●●). |
+| `number` | Mostra teclado numérico, aceitando apenas dígitos. |
+| `numberDecimal` | Aceita números com ponto decimal (ex: 3.14). |
+| `datetime` | Permite digitação de data e hora. |
+| `phone` | Exibe teclado telefônico com parênteses e traços. |
 
-- numberDecimal: Permite números com ponto decimal.
+---
 
-- datetime: Formato de data e hora, com input de data ou hora.
+## 🧩 Uso no XML
 
-- Esses valores podem ser usados dentro do atributo android:inputType no XML, dependendo do tipo de dado que você quer que o usuário insira.
+Os valores são aplicados diretamente no layout do app:
+
+```xml
+<EditText
+    android:id="@+id/inputEmail"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Digite seu e-mail"
+    android:inputType="textEmailAddress" />
