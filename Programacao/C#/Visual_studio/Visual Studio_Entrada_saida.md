@@ -236,5 +236,5 @@ Muitas vezes, entradas e saídas envolvem **conversão de tipos**, especialmente
 
 ---
 
-## 📁 Estrutura Recomendada
+
 
