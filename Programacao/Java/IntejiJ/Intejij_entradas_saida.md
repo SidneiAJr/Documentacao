@@ -163,5 +163,5 @@ Depois disso, basta definir o que cada botão ou ação deve fazer, conectando a
 
 ---
 
-## 📁 Estrutura Recomendada de Projeto
+
 
