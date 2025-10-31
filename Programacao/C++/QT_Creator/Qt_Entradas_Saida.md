@@ -219,5 +219,5 @@ Essas funções são essenciais para o ciclo **entrada → processamento → sa�
 
 ---
 
-## 📁 Estrutura Recomendada
+
 
