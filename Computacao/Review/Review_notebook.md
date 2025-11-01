@@ -59,16 +59,6 @@ Feio, pesado, resistente igual geladeira Brastemp 90s.
 | Esperança da máquina | Esperança que de pra usar |
 | Resultado | Cringe tecnológico nível “trava com o bloco de notas” |
 
-### 📉 Resumo
-> A vontade de acreditar era grande.  
-> A chance de funcionar era pequena.  
-> O arrependimento foi instantâneo.
-
-**Pontos Positivos:**  
-- Peso leve (porque não tem hardware dentro)  
-
-**Pontos Negativos:**  
-- Tudo o resto.
 
 
 
