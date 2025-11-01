@@ -29,8 +29,6 @@ Experiência | Sofrimento escolar edition
 - Rodava jogo? **4 FPS e fé**
 - Esquentava, sofria, mas **não desistia**
 
-**Nota:** ⭐⭐⭐☆☆ (3/5 — guerreiro da época)
-
 ---
 
 ## 🎓 Intel Core i3-4000M
@@ -40,8 +38,6 @@ Experiência | Sofrimento escolar edition
 | Experiência | *Rodava jogo no ultra-low com orgulho* |
 
 > "Barato, duro e honesto — tipo carro 1.0 sem ar."
-
-**Nota:** ⭐⭐⭐⭐☆ (4/5 pra época)
 
 ---
 
@@ -56,7 +52,6 @@ Experiência | Sofrimento escolar edition
 - APU que **passa carreta** em muito PC gamer mal montado
 - Roda tudo sem placa no sufoco
 
-**Nota:** ⭐⭐⭐⭐⭐ (5/5 — *rei do custo-benefício*)
 
 ---
 
@@ -69,7 +64,7 @@ Experiência | Sofrimento escolar edition
 > “Morreu? Não.  
 > Vive? Também não sei.”  
 
-**Nota:** ⭐⭐⭐⭐☆ pela história de guerra 🫡
+
 
 ---
 
@@ -80,7 +75,7 @@ Experiência | Sofrimento escolar edition
 
 > NÃO faz milagre, mas **entrega dignidade.**
 
-**Nota:** ⭐⭐⭐☆☆ (3/5)
+
 
 ---
 
@@ -92,7 +87,6 @@ Experiência | Sofrimento escolar edition
 - Ele tentou 🙏  
 - PC de escola vibes  
 
-**Nota:** ⭐☆☆☆☆ (1/5 — coitado)
 
 ---
 
@@ -104,7 +98,7 @@ Experiência | Sofrimento escolar edition
 
 > *Se liga o Windows 11 nisso e funciona, tu é mágico.*
 
-**Nota:** ⭐⭐⭐☆☆ (3/5)
+
 
 ---
 
