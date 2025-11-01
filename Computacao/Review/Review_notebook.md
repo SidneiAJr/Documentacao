@@ -41,7 +41,7 @@ Feio, pesado, resistente igual geladeira Brastemp 90s.
 
 ---
 
-## 🤡 Notebook Positivo QMotion (genérico da esperança)
+## 🤡 Notebook Positivo QMotion
 
 
 **CPU:** Celeron 
