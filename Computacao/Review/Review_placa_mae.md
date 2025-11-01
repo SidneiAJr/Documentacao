@@ -85,10 +85,7 @@ Boa para:
 - Uso diário
 - Projetos e estudos
 
-Não ideal para:
-**Nota geral:** ⭐⭐⭐⭐☆ (4/5 — custo x benefício excelente)
 
----
 
 
 
