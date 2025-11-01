@@ -85,6 +85,58 @@ Boa para:
 - Uso diário
 - Projetos e estudos
 
+## 🟦 H75 (Socket 1155) — **Placa-mãe genérica Shopee**
+
+### 🏗️ Perfil da Placa
+Modelo chinês baseado em chipset **H75 / H61 modificado** para plataforma Intel 1155.  
+Usada como **PC de teste / bancada**.
+
+| Item | Detalhes |
+|------|---------|
+| Socket | LGA 1155 |
+| Chipset | H75 (provável mod H61) |
+| RAM | 2x DDR3 — 1066/1333/1600 MHz |
+| Máx. RAM testado | 2x 8GB DDR3 ✅ |
+| SATA | 4 portas SATA |
+| NVMe (adaptador M.2 PCIe) | *Suportado* ✅ *(não testado)* |
+| BIOS | Azul antiga — interface simples, **PT-BR** ✅ |
+| CPU testada | Core i3-3240 ✅ |
+| Espelhinho / acessórios | Normalmente não vem 😅 |
+| Uso principal | **Bancada e testes de componentes** |
+
+### ✅ Pontos Positivos
+- Excelente pra **reviver plataforma antiga**
+- Suporta NVMe via adaptador (ótimo pra 1155)
+- BIOS simples e compatível
+- Igual às “H61 milagrosas” porém mais completa
+- Ideal pra **PC baratinho** ou **loja técnica**
+
+### ⚠️ Pontos a Considerar
+- Qualidade eletrônica básica (placa “Shopee edition”)
+- VRM simples — **sem pensar em i7 puxado**
+- Manual e suporte? *Deus proverá* ☁️🙏
+- Pode variar de lote (qualidade depende da sorte kkk)
+
+### 🧪 Teste Real
+| Componente | Resultado |
+|-----------|----------|
+| i3-3240 | ✅ Perfeito |
+| DDR3 1600 | ✅ Sem erro |
+| Boot Windows | ✅ Estável |
+| NVMe | ⚠️ *Compatível mas não testado ainda* |
+| BIOS | ✅ Básica porém funcional |
+| Estabilidade | Boa para uso leve e bancada |
+
+### 💬 Impressão Real do Usuário
+> “Não é premium, mas o bagulho liga, roda e segura teste.  
+> Pra máquina de bancada, vale cada centavo.”
+
+### 🎯 Ideal para
+- PC de testes e diagnósticos
+- Máquina simples (office / estudos)
+- Reviver hardware antigo com NVMe adaptado
+- Setup de baixo custo
+
 
 
 
