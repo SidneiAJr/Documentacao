@@ -64,17 +64,11 @@ Feio, pesado, resistente igual geladeira Brastemp 90s.
 > A chance de funcionar era pequena.  
 > O arrependimento foi instantâneo.
 
-Notebook Positivo é igual promessa política:  
-**tu sabe que vai quebrar, mas tenta confiar.**
-
 **Pontos Positivos:**  
 - Peso leve (porque não tem hardware dentro)  
-- Ótimo como *suporte de monitor*
 
 **Pontos Negativos:**  
 - Tudo o resto.
 
-**Nota final:** 1/5 ⭐  
-> Uma estrela porque ele pelo menos liga… às vezes.
 
 
