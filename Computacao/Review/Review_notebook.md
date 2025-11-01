@@ -43,10 +43,15 @@ Feio, pesado, resistente igual geladeira Brastemp 90s.
 
 ## 🤡 Notebook Positivo QMotion (genérico da esperança)
 
+
 **CPU:** Celeron 
+
 **RAM:** Soldada na placa (porque liberdade é só no discurso)  
+
 **Armazenamento:** Soldado também.
+
 **Placa-mãe:** Tablet esticado fingindo ser notebook  
+
 **Expansão:** 🤣🤣🤣 (não)  
 
 | Esperança do usuário | Alta (um sonho) |
