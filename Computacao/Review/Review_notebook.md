@@ -56,7 +56,7 @@ Feio, pesado, resistente igual geladeira Brastemp 90s.
 
 | Esperança do usuário | Alta (um sonho) |
 |---|---|
-| Esperança da máquina | Zero (um pesadelo) |
+| Esperança da máquina | Esperança que de pra usar |
 | Resultado | Cringe tecnológico nível “trava com o bloco de notas” |
 
 ### 📉 Resumo
