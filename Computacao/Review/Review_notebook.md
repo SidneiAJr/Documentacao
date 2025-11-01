@@ -59,6 +59,34 @@ Feio, pesado, resistente igual geladeira Brastemp 90s.
 | Esperança da máquina | Esperança que de pra usar |
 | Resultado | Cringe tecnológico nível “trava com o bloco de notas” |
 
+## 💪 Notebook HP G-Pavilion (Tank Edition)
+
+**Era:** Quando notebook era notebook  
+**CPU:** Core i3 320M (velho porém honesto)  
+**Armazenamento original:** HD mecânico chorando a cada clique  
+**Upgrade:** SSD colocado = **renascimento do guerreiro**  
+**Extras:** Leitor de CD/DVD (patrimônio histórico)  
+**Portas:** Tudo que existe – USB, VGA, HDMI, SD
+
+### 🛡️ Características
+- Feito na época que **HP fabricava tanque de guerra**
+- Aguenta queda, poeira, pancada
+- Teclado que parece que veio de chão de fábrica metalúrgico
+- Rodou Windows 11 e não pediu arrego (risos e respeito)
+
+### 📌 Resumo Técnico-Emocional
+> Com HD: parecia idoso subindo rampa  
+> Com SSD: virou atleta olímpico master 60  
+
+### ✅ Pontos Positivos
+- Indestrutível
+- Leitor de DVD pra rodar *Bíblia da Informática – Vol. 1: Windows XP*
+- Upgrade fácil (sem precisar rezar pro BGA)
+
+### ❌ Pontos Negativos
+- Esquenta igual churrasqueira acesa
+- Bateria provavelmente já se despediu de todo
+
 
 
 
