@@ -41,18 +41,35 @@ Feio, pesado, resistente igual geladeira Brastemp 90s.
 
 ---
 
-## 🤡 Notebook Positivo (genérico)
+## 🤡 Notebook Positivo QMotion (genérico da esperança)
 
-| Esperança do usuário | Alta |
-| Esperança da máquina | Zero |
-| Resultado | Cringe tecnológico |
+**CPU:** Celeron 
+**RAM:** Soldada na placa (porque liberdade é só no discurso)  
+**Armazenamento:** Soldado também.
+**Placa-mãe:** Tablet esticado fingindo ser notebook  
+**Expansão:** 🤣🤣🤣 (não)  
 
-**Resumo:**  
+| Esperança do usuário | Alta (um sonho) |
+|---|---|
+| Esperança da máquina | Zero (um pesadelo) |
+| Resultado | Cringe tecnológico nível “trava com o bloco de notas” |
+
+### 📉 Resumo
 > A vontade de acreditar era grande.  
 > A chance de funcionar era pequena.  
+> O arrependimento foi instantâneo.
 
 Notebook Positivo é igual promessa política:  
 **tu sabe que vai quebrar, mas tenta confiar.**
 
----
+**Pontos Positivos:**  
+- Peso leve (porque não tem hardware dentro)  
+- Ótimo como *suporte de monitor*
+
+**Pontos Negativos:**  
+- Tudo o resto.
+
+**Nota final:** 1/5 ⭐  
+> Uma estrela porque ele pelo menos liga… às vezes.
+
 
