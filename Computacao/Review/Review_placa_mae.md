@@ -50,7 +50,6 @@ Placa-mãe AM4 de entrada com foco em custo-benefício, ideal para builds simple
 | Item | Detalhes |
 |------|---------|
 | Socket | AM4 |
-| Chipset | (Básico — linha econômica Mancer) |
 | Slots RAM | 2x DDR4 |
 | Máx. RAM testado | 24GB (1x 16GB + 1x 8GB) ✅ |
 | NVMe | **Suporta NVMe** (testado) ✅ |
