@@ -114,7 +114,7 @@ Usada como **PC de teste / bancada**.
 ### ⚠️ Pontos a Considerar
 - Qualidade eletrônica básica (placa “Shopee edition”)
 - VRM simples — **sem pensar em i7 puxado**
-- Manual e suporte? *Deus proverá* ☁️🙏
+- Manual e suporte? 
 - Pode variar de lote (qualidade depende da sorte kkk)
 
 ### 🧪 Teste Real
