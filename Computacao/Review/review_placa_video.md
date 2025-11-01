@@ -50,8 +50,6 @@ Placa guerreira, **sobreviveu enchente** com kit FX.
 
 ### 🎯 Comentário
 > “A placa era braba… até a água vencer.”
-
-**Nota emocional:** ⭐⭐⭐☆☆ (3/5)  
 *“Não morreu, virou lenda.”*
 
 ---
