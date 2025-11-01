@@ -39,7 +39,7 @@ Placa guerreira, **sobreviveu enchente** com kit FX.
 | Condição pós-enchente | Situação |
 |----------------------|---------|
 | Funcionou depois? | ✅ Sim |
-| Tempo de vida pós-crime? | Pouco 💀 |
+| Tempo de vida pos enchente | Pouco 💀 |
 | Estado atual | Liga, dá vídeo, entra em loop / RIP ⚰️ |
 
 ### 🧪 Configuração
