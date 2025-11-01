@@ -19,7 +19,6 @@ Virou arma de paciência.
 
 > Abrir o Chrome era side-quest nível impossível.
 
-**Nota:** ⭐⭐⭐☆☆ (3/5 — aguentou a vida, merece respeito)
 
 ---
 
@@ -40,8 +39,6 @@ Jogos | *War Thunder no ultra low, mas FUNCIONOU*
 Notebook tanque.  
 Feio, pesado, resistente igual geladeira Brastemp 90s.
 
-**Nota:** ⭐⭐⭐⭐☆ (4/5 — guerreiro urbano)
-
 ---
 
 ## 🤡 Notebook Positivo (genérico)
@@ -56,8 +53,6 @@ Feio, pesado, resistente igual geladeira Brastemp 90s.
 
 Notebook Positivo é igual promessa política:  
 **tu sabe que vai quebrar, mas tenta confiar.**
-
-**Nota:** ⭐⭐☆☆☆ (2/5 — pela fé)
 
 ---
 
