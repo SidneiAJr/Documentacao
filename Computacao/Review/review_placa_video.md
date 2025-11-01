@@ -27,7 +27,6 @@ Avaliação de GPUs usadas em situações reais, algumas sobreviventes de enchen
 - Retro games
 - PC pra abrir Excel 2007
 
-**Nota nostálgica:** ⭐⭐☆☆☆ (2/5)  
 *"Rodar ela roda… o cooler."*
 
 ---
