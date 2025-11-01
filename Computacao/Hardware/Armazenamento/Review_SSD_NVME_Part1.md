@@ -46,7 +46,9 @@ Entrega o que promete e tem longa durabilidade.
 
 **Placa-mãe:** Mancer 520DB  
 **Sistemas testados:** Windows 11 25H2 e Windows 11 19045  
+
 **Ano de compra:** 2023
+
 ***Valor 250***
 
 ### ✅ Pontos Positivos
