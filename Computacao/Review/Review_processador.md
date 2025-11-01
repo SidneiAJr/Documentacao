@@ -16,8 +16,6 @@ Experiência | Sofrimento escolar edition
 **Comentário:**  
 > Se você tem um, *você não tem um PC — você tem um ventilador com sonhos.*
 
-**Nota:** ⭐⭐☆☆☆ (2/5 pela nostalgia)
-
 ---
 
 ## 💻 Intel Pentium T4500 — *Notebook Positivo 4030*
