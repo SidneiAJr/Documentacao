@@ -10,20 +10,20 @@
 - [ ] Matemática financeira (opcional / concluído ✅)
 
 ## 💻 Linguagens & Programação
-- [ ] Python (base)
-- [ ] C / C++
-- [ ] Shell Script
-- [ ] JavaScript / TypeScript
-- [ ] Java Basico & Avançado
-- [ ] C Basico e WinAPi32
-- [ ] Java Swing | NetBeans
-- [ ] Android Studio | Java
-- [ ] Cobol
+- [ ] Python (base) (opcional / concluído ✅)
+- [ ] C / C++ (opcional / concluído ✅)
+- [ ] Shell Script (opcional / concluído ✅)
+- [ ] JavaScript / TypeScript (opcional / concluído ✅)
+- [ ] Java Basico & Avançado (opcional / concluído ✅)
+- [ ] C Basico e WinAPi32 (Em Andamento)
+- [ ] Java Swing | NetBeans (Em Andamento)
+- [ ] Android Studio | Java (Em Andamento)
+- [ ] Cobol (Em Andamento)
 
 ## 🌐 Desenvolvimento
-- [ ] Versionamento (Git & GitHub)
-- [ ] APIs & protocolos HTTP/REST
-- [ ] Docker / Containers 
+- [ ] Versionamento (Git & GitHub) (Em Andamento)
+- [ ] APIs & protocolos HTTP/REST (Em Andamento)
+- [ ] Docker / Containers (Em Andamento)
 
 ## 🔐 Segurança (conceitual / sem práticas maliciosas)
 - [ ] Conceitos de Cybersegurança
