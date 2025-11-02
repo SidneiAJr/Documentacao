@@ -29,3 +29,10 @@ Use `margin` para criar **distância entre elementos**, e `padding` para **respi
 | `margin-right` / `padding-right`   | Espaço **à direita**         |
 | `margin-bottom` / `padding-bottom` | Espaço **abaixo**            |
 | `margin-left` / `padding-left`     | Espaço **à esquerda**        |
+
+| Propriedade     | Tipo de Espaço                        | Aplicação Principal     |
+| --------------- | ------------------------------------- | ----------------------- |
+| `margin`        | Externo                               | Separar elementos       |
+| `padding`       | Interno                               | Dar respiro ao conteúdo |
+| `margin: auto;` | Centraliza o elemento horizontalmente |                         |
+| `padding: 0;`   | Remove o espaço interno               |                         |
