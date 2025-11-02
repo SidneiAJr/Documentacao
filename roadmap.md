@@ -1,33 +1,42 @@
-# 📚 Roadmap de Estudos & Documentação 
-
-> Organização do aprendizado e produção de conteúdo — foco em fundamentos, prática e documentação clara.
+# 📚 Roadmap Técnico Pessoal
 
 ## ✅ Fundamentos
 - [ ] Lógica de programação
 - [ ] Sistemas Operacionais
 - [ ] Redes de Computadores
 - [ ] Arquitetura de Computadores
-- [ ] Matemática financeira (opcional / concluído ✅)
+- [ ] Estruturas de Dados
+- [ ] Algoritmos
+- [ ] Matemática & Lógica (financeira ✅)
 
-## 💻 Linguagens & Programação
-- [ ] Python (base) (opcional / concluído ✅)
-- [ ] C / C++ (opcional / concluído ✅)
-- [ ] Shell Script (opcional / concluído ✅)
-- [ ] JavaScript / TypeScript (opcional / concluído ✅)
-- [ ] Java Basico & Avançado (opcional / concluído ✅)
-- [ ] C Basico e WinAPi32 (Em Andamento)
-- [ ] Java Swing | NetBeans (Em Andamento)
-- [ ] Android Studio | Java (Em Andamento)
-- [ ] Cobol (Em Andamento)
+## 💻 Linguagens
+### Finalizadas / Boa base:
+- [x] Python
+- [x] C / C++
+- [x] Shell
+- [x] JavaScript / TypeScript
+- [x] Java Basico & Avançado
 
-## 🌐 Desenvolvimento
-- [ ] Versionamento (Git & GitHub) (Em Andamento)
-- [ ] APIs & protocolos HTTP/REST (Em Andamento)
+### Em Andamento:
+- [ ] C WinAPI32
+- [ ] Java Swing / NetBeans
+- [ ] Android Studio / Java
+- [ ] COBOL
+
+## 🌐 Dev & Software
+- [ ] Git & GitHub (Em Andamento)
+- [ ] API REST (Em Andamento)
+- [ ] Clean Code
+- [ ] Design Patterns
+
+## 🐳 Infra / DevOps
 - [ ] Docker / Containers (Em Andamento)
+- [ ] Linux — Avançado / Shell avançado
+- [ ] Virtualização / Proxmox
+- [ ] Redes avançado
 
-## 🔐 Segurança (conceitual / sem práticas maliciosas)
-- [ ] Conceitos de Cybersegurança
-- [ ] Criptografia — fundamentos
-- [ ] Modelos de ameaças
+## 🔐 Segurança
+- [ ] Fundamentos de Cybersegurança
+- [ ] Criptografia
+- [ ] Modelos de ameaça
 - [ ] Segurança em redes
-
