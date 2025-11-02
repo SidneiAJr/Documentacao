@@ -1,70 +1,49 @@
-# Diferença de Display no css:
+# 📐 Diferença de `display` no CSS
 
-- display: flex → Flexível, permite alinhar e distribuir elementos facilmente.
+O atributo `display` define **como um elemento HTML é exibido na página** — se ele ocupa uma linha inteira, se pode ficar lado a lado com outros, ou se seu conteúdo se ajusta automaticamente.
 
-- display: block → Ocupa toda a largura disponível, elementos começam em uma nova linha.
+---
 
-- display: inline-block → Combina características de block e inline: mantém altura e largura, mas fica na mesma linha de outros elementos.
+## 🧩 Tipos de Display
 
-- display: inline → Elemento fica na linha, mas ignora altura e largura.
+### **display: flex**
+Torna o layout **flexível**, permitindo alinhar e distribuir elementos facilmente.  
+Usado para criar **layouts modernos e responsivos**, com controle sobre direção, alinhamento e espaçamento.
 
-## Exemplo de codigo | CSS Display Flex:
+---
 
-```css
-.b {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    /* From https://css.glass */
-    background: rgba(255, 255, 255, 0.2);
-    border-radius: 16px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    font-weight: bolder;
-    font-size: 20px;
-    color: black;
-}
-```
+### **display: block**
+O elemento ocupa **toda a largura disponível** da linha.  
+Cada novo elemento “block” começa **abaixo do anterior**.  
+Exemplo comum: `<div>`, `<section>`, `<p>`.
 
-## Exemplo de codigo | CSS Display Block:
+---
 
-```css
-.caixa1 {
-    display: block;
-    height: 250px;
-    background-color: #00c6ff;
-    border-radius: 5px;
-    font-size: 15px;
-    font-weight: bolder;
-}
-```
+### **display: inline-block**
+Combina características de **block** e **inline**:  
+- Mantém **altura e largura personalizadas**  
+- Mas continua **na mesma linha** que outros elementos, se houver espaço.  
+Muito usado em **botões e caixas pequenas** lado a lado.
 
-## Exemplo de Codigo | CSS Inline:
+---
 
-```css
-.caixa2 {
-    display: inline;
-    height: 250px;
-    background-color: #00c6ff;
-    border-radius: 5px;
-    font-size: 15px;
-    font-weight: bolder;
-}
-```
-> ⚠️ height e width não funcionam em inline.
+### **display: inline**
+O elemento fica **na mesma linha** dos outros, sem quebrar a estrutura.  
+👉 Não aceita `height` nem `width`.  
+Usado em textos e ícones — exemplos: `<span>`, `<a>`, `<strong>`.
 
-## Exemplo de Codigo | CSS 
+---
 
-```CSS
-.caixa3 {
-    display: inline-block;
-    height: 250px;
-    background-color: #00c6ff;
-    border-radius: 5px;
-    font-size: 15px;
-    font-weight: bolder;
-    flex-direction: column;
-}
-```
+## ⚙️ Tabela Comparativa
+
+| Tipo de Display | Ocupa Linha Inteira | Aceita Height/Width | Pode Ficar Lado a Lado | Uso Comum |
+|-----------------|---------------------|----------------------|-------------------------|------------|
+| **block** | ✅ Sim | ✅ Sim | ❌ Não | Estruturas e containers |
+| **inline** | ❌ Não | ❌ Não | ✅ Sim | Textos e ícones |
+| **inline-block** | ❌ Não | ✅ Sim | ✅ Sim | Botões e cards pequenos |
+| **flex** | ✅ Sim | ✅ Sim | ✅ Sim (via container) | Layouts modernos e responsivos |
+
+---
+
+💡 **Dica:**  
+Combine `display: flex` com propriedades como `justify-content`, `align-items` e `flex-direction` para criar alinhamentos perfeitos sem precisar usar `float` ou `position`.
