@@ -1,4 +1,4 @@
-## A Falácia da Comparação Entre o Estado e um Cartão de Crédito
+# A Falácia da Comparação Entre o Estado e um Cartão de Crédito
 
 A comparação entre o Estado e um cartão de crédito é uma falácia técnica, pois simplifica incorretamente as finanças públicas. Abaixo estão os principais motivos pelos quais essa comparação não é válida:
 
