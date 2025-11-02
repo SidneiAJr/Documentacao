@@ -21,6 +21,7 @@ Use `margin` para criar **distância entre elementos**, e `padding` para **respi
 
 ```html
 <div class="caixa">Conteúdo</div>
+```
 
 | Propriedade                        | Função                       |
 | ---------------------------------- | ---------------------------- |
