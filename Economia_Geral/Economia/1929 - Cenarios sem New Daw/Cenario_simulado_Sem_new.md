@@ -75,10 +75,4 @@ O cenário **sem intervenção governamental** mostra o quão devastador o **aju
 
 ---
 
-Essa estrutura está pronta para ser colocada no GitHub em formato Markdown. Você pode adicionar ainda mais explicações ou variações nos cenários conforme o seu projeto evolui. 😊
 
-### Sugestões:
-- Colocar uma licença ao repositório (exemplo: **MIT License** ou **Creative Commons**).
-- Incluir gráficos ou links para fontes que reforçam os dados históricos, caso queira expandir mais.
-
-Se precisar de mais alguma coisa, me avise!
