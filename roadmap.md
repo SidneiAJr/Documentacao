@@ -4,7 +4,6 @@
 
 ## ✅ Fundamentos
 - [ ] Lógica de programação
-- [ ] Estruturas de dados (listas, pilhas, filas, árvores, grafos)
 - [ ] Sistemas Operacionais
 - [ ] Redes de Computadores
 - [ ] Arquitetura de Computadores
@@ -14,7 +13,12 @@
 - [ ] Python (base)
 - [ ] C / C++
 - [ ] Shell Script
-- [ ] JavaScript / TypeScript 
+- [ ] JavaScript / TypeScript
+- [ ] Java Basico & Avançado
+- [ ] C Basico e WinAPi32
+- [ ] Java Swing | NetBeans
+- [ ] Android Studio | Java
+- [ ] Cobol
 
 ## 🌐 Desenvolvimento
 - [ ] Versionamento (Git & GitHub)
