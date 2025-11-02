@@ -79,3 +79,11 @@ A tabela abaixo mostra a evolução dos principais **indicadores econômicos** d
 ## Conclusão
 
 Sem a intervenção do governo, o **ajuste pós-crash** seria **longo e doloroso**, resultando em uma **recuperação desigual** e em uma **perda significativa de capital humano**. A ausência de políticas de apoio bancário e de estímulos à demanda agravaria ainda mais os efeitos da crise, prolongando a recessão e dificultando a recuperação da economia.
+
+>Somente Simulação não há referencia, usada pra estudo e pensamento
+
+>Simulação baseada em conhecimento histórico e econômico, sem uso de fontes diretas. Para fins de análise e reflexão
+
+>Este é um exercício de modelagem econômica, criado com base em eventos históricos, para estudo e discussão, sem pretensão de fidelidade exata aos dados históricos.
+
+
