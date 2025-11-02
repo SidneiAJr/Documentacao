@@ -37,7 +37,7 @@ Jogos | *War Thunder no ultra low, mas FUNCIONOU*
 
 **Resumo:**  
 Notebook tanque.  
-Feio, pesado, resistente igual geladeira Brastemp 90s.
+Resistente igual geladeira Brastemp 90s.
 
 ---
 
