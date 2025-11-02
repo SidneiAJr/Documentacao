@@ -14,3 +14,11 @@ Embora a **igualdade** seja um objetivo importante, uma redistribuição de riqu
 
 ### Conclusão:
 Uma distribuição igualitária de riqueza não garante que todos os problemas econômicos serão resolvidos. Para que a economia cresça, é necessário que haja **incentivos ao trabalho**, **investimentos produtivos** e **inovação**, além de políticas de redistribuição que sejam bem planejadas.
+
+## Exercício Mental: Real ou Simplificação?
+
+A falácia da "distribuição perfeita de riqueza" é um **exercício mental**, ou seja, uma simplificação excessiva da complexidade da economia. Ela assume que uma redistribuição igualitária da riqueza resolveria todos os problemas econômicos e sociais, sem considerar as **implicações sobre a produtividade**, **incentivos ao trabalho** e **eficiência econômica**.
+
+Esse tipo de raciocínio é usado para justificar políticas de redistribuição sem um plano para garantir que a economia cresça de forma sustentável. **É baseado em uma visão simplificada da economia**, que ignora que a criação de riqueza e o incentivo à inovação são fatores essenciais para o crescimento econômico a longo prazo.
+
+Portanto, ao usar esse tipo de argumento, é importante questionar a ideia de que uma distribuição igual de recursos traria prosperidade e buscar soluções mais equilibradas que considerem o crescimento econômico e a criação de valor.
