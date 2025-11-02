@@ -56,7 +56,7 @@ Sem a intervenção do governo, a recuperação econômica do Brasil após a cri
 Sem a intervenção do governo Vargas e a manipulação do mercado de café, o Brasil pós-1929 teria enfrentado uma **recuperação muito mais lenta** e com **grandes custos sociais**. A economia continuaria a sofrer com a queda nas exportações de café e a falta de uma política econômica eficaz para lidar com a crise. O país teria dificuldades para sair da estagnação, o que poderia ter gerado **conflitos sociais** e **instabilidade política**, prolongando os efeitos da Grande Depressão e dificultando a industrialização e o progresso social no Brasil.
 
 
->Somente Simulação não referencia, usada pra estudo e pensamento
+>Somente Simulação não há referencia, usada pra estudo e pensamento
 
 >Simulação baseada em conhecimento histórico e econômico, sem uso de fontes diretas. Para fins de análise e reflexão
 
