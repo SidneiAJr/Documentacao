@@ -14,3 +14,11 @@ Gastos públicos ilimitados podem levar a um **dívida pública insustentável**
 
 ### Conclusão:
 A ideia de que o governo pode gastar sem limites é perigosa e não reflete a realidade econômica. Para garantir a sustentabilidade econômica, o governo deve planejar seus gastos de forma equilibrada, garantindo que não haja superendividamento, e equilibrando **investimentos públicos** com fontes de receita estáveis.
+
+## Exercício Mental: Real ou Simplificação?
+
+A falácia do "gasto público infinito" é um **exercício mental**, ou seja, uma simplificação excessiva do problema fiscal de um país. Ela assume que o governo pode continuar a aumentar seus gastos sem consequências negativas, sem considerar os efeitos de **dívidas públicas insustentáveis**, **inflação** e **crises fiscais**.
+
+Esse tipo de raciocínio é frequentemente utilizado para justificar a expansão dos gastos públicos sem uma análise detalhada dos impactos econômicos a longo prazo. **É baseado em uma visão simplificada da economia**, que ignora a interconexão de fatores como a necessidade de **equilíbrio fiscal**, **aumento da arrecadação** e a **eficiência no uso dos recursos públicos**.
+
+Portanto, ao usar esse tipo de argumento, é importante questionar a viabilidade de aumentar os gastos públicos de forma ilimitada e buscar soluções fiscais equilibradas que considerem a sustentabilidade econômica a longo prazo.
