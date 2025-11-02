@@ -98,7 +98,10 @@ Experiência | Sofrimento escolar edition
 
 > *Se liga o Windows 11 nisso e funciona, tu é mágico.*
 
-
-
 ---
+
+## Athlon 1700 xp
+
+-256gb de ram ddr2 
+-Esquentava o bixo, se abrir chrome 
 
