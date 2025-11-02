@@ -96,3 +96,37 @@ private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {
 }
 ```
 
+## 📘 Explicação do Código 
+🎯 Objetivo
+
+Esse código implementa a lógica de um formulário de login com Java Swing, validando usuário e senha e abrindo telas diferentes conforme o usuário autenticado.
+
+✅ Funcionalidades
+
+Captura usuário e senha da interface
+
+Valida credenciais via switch
+
+Exibe mensagens com JOptionPane
+
+Abre janelas específicas para cada usuário
+
+Botão para limpar os campos
+
+Botão para cancelar e voltar ao login
+
+🧠 Conceitos Aplicados
+
+Programação orientada a eventos (ActionListener)
+
+Manipulação de componentes Swing (JTextField, JPasswordField)
+
+Estrutura de decisão switch
+
+Instanciação de janelas em Java GUI
+
+🚨 Observações Técnicas
+
+Está usando autenticação fixa (hardcoded) — bom para estudo
+
+
