@@ -102,7 +102,7 @@ Experiência | Sofrimento escolar edition
 
 ## 🔥Athlon 1700 xp
 
-- 256gb de ram ddr2 
+- 256gb de ram ddr
 
 - Esquentava o bixo, se abrir chrome
 
