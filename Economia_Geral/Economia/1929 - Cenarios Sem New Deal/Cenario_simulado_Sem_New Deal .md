@@ -1,4 +1,4 @@
-# Cenário Pós-Crash de 1929: Sem Intervenção Governamental
+# Cenário Pós-Crash de 1929: Sem Intervenção Governamental (Simplificada)
 
 Este documento simula o cenário econômico de um **país pós-crash de 1929** onde o governo **não intervém** diretamente na economia. A ideia é entender como o mercado pode se ajustar sozinho, mas com impactos graves para a população.
 
