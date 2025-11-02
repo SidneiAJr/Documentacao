@@ -104,7 +104,7 @@ Experiência | Sofrimento escolar edition
 
 - 256gb de ram ddr
 
-- Esquentava o bixo, se abrir chrome
+- Esquentava o bixo
 
 - Ta quente amigo so um pouco 
 
