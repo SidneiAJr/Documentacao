@@ -75,4 +75,10 @@ O cenário **sem intervenção governamental** mostra o quão devastador o **aju
 
 ---
 
+>Somente Simulação não há referencia, usada pra estudo e pensamento
+
+>Simulação baseada em conhecimento histórico e econômico, sem uso de fontes diretas. Para fins de análise e reflexão
+
+>Este é um exercício de modelagem econômica, criado com base em eventos históricos, para estudo e discussão, sem pretensão de fidelidade exata aos dados históricos.
+
 
