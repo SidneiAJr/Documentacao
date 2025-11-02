@@ -31,7 +31,7 @@ public class Swing {
 }
 ```
 ## 📘 Explicação para o GitHub
-📝 Descrição
+## 📝 Descrição
 
 Este programa em Java utiliza JOptionPane para solicitar informações ao usuário e exibir uma saudação personalizada.
 
