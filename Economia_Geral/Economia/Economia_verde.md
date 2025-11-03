@@ -14,7 +14,7 @@ No contexto atual, **a produção de motores elétricos no Brasil enfrenta séri
 
 Em resumo, **os motores elétricos funcionam tecnicamente no Brasil**, mas a viabilidade econômica depende de planejamento, investimentos e redução da dependência de importações.
 
-## Questão Energética do Brasil
+## 🌳Questão Energética do Brasil
 
 O Brasil possui uma das matrizes energéticas mais limpas do mundo, com quase 60% de energia proveniente de hidrelétricas. No entanto, essas fontes são **vulneráveis a variações climáticas**, como períodos de seca intensa ou chuvas excessivas.  
 
@@ -28,7 +28,7 @@ Para viabilizar a eletrificação em larga escala, seria necessário:
 - **Fortalecimento da infraestrutura de distribuição**, para suportar picos de demanda.  
 - **Políticas de incentivo à recarga inteligente**, evitando sobrecarga em horários de pico.  
 
-## Tarifas médias de energia elétrica residencial (R$/kWh) por estado – Brasil
+## 🌳Tarifas médias de energia elétrica residencial (R$/kWh) por estado – Brasil
 
 | Estado               | Tarifa média (aprox.) R$/kWh |
 |----------------------|------------------------------|
