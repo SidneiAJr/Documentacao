@@ -27,3 +27,35 @@ Para viabilizar a eletrificação em larga escala, seria necessário:
 - **Expansão da capacidade de geração elétrica**, com fontes renováveis diversificadas.  
 - **Fortalecimento da infraestrutura de distribuição**, para suportar picos de demanda.  
 - **Políticas de incentivo à recarga inteligente**, evitando sobrecarga em horários de pico.  
+
+## Tarifas médias de energia elétrica residencial (R$/kWh) por estado – Brasil
+
+| Estado               | Tarifa média (aprox.) R$/kWh |
+|----------------------|------------------------------|
+| Pará (PA)            | 0,938                        :contentReference[oaicite:0]{index=0} |
+| Mato Grosso do Sul (MS) | 0,870                     :contentReference[oaicite:1]{index=1} |
+| Rio de Janeiro (RJ)  | 0,870                        :contentReference[oaicite:2]{index=2} |
+| Alagoas (AL)         | 0,863                        :contentReference[oaicite:3]{index=3} |
+| Amazonas (AM)        | 0,857                        :contentReference[oaicite:4]{index=4} |
+| Mato Grosso (MT)     | 0,847                        :contentReference[oaicite:5]{index=5} |
+| Piauí (PI)           | 0,829                        :contentReference[oaicite:6]{index=6} |
+| Tocantins (TO)       | 0,823                        :contentReference[oaicite:7]{index=7} |
+| Bahia (BA)           | 0,821                        :contentReference[oaicite:8]{index=8} |
+| Amapá (AP)           | 0,808                        :contentReference[oaicite:9]{index=9} |
+| Minas Gerais (MG)    | 0,796                        :contentReference[oaicite:10]{index=10} |
+| Acre (AC)            | 0,791                        :contentReference[oaicite:11]{index=11} |
+| Goiás (GO)           | 0,745                        :contentReference[oaicite:12]{index=12} |
+| Pernambuco (PE)      | 0,744                        :contentReference[oaicite:13]{index=13} |
+| Distrito Federal (DF)| 0,743                        :contentReference[oaicite:14]{index=14} |
+| Rondônia (RO)        | 0,727                        :contentReference[oaicite:15]{index=15} |
+| Ceará (CE)           | 0,722                        :contentReference[oaicite:16]{index=16} |
+| Rio Grande do Norte (RN) | 0,722                   :contentReference[oaicite:17]{index=17} |
+| Maranhão (MA)        | 0,711                        :contentReference[oaicite:18]{index=18} |
+| Rio Grande do Sul (RS)| 0,701                       :contentReference[oaicite:19]{index=19} |
+| Espírito Santo (ES)  | 0,682                        :contentReference[oaicite:20]{index=20} |
+| São Paulo (SP)       | 0,671                        :contentReference[oaicite:21]{index=21} |
+| Sergipe (SE)         | 0,666                        :contentReference[oaicite:22]{index=22} |
+| Roraima (RR)         | 0,661                        :contentReference[oaicite:23]{index=23} |
+| Paraná (PR)          | 0,629                        :contentReference[oaicite:24]{index=24} |
+| Santa Catarina (SC)  | 0,618                        :contentReference[oaicite:25]{index=25} |
+| Paraíba (PB)         | 0,588                        :contentReference[oaicite:26]{index=26} |
