@@ -100,11 +100,9 @@ Experiência | Sofrimento escolar edition
 
 ---
 
-## 🔥Athlon 1700 xp
+## 🔥 Athlon XP 1700+ — O dinossauro do desktop
 
-- 256gb de ram ddr
-
-- Esquentava o bixo
-
-- Ta quente amigo so um pouco 
-
+| Cores / Threads | 1c / 1t |
+| RAM Usada | 256MB DDR — Isso mesmo, 256MB. |
+| Estado | Sobrevivente de mil eras 🦖 |
+| Temperatura | Próxima do ponto de fusão 🔥 |
