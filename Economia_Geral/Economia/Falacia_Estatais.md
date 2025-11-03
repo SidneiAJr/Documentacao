@@ -42,4 +42,4 @@ As estatais têm um papel essencial no fornecimento de bens e serviços público
 
 Esse modelo técnico destaca como as estatais possuem funções econômicas e sociais que vão além da simples busca pelo lucro, e explica porque a **pressão constante para gerar lucro** pode ser **desajustada**, dependendo do contexto.
 
-Se quiser mais algum ajuste ou informação sobre esse tema, só avisar!
+
