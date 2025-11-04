@@ -18,3 +18,8 @@
 *Comprada em 2023*  
 - **Desempenho**: Boa, barata, funcionando perfeitamente.  
 - **Características**: Blindagem de metal, o que ajuda na dissipação de calor.
+
+## Aquisição Futura
+
+**Memória DDR3 Rise Mode 4GB (Pente de Notebook)**  
+- **Status**: Será testado.
