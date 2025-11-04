@@ -1,6 +1,6 @@
 # Review Monitor
 
-## 1. **Monitor Semp Toshiba de 21 Polegadas MLE1951**
+## 1. **Monitor Semp Toshiba de 21 Polegadas MLE2251F**
 
 *Comprado em 2012*
 
