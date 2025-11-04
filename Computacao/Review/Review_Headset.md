@@ -34,6 +34,7 @@ Sem laboratório, só o uso real — do “firme e forte” ao “partiu pro lix
 ---
 
 ## 🎧 Headset Multilaser Quadrado PH146
+Quantidade: 2
 - **Material:** Estrutura de silicone, ideia boa.  
 - **Som:** Baixo, pouco potente.  
 - **Microfone:** Pequeno, ajustável, funcional.  
