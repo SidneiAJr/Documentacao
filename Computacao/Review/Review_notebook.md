@@ -30,7 +30,8 @@ RAM original | 8GB
 Upgrade | 12GB  
 CPU | i3-4000M  
 GPU | Fé + driver desatualizado  
-Jogos | *War Thunder no ultra low, mas FUNCIONOU*  
+Jogos | *War Thunder no ultra low, mas FUNCIONOU* 
+Cooler|Parece uma Turbina de Avião 
 
 > Se abriu, é porque roda.  
 > Se fechou, é porque você pediu demais 💀
