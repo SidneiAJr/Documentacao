@@ -49,3 +49,12 @@ O desafio da razão moderna é **reconhecer e entender a irracionalidade**, não
 
 > “Conhece-te a ti mesmo” — Sócrates  
 > talvez signifique hoje: **entenda teus próprios impulsos antes que eles te controlem.**
+
+---
+
+> 🧠 **Nota de Reflexão Pessoal**  
+> Este texto representa uma reflexão filosófica e analítica de caráter pessoal, elaborada com base em conceitos gerais das ciências humanas e sociais.  
+> Não possui pretensão acadêmica formal, servindo como exercício de raciocínio crítico, observação empírica e interpretação subjetiva da realidade.
+
+---
+
