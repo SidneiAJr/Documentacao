@@ -59,3 +59,12 @@ A filosofia de construção social nos mostra que viver em sociedade é um **ato
 
 O ser humano é, ao mesmo tempo, **arquiteto e prisioneiro** das suas próprias criações sociais.
 
+---
+
+> 🧠 **Nota de Reflexão Pessoal**  
+> Este texto representa uma reflexão filosófica e analítica de caráter pessoal, elaborada com base em conceitos gerais das ciências humanas e sociais.  
+> Não possui pretensão acadêmica formal, servindo como exercício de raciocínio crítico, observação empírica e interpretação subjetiva da realidade.
+
+---
+
+
