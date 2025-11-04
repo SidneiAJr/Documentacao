@@ -27,3 +27,18 @@ System.out.printf("Hexadecimal: %x\n", numero); // Saída: Hexadecimal: 64
 
 ```
 
+## 2️⃣ Explicação do System.out.println()
+
+O System.out.println() é um método utilizado para imprimir texto ou variáveis no console. Ele faz parte da classe System em Java, que é um componente fundamental para interação com o sistema (entrada e saída).
+
+System: Classe que contém vários membros estáticos, como in, out, e err.
+
+out: Objeto da classe PrintStream que permite a saída de dados para o console.
+
+println(): Método da classe PrintStream que imprime uma linha de texto e faz uma quebra de linha após a impressão.
+
+Características do println():
+
+Imprime qualquer tipo de dado: strings, números, objetos e até expressões podem ser passados como argumentos.
+
+Quebra de linha: Após imprimir o texto, o método automaticamente pula uma linha (cria uma nova linha no console).
