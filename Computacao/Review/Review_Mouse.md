@@ -31,7 +31,7 @@ O **botão esquerdo quebrou** após longo período de uso diário.
 ---
 
 ## 4. **TGT (The Game Team)**
-**📆 Ano de compra:** 2010  
+**📆 Ano de compra:** 2021 
 **🔹 Descrição:** Mouse gamer de baixo custo.  
 **🔹 Experiência de uso:** Boa pegada e sensibilidade aceitável.  
 **🔹 Problemas encontrados:**  
