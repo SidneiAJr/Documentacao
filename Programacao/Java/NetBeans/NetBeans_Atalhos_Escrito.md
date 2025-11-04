@@ -72,3 +72,13 @@ Abaixo estão os principais **snippets automáticos** disponíveis no editor.
       case :
           break;
   }
+  ```
+  | Categoria    | Atalho                                             | Geração                | Uso                   |
+| ------------ | -------------------------------------------------- | ---------------------- | --------------------- |
+| Impressão    | `sou`, `sysout`, `soutv`                           | `System.out.println()` | Saídas e logs         |
+| Estruturas   | `psvm`, `main`, `ctor`, `class`, `interface`       | Métodos e classes      | Código base           |
+| Controle     | `fori`, `foreach`, `if`, `else`, `while`, `switch` | Laços e condicionais   | Lógica de fluxo       |
+| Exceções     | `try`, `tryf`, `throw`, `throws`                   | Blocos de tratamento   | Erros e segurança     |
+| Entrada      | `sysin`                                            | `Scanner`              | Leitura de dados      |
+| Documentação | `javadoc`                                          | `/** ... */`           | Comentários e Javadoc |
+
