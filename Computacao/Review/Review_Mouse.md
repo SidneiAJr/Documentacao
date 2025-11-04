@@ -41,7 +41,7 @@ O **botão esquerdo quebrou** após longo período de uso diário.
 ---
 
 ## 5. **Mouse “Marca Shopee” (Genérico)**
-**📆 Ano de compra:** 2023 (aprox.)  
+**📆 Ano de compra:** 2025 (aprox.)  
 **🔹 Descrição:** Modelo genérico importado, atualmente em uso.  
 **🔹 Experiência de uso:**  
 Surpreendentemente funcional — sem falhas até o momento.  
