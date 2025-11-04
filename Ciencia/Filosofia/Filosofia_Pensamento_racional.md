@@ -22,3 +22,10 @@ A simulação de comportamentos racionais — seja em modelos matemáticos, inte
 
 ---
 
+---
+
+> 🧠 **Nota de Reflexão Pessoal**  
+> Este texto representa uma reflexão filosófica e analítica de caráter pessoal, elaborada com base em conceitos gerais das ciências humanas e sociais.  
+> Não possui pretensão acadêmica formal, servindo como exercício de raciocínio crítico, observação empírica e interpretação subjetiva da realidade.
+
+---
