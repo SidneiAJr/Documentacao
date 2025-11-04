@@ -82,6 +82,7 @@ Além das opções mais conhecidas, o NetBeans também oferece recursos extras a
 - Integração direta com os componentes visuais.
 
 ### 🚀 **Main Method**
+
 - Gera rapidamente o método principal:
   ```java
   public static void main(String[] args) {
