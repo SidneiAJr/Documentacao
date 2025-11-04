@@ -42,7 +42,7 @@ Quantidade: 2
 
 ---
 
-## 🎧 Headset Atual — H2232D
+## 🎧 Headset Atual —  Havit H2232D
 - **Som:** Baixo e abafado.  
 - **Microfone:** Fino e flexível.  
 - **Preço:** R$90 — alto pelo que entrega.  
