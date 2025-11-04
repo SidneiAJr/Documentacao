@@ -1,0 +1,26 @@
+# Atalhos de Código no NetBeans
+
+- **sou** → `System.out.println();`
+- **soutv** → `System.out.println("variável: " + variavel);`
+- **psvm** → `public static void main(String[] args) { }`
+- **fori** → `for (int i = 0; i < ; i++) { }`
+- **foreach** → `for (Tipo variavel : colecao) { }`
+- **try** → `try { } catch (Exception e) { } finally { }`
+- **tryf** → `try { } catch (Exception e) { }`
+- **if** → `if () { }`
+- **else** → `else { }`
+- **elseif** → `else if () { }`
+- **while** → `while () { }`
+- **do** → `do { } while ();`
+- **switch** → `switch () { case : break; }`
+- **sysout** → `System.out.println();`
+- **sysin** → `Scanner sc = new Scanner(System.in);`
+- **javadoc** → `/** documentation */`
+- **main** → `public static void main(String[] args) { }`
+- **ctor** → `public NomeClasse() { }`
+- **class** → `class NomeClasse { }`
+- **interface** → `interface NomeInterface { }`
+- **package** → `package nome.do.pacote;`
+- **import** → `import nome.do.pacote;`
+- **throw** → `throw new Exception("mensagem");`
+- **throws** → `public void metodo() throws Exception { }`
