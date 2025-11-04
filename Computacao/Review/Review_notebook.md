@@ -47,7 +47,7 @@ Resistente igual geladeira Brastemp 90s.
 
 **CPU:** Celeron 
 
-**RAM:** Soldada na placa (porque liberdade é só no discurso)  
+**RAM:** Soldada na placa  
 
 **Armazenamento:** Soldado também.
 
