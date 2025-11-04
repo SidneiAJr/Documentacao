@@ -1,6 +1,6 @@
 # 💰 Simulação Econômica — República de Fiscalândia
 
-> Estudo teórico sobre o impacto da rigidez fiscal em diferentes níveis de travamento do PIB.
+> ⚠️⚠️Estudo teórico sobre o impacto da rigidez fiscal em diferentes níveis de travamento do PIB.
 
 ---
 
