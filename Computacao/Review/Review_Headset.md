@@ -34,27 +34,41 @@ Sem laboratório, só o uso real — do “firme e forte” ao “partiu pro lix
 ---
 
 ## 🎧 Headset Multilaser Quadrado PH146
-Quantidade: 2
-- **Material:** Estrutura de silicone, ideia boa.  
-- **Som:** Baixo, pouco potente.  
-- **Microfone:** Pequeno, ajustável, funcional.  
-- **Conclusão:** Conceito interessante, execução mediana.  
+- **Quantidade:** 2 unidades  
+- **Material:** Estrutura de silicone — ideia boa, mas execução ruim.  
+- **Som:** Baixo e sem corpo.  
+- **Microfone:** Pequeno, ajustável e funcional.  
+- **Conclusão:** Conceito interessante, mas ficou no “quase bom”.  
 
 ---
 
-## 🎧 Headset Atual —  Havit H2232D
+## 🎧 Headset Havit H2232D (Atual)
 - **Som:** Baixo e abafado.  
 - **Microfone:** Fino e flexível.  
 - **Preço:** R$90 — alto pelo que entrega.  
-- **Conclusão:** Somente pra emergências.  
+- **Conclusão:** Funciona, mas sem destaque; apenas cumpre o básico.  
 
 ---
 
+## 🎧 Headset Fortrek H2 P2
+- **Som:** Baixo e desequilibrado.  
+- **Estrutura:** Boa, confortável.  
+- **Conclusão:** Estrutura salva, mas o som decepciona.  
 
 ---
 
-🧠 **Resumo filosófico do teste de áudio:**  
-> “Um bom som pode curar a alma, mas um cabo ruim destrói o espírito.”
+## 🎧 Headset Blackfire RGB
+- **Som:** Baixo e sem presença.  
+- **Estrutura:** Boa, sólida.  
+- **Preço:** Alto pelo desempenho entregue.  
+- **Conclusão:** Visual bonito, mas áudio abaixo da média.  
 
 ---
+
+### 🧠 **Resumo filosófico do teste de áudio**
+> “Um bom som pode curar a alma,  
+> mas um cabo ruim destrói o espírito.”
+
+---
+
 
