@@ -29,6 +29,20 @@ As empresas pedem **experiência prévia**, aplicam **testes complexos**, e depo
 
 ---
 
+## 🧠 Reflexão Final
+
+O setor de tecnologia é movido pela **inovação**, mas muitas vezes esquece que **a inovação nasce do aprendizado**.  
+Processos seletivos que parecem mais uma maratona de resistência do que uma porta de entrada  
+acabam **afastando mentes criativas** que poderiam contribuir imensamente.
+
+O verdadeiro investimento não está apenas em contratar quem “já sabe tudo”,  
+mas em **dar oportunidade para quem quer aprender e crescer**.
+
+> “Empresas que formam pessoas constroem o futuro.  
+> As que apenas selecionam, ficam presas ao presente.”
+
+
+
 ## 💬 Conclusão Pessoal
 
 Esse tipo de processo mostra um **desalinhamento entre o discurso e a prática**.  
