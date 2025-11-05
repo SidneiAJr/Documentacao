@@ -10,9 +10,9 @@
   - **Desinvestimento em infraestrutura** além de Brasília.
   - Desigualdade social aumentada, já que políticas de redistribuição de renda não foram priorizadas.
 
-## 2. Plano da Plano de confisco da poupanca - Remoção de Liquidez (Com e Sem Implementação)
+## 2. Plano de Confisco da Poupança - Remoção de Liquidez (Com e Sem Implementação)
 
-### Cenário A: **Plano de confisco da poupanca Implementado**
+### Cenário A: **Plano de Confisco da Poupança Implementado**
 
 - **Contexto:** A ideia era retirar a liquidez do mercado, especialmente devido à grande quantidade de poupança inativa, o que geraria um controle mais rígido sobre a inflação e poderia melhorar a estabilidade econômica. No entanto, essa medida também tinha o risco de desestabilizar o mercado financeiro e reduzir o consumo.
 
@@ -21,7 +21,7 @@
   - **Queda na atividade econômica**, já que a restrição de liquidez poderia afetar a capacidade das pessoas de consumir e de investir.
   - Aumento da **marginalização da população** que dependia de sistemas financeiros informais ou poupadores de baixa renda.
 
-### Cenário B: **Plano de confisco da poupanca Implementado**
+### Cenário B: **Plano de Confisco da Poupança Não Implementado**
 
 - **Contexto:** No cenário hipotético, o governo decide não remover a liquidez do mercado, permitindo que as pessoas continuem com suas economias de longo prazo e a atividade econômica continue de forma mais estável.
 
@@ -44,9 +44,9 @@
 
 # **Cenário Fictício - Não Usar para Estudo Acadêmico**
 
-## 2. Plano de Poupanca - **Aperto Monetário Sem Remoção Excessiva de Liquidez**
+## 2. Plano de Poupança - **Aperto Monetário Sem Remoção Excessiva de Liquidez**
 
-- **Contexto:** Neste cenário, a ideia é que o governo de Zélia Cardoso de Mello decidisse aplicar um **aperto monetário mais profundo** para controlar a inflação, mas sem recorrer à medida drástica de remoção de liquidez em excesso. Isso significa que o governo se concentraria em **políticas monetárias restritivas** (como aumento de juros) e outras **medidas de controle da inflação** sem reduzir drasticamente o volume de recursos disponíveis no sistema financeiro. 
+- **Contexto:** Neste cenário, o governo decide aplicar um **aperto monetário mais profundo** para controlar a inflação, mas sem recorrer à medida drástica de remoção de liquidez em excesso. Isso significa que o governo se concentraria em **políticas monetárias restritivas** (como aumento de juros) e outras **medidas de controle da inflação** sem reduzir drasticamente o volume de recursos disponíveis no sistema financeiro. 
 
 - **Objetivo Principal:** O principal objetivo seria controlar a inflação sem causar um colapso no consumo e nos investimentos, ao contrário de uma política de "remoção de liquidez" que causaria uma recessão mais profunda.
 
@@ -104,12 +104,4 @@
 
 Se comparado ao **cenário de remoção excessiva de liquidez**, o modelo de aperto monetário controlado teria:
 - **Menor risco de recessão profunda**, já que a liquidez no mercado seria controlada sem ser drástica.
-- **Menor impacto imediato sobre a poupança** e os pequenos investidores, já que não haveria congelamento de contas ou cortes abruptos.
-- **Desaceleração mais suave da economia**, ao invés de um colapso repentino.
-
----
-
-**Importante:** **Esse cenário é fictício e não deve ser utilizado para estudo acadêmico. Ele serve para explorar hipóteses econômicas com base em políticas monetárias que podem ter ocorrido em contextos históricos similares.**
-
-
-**Importante:** **Esses cenários são puramente fictícios e não devem ser utilizados para estudo acadêmico. Eles servem apenas como uma forma de reflexão hipotética sobre possíveis caminhos alternativos da economia brasileira.**
+- **Menor impacto imediato sobre a poupança** e os pequenos investidores, já que não haveria congel
