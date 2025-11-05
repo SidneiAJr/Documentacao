@@ -30,3 +30,39 @@ Baixe o app Expo Go na App Store (para iOS) ou Google Play (para Android). Com e
 ```bash
 expo init MeuPrimeiroApp
 ```
+
+## Exemplo de Codigo:
+
+```React
+import React from 'react';
+import { StyleSheet, Text, View, Button } from 'react-native';
+
+export default function App() {
+  const [count, setCount] = React.useState(0);
+
+  return (
+    <View style={styles.container}>
+      <Text style={styles.title}>Contador React Native</Text>
+      <Text style={styles.counter}>{count}</Text>
+      <Button title="Incrementar" onPress={() => setCount(count + 1)} />
+    </View>
+  );
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#fff',
+  },
+  title: {
+    fontSize: 24,
+    fontWeight: 'bold',
+  },
+  counter: {
+    fontSize: 48,
+    marginVertical: 20,
+  },
+});
+```
