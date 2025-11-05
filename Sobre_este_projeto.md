@@ -15,7 +15,7 @@ Deixo este material **público e livre para consulta**, caso possa ajudar outras
 - Edição de Imagem e Vídeo  
 - Matemática Financeira e Lógica  
 - Ferramentas Open Source  
-- E muito mais...
+- Simulações(Economicas)
 
 ---
 ✍️ **Nota pessoal:**  
