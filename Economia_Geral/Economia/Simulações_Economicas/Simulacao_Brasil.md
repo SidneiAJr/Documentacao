@@ -10,7 +10,7 @@
   - **Desinvestimento em infraestrutura** além de Brasília.
   - Desigualdade social aumentada, já que políticas de redistribuição de renda não foram priorizadas.
 
-## 2. Plano da Zélia Cardoso de Mello - Remoção de Liquidez (Com e Sem Implementação)
+## 2. Plano da Plano de confisco da poupanca - Remoção de Liquidez (Com e Sem Implementação)
 
 ### Cenário A: **Plano de confisco da poupanca Implementado**
 
