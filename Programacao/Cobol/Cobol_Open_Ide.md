@@ -8,7 +8,6 @@ Ideal para estudantes e profissionais que desejam praticar lógica estruturada e
 ## ⚙️ Instalação do OpenCobolIDE
 
 ### 🔹 Passo 1 — Baixar a IDE
-- Acesse: [https://launchpad.net/open-cobol-ide](https://launchpad.net/open-cobol-ide)
 - Escolha a versão compatível com seu sistema operacional:
   - **Windows:** `.exe` instalador direto  
   - **Linux:** `.tar.gz` (ou via pacote `pip install open-cobol-ide`)
@@ -21,8 +20,7 @@ Ideal para estudantes e profissionais que desejam praticar lógica estruturada e
 O OpenCobolIDE precisa do compilador **GnuCOBOL** (também conhecido como OpenCOBOL) para transformar o código COBOL em executável.
 
 #### 🧩 Windows
-Baixe o instalador do GnuCOBOL:
-- [https://gnucobol.sourceforge.io/](https://gnucobol.sourceforge.io/)
+
 
 Durante a instalação, marque a opção:
 > “Add GnuCOBOL to PATH”
