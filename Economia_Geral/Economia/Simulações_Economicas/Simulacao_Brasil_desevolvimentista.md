@@ -83,4 +83,3 @@ Esses modelos não representam a realidade histórica, mas servem para explorar 
 
 ---
 
-✍️ *Se quiser, posso transformar este conteúdo em PDF, DOCX, apresentação PowerPoint ou adaptar para README de GitHub. Só dizer!* 🚀
