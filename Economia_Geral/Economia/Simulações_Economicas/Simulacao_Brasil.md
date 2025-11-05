@@ -12,7 +12,7 @@
 
 ## 2. Plano da Zélia Cardoso de Mello - Remoção de Liquidez (Com e Sem Implementação)
 
-### Cenário A: **Plano Zélia Implementado**
+### Cenário A: **Plano de confisco da poupanca Implementado**
 
 - **Contexto:** A ideia era retirar a liquidez do mercado, especialmente devido à grande quantidade de poupança inativa, o que geraria um controle mais rígido sobre a inflação e poderia melhorar a estabilidade econômica. No entanto, essa medida também tinha o risco de desestabilizar o mercado financeiro e reduzir o consumo.
 
@@ -21,7 +21,7 @@
   - **Queda na atividade econômica**, já que a restrição de liquidez poderia afetar a capacidade das pessoas de consumir e de investir.
   - Aumento da **marginalização da população** que dependia de sistemas financeiros informais ou poupadores de baixa renda.
 
-### Cenário B: **Plano Zélia Não Implementado**
+### Cenário B: **Plano de confisco da poupanca Implementado**
 
 - **Contexto:** No cenário hipotético, o governo decide não remover a liquidez do mercado, permitindo que as pessoas continuem com suas economias de longo prazo e a atividade econômica continue de forma mais estável.
 
@@ -44,7 +44,7 @@
 
 # **Cenário Fictício - Não Usar para Estudo Acadêmico**
 
-## 2. Plano da Zélia Cardoso de Mello - **Aperto Monetário Sem Remoção Excessiva de Liquidez**
+## 2. Plano de Poupanca - **Aperto Monetário Sem Remoção Excessiva de Liquidez**
 
 - **Contexto:** Neste cenário, a ideia é que o governo de Zélia Cardoso de Mello decidisse aplicar um **aperto monetário mais profundo** para controlar a inflação, mas sem recorrer à medida drástica de remoção de liquidez em excesso. Isso significa que o governo se concentraria em **políticas monetárias restritivas** (como aumento de juros) e outras **medidas de controle da inflação** sem reduzir drasticamente o volume de recursos disponíveis no sistema financeiro. 
 
