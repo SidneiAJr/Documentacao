@@ -5,6 +5,8 @@ Proporcionou uma visão ampla sobre **proteção de sistemas**, **análise de vu
 
 No entanto, a carga **teórica era muito intensa**, com bastante foco em conceitos e normas, o que às vezes tornava o aprendizado mais denso.
 
+**Status:Formado**
+
 ---
 
 ## ⚠️ Pontos Negativos
