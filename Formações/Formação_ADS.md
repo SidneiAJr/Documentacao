@@ -3,6 +3,8 @@
 Minha primeira graduação foi em **Análise e Desenvolvimento de Sistemas**, concluída em **2021**.  
 O curso foi realizado no formato **EAD (Ensino a Distância)**, totalmente **online**, o que exigiu bastante **autonomia e disciplina** nos estudos.
 
+**Status:Formado**
+
 ---
 
 ## ✅ Pontos Positivos
