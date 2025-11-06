@@ -23,8 +23,17 @@ No entanto, a carga **teórica era muito intensa**, com bastante foco em conceit
 - Conhecimento sobre **regras e normas de SI**;  
 - Conscientização sobre a importância da **cibersegurança** no ambiente corporativo.
 
-Praticas?
-⚠️ Não Houve...
+---
+
+## 🧪 Práticas
+⚠️ **Não houve atividades práticas significativas** durante o curso, o foco foi quase totalmente teórico.
+
+---
+
+## 🧠 Provas Mais Desafiadoras
+- Prova de **Estatística** (suei 😅);  
+- Prova de **Estrutura de Dados**;  
+- Prova de **Redes de Computadores**.
 
 ---
 
