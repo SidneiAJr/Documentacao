@@ -105,5 +105,3 @@ Esses controles servem para ajustar o comportamento do loop durante sua execu√ß√
 
 ---
 
-## 5) Resumo Visual Geral
-
