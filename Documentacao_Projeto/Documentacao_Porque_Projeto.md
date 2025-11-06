@@ -1,4 +1,4 @@
-# Motivo desse Projeto foi Simples
+# Motivo desse Projeto:
 
 O objetivo deste projeto é centralizar o conhecimento, organizar as informações e fornecer ajuda para todos.
 
