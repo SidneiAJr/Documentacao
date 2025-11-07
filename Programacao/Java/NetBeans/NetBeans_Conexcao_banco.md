@@ -77,3 +77,49 @@ Em uma aplicação Swing, ele é usado para **enviar e receber informações** c
 > Swing mostra → Usuário interage → JDBC conversa com o banco → Resultado volta pra tela.
 
 Essa é a base da comunicação entre **Java Swing** e **bancos de dados via JDBC**. 🧩💻
+
+
+# 🧠 Exemplo Prático — Conexão com Banco de Dados usando JDBC em Java Swing
+
+Abaixo temos um exemplo simples e didático de como uma aplicação **Java Swing** pode se conectar a um **banco de dados MySQL** utilizando **JDBC**.
+
+---
+
+## ⚙️ 1. Preparação
+
+Antes de começar, é necessário:
+
+- Ter o **MySQL** instalado e rodando.  
+- Criar um **banco de dados** (ex: `sistema_usuarios`).  
+- Baixar e adicionar o **Driver JDBC do MySQL** (arquivo `.jar`, geralmente chamado `mysql-connector-j-x.x.x.jar`) ao **classpath** do projeto.  
+
+---
+
+## 💻 2. Criando a Classe de Conexão
+
+```java
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class ConexaoBD {
+    public static Connection conectar() {
+        Connection conexao = null;
+
+        try {
+            // URL do banco: tipo, servidor, porta e nome do banco
+            String url = "jdbc:mysql://localhost:3306/sistema_usuarios";
+            String usuario = "root";
+            String senha = "1234";
+
+            // Estabelece a conexão
+            conexao = DriverManager.getConnection(url, usuario, senha);
+            System.out.println("✅ Conectado ao banco com sucesso!");
+        } catch (SQLException e) {
+            System.out.println("❌ Erro ao conectar: " + e.getMessage());
+        }
+
+        return conexao;
+    }
+}
+```
