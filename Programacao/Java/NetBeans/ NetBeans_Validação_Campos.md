@@ -58,9 +58,10 @@ Exibimos mensagens apropriadas com JOptionPane para orientar o usuário.
 
 ## 🧩 Exemplo completo:
 
+```java
 if (campoNome.getText().isBlank() || campoEmail.getText().isBlank()) {
     JOptionPane.showMessageDialog(null, "Por favor, preencha todos os campos!");
 } else {
     JOptionPane.showMessageDialog(null, "Cadastro realizado com sucesso!");
 }
-
+```
