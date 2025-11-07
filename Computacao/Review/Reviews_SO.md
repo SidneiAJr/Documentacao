@@ -9,7 +9,7 @@
 
 **Prós:**  
 - Baixo consumo de RAM  
-- Sistema limpo, sem “porcarias” pré-instaladas  
+- Sistema limpo,  pré-instaladas  
 - Muito otimizado  
 
 **Contras:**  
