@@ -22,7 +22,7 @@ Serve para verificar se pelo menos uma das condições é verdadeira.
 Exemplo: quando queremos mostrar uma mensagem se qualquer campo estiver vazio.
 Se um deles não for preenchido, a condição já será verdadeira e o aviso será exibido.
 
-##💡 Resumo prático
+## 💡 Resumo prático
 
 Pegamos o texto dos campos usando getText() ou getPassword().
 
