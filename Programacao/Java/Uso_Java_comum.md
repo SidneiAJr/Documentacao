@@ -58,7 +58,7 @@
 - Para quem já está habituado com **autocompletar rápido** e refatoração, o **IntelliJ** oferece uma experiência mais polida e poderosa, apesar de exigir um pouco 
 mais de configuração inicial.
 
-## JavaFX | NetBeans vs IntelliJ:
+## Java Swing | NetBeans vs IntelliJ:
 
 ### Netbeans(Java Swing - Interface)
 
