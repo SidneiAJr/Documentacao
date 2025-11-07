@@ -79,7 +79,7 @@ Em uma aplicação Swing, ele é usado para **enviar e receber informações** c
 Essa é a base da comunicação entre **Java Swing** e **bancos de dados via JDBC**. 🧩💻
 
 
-# 🧠 Exemplo Prático — Conexão com Banco de Dados usando JDBC em Java Swing
+## 🧠 Exemplo Prático — Conexão com Banco de Dados usando JDBC em Java Swing
 
 Abaixo temos um exemplo simples e didático de como uma aplicação **Java Swing** pode se conectar a um **banco de dados MySQL** utilizando **JDBC**.
 
