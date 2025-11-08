@@ -25,13 +25,6 @@ Sinta-se à vontade para explorar, aprender.
 
 ---
 
-# 📚 Exemplos de Códigos Java
+🧠 *Criado e mantido por [Sidnei A. Jr](https://github.com/SidneiAJr)*  
+📘 *“Aprender é documentar o próprio caminho.”*
 
-Repositório com códigos simples usados para estudo de Java, POO e Swing.
-
-| Arquivo | Conteúdo | Conceitos |
-|--------|---------|----------|
-| `Exemplo_Java_Swing_intellij.md` | Janela básica Swing | GUI, JOptionPane |
-| `Exemplo_Swing_Botao_acao2.md` | Botão com ação | ActionListener, Eventos |
-| `Java_Swing_Botao_Acao_1.md` | Login simples | JTextField, JPasswordField |
-| `POO1_Java.md` | Sistema de classes RPG | Interface, Abstração, Herança |
