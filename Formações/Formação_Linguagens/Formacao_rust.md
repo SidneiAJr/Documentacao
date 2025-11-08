@@ -1,6 +1,6 @@
 # 🦀 Formação em Rust
 
-**Conhecimento:** -10/10  
+**Conhecimento:** -100/10  
 (*porque às vezes entender Rust é mais difícil que entender a existência humana*)  
 
 ---
