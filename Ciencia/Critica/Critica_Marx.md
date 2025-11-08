@@ -16,3 +16,25 @@ No entanto, essa análise desconsidera alguns aspectos importantes da economia m
 - **Sobre salários e margens:**  
   Existem empresas que pagam salários baixos e possuem margens de lucro altas, o que levanta um debate legítimo sobre justiça econômica.  
   No entanto, também existem setores de alta competitividade em que as margens são pequenas e os riscos, altos — o que relativiza a visão de que todo lucro decorre da exploração direta do trabalhador.
+
+## 2. Crítica à teoria do valor-trabalho
+
+Marx argumenta que o **valor de um bem** é determinado principalmente pela **quantidade de trabalho socialmente necessário** para produzi-lo.  
+No entanto, essa teoria apresenta limitações quando aplicada à economia moderna.
+
+O valor de um produto não é determinado **apenas pelo trabalho humano**, mas também por outros fatores que influenciam diretamente sua formação:
+
+- **Inovação e tecnologia:**  
+  Máquinas, softwares e processos produtivos automatizados podem gerar enorme valor sem necessariamente depender da mesma quantidade de trabalho humano.
+
+- **Gestão, logística e marca:**  
+  A eficiência na administração, o posicionamento de mercado e o valor de uma marca agregam valor que vai além do esforço do trabalhador.
+
+- **Oferta, demanda e percepção:**  
+  O valor também é definido pelo mercado — pela escassez, pela utilidade e pelo quanto as pessoas estão dispostas a pagar.
+
+Além disso, há o **fator humano dentro das empresas**.  
+Se uma empresa busca reduzir custos com mão de obra e, ao mesmo tempo, enfrenta alta rotatividade de funcionários, isso acaba sendo uma escolha de gestão:  
+ela opta por **baixos salários e pouca retenção**, o que afeta diretamente sua produtividade e o valor final do produto.
+
+Em resumo, o valor de algo não nasce apenas do trabalho, mas de uma combinação complexa entre **trabalho, capital, inovação, risco e percepção de mercado** — algo que a teoria do valor-trabalho de Marx não abrange completamente.
