@@ -37,8 +37,6 @@ Python tem até uma filosofia própria, o famoso "Zen of Python", que começa co
 “Bonito é melhor que feio.
 Simples é melhor que complexo.”
 
-E termina basicamente dizendo:
-
 ## 🔧 Realidade Prática
 
 Python é amor e ódio: tu escreve rápido, o código funciona, mas quando dá erro…
