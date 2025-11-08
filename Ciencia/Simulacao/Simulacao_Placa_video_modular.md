@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/SidneiAJr/Documentacao/blob/main/prints/Placa%20de%20Video%20futuro.png">
 </p>
+
 > ⚠️ *Disclaimer:* Ideia **ficcional e conceitual**, Imagem Ilustrativa.
 
 
