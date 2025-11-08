@@ -8,7 +8,7 @@
 
 💡 Este repositório foi criado para **guardar anotações, resumos e estudos** em diversas áreas da tecnologia e da educação.
 
-Sinta-se à vontade para explorar, aprender.
+Sinta-se à vontade para explorar e aprender! 🚀
 
 ---
 
@@ -23,8 +23,13 @@ Sinta-se à vontade para explorar, aprender.
 - 📊 **Matemática Financeira**  
   Fórmulas, cálculos e aplicações práticas.
 
+- 🧠 **Simulações Ficcionais**  
+  Ideias e experimentos teóricos baseados em cenários hipotéticos.
+
+- 📖 **Filosofias & Reviews**  
+  Textos reflexivos, críticas e revisões sobre temas diversos.
+
 ---
 
 🧠 *Criado e mantido por [Sidnei A. Jr](https://github.com/SidneiAJr)*  
 📘 *“Aprender é documentar o próprio caminho.”*
-
