@@ -31,5 +31,3 @@ Sinta-se à vontade para explorar e aprender! 🚀
 
 ---
 
-🧠 *Criado e mantido por [Sidnei A. Jr](https://github.com/SidneiAJr)*  
-📘 *“Aprender é documentar o próprio caminho.”*
