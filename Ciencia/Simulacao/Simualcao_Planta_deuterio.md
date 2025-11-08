@@ -11,7 +11,7 @@ O **Complexo de Fusão Oceânica de Deutério (CFOD)** é uma instalação hipot
 A proposta parte de um princípio simples:
 > “Se o oceano é o berço da vida, por que não pode ser também o berço da energia estelar?”
 
-A planta seria construída **sobre plataformas marítimas autônomas**, combinando **mineração isotópica oceânica**, **reatores de confinamento magnético** e **sistemas inteligentes de arrefecimento** integrados com o próprio ambiente oceânico.
+
 
 ---
 
