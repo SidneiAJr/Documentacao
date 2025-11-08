@@ -85,7 +85,3 @@ C é:
 
 🧮 *“Em C, tu não programa. Tu conversa direto com o processador — e às vezes ele te responde.”*
 
-
-
-
-🧮 *“Em C, tu não programa. Tu conversa direto com o processador.”*
