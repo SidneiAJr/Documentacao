@@ -2,7 +2,7 @@
   <img src="https://github.com/SidneiAJr/Documentacao/blob/main/prints/Logo.png" width="250" alt="Logo do Guia dos Guri">
 </p>
 
-# 🧠 Repositório de Anotações
+<h1 align="center">📘 O Livro dos Guri</h1>
 
 ***Aqui você encontra de tudo um pouco — desde Hardware e Computação até Matemática Financeira.***
 
