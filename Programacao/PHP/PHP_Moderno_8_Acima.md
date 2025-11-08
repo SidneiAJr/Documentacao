@@ -1,4 +1,4 @@
-# ⭐ SINTAXE MODERNA DO PHP 8 — SOMENTE TEXTO (SEM CÓDIGO)
+# ⭐ SINTAXE MODERNA DO PHP 8 
 
 ## 1. Operador Nullsafe
 
@@ -65,3 +65,87 @@ O PHP 8 incorporou melhorias no sistema de expressões regulares, tornando busca
 ## 15. JIT (Just-In-Time Compiler)
 
 Grande avanço de performance que torna cálculos e operações pesadas mais rápidas.
+
+# Exemplo:
+
+# ⚡ Exemplos de Sintaxe Moderna do PHP 8
+
+## 1. Nullsafe Operator
+```php
+$resultado = $usuario?->endereco?->cidade;
+```
+## 2. Null Coalescing (??)
+```php
+$nome = $input ?? "Visitante";
+```
+## 3. Null Coalescing Assignment (??=)
+```php
+$config["tema"] ??= "escuro";
+```
+## 4. Match Expression
+```php
+$statusMsg = match ($status) {
+    200 => "OK",
+    404 => "Não encontrado",
+    default => "Erro desconhecido",
+};
+```
+## 5. Union Types
+```php
+function soma(int|float $n) {
+    return $n + 10;
+}
+```
+## 6. Named Arguments
+```php
+alerta(
+    titulo: "Erro",
+    mensagem: "Algo aconteceu",
+    urgente: true
+);
+```
+## 7. Constructor Property Promotion
+```php
+class Usuario {
+    public function __construct(
+        public string $nome,
+        public int $idade
+    ) {}
+}
+```
+## 8. Static Return Type
+```php
+class A {
+    public function criar(): static {
+        return new static();
+    }
+}
+```
+## 9. WeakMap
+```php
+$map = new WeakMap();
+$map[$objeto] = "dados";
+```
+
+## 10. Atributos (Attributes)
+```php
+#[Tabela("usuarios")]
+class Usuario {}
+```
+
+## 11. Arrow Functions
+```php
+$dobro = fn($n) => $n * 2;
+```
+
+## 12. Tipo never
+```php
+function parar(): never {
+    exit;
+}
+```
+
+
+
+
+
