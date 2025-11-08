@@ -23,7 +23,7 @@
   Aditivo? **Qualquer um te leva até a lua e volta.**
 
 - **Peças baratas e fáceis de achar**  
-  Qualquer coisa você encontra até na Shopee, por preço de lanche.
+  Qualquer coisa você encontra até na Shopee.
 
 - **Motor CHT 1.6 – baita motor**  
   Simples, forte, confiável e fácil de mexer.
