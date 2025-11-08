@@ -1,3 +1,5 @@
+![logo](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Logo.png)
+
 # 🧠 Repositório de Anotações
 
 ***Aqui você encontra de tudo um pouco — desde Hardware e Computação até Matemática Financeira.***
