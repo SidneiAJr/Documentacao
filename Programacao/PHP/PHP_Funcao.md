@@ -75,6 +75,3 @@ Uma função normalmente contém:
 
 ---
 
-## 📝 Exercício Sugerido
-Crie uma função que recebe uma lista de números e retorna a média, sem usar exemplos de código aqui.  
-Aplique boas práticas: nome claro, responsabilidade única e tipagem.
