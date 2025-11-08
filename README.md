@@ -1,4 +1,6 @@
-![logo](https://github.com/SidneiAJr/Documentacao/blob/main/prints/Logo.png)
+<p align="center">
+  <img src="https://github.com/SidneiAJr/Documentacao/blob/main/prints/Logo.png" width="250" alt="Logo do Guia dos Guri">
+</p>
 
 # 🧠 Repositório de Anotações
 
