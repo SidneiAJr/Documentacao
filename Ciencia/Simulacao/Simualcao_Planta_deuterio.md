@@ -26,25 +26,6 @@ A proposta parte de um princípio simples:
 
 ---
 
-## 🏗️ Arquitetura Ficcional da Planta
-
-### 1. Módulos de Coleta e Separação Oceânica (MCSO)
-- Plataformas submersíveis equipadas com sistemas de **eletroextração isotópica**.  
-- Utilizam **campos magnéticos rotacionais** para separar íons de deutério da massa de água comum.  
-- Energia inicial fornecida por painéis solares flutuantes e micro-reatores auxiliares.
-
-### 2. Núcleo de Fusão e Contenção (NFC)
-- Estrutura central de confinamento toroidal (semelhante a um *Tokamak* ficcional).  
-- Contém o plasma de deutério em estado superionizado por meio de **campos magnéticos de alta densidade** e **campo de contenção quântico-fluxônico** (conceito teórico).  
-- Revestimento interno composto por **materiais metaestáveis autorregenerativos**, criados para suportar a exposição direta ao fluxo de nêutrons.
-
-### 4. Controle e Supervisão Autônoma (CSA)
-- IA embarcada responsável por:
-  - Gerenciar equilíbrio isotópico.  
-  - Monitorar integridade térmica e magnética.  
-  - Prever anomalias e ajustar rotas de escape de plasma.  
-- Comunicação quântica entre unidades via *entanglement* (conceito ficcional).
-
 ---
 
 ## ⚠️ Impactos Ambientais (hipotéticos)
