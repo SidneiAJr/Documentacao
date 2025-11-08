@@ -1,8 +1,10 @@
+# 🧩 Simulação – Placa de Vídeo Modular (Conceito Ficcional)
+
 <p align="center">
   <img src="https://github.com/SidneiAJr/Documentacao/blob/main/prints/Placa%20de%20Video%20futuro.png">
 </p>
+> ⚠️ *Disclaimer:* Ideia **ficcional e conceitual**, Imagem Ilustrativa.
 
-# 🧩 Simulação – Placa de Vídeo Modular (Conceito Ficcional)
 
 > ⚠️ *Disclaimer:* Ideia **ficcional e conceitual**, criada para explorar o futuro do design de hardware e a possibilidade de GPUs modulares.
 
