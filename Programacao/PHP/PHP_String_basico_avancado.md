@@ -72,7 +72,42 @@ echo strpos("programação PHP", "PHP");
 
 # 4. Comparação de Strings
 
+## strcmp()
+```php
+echo strcmp("a", "A");
+```
 
+## explode()
+
+```php
+$partes = explode(",", "a,b,c,d");
+```
+
+## implode()
+
+```php
+echo implode(" - ", ["a","b","c"]);
+```
+
+```php
+preg_match("/^[0-9]+$/", "12345");
+```
+
+## strip_tags()
+```php
+echo strip_tags("<h1>Olá</h1>");
+```
+
+## htmlspecialchars()
+```php
+echo htmlspecialchars("<script>alert(1)</script>");
+```
+
+## Multibyte (UTF-8)
+```php
+echo mb_strlen("ação");
+echo mb_strtoupper("ação");
+```
 
 
 
