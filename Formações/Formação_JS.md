@@ -5,7 +5,7 @@ Aprendi JavaScript **4 vezes** em épocas diferentes:
 1. No técnico de informática voltado pra web  
 2. No 3000TI – do básico ao avançado  
 3. No TDS – mesma coisa  
-4. No Programador WEb
+4. No Programador Web
 
 JavaScript é aquela linguagem que tu aprende, desaprende, reaprende… e do nada descobre que ela mudou DE NOVO.
 
