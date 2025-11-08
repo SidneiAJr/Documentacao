@@ -133,7 +133,6 @@ VALUES
 
 🧝 Inserindo Espécies
 
-⚠️ Aqui havia um pequeno erro — tu colocou id_especie no INSERT, mas o campo é auto_increment, então não precisa dele.
 
 INSERT INTO especie (nome_especie)
 VALUES
