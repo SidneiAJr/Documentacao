@@ -84,16 +84,6 @@ usando estações orbitais, satélites-relé e nós planetários — formando a 
 
 ---
 
-## 🌍 Nota Ficcional — Terraformação de Titan
-
-- Titan possui **atmosfera rica em metano e azoto**, temperatura média ~–179 °C.  
-- A conversão de metano → oxigênio exige **ruptura de ligações C–H**, altamente energética.  
-- Na ficção, propõe-se o uso de **reatores catalíticos orbitais** e **microrganismos metanotróficos sintéticos**.  
-- Terraformação parcial levaria **séculos a milênios** e poderia criar uma atmosfera respirável diluída.  
-- *Aviso ficcional-realista:* qualquer modificação desse tipo implica dilemas éticos e impactos irreversíveis.
-
----
-
 ## 🧭 Desafios Principais
 
 1. **Limite físico da luz:** latência é inevitável — só mitigável via autonomia.  
