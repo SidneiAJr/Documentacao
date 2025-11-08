@@ -46,3 +46,18 @@ Aqui é assim:
 **Este é o Livro dos Guri.**  
 Direto, sincero, reflexivo e com aquele toque de humor ácido que só quem vive o mundo real entende.
 
+# Sumário – Volume 1
+1. Introdução – O Livro dos Guri
+2. Crítica ao Capitalismo (25)
+3. Crítica ao Capitalismo Financeiro
+4. Crítica ao Capitalismo Moderno
+5. Crítica à Ação Humana (Hayek)
+6. Crítica à IA e ao Hype Tecnológico
+7. Crítica às Ideologias
+8. Crítica ao Liberalismo e Comunismo Extremados
+9. Crítica a Marx
+10. Crítica ao Estado
+11. Crítica à Tecnocracia
+12. Guia dos Guri – Política Moderna
+
+
