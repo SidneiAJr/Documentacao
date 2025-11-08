@@ -8,7 +8,7 @@
 
 💡 Este repositório foi criado para **guardar anotações, resumos e estudos** em diversas áreas da tecnologia e da educação.
 
-Sinta-se à vontade para explorar, aprender e contribuir! 🚀
+Sinta-se à vontade para explorar, aprender.
 
 ---
 
