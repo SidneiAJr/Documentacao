@@ -74,6 +74,84 @@ Permite acessar variáveis globais de qualquer parte do código.
 
 ---
 
-# 📝 Exercício Sugerido
-Crie uma página que receba o nome do usuário via GET, a senha via POST e armazene o tema do site em um cookie.  
-Depois exiba essas informações usando as superglobais adequadas.
+# Exemplos de Código com Superglobais em PHP
+
+## 📌 Exemplo 1 – Recebendo dados via GET
+```php
+// URL: pagina.php?nome=Lucas&idade=21
+$nome = $_GET["nome"];
+$idade = $_GET["idade"];
+
+echo "Nome: $nome<br>";
+echo "Idade: $idade";
+```
+
+## Exemplo 2 – Recebendo dados via POST
+```php
+// Formulário enviando POST
+$usuario = $_POST["usuario"];
+$senha = $_POST["senha"];
+
+echo "Bem-vindo, $usuario!";
+```
+## Exemplo 3 – Sessão (LOGIN simples)
+```php
+session_start();
+
+$_SESSION["user"] = "Marcos";
+
+echo "Usuário logado: " . $_SESSION["user"];
+```
+
+## Exemplo 4 – Criando e lendo Cookies
+
+```php
+setcookie("tema", "escuro", time() + 3600);
+
+if (isset($_COOKIE["tema"])) {
+    echo "Tema atual: " . $_COOKIE["tema"];
+}
+```
+
+## Exemplo 5 – Informações do servidor
+
+```php
+$ip = $_SERVER["REMOTE_ADDR"];
+$agente = $_SERVER["HTTP_USER_AGENT"];
+$metodo = $_SERVER["REQUEST_METHOD"];
+
+echo "IP: $ip<br>";
+echo "Navegador: $agente<br>";
+echo "Método usado: $metodo";
+```
+
+## Exemplo 6 – Upload de Arquivo
+```php
+$nome = $_FILES["foto"]["name"];
+$tmp = $_FILES["foto"]["tmp_name"];
+
+move_uploaded_file($tmp, "uploads/" . $nome);
+
+echo "Upload concluído!";
+```
+
+## Exemplo 7 – Variáveis de ambiente
+```php
+$path = $_ENV["PATH"];
+echo "PATH do sistema: $path";
+```
+
+## Exemplo 8 – Usando GLOBALS
+```php
+$valor = 10;
+
+function teste() {
+    echo $GLOBALS["valor"];
+}
+
+teste();
+```
+
+
+
+
