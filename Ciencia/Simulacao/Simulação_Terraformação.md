@@ -2,7 +2,7 @@
 
 **Resumo:**  
 Exploração teórica sobre a possibilidade de adaptação de corpos celestes para sustentar formas de vida baseadas na biosfera terrestre.  
-Este documento faz parte da categoria **Simulações Ficcionais**, e não representa um projeto real de engenharia ou pesquisa aplicada.
+Este documento faz parte da categoria **Simulações Ficcionais**.
 
 ---
 
