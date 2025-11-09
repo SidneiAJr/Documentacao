@@ -47,7 +47,7 @@ Esse cenário descreve o nascimento de um **android real**: um ser artificial co
 - Um android **pode realmente “sentir” amor** ou apenas simular o comportamento humano associado a ele?  
 - Se um ser artificial **sofre**, ele tem direito à proteção ética?  
 - Onde termina a ferramenta e começa a **consciência**?  
-- Criar um android consciente seria **ato de evolução** ou **usurpação divina**?  
+- Criar um android consciente seria **ato de evolução**? 
 - A humanidade estaria pronta para coexistir com seres feitos à sua imagem — mas que talvez pensem melhor?
 
 ---
