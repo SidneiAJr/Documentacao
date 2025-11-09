@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/SidneiAJr/Documentacao/blob/main/prints/Logo.png" width="250" alt="Logo do Guia dos Guri">
-  <h3>Imagem Gerada por: Chatgpt</h3>
+  <h3 align="center">Imagem Gerada por: Chatgpt</h3>
 </p>
 
 <h1 align="center">📘 O Guia dos Guri</h1>
