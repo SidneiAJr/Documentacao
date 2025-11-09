@@ -1,6 +1,6 @@
 # Simulação Ficcional: Defesa Planetária
 
-**Sistema proposto:** DOSET — *Defense Orbital System for Earth* (simulação ficcional)
+**Sistema proposto:**  *Defense Orbital System for Earth* (simulação ficcional)
 
 > ⚠️ **Aviso:** Este é um documento **ficcional**.
 
