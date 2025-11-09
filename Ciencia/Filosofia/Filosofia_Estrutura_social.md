@@ -5,7 +5,7 @@
 
 ---
 
-# 1. Religião (Camada Simbólica e Normativa Inicial)
+# 1. Religião (Camada Simbólica)
 
 A religião, em sociedades pré-modernas e modernas iniciais, desempenha funções estruturais:
 
