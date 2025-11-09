@@ -2,7 +2,7 @@
 
 **Sistema proposto:** *Estrela Quantum* (simulação ficcional)
 
-> ⚠️ **Aviso:** Documento **ficcional**. Não contém instruções de construção Trata-se de um exercício de simulação conceptual — uso educativo e narrativo.
+> ⚠️ **Aviso:** Documento **ficcional**. Trata-se de um exercício de simulação conceptual — uso educativo e narrativo.
 
 ---
 
