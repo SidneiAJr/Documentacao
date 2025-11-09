@@ -16,7 +16,7 @@ Resumo de propósito:
 ---
 
 ## 2. Conceito arquitetural
-A *Estrela Quantum* é imaginada como uma esfera de grande escala com camadas internas dedicadas a energia, habitat, logística e propulsão. A geomet ria esférica inspira-se na ideia de um “atmósfera artificial” controlada, permitindo distribuição homogênea de funções críticas.
+A *Estrela Quantum* é imaginada como uma esfera de grande escala com camadas internas dedicadas a energia, habitat, logística e propulsão. A geometria esférica inspira-se na ideia de um “atmósfera artificial” controlada, permitindo distribuição homogênea de funções críticas.
 
 Componentes conceituais:
 - Núcleo energético principal (conceito ficcional: “reator de antimatéria”).  
