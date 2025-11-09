@@ -1,4 +1,4 @@
-# Simulação Ficcional Hiperestrada Portal Salto.md
+# Simulação Ficcional Hiperestrada Portal Salto
 
 > ⚠️ Documento 100% ficcional — tecnologia inexistente, criada apenas para worldbuilding e narrativa.
 
