@@ -7,7 +7,7 @@
 ---
 
 ## 1. Visão geral
-O *Jovian Deuterium Harvesting System* é um conceito de infraestrutura orbital projetado para operar nas proximidades de um gigante gasoso, com o objetivo de coletar hidrogênio e extrair deutério para uso estratégico, científico ou energético.  
+O *Jovian Deuterium Harvesting System* é um conceito de infraestrutura orbital projetado para operar nas proximidades de um gigante gasoso, com o objetivo de coletar hidrogênio e extrair deutério para uso o energético.  
 A proposta envolve plataformas massivas, comparáveis a estruturas de grande escala, capazes de sustentar operações contínuas em um ambiente extremo.
 
 Componentes principais:
