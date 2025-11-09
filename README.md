@@ -34,10 +34,3 @@ Sinta-se à vontade para explorar e aprender! 🚀
 # 💻 Computação
 > Estudos e anotações sobre hardware, sistemas e ferramentas de tecnologia.
 
-## 📂 Tópicos
-- [CyberSegurança](./CyberSeguranca/)
-- [Redes](./Redes/)
-- [Hardware](./Hardware/)
-- [Sistemas Operacionais](./Sistemas_Operacionais/)
-
-
