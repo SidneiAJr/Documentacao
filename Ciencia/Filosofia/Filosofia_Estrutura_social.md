@@ -2,6 +2,7 @@
 ### Documento Técnico — Estrutura Sistêmica Não-Ideológica
 
 > Objetivo: apresentar, de forma técnica e neutra, os principais componentes estruturais que formam a sociedade moderna, entendida como o conjunto de instituições, práticas, valores, tecnologias e sistemas que caracterizam os Estados e populações dos séculos XIX–XXI.
+
 > 🧠 **Nota de Reflexão Pessoal**  
 > Este texto representa uma reflexão filosófica e analítica de caráter pessoal, elaborada com base em conceitos gerais das ciências humanas e sociais.  
 
