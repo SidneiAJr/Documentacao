@@ -50,7 +50,4 @@ A ideia é plausível **em termos conceituais** — ou seja, é razoável discut
 
 ---
 
-## Disclaimer (importante)
-**Este documento é uma simulação ficcional e educativa.**  
-Ele discute o conceito de defesa planetária em termos gerais e não fornece instruções técnicas, projetuais ou operacionais para construção de armas ou sistemas militares. As descrições aqui são de alto nível e destinadas apenas a fins de estudo, debate teórico e ficção científica. Não deve ser usado para facilitar a criação ou empacotamento de dispositivos perigosos.
 
