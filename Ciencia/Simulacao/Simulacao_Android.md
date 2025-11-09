@@ -75,6 +75,3 @@ Talvez o futuro não seja sobre *substituir* humanos, mas sobre **aprender o que
 
 ---
 
-📘 **Categoria:** Simulações Ficcionais  
-🧠 **Tema:** Inteligência Artificial, Ética, Filosofia da Tecnologia  
-✍️ **Autor:** [Teu Nome / Nick]
