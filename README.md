@@ -34,3 +34,9 @@ Sinta-se à vontade para explorar e aprender! 🚀
 # 💻 Computação
 > Estudos e anotações sobre hardware, sistemas e ferramentas de tecnologia.
 
+## 🗂️ Sumário
+- [📚 Áreas de Estudo](#-áreas-de-estudo)
+- [💻 Computação](#-computação)
+- [🧩 Programação & Lógica](#-programação--lógica)
+- [📊 Matemática Financeira](#-matemática-financeira)
+
