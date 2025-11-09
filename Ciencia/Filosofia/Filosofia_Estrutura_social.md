@@ -210,7 +210,4 @@ Cria alta interdependência entre países.
 
 ---
 
-# 15. Síntese Geral (Modelo Sistêmico)
-
-A sociedade moderna pode ser representada como um sistema interligado:
 
