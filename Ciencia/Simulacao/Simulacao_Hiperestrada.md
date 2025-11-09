@@ -1,6 +1,6 @@
 # Simulação Ficcional Hiperestrada Portal Salto
 
-> ⚠️ Documento 100% ficcional — tecnologia inexistente, criada apenas para worldbuilding e narrativa.
+> ⚠️ Documento 100% ficcional — tecnologia inexistente, criada apenas para narrativa.
 
 ---
 
