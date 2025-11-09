@@ -31,10 +31,3 @@ Sinta-se à vontade para explorar e aprender! 🚀
 
 ---
 
-## 🗂️ Sumário
-- [Computação & Hardware](#computação--hardware)
-- [Programação & Lógica](#programação--lógica)
-- [Matemática Financeira](#matemática-financeira)
-- [Simulações e Ciência](#simulações-e-ciência)
-- [Formações e Experiência](#formações-e-experiência)
-
