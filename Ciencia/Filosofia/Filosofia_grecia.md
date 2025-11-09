@@ -2,7 +2,9 @@
 ### Uma Arquitetura do Pensamento Racional 
 
 > Documento técnico destinado à análise estrutural da formação do pensamento racional, científico, ético e político na Grécia.  
+
 > Foco: precisão conceitual, impacto histórico e função sistêmica.
+
 >  🧠 **Nota de Reflexão Pessoal**  
 > Este texto representa uma reflexão filosófica e analítica de caráter pessoal, elaborada com base em conceitos gerais das ciências humanas e sociais.  
 
