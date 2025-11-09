@@ -5,7 +5,7 @@
 > ⚠️ **Aviso:** Este é um documento **ficcional**.
 
 ## 1. Visão geral
-O *Defense Orbital System for Earth é uma proposta conceitual de defesa planetária destinada a mitigar impactos de corpos próximos à Terra (meteoroides/asteroides) e bombardeamentos orbitais hipotéticos. O sistema combina uma rede de sensores, centros de comando e plataformas de intercepção baseadas em solo e em órbita.
+O *Defense Orbital System for Earth* é uma proposta conceitual de defesa planetária destinada a mitigar impactos de corpos próximos à Terra (meteoroides/asteroides) e bombardeamentos orbitais hipotéticos. O sistema combina uma rede de sensores, centros de comando e plataformas de intercepção baseadas em solo e em órbita.
 
 Componentes principais:
 - Rede de sensoriamento e alerta precoce (observatórios terrestres, satélites e radar espacial).
