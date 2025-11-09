@@ -32,7 +32,4 @@ Sinta-se à vontade para explorar e aprender! 🚀
 ---
 
 ---
-<div align="center">
-  <p>Feito com 💚 e chimarrão pelo <b>Guia dos Guri</b> 🇧🇷</p>
-</div>
 
