@@ -1,5 +1,7 @@
 # 🌍 Simulação de Terraformação
 
+> ⚠️ **Aviso:** Este é um documento **ficcional**.
+
 **Resumo:**  
 Exploração teórica sobre a possibilidade de adaptação de corpos celestes para sustentar formas de vida baseadas na biosfera terrestre.  
 Este documento faz parte da categoria **Simulações Ficcionais**.
@@ -48,11 +50,5 @@ Demandaria o fortalecimento da atmosfera, criação de um campo magnético artif
 
 ---
 
-## ⚙️ Observações Finais
-Este documento é **ficcional e educativo**.  
-Os conceitos aqui descritos têm caráter especulativo, visando promover discussões sobre ciência, ética e tecnologia em contextos hipotéticos.  
-Nenhuma das ideias apresentadas representa experimentos reais ou propostas de implementação prática.
-
----
 
 
