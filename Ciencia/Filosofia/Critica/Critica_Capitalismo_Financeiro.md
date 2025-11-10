@@ -23,7 +23,7 @@ Entretanto, o problema surge quando o valor de mercado das empresas se torna **c
 
 Nos últimos anos, vimos **empresas sem produtos tangíveis ou lucro consistente** atingirem valorizações bilionárias, apenas para **colapsarem rapidamente** — um fenômeno observado:
 - nas **bolhas das empresas “.com”** nos anos 2000;  
-- e mais recentemente, no **mercado de criptomoedas** e **startups supervalorizadas**.  
+- e mais recentemente, no **mercado de criptomoedas**.  
 
 Esse tipo de especulação cria um ambiente econômico baseado em **narrativas, hype e expectativas**, em vez de fundamentos sólidos.  
 O sistema financeiro passa, então, a operar como um **cassino global**, onde os lucros de poucos dependem da perda de muitos.
