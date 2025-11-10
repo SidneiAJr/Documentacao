@@ -46,11 +46,26 @@ Embora o C# compartilhe muitas semelhanças com Java, ele tem algumas caracterí
 
 Exemplo de codigo:
 
+## Subtração em JS:
 ```js
 console.log("1"-1);
 resultado 0? porque??
 ```
 
+## Soma em Java:
+```java
+class Main {
+    public static void main(String[] args) {
+        double n1 = 5;
+        double n2 = 5;
+        double n3 = 5;
+        double soma = (n1+n2+n3)/3;
+        System.out.printf(String.format("Soma Total %.2f",soma));
+        
+    }
+}
+```
+## Soma em C#:
 
 
 
