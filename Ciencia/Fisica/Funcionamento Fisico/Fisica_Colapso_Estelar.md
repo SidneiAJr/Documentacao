@@ -1,6 +1,6 @@
 # 🌟 Física: Colapso Estelar
 
-O **colapso estelar** ocorre quando uma estrela esgota todo o seu combustível nuclear.  
+O **colapso estelar** ocorre quando uma estrela esgota todo o seu combustível.  
 Durante sua vida, a estrela queima **hidrogênio**, transformando-o em **hélio** através da fusão nuclear.  
 Com o tempo, o hélio também se esgota e começa a se transformar em **carbono, oxigênio, silício** e, por fim, **ferro** — o elemento que marca o começo do fim.
 
