@@ -1,4 +1,4 @@
-# 📉 Crítica à Bolha dos Anarcocapitalistas e dos “Verdes”
+# 📉 Crítica à Bolha dos “Verdes”
 
 > **Disclaimer:** Texto meramente reflexivo.  
 > Ideias apresentadas apenas para debate e pensamento crítico.
