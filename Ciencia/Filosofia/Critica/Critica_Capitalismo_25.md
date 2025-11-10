@@ -1,35 +1,82 @@
-# Crítica ao capitalismo dos anos 1990 e de 2025
+# 💰 Crítica ao Capitalismo dos Anos 1990 e de 2025
 
-Nas últimas décadas, observa-se uma mudança profunda no modo de produção, consumo e valores do capitalismo.  
-Enquanto nos anos 1990 predominava um modelo industrial mais tangível — com produtos duráveis, materiais de qualidade e certa valorização do trabalho técnico —, o capitalismo de 2025 caracteriza-se pela **obsolescência programada**, **produção em massa de baixa durabilidade** e **mercantilização intensiva da vida cotidiana**.
+Nas últimas décadas, o capitalismo passou por uma transformação profunda em sua estrutura produtiva, cultural e simbólica.  
+Enquanto o capitalismo dos **anos 1990** ainda mantinha traços de um modelo **industrial tangível** — com produtos duráveis, foco na engenharia e valorização do trabalho técnico —, o capitalismo de **2025** consolidou-se como um sistema centrado na **obsolescência programada**, na **produção em massa de baixa durabilidade** e na **mercantilização total da vida cotidiana**.
 
-Antigamente, os bens de consumo eram projetados para durar.  
-Eletrodomésticos, automóveis e computadores possuíam estrutura robusta e eram produzidos com foco na funcionalidade e na resistência.  
-Hoje, em contrapartida, prevalece uma lógica de **redução de custos e aumento de margens de lucro**, em que o tempo de vida útil dos produtos é propositalmente encurtado para estimular o consumo contínuo.
+---
 
-No campo alimentar, a transformação é igualmente evidente.  
-A **comida “de verdade”**, baseada em ingredientes naturais, foi progressivamente substituída por produtos ultraprocessados, ricos em aditivos químicos, corantes e conservantes — consequência direta de um sistema que prioriza **escala e rentabilidade** em detrimento da **saúde e da qualidade**.
+## 🏭 Da Durabilidade à Fragilidade Planejada
 
-As empresas frequentemente justificam essa mudança alegando a **escassez de materiais** e o **aumento dos custos produtivos**.  
-Entretanto, tal narrativa muitas vezes serve como estratégia retórica para **legitimar aumentos de preço e reduções de qualidade**, quando o verdadeiro objetivo é **maximizar lucros** e **acelerar ciclos de consumo**.
+Durante o século XX, bens de consumo eram concebidos para durar.  
+Eletrodomésticos, veículos e computadores eram projetados com **robustez estrutural** e **funcionalidade mecânica**, refletindo um compromisso entre **eficiência e longevidade**.
 
-Essa tendência é facilmente observável em setores como o **automobilístico e o tecnológico**.  
-No passado, veículos eram construídos com motores robustos, capazes de operar com manutenção mínima e tolerar variações simples — como o uso de água comum em radiadores e óleos básicos de lubrificação.  
-Atualmente, os automóveis tornaram-se mais dependentes de **materiais específicos e aditivos químicos**, exigindo cuidados mais caros e frequentes.  
-A durabilidade deu lugar à **fragilidade planejada**, e a simplicidade mecânica foi substituída por sistemas eletrônicos de difícil reparo e alto custo.
+Hoje, essa lógica foi substituída por um modelo em que **a durabilidade é vista como obstáculo ao lucro**.  
+O tempo de vida útil dos produtos é **intencionalmente reduzido** — não por limitações técnicas, mas como estratégia para manter o consumo constante.  
+Essa é a essência da **obsolescência programada**, em que o ciclo de substituição é o verdadeiro motor do mercado.
 
-Da mesma forma, os **computadores e dispositivos eletrônicos modernos** refletem a lógica da limitação proposital.  
-Muitos equipamentos são lançados com **memória soldada**, **sem possibilidade de expansão** e **componentes não substituíveis**, restringindo o uso e forçando o consumidor à compra de novos produtos em intervalos cada vez menores.
+---
 
-Além disso, observa-se uma contradição crescente entre o **discurso ambiental** e as **práticas produtivas** das corporações.  
-Em vez de priorizar produtos **biodegradáveis e duráveis**, o mercado continua a incentivar a produção em massa de bens descartáveis, gerando **volumes cada vez maiores de lixo industrial e eletrônico**.  
-Cria-se, assim, um ciclo paradoxal: quanto mais se produz, mais rapidamente os produtos se tornam obsoletos e são descartados, **agravando a poluição** e ampliando o impacto ambiental que deveria ser combatido.
+## 🍔 Da Comida Real ao Produto Industrial
 
-A chamada **cultura da obsolescência programada** e o **consumismo tecnológico** reforçam essa lógica perversa.  
-As empresas preferem lançar produtos em grande quantidade, de **baixa qualidade e curta duração**, a desenvolver tecnologias sustentáveis e reparáveis.  
-Essa inversão de valores transforma o avanço tecnológico em uma ferramenta de desperdício: produz-se cada vez mais, para durar cada vez menos.
+O campo alimentar segue a mesma tendência.  
+A tradicional **comida “de verdade”**, baseada em ingredientes naturais e processos simples, foi gradualmente substituída por **ultraprocessados** — produtos moldados para **durar mais na prateleira**, não para nutrir melhor o corpo.
 
-Em síntese, o capitalismo contemporâneo parece operar em sentido contrário ao progresso real:  
-**gera abundância de produtos**, mas **escassez de durabilidade, sentido e sustentabilidade**.  
-O resultado é um sistema que se alimenta do próprio esgotamento — econômico, ambiental e humano.
+Esses alimentos, repletos de **aditivos químicos, conservantes e corantes**, representam o símbolo mais visível de uma economia que **prioriza escala e rentabilidade**, em detrimento da **saúde, da ética e da qualidade**.
 
+---
+
+## 💼 Retórica e Lucro
+
+Empresas frequentemente justificam a queda na qualidade com argumentos de **escassez de materiais** ou **aumento de custos produtivos**.  
+Na prática, essas explicações funcionam como **narrativas retóricas** que disfarçam a verdadeira motivação:  
+**maximizar lucros** e **acelerar o giro de consumo**.
+
+Essa lógica se manifesta em diversos setores, especialmente no **automobilístico** e no **tecnológico**.
+
+---
+
+## 🚗 Tecnologia e Obsolescência: o Caso dos Automóveis e Computadores
+
+No passado, carros eram máquinas **mecânica e conceitualmente simples**: motores robustos, manutenção acessível e tolerância a variações básicas — como o uso de água comum em radiadores.  
+Hoje, os veículos são **sistemas eletrônicos complexos**, dependentes de **componentes proprietários, aditivos específicos** e **manutenção cara**.  
+A tecnologia evoluiu, mas a **vida útil regrediu**.
+
+O mesmo ocorre com os **dispositivos eletrônicos modernos**.  
+Computadores e smartphones atuais são projetados com **memória soldada**, **baterias não removíveis** e **peças não substituíveis**.  
+Essa arquitetura **limita o reparo** e força o consumidor a comprar novos produtos em intervalos cada vez menores.  
+A inovação técnica, assim, é colocada a serviço do descarte.
+
+---
+
+## 🌎 Contradição Ambiental
+
+Paralelamente, o discurso corporativo adota o **vocabulário da sustentabilidade**, enquanto as práticas produtivas seguem o caminho oposto.  
+Em vez de promover **produtos duráveis e biodegradáveis**, o sistema continua a **produzir em excesso**, estimulando o descarte precoce.  
+O resultado é um paradoxo ambiental:  
+quanto mais “se produz”, mais **rápido se polui**.
+
+A retórica verde transforma-se em **marketing ambiental**, legitimando o mesmo modelo predatório que diz combater.
+
+---
+
+## 🧩 A Lógica da Inversão
+
+A chamada **cultura da obsolescência programada** e o **consumismo tecnológico** consolidam uma inversão de valores:  
+as empresas preferem **vender mais, por menos tempo**, a **criar melhor, por mais tempo**.  
+O avanço técnico deixa de ser sinônimo de progresso e passa a ser ferramenta de **renovação artificial da demanda**.
+
+---
+
+## ⚖️ Síntese e Reflexão
+
+O capitalismo contemporâneo se tornou um sistema paradoxal:  
+**produz abundância de objetos**, mas **escassez de sentido, durabilidade e sustentabilidade**.
+
+A lógica do consumo contínuo substituiu a lógica do valor real.  
+A economia passou a crescer **sobre o próprio esgotamento** — ambiental, humano e cultural.  
+Trata-se, em última instância, de um sistema que **consome a si mesmo para continuar existindo**.
+
+> 💭 *O progresso deixou de ser medido pela qualidade do que se cria —  
+> e passou a ser definido pela velocidade com que se descarta.*
+
+---
