@@ -47,7 +47,7 @@
 
 ---
 
-### Considerações Importantes:
+## Considerações Importantes
 
 - O **Sistema Internacional** (SI) é amplamente utilizado em contextos científicos, acadêmicos e industriais ao redor do mundo, enquanto o **Sistema Imperial** é utilizado principalmente em alguns países, como os **Estados Unidos**.
-- As conversões entre os sistemas são essenciais para garantir a **interoperabilidade** de dados, dispositivos e sistemas em contextos internacionais.
+- As conversões entre os sistemas são essenciais para garantir a **interoperabilidade** de dados, dispositivos e sistemas em contextos internacionais. Elas ajudam a evitar erros e ambiguidades ao trabalhar com unidades de medida em diferentes regiões.
