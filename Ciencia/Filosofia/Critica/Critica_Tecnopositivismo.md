@@ -54,5 +54,7 @@ mantendo **impostos justos** e garantindo que o progresso técnico traga benefí
 
 Esse seria o ideal —  
 uma sociedade que cresce com base no **conhecimento**, mas sem perder a **humanidade**.
+Nascendo a Ideia de Tecnosocialpositvismo.
+
 
 
