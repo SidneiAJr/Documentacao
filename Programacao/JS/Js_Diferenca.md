@@ -67,5 +67,21 @@ class Main {
 ```
 ## Soma em C#:
 
+```C#
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        double n1 = 5.5;
+        double n2 = 5;
+        double n3 = 5;
+        double soma = (n1+n2+n3)/3;
+        Console.WriteLine ($"Soma {soma:F2} ",soma);
+        
+    }
+}
+```
 
 
