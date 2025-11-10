@@ -20,5 +20,14 @@ O **SONAR** (Sound Navigation And Ranging) é uma tecnologia que usa **ondas son
 3. O som **volta como eco**.
 4. O sistema **calcula a distância** baseado no tempo de ida e volta.
 
+---
+
+## Observação
+
+- Quanto mais quente a água, mais o som se propaga, enquanto mais frio, mais difícil fica a propagação.
+- A **cavitação** também pode ser detectada passivamente, ajudando a identificar áreas de grande pressão ou objetos em movimento.
+
+---
+
 ```plaintext
 EMITE SOM  →  BATE NO OBJETO  →  VOLTA COMO ECO  →  COMPUTADOR ANALISA
