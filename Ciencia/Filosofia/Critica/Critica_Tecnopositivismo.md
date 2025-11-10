@@ -1,4 +1,4 @@
-# ⚙️ Crítica ao Tecnopositivismo
+# ⚙️ Crítica ao Tecnopositivismo(Tecnosocialpositvismo)
 
 > **Disclaimer:** Texto reflexivo, apenas um olhar crítico sobre seus limites e implicações sociais.
 
@@ -54,3 +54,5 @@ mantendo **impostos justos** e garantindo que o progresso técnico traga benefí
 
 Esse seria o ideal —  
 uma sociedade que cresce com base no **conhecimento**, mas sem perder a **humanidade**.
+
+
