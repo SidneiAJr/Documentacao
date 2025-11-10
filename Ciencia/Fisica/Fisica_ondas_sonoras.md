@@ -35,4 +35,7 @@ Ele nasce de uma **vibração** e viaja transportando energia, mas não matéria
 
 ---
 
+## 🎯 Efeito Doppler
+
+Quando vemos um avião a jato, seja um caça ou um avião comum, ele "arrasta" o som ao seu redor. O som da passagem do avião muda conforme ele se aproxima ou se afasta. Quando o avião quebra a barreira do som, o que ouvimos é o **estrondo sónico** (não vemos o avião diretamente nesse momento). Esse fenômeno ocorre porque as ondas sonoras são comprimidas à medida que o avião ultrapassa a velocidade do som, causando a onda de choque que percebemos como um estrondo.
 
