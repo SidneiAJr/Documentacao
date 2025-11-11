@@ -2,18 +2,18 @@
 
 > ⚠️ **Aviso:** Este é um documento **ficcional**.
 
-O **Tecnosocialpositivismo** surge como uma nova vertente política que reinterpreta e atualiza os princípios do **positivismo clássico**. Ele integra, de maneira inovadora, a **social-democracia**, a **tecnocracia** e elementos do **posicionamento científico** para lidar com os desafios do mundo moderno. Este movimento busca uma sociedade orientada por dados, onde decisões políticas e sociais são feitas com base no conhecimento técnico, científico e na competência profissional.
+O **Tecnosocialpositivismo** surge como uma nova vertente política que reinterpreta e atualiza os princípios do **positivismo clássico**. Ele integra, de maneira inovadora, a **social-democracia**, a **tecnocracia** e elementos do **positivismo científico** para lidar com os desafios do mundo moderno. Este movimento busca uma sociedade orientada por dados, onde decisões políticas e sociais são feitas com base no conhecimento técnico, científico e na competência profissional.
 
 ## Pilares do Tecnosocialpositivismo
 
-1. **Integração entre Social Democracia e Tecnocracia**  
-   O Tecnosocialpositivismo propõe a fusão dos ideais da **justiça social** e da **igualdade** com a **gestão técnica e eficiente** das políticas públicas. A social-democracia, com seu compromisso com os direitos sociais e econômicos, é combinada com a abordagem da tecnocracia, que defende uma administração baseada em especialistas e profissionais qualificados para a tomada de decisões.
+### 1. **Integração entre Social Democracia e Tecnocracia**
+O Tecnosocialpositivismo propõe a fusão dos ideais de **justiça social** e **igualdade** com a **gestão técnica e eficiente** das políticas públicas. A social-democracia, com seu compromisso com os direitos sociais e econômicos, se combina com a tecnocracia, que defende uma administração fundamentada em especialistas e profissionais qualificados para a tomada de decisões.
 
-2. **Gestão Científica e Profissional**  
-   A ideia central dessa ideologia é que a sociedade seja administrada por **técnicos e especialistas** nas mais diversas áreas, como saúde, educação, economia e meio ambiente. Esses profissionais seriam escolhidos com base em critérios de competência e mérito, assegurando uma administração focada em resultados e eficiência. O conhecimento científico se torna a principal base para todas as decisões políticas.
+### 2. **Gestão Científica e Profissional**
+A ideia central dessa ideologia é que a sociedade seja administrada por **técnicos e especialistas** nas mais diversas áreas, como saúde, educação, economia e meio ambiente. Esses profissionais seriam escolhidos com base em critérios de competência e mérito, assegurando uma administração focada em resultados e eficiência. O conhecimento científico se torna a principal base para todas as decisões políticas.
 
-3. **Formação Centralizada e Regulada pelo Estado**  
-   O **Estado** teria um papel fundamental na formação de profissionais altamente qualificados. A educação e a formação de técnicos especializados seriam amplamente centralizadas e regulamentadas para garantir uniformidade e altos padrões em áreas essenciais, como saúde pública, tecnologia, infraestrutura, entre outras. Esse modelo garantiria a qualidade da gestão pública e a melhoria contínua nos serviços oferecidos à população.
+### 3. **Formação Centralizada e Regulada pelo Estado**
+O **Estado** teria um papel fundamental na formação de profissionais altamente qualificados. A educação e a formação de técnicos especializados seriam amplamente centralizadas e regulamentadas para garantir uniformidade e altos padrões em áreas essenciais, como saúde pública, tecnologia, infraestrutura, entre outras. Esse modelo garantiria a qualidade da gestão pública e a melhoria contínua nos serviços oferecidos à população.
 
 ## Pontos Fortes
 
@@ -36,6 +36,12 @@ O **Tecnosocialpositivismo** surge como uma nova vertente política que reinterp
 
 - **Risco de tecnocratismo excessivo**  
   Em alguns casos, a ênfase na tecnocracia pode levar a uma **alienação** dos processos democráticos, onde os cidadãos se sentem desconectados das decisões tomadas pelos "especialistas", criando uma possível falta de representação popular.
+
+## **Economicamente**
+
+A proposta do **Tecnosocialpositivismo** prevê uma **economia mista**, na qual tanto o Estado quanto o mercado têm papéis importantes. O **mercado** seria regulado para garantir a eficiência e competitividade, mas com a intervenção do Estado para corrigir desigualdades, promover a justiça social e garantir que setores chave da economia (como **engenharia**, **computação** e **tecnologia**) sejam liderados por **técnicos especializados**.
+
+Em termos de política econômica, isso se aproximaria de um modelo de **capitalismo de mercado regulado**, no qual o Estado mantém o controle sobre setores essenciais e garante a formação de profissionais altamente qualificados para administrar essas áreas, criando um equilíbrio entre liberdade econômica e responsabilidade social.
 
 ## Possibilidades Futuras
 
