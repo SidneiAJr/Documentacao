@@ -26,7 +26,7 @@ Tradução: *pague caro por um arquivo que todo mundo pode copiar*.
 - Milionário de NFT virando **influencer motivacional** meses depois
 
 O auge foi acreditar que comprar um lote virtual no “bairro digital premium” era visão de futuro.  
-Realidade: **construíram favela no metaverso e ninguém logou**.
+
 
 ---
 
