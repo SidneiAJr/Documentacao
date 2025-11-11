@@ -37,4 +37,4 @@ Sou formado em **ADS**, **Informática** e **Segurança**, e sempre ouço a fras
 
 ---
 
-Agora, o texto está com uma organização mais clara e o desabafo vem com uma força maior, dando um toque mais pessoal e expressivo à crítica. Se precisar de mais ajustes ou quiser adicionar algo, só me avisar! 😄
+
