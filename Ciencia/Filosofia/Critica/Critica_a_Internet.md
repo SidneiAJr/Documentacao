@@ -21,7 +21,6 @@ Apesar da promessa de “sucesso acelerado”, grande parte desses programas car
 ## Slogans Enganosos Comuns
 
 - “Consiga emprego em 6 meses”
-- “Saia do zero e conquiste 10K por mês”
 - “De iniciante a sênior em tempo recorde”
 - “Descubra a fórmula definitiva para entrar no TI”
 
