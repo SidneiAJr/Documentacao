@@ -1,5 +1,7 @@
 # Simulação do Sistema Social Tecnosocialpositivismo
 
+> ⚠️ **Aviso:** Este é um documento **ficcional**.
+
 O **Tecnosocialpositivismo** surge como uma reformulação do **positivismo clássico**, incorporando elementos da **social democracia** e da **tecnocracia**. Essa nova ideologia busca integrar aspectos sociais com a gestão técnica e eficiente, criando uma sociedade baseada em uma administração científica e voltada para o bem-estar coletivo.
 
 ## Pontos Fortes
