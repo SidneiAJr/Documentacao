@@ -26,5 +26,3 @@ Precisamos refletir sobre o que realmente é necessário para contratar um profi
 - **Camaradagem de vagas**: Em algumas situações, vagas são preenchidas com base em **indicação**, e não pelo real mérito ou habilidades, o que pode afastar quem não tem as conexões certas.
 
 ---
-
-Agora o texto está mais organizado, com os pontos fortes e fracos bem delineados. Isso facilita a leitura e torna a crítica ainda mais impactante. Se precisar de mais ajustes, só falar!
