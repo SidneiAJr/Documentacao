@@ -53,3 +53,5 @@ Eu fiz diversos cursos e tenho uma formação sólida, mas mesmo assim me sinto 
 Mesmo com essa bagagem de cursos e formação, as exigências do mercado e a disparidade entre o que as empresas pedem e o que elas oferecem em termos de salário e oportunidades continuam a ser um desafio enorme.
 
 ---
+
+### Projetos: https://github.com/SidneiAJr/Front_senac
