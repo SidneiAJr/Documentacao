@@ -90,7 +90,6 @@ Sentir-se ignorante é parte do processo.
 
 Se formação séria + anos estudando ainda deixam você humilde…
 
-Imagina o “sênio fullstack 6 meses com curso de 497 reais no hotmart”.
 
 > **TI não é milagre — é maratona.  
 Hype vende ilusão. Dedicação constrói carreira.**
