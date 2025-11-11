@@ -56,8 +56,6 @@ O hype foi… **PowerPoint com glitter e pirâmide com roupagem tech**.
 
 > “Compre algo que você não pode tocar, não pode usar e pode perder se o servidor cair.”
 
-NFT foi o **Pokémon TCG do capitalismo digital**,  
-só que sem diversão, sem nostalgia e com boleto.
 
 ---
 
