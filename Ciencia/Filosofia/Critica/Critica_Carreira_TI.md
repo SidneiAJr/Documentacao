@@ -11,7 +11,6 @@ A realidade? Bem diferente.
 
 Os slogans clássicos:
 
-- “Do zero aos 10k em 3 meses”
 - “Do iniciante ao sênior com meu método secreto”
 - “Você só precisa querer muito”
 - “Curso intensivo + grupo no Discord = carreira garantida”
