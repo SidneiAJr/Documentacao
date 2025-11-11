@@ -47,8 +47,9 @@ Eu fiz diversos cursos e tenho uma formação sólida, mas mesmo assim me sinto 
 - **Introdução a C#**
 - **Introdução a C**
 - **Técnico em Informática** (HTML, CSS, JS, PHP)
-- **Técnico em TDS** (HTML, CSS, JS, SQL, TS, PHP)
+- **Técnico em TDS** (HTML, CSS, JS, SQL, TS, PHP, Java, Swing)
 - **Modelagem 3D no Blender**
+- **Oracle next Education One - Java**
 
 Mesmo com essa bagagem de cursos e formação, as exigências do mercado e a disparidade entre o que as empresas pedem e o que elas oferecem em termos de salário e oportunidades continuam a ser um desafio enorme.
 
