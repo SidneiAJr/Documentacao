@@ -1,55 +1,67 @@
-# Crítica às Vagas de TI | Mercado de Trabalho | Área de Desenvolvimento
+# Crítica ao Mercado de TI no Brasil  
+### Foco: Vagas Júnior x Exigências Sênior | Área de Desenvolvimento
 
-Atualmente, no mercado de TI, tem sido comum as empresas pedirem candidatos para **vagas júnior** com **exigências de nível sênior**. Isso, claramente, foge da realidade e torna a situação difícil para quem está começando na área.
+O cenário atual do mercado de TI apresenta uma desconexão significativa entre as exigências de empresas e a realidade de profissionais iniciantes. Vagas **júnior** frequentemente solicitam habilidades e experiências compatíveis com cargos **sênior**, além de testes técnicos desproporcionais e remuneração inferior ao esperado.
 
-A exigência de **conhecimentos avançados** em várias tecnologias, ferramentas e linguagens de programação para **salários baixos** é uma situação que muitos enfrentam. O problema se agrava quando empresas pedem **provas de lógica** absurdas, como "soma duas matrizes e retorne um array", que são completamente desconectadas da realidade do trabalho no dia a dia.
-
-Além disso, exigem **provas técnicas** que parecem mais um teste de resistência do que uma avaliação de habilidades reais, como a criação de ponteiros de memória em C, algo que, na maioria dos projetos modernos, nem chega a ser utilizado.
-
-E depois ainda dizem: "Ah, não temos mão de obra qualificada." Como assim? Se as empresas continuam com essas exigências irreais, fica difícil. O candidato se sente desvalorizado, é forçado a montar **projetos no GitHub** só para mostrar algo no currículo, e muitas vezes se sente **humilhado** ao ver o quão distantes suas qualificações estão das expectativas de mercado.
-
-Precisamos refletir sobre o que realmente é necessário para contratar um profissional e o quanto essas exigências estão **afastando** novos talentos da área.
+Essa realidade desestimula novos talentos e cria uma barreira de entrada artificial e injusta, afastando profissionais qualificados e reduzindo oportunidades reais de crescimento.
 
 ---
 
-### Pontos Fortes
+## Problema Observado
 
-- **Prova de lógica**: Ok, se for conectada com a realidade do trabalho, faz sentido. Problemas de lógica simples, que exigem raciocínio prático, são relevantes para muitas funções de TI.
-- **Montar sistemas**: O que realmente importa é a capacidade de **entregar sistemas funcionais** e sem erros, algo que precisa ser mais valorizado em processos seletivos.
+- Exigência de conhecimentos avançados para vagas júnior
+- Testes teóricos desconectados do dia a dia (ex.: manipulação de memória em C)
+- Avaliações exageradas e etapas excessivas em processos seletivos
+- Baixa remuneração comparada às responsabilidades
+- Dependência de networking/indicação em algumas oportunidades
+- Pressão por portfólio robusto e projetos próprios antes mesmo da primeira vaga
 
----
-
-### Pontos Fracos
-
-- **Provas fora da realidade**: Muitas provas de lógica e técnicas não refletem o que é realmente exigido no dia a dia de um profissional de TI.
-- **Mão de obra sobrando**: Apesar de haver uma grande quantidade de profissionais qualificados, as exigências desproporcionais tornam difícil para muitos entrarem ou crescerem na área.
-- **Provas errôneas e fora da realidade**: Alguns testes são completamente desconectados do que realmente será utilizado no ambiente de trabalho.
-- **Camaradagem de vagas**: Em algumas situações, as vagas são preenchidas com base em **indicação**, e não pelo real mérito ou habilidades, o que pode afastar quem não tem as conexões certas.
-- **A IA vai remover sua vaga?**: A IA já consegue gerar códigos de backend, mas ainda **faz isso com dificuldade** ou gera **códigos bugados**. Ou seja, a automação não é perfeita e depende de profissionais qualificados para corrigir ou melhorar o código gerado.
-- **Processos seletivos desgastantes**: Provas em excesso (5 ou 6 etapas) ou várias exigências que parecem mais uma maratona do que uma avaliação real de habilidades. Isso chega a ser desmotivante para muitos candidatos.
-- **Exigências excessivas**: Testes e requisitos que não fazem sentido e são cobrados em excesso, sem refletir o que realmente importa para a posição.
+> Empresas afirmam falta de mão de obra, mas mantêm critérios incompatíveis com o nível ofertado.
 
 ---
 
-### Desabafo:
+## Reflexões
 
-Sou formado em **ADS**, **Técnico em Informática** e **Segurança da Informação**, e sempre ouço a frase: "Tem um monte de vaga de emprego, porque você não está trabalhando?" Isso me deixa **pistola**. Fico realmente **furioso** com isso. As empresas se passam com **processos seletivos sem nexo**, com **salários fora da realidade**. Sempre dizem que o salário vai ser **compatível com a vaga**, mas onde? A realidade é que essas vagas muitas vezes não correspondem nem de perto ao que é oferecido. O mercado está cheio de **exigências irrealistas** que fazem a **competição** ser desleal para quem realmente tem potencial, mas não tem as conexões certas ou não consegue seguir todas essas exigências absurdas.
+| Tema | Realidade |
+|------|----------|
+Testes de lógica | Relevantes, se aplicados ao contexto do trabalho
+Provas complexas | Muitas vezes desconectadas de necessidades reais
+Mercado | Exigências elevadas + baixos salários = desmotivação
+IA na área | Auxilia, mas ainda gera código falho → profissionais ainda são essenciais
+
+---
+
+## Impacto no Profissional Iniciante
+
+- Sensação de desvalorização
+- Estresse e frustração durante processos seletivos
+- Desmotivação e dúvida sobre capacidade técnica
+- Competição desigual baseada em networking
+
+> “Tem vaga sobrando, por que você não está trabalhando?”
+>
+> → Falácia comum que ignora o problema estrutural.
 
 ---
 
-### Formação e Qualificações
+## Formação e Competências
 
-Eu fiz diversos cursos e tenho uma formação sólida, mas mesmo assim me sinto desvalorizado no mercado:
+- **ADS**
+- **Técnico em Informática**
+- **Segurança da Informação**
+- Cursos e experiências:
+  - JavaScript
+  - Desenvolvimento de Jogos (Unity)
+  - C#, C
+  - HTML, CSS, JS, PHP, SQL, TS, Java, Swing
+  - Modelagem 3D (Blender)
+  - Oracle ONE — Java
 
-- **Introdução a JavaScript** (no 3000ti)
-- **Desenvolvedor de Jogos para Unity**
-- **Introdução a C#**
-- **Introdução a C**
-- **Técnico em Informática** (HTML, CSS, JS, PHP)
-- **Técnico em TDS** (HTML, CSS, JS, SQL, TS, PHP, Java, Swing)
-- **Modelagem 3D no Blender**
-- **Oracle next Education One - Java**
+> Formação sólida, porém mercado apresenta barreiras artificiais que dificultam entrada.
 
-Mesmo com essa bagagem de cursos e formação, as exigências do mercado e a disparidade entre o que as empresas pedem e o que elas oferecem em termos de salário e oportunidades continuam a ser um desafio enorme.
 
----
+
+## Conclusão
+
+Há uma evidente discrepância entre **exigências do mercado** e **realidade profissional júnior**, o que gera frustração, desperdício de talentos e processos seletivos ineficientes. É necessária uma reavaliação do modelo atual para tornar o setor mais inclusivo, realista e eficiente.
+
