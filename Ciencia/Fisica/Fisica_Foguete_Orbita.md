@@ -68,10 +68,6 @@ Os foguetes modernos são divididos em **múltiplos estágios**, que são descar
 
 Sondas espaciais utilizam **assistência gravitacional (slingshot)** para ganhar velocidade ao passar próximo de planetas massivos, aproveitando o campo gravitacional deles para acelerar sem gastar combustível.
 
-\[
-\text{Energia total} = \text{energia da sonda} + \text{energia orbital do planeta}
-\]
-
 ---
 
 ## ⚡ Tipos de Propulsão
