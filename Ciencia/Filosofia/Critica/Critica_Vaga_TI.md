@@ -33,7 +33,7 @@ Precisamos refletir sobre o que realmente é necessário para contratar um profi
 
 ### Desabafo:
 
-Sou formado em **ADS**, ** Tecnico Informática** e **Segurança da Informação**, e sempre ouço a frase: "Tem um monte de vaga de emprego, porque você não está trabalhando?" Isso me deixa **pistola**. Fico realmente **furioso** com isso. As empresas se passam com **processos seletivos sem nexo**, com **salários fora da realidade**. Sempre dizem que o salário vai ser **compatível com a vaga**, mas onde? A realidade é que essas vagas muitas vezes não correspondem nem de perto ao que é oferecido. O mercado está cheio de **exigências irrealistas** que fazem a **competição** ser desleal para quem realmente tem potencial, mas não tem as conexões certas ou não consegue seguir todas essas exigências absurdas.
+Sou formado em **ADS**, **Tecnico Informática** e **Segurança da Informação**, e sempre ouço a frase: "Tem um monte de vaga de emprego, porque você não está trabalhando?" Isso me deixa **pistola**. Fico realmente **furioso** com isso. As empresas se passam com **processos seletivos sem nexo**, com **salários fora da realidade**. Sempre dizem que o salário vai ser **compatível com a vaga**, mas onde? A realidade é que essas vagas muitas vezes não correspondem nem de perto ao que é oferecido. O mercado está cheio de **exigências irrealistas** que fazem a **competição** ser desleal para quem realmente tem potencial, mas não tem as conexões certas ou não consegue seguir todas essas exigências absurdas.
 
 ---
 
