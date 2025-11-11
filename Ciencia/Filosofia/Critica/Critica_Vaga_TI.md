@@ -1,4 +1,4 @@
-### Crítica às Vagas de TI | Mercado de Trabalho | Área de Desenvolvimento
+# Crítica às Vagas de TI | Mercado de Trabalho | Área de Desenvolvimento
 
 Atualmente, no mercado de TI, tem sido comum as empresas pedirem candidatos para **vagas júnior** com **exigências de nível sênior**. Isso, claramente, foge da realidade e torna a situação difícil para quem está começando na área.
 
