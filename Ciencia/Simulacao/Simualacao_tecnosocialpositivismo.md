@@ -37,6 +37,9 @@ O **Estado** teria um papel fundamental na formação de profissionais altamente
 - **Risco de tecnocratismo excessivo**  
   Em alguns casos, a ênfase na tecnocracia pode levar a uma **alienação** dos processos democráticos, onde os cidadãos se sentem desconectados das decisões tomadas pelos "especialistas", criando uma possível falta de representação popular.
 
+- **Problemas com excesso de técnicos em algumas áreas**  
+  O modelo de centralização da formação e qualificação pode gerar uma **excessiva oferta de mão de obra em determinadas áreas**, criando **bolhas de profissionais** em setores que podem não ter demanda suficiente. O **Estado** precisaria monitorar de perto a quantidade de técnicos formados em cada área, ajustando a oferta de forma a evitar sobrecarga em determinados campos, garantindo que os profissionais estejam alinhados às necessidades reais da sociedade e da economia.
+
 ## **Economicamente**
 
 A proposta do **Tecnosocialpositivismo** prevê uma **economia mista**, na qual tanto o Estado quanto o mercado têm papéis importantes. O **mercado** seria regulado para garantir a eficiência e competitividade, mas com a intervenção do Estado para corrigir desigualdades, promover a justiça social e garantir que setores chave da economia (como **engenharia**, **computação** e **tecnologia**) sejam liderados por **técnicos especializados**.
