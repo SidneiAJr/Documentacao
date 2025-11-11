@@ -1,4 +1,4 @@
-# Simulação do Sistema Social Tecnosocialpositivismo
+# Simulação do Sistema de governo ficticiona Tecnosocialpositivismo
 
 > ⚠️ **Aviso:** Este é um documento **ficcional**.
 
