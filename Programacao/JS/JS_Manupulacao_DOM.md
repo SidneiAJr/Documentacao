@@ -18,7 +18,7 @@ const titulo = document.getElementById("titulo");
 titulo.innerHTML = "Olá, Mundo!";
 ```
 
-## document.getElementsByClassName("classe")
+## 🔹document.getElementsByClassName("classe")
 Busca vários elementos que compartilham a mesma classe.
 Retorna uma coleção (HTMLCollection).
 ```js
@@ -26,21 +26,21 @@ const botoes = document.getElementsByClassName("btn");
 botoes[0].style.backgroundColor = "blue";
 ```
 
-## document.getElementsByTagName("tag")
+## 🔹document.getElementsByTagName("tag")
 Seleciona todos os elementos de uma tag HTML específica (ex: div, p, span).
 ```js
 const paragrafos = document.getElementsByTagName("p");
 paragrafos[1].innerHTML = "Texto atualizado via JS!";
 ```
 
-## document.querySelector("seletor")
+## 🔹document.querySelector("seletor")
 Seleciona o primeiro elemento que bate com o seletor (igual CSS).
 ```js
 const titulo = document.querySelector(".titulo");
 titulo.style.color = "red";
 ```
 
-## document.querySelectorAll("seletor")
+## 🔹document.querySelectorAll("seletor")
 Seleciona todos os elementos que batem com o seletor (retorna uma NodeList).
 ```js
 const itens = document.querySelectorAll(".item");
