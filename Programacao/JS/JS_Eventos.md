@@ -55,7 +55,7 @@ botao.addEventListener("click", () => {
 ```
 
 ## Remover Eventos
-```html
+```js
 function ola() {
   console.log("Oi!");
 }
