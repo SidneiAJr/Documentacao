@@ -34,6 +34,6 @@ O prêmio **"Chagas Sul Global"** representaria uma forma de **honrar as mentes 
 
 <p align="center">
   <img src="https://github.com/SidneiAJr/Documentacao/blob/main/prints/Premio.png" height="500">
-  <h3>Imagem Ilustrativa</h3>
+  <h3 align="center">Imagem Ilustrativa</h3>
 </p>
 
