@@ -23,7 +23,6 @@
 +------------+------------+--------------------+-------------------+
 
 
-## 🔌 **Portas e Protocolos Mais Comuns em Redes**
 
 ### 1. **Porta 20/21 - FTP (File Transfer Protocol)**
 - **Camada**: Aplicação
