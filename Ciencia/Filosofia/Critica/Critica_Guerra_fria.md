@@ -18,7 +18,7 @@ Um dos campos de maior destaque dessa rivalidade foi o **desenvolvimento aeroesp
 - Programa conduzido pelos Estados Unidos para recrutar **cientistas e engenheiros alemães** após a derrota da Alemanha nazista.  
 - Entre eles estava **Wernher von Braun**, especialista em foguetes V-2, que mais tarde lideraria o projeto do **Saturno V**, responsável por levar o homem à Lua.
 
-### Programa Soviético
+### Operation Osoaviakhim
 
 - A União Soviética também capturou e recrutou especialistas alemães.  
 - O principal nome do lado soviético foi **Serguei Korolev**, engenheiro e projetista-chefe que liderou o desenvolvimento do **Sputnik** e das primeiras missões tripuladas.
