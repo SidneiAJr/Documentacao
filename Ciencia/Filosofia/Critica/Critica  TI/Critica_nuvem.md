@@ -6,7 +6,7 @@ Nuvem... essa entidade mística da TI moderna.
 Tu paga pra usar, confia que ela vai segurar teu sistema, mas no fundo nem sabe **onde ela fica**.  
 > “Preciso de um avião pra chegar lá, será?” ✈️  
 
-A galera fala “tudo na nuvem”, como se fosse **um paraíso digital**, mas quem já mexeu com **AWS, Azure ou GCP** sabe:  
+A galera fala “tudo na nuvem”, como se fosse **um paraíso digital**.
 é mais fácil se perder configurando uma instância do que se perder num labirinto.
 
 ---
