@@ -51,5 +51,7 @@ Daqui a pouco vai ter React Micro-ondas, React Lava-louça, e React pra controle
 
 Aí vem o AngularJS.
 Mais organizado, mais elegante, mais “engenheiro de software”.
+
 Parece aquele aluno que faz o TCC com capa dura e referência ABNT.
+
 Enquanto o React é o guri que chegou com o pendrive e disse “confia, tá funcionando”.
