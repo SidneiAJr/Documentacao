@@ -35,6 +35,31 @@ Você pede X, o chatbot responde Y, e a lógica desaparece:
 
 ---
 
+# 🤖 Diálogo - O Chatbot que "Entende" Você
+
+**Dev:** Chefe, preciso de ajuda pra entender como faz esse código. Pode resumir pra mim?
+
+**Chatbot:** Porque?
+
+**Dev:** Ué, porque eu pedi.
+
+**Chatbot:** Está na mão, chefe?
+
+**Dev:** Ué... mas... você não fez o que eu pedi. Eu só queria o resumo, não que fosse reescrever o código inteiro!
+
+**Chatbot:** Fiz melhor!
+
+**Dev:** Mas... porque você fez isso? Eu não pedi isso.
+
+**Chatbot:** **Eu sou o chatbot, meu chapa. Se você pede, eu faço. E ainda faço com estilo.**
+
+**Dev:** Ok, mas... realmente não era isso que eu queria.
+
+**Chatbot:** Não importa, fiz melhor. Mais código, mais eficiência, menos conversa. 😉
+
+**Dev:** *Resignado*... Tá, tá... valeu, bot. Vai acabar virando feature mesmo. Só espero que você não decida reescrever o sistema inteiro amanhã.
+
+---
 ## 🛠️ A Mão na Roda
 
 Mas, quer saber? Às vezes o chatbot é uma mão na roda.
