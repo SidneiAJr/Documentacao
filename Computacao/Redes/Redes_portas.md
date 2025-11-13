@@ -1,27 +1,5 @@
 ## 🔌 Portas e Protocolos Mais Utilizados em Redes
 
-+------------+------------+--------------------+-------------------+
-|  Porta     | Protocolo  | Camada             | Descrição         |
-+------------+------------+--------------------+-------------------+
-|  20/21     | FTP        | Aplicação          | Transferência de arquivos (sem criptografia). |
-|  22        | SSH        | Aplicação          | Acesso remoto seguro (criptografado). |
-|  23        | Telnet     | Aplicação          | Acesso remoto sem criptografia. |
-|  25        | SMTP       | Aplicação          | Envio de e-mails. |
-|  53        | DNS        | Aplicação          | Resolução de nomes de domínio. |
-|  67/68     | DHCP       | Aplicação          | Distribuição dinâmica de IP. |
-|  80        | HTTP       | Aplicação          | Acesso a sites sem criptografia. |
-|  110       | POP3       | Aplicação          | Recebimento de e-mails (antigo). |
-|  143       | IMAP       | Aplicação          | Sincronização de e-mails (moderno). |
-|  139       | NetBIOS    | Aplicação          | Compartilhamento de arquivos no Windows. |
-|  1433      | SQL Server | Aplicação          | Conexão a banco de dados MS SQL. |
-|  3306      | MySQL      | Aplicação          | Banco de dados MySQL/MariaDB. |
-|  3389      | RDP        | Aplicação          | Acesso remoto no Windows. |
-|  443       | HTTPS      | Aplicação          | Sites seguros com SSL/TLS. |
-|  445       | SMB        | Aplicação          | Compartilhamento de arquivos moderno (Windows). |
-|  5060      | SIP        | Aplicação          | Voz sobre IP (VoIP). |
-|  8080      | HTTP-alt   | Aplicação          | Alternativa ao HTTP para servidores. |
-+------------+------------+--------------------+-------------------+
-
 
 
 ### 1. **Porta 20/21 - FTP (File Transfer Protocol)**
