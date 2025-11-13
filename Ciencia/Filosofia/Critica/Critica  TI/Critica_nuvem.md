@@ -7,7 +7,8 @@ Tu paga pra usar, confia que ela vai segurar teu sistema, mas no fundo nem sabe 
 > “Preciso de um avião pra chegar lá, será?” ✈️  
 
 A galera fala “tudo na nuvem”, como se fosse **um paraíso digital**.
-é mais fácil se perder configurando uma instância do que se perder num labirinto.
+
+E mais fácil se perder configurando uma instância do que se perder num labirinto.
 
 ---
 
