@@ -1,4 +1,4 @@
->📘 **Cenário Fictício – Simulação de Subsídios e Estado de Bem-estar Social**
+>📘 **Cenário Fictício **
 
 ## 📘 **Simulação de Impostos Baixos e Nível de Burocracia**
 
