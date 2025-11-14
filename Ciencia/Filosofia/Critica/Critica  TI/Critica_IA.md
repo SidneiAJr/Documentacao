@@ -65,7 +65,6 @@ Resumo honesto:
 Alguns vendem IA como mente autônoma.  
 Na prática, é uma máquina gigantesca dizendo:
 
-
 Não há **consciência**, há **estatística e otimização**.
 
 Ferramenta poderosa? Sim.  
@@ -143,4 +142,16 @@ Ou seja:
 
 Hype em cima de **chatbots previsores de texto**?  
 Com todo respeito: vamos devagar.
+
+---
+
+## 🔧 Chatbots e SAS: A Realidade por Trás do Hype
+
+Não podemos esquecer que, apesar do marketing, chatbots e modelos de IA que fazem código estão longe de ser perfeitos:
+
+- **SAS (Software as a Service)** é uma grande promessa, mas muitos serviços de IA falham ao gerar soluções de qualidade.
+- **Chatbots de código** frequentemente geram erros ou "bugs", como falhas em lógica ou na compreensão do contexto. A famosa frase “**garbage in, garbage out**” se aplica aqui: se a IA não for alimentada com dados ou treinamento adequado, os resultados podem ser desastrosos.
+- Muitos desses sistemas falham em compreender a realidade, interpretando dados de maneira literal ou sem contexto.
+
+Esses sistemas ainda têm muito a evoluir para se aproximar da promessa de uma IA útil e livre de falhas.
 
