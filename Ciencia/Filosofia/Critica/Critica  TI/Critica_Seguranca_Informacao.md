@@ -2,11 +2,11 @@
 
 Esta crítica não é à **área de Segurança da Informação** em si, mas à forma como ela é **comercializada** e **representada** por muitos profissionais e cursos na área.
 
-### A Mito do "Hacker" e das "Gambiarras"
+### Mito do "Hacker" e das "Gambiarras"
 
 Frequentemente, a **Segurança da Informação** é retratada como algo relacionado a **hackers**, **portas** que podem ser **invadidas**, e **gambiarras** para "burlar" sistemas. No entanto, a realidade da SI é bem diferente. A área não se trata de ser um **"hacker" clandestino** ou de tentar encontrar falhas para explorar, mas sim de **proteger** sistemas, garantir **conformidade** com normas, e **garantir a integridade e confidencialidade** das informações.
 
-### A Realidade da Segurança da Informação
+### Realidade da Segurança da Informação
 
 Na **Segurança da Informação**, as coisas **não funcionam assim**. Para realizar qualquer tipo de teste ou intervenção em sistemas, você **precisa de permissão** — até mesmo para "respirar". Trabalhar com SI envolve seguir regras, processos e **autorizações formais**.
 
