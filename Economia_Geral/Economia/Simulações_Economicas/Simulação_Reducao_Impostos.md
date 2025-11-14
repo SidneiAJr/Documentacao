@@ -1,4 +1,4 @@
-## 📘 **Simulação de Impostos Baixos e Nível de Burocracia**
+# 📘 **Cenário Fictício – Simulação de Impostos*
 
 ## **Objetivo da Simulação:**
 Simular os efeitos de diferentes **taxas de impostos** em um cenário econômico, com ênfase na **burocracia** e nos **serviços públicos** essenciais, como saúde e educação.
