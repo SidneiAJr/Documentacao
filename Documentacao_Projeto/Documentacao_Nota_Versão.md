@@ -49,6 +49,15 @@ Este histórico registra a evolução estrutural e conceitual da Wiki ao longo d
 **Descrição:** Ampliação do escopo da wiki para incluir áreas de pensamento crítico, raciocínio abstrato e reflexão conceitual.
 
 ---
+## **Versão 0.03.6a**
+**Novas Seções Incluídas:**
+- **Filosofia**
+- **Criticas**
+- **Astronomia**
+- **Critica TI**
+
+**Descrição:** Ampliação do escopo da wiki para incluir áreas de pensamento crítico, raciocínio abstrato e reflexão conceitual.
+
 
 ## 📍 Observações Gerais
 - A wiki evolui continuamente, conforme novas áreas de interesse surgem.
