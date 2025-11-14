@@ -1,5 +1,3 @@
->📘 **Cenário Fictício **
-
 ## 📘 **Simulação de Impostos Baixos e Nível de Burocracia**
 
 ## **Objetivo da Simulação:**
@@ -108,3 +106,5 @@ A simulação de diferentes **taxas de impostos** e seus **efeitos no nível de 
 **Notas Importantes:**
 - **Simulações baseadas em um cenário hipotético**. Para um estudo mais detalhado, seria necessário utilizar modelos econométricos mais complexos.
 - **Efeitos de longo prazo** podem variar dependendo da resposta dos **agentes econômicos** e das **políticas complementares** implementadas.
+
+>📘 **Cenário Fictício **
