@@ -55,7 +55,7 @@ Este histórico registra a evolução estrutural e conceitual da Wiki ao longo d
 - **Criticas**
 - **Astronomia**
 - **Critica TI**
-- **Simulaçao de Economia**
+- **Simulação de Economia**
 
 **Descrição:** Ampliação do escopo da wiki para incluir áreas de pensamento crítico, raciocínio abstrato e reflexão conceitual.
 
