@@ -35,7 +35,7 @@ Atualmente, nossa espécie encontra-se na escala de Kardashev em um nível de 0.
 #### Pontos Fracos:
 - **Custo**: O investimento em tecnologia pesada e pesquisa avançada é extremamente dispendioso, e os recursos são limitados. A transição de um modelo econômico baseado em setores tradicionais para um baseado em inovação tecnológica exigiria um grande esforço financeiro e político.
   
-- **Falta de Conhecimento**: Muitas das tecnologias que poderiam impulsionar a evolução humana ainda estão além do nosso entendimento atual. A pesquisa em áreas como inteligência artificial avançada, viagens espaciais ou energia de fusão ainda está em fases iniciais, e os riscos associados a essas tecnologias desconhecidas são significativos.
+- **Falta de Conhecimento**: Muitas das tecnologias que poderiam impulsionar a evolução humana ainda estão além do nosso entendimento atual. Viagens espaciais ou energia de fusão ainda está em fases iniciais, e os riscos associados a essas tecnologias desconhecidas são significativos.
 
 - **Custo Humano**: O desenvolvimento de novas tecnologias requer grandes investimentos em talento humano, educação e infraestrutura. Para realmente dar esse salto, seria necessário criar um ambiente de inovação contínua, com mentes criativas e altamente capacitadas. Isso exige uma reestruturação educacional global e investimentos massivos em ciência e tecnologia.
 
