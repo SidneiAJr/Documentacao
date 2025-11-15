@@ -33,7 +33,5 @@ Embora o **Prêmio Nobel** tenha sua importância histórica, sua estrutura **eu
 O prêmio **"Chagas Sul Global"** representaria uma forma de **honrar as mentes brilhantes** de países como **Brasil**, **China**, **Índia**, **Rússia** e outros membros do Sul Global, reconhecendo o impacto **global** de suas pesquisas e descobertas, além de afirmar o protagonismo dessas nações no cenário científico e tecnológico internacional.
 
 
-  <h4 align="center">Imagem criada por Chatgpt</h4>
-</p>
 
 
