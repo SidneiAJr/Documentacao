@@ -54,7 +54,7 @@ Eu também não sei.
 ### “Tratamento de humano real”
 
 Depois fui para o serviço público.  
-E aí, meu amigo… aí eu entendi o conceito de **travar**.
+E aí, meu amigo… aí eu entendi o conceito de **travamento**.
 
 Não era servidor, não era máquina, não era sistema.  
 Era **pessoa travando ao vivo**, versão 4D, áudio e efeitos especiais.
