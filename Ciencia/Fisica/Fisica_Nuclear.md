@@ -63,3 +63,6 @@ Não foram “diagramas da bomba” em si, mas conceitos físicos e dados técni
 - Mas exige responsabilidade, segurança e ciência séria.  
 - A história da tecnologia nuclear é cheia de disputa geopolítica e corrida científica.
 
+> **Observação histórica:**  
+> Todos os modelos, cálculos e formulações teóricas desenvolvidos nessa época foram feitos **inteiramente à mão**, sem computadores modernos, usando apenas papel, lápis, tabelas matemáticas e muita capacidade intelectual.
+
