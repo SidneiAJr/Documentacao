@@ -11,3 +11,11 @@ Além disso, o Estado, na atualidade, encontra-se engessado por sistemas políti
 Em relação ao comportamento humano, há também uma discrepância entre as atitudes de consumo dos diferentes gêneros. Muitos homens, por exemplo, tendem a economizar, comprando apenas o essencial, como roupas simples e tênis desgastados, enquanto as mulheres, muitas vezes influenciadas por pressões sociais e capitalistas, sentem a necessidade de adquirir produtos caros e de luxo, muitas vezes sem uma justificativa lógica além da conformidade com padrões de consumo impostos.
 
 Por fim, a grande questão que se coloca é: será que o ser humano será capaz de evoluir tecnologicamente a ponto de colonizar outros planetas? Ou estamos, na verdade, presos a um ciclo de consumismo e decadência, sem a capacidade de agir coletivamente em prol de um futuro melhor?
+
+### O Futuro da Humanidade e os Desafios do Capitalismo
+
+Em algum momento no futuro, talvez o ser humano consiga expandir suas fronteiras e colonizar outros planetas, ao mesmo tempo em que desenvolve tecnologias para aprimorar o corpo humano, sem que tudo seja monopolizado por grandes corporações e interesses financeiros. A possibilidade de uma evolução tecnológica que permita o progresso sem as amarras do capitalismo financeiro é uma questão que merece reflexão.
+
+Atualmente, o capitalismo financeiro se apresenta como um sistema complexo, onde o Estado se vê obrigado a intervir em empresas e setores que muitas vezes estão distantes da realidade econômica e social. Em vez de direcionar recursos para onde são realmente necessários, como em áreas de saúde, educação e infraestrutura, o governo frequentemente acaba direcionando verbas para corporações que estão longe de representar um benefício imediato para a população. Essa distorção no uso dos recursos públicos é um reflexo das falhas estruturais do sistema capitalista atual, que prioriza interesses financeiros em vez das necessidades reais da sociedade.
+
+
