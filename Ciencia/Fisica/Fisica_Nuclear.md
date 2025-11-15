@@ -41,15 +41,6 @@ Esses caras definiram as bases da física quântica e da física nuclear como co
 
 ---
 
-## ⚡ Energia Nuclear na prática (sem ensinar nada proibido)
-
-Energia nuclear funciona de forma simples no conceito:  
-**quebra um núcleo → libera energia térmica → vira eletricidade.**
-
-Como isso é feito na engenharia real é outro assunto — e não vamos entrar nos detalhes técnicos operacionais aqui.
-
----
-
 ## 🧨 Um pouco de história (versão curta e técnica)
 
 Durante a Segunda Guerra Mundial:
