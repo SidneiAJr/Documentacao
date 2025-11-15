@@ -72,8 +72,6 @@ Este histórico registra a evolução estrutural e conceitual da Wiki ao longo d
 - **Programação**
 - **Ciencia Critica TI**
 
-**Descrição:** Ampliação do escopo da wiki para incluir áreas de pensamento crítico, raciocínio abstrato e reflexão conceitual.
-
 
 ## 📍 Observações Gerais
 - A wiki evolui continuamente, conforme novas áreas de interesse surgem.
