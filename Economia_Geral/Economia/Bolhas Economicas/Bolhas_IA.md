@@ -19,9 +19,6 @@ A **bolha das IAs** pode ocorrer quando investidores superestimam o impacto futu
 O **valor de mercado** de uma empresa é uma métrica fundamental usada para determinar sua avaliação no mercado. É calculado multiplicando o **preço da ação** pela **quantidade total de ações em circulação**.
 
 
-#### Exemplo:
-- Se uma empresa de IA tem 10 milhões de ações em circulação e o preço da ação está em **$100**, o valor de mercado seria:
-
 ### 2. **Avaliação Justa de uma Empresa de IA**
 
 Embora o valor de mercado forneça uma **estimativa do valor da empresa**, ele não necessariamente reflete o valor real ou as perspectivas financeiras a longo prazo. Empresas de IA em estágio inicial, muitas vezes, não têm lucros consistentes, e a especulação sobre o **futuro da tecnologia** pode inflar essas avaliações. Para uma avaliação mais precisa, são utilizados outros indicadores econômicos, como:
