@@ -57,7 +57,7 @@ Depois fui para o serviço público.
 E aí, meu amigo… aí eu entendi o conceito de **tratamento**.
 
 Não era servidor, não era máquina, não era sistema.  
-Era **pessoa travando ao vivo**, versão 4D, áudio e efeitos especiais.
+Era **pessoa tratando ao vivo**, versão 4D, áudio e efeitos especiais.
 
 Sinceramente?  
 Foi até mais leve que iniciativa privada.  
