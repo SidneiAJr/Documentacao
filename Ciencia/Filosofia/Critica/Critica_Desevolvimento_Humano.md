@@ -18,4 +18,14 @@ Em algum momento no futuro, talvez o ser humano consiga expandir suas fronteiras
 
 Atualmente, o capitalismo financeiro se apresenta como um sistema complexo, onde o Estado se vê obrigado a intervir em empresas e setores que muitas vezes estão distantes da realidade econômica e social. Em vez de direcionar recursos para onde são realmente necessários, como em áreas de saúde, educação e infraestrutura, o governo frequentemente acaba direcionando verbas para corporações que estão longe de representar um benefício imediato para a população. Essa distorção no uso dos recursos públicos é um reflexo das falhas estruturais do sistema capitalista atual, que prioriza interesses financeiros em vez das necessidades reais da sociedade.
 
+### Impacto da Tecnologia no Ser Humano
+
+O impacto da tecnologia no ser humano é profundo e abrangente. Desde a invenção de ferramentas simples, como a roda, até avanços modernos como o motor de foguete, as tecnologias moldaram a trajetória da humanidade de maneira significativa. No entanto, ao mesmo tempo em que a tecnologia tem o potencial de trazer benefícios imensos, também levanta questões sobre seu uso, controle e impactos sociais.
+
+Por um lado, o uso de tecnologias para salvar vidas, como no caso de inovações médicas e biotecnológicas, é um avanço positivo. Porém, o problema surge quando essas tecnologias, que deveriam ser usadas para o bem comum, se tornam monopolizadas. Quando a tecnologia, em vez de servir à humanidade de maneira justa e acessível, é controlada por um pequeno grupo de corporações ou entidades, ela pode transformar-se de uma ferramenta de progresso em um mecanismo de controle.
+
+Esse monopólio tecnológico não só limita o acesso à inovação, mas também cria um sistema em que as pessoas, em vez de serem empoderadas pela tecnologia, acabam sendo exploradas por ela. Nesse cenário, a tecnologia, que inicialmente visa melhorar a qualidade de vida, pode se tornar uma forma de escravidão digital, onde a liberdade do indivíduo é restringida pelo poder das grandes corporações que controlam essas tecnologias.
+
+Portanto, o grande desafio da sociedade moderna é encontrar um equilíbrio entre a inovação tecnológica e a preservação da liberdade e da equidade. Usar a tecnologia para salvar vidas é positivo, mas quando ela se torna um instrumento de dominação ou controle, é preciso questionar os limites desse uso.
+
 
