@@ -7,20 +7,17 @@ Este histórico registra a evolução estrutural e conceitual da Wiki ao longo d
 ## **Versão 0.01**
 **Foco Principal:** Estudos iniciais em programação.  
 **Ferramentas:** Java + NetBeans.  
-**Descrição:** Primeira estrutura da wiki, utilizada como base para organização de anotações de código e projetos simples.
 
 ---
 
 ## **Versão 0.02**
 **Foco Principal:** Transição para C#.  
 **Ferramentas:** Visual Studio.  
-**Descrição:** Adaptação dos conteúdos existentes para novas necessidades de estudo e prática, mantendo a estrutura inicial, porém aplicando em uma outra linguagem.
 
 ---
 
 ## **Versão 0.03**
 **Foco Principal:** Integração do ambiente de desenvolvimento **IntelliJ IDEA**.  
-**Descrição:** Expansão da wiki para cobrir práticas de desenvolvimento além da linguagem principal, incluindo ferramentas, plugins e organização de projetos.
 
 ---
 
@@ -29,15 +26,11 @@ Este histórico registra a evolução estrutural e conceitual da Wiki ao longo d
 - **Hardware**
 - **Software**
 
-**Descrição:** Estrutura da wiki passa a abranger também conceitos de infraestrutura e aplicações práticas, não apenas programação.
-
 ---
 
 ## **Versão 0.03.4a**
 **Novas Seções Incluídas:**
 - **Idiomas:** Inglês, Alemão, Sueco
-
-**Descrição:** Expansão do projeto para desenvolvimento linguístico, transformando a wiki em um espaço de aprendizado pessoal multidisciplinar.
 
 ---
 
@@ -45,9 +38,6 @@ Este histórico registra a evolução estrutural e conceitual da Wiki ao longo d
 **Novas Seções Incluídas:**
 - **Filosofia**
 - **Lógica**
-
-**Descrição:** Ampliação do escopo da wiki para incluir áreas de pensamento crítico, raciocínio abstrato e reflexão conceitual.
-
 ---
 ## **Versão 0.03.6a**
 **Novas Seções Incluídas:**
@@ -70,5 +60,4 @@ Este histórico registra a evolução estrutural e conceitual da Wiki ao longo d
 - **Mais Criticas na TI**
 - **Fisica Como funciona?**
 - **Programação**
-- **Ciencia Critica TI**
 
