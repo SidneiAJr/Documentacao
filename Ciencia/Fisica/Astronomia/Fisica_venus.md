@@ -65,7 +65,7 @@ Consequências:
 - radiação mortal na alta atmosfera  
 - erosão constante  
 
-O vento solar chega “parecendo pedrada”, como tu disse. Tecnologicamente correto e poeticamente preciso 😂.
+O vento solar chega “parecendo pedrada”. Tecnologicamente correto e poeticamente preciso 😂.
 
 ---
 
