@@ -57,16 +57,13 @@ Este histórico registra a evolução estrutural e conceitual da Wiki ao longo d
 - **Critica TI**
 - **Simulação de Economia**
 
-**Descrição:** Ampliação do escopo da wiki para incluir áreas de pensamento crítico, raciocínio abstrato e reflexão conceitual.
 ---
 
 ## **Versão 0.03.7a**
 **Novas Seções Incluídas:**
 - **Mais Criticas na TI**
 - **Fisica Como funciona?**
-
-**Descrição:** Ampliação do escopo da wiki para incluir áreas de pensamento crítico, raciocínio abstrato e reflexão conceitual.
-
+---
 
 ## **Versão 0.03.8a**
 **Novas Seções Incluídas:**
