@@ -21,7 +21,7 @@ Entrar neles é basicamente um **mergulho infinito em pressão crescente**, até
 ## 🔥 “Acender Júpiter” — O Mito
 Existe uma frase famosa por aí dizendo:
 
-> “Se jogarmos Urano dentro de Júpiter, dá pra acender ele como uma estrela.”
+> “Se jogarmos Uranio dentro de Júpiter, dá pra acender ele como uma estrela.”
 
 Falso.
 
