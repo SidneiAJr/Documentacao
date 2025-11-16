@@ -52,13 +52,6 @@ Com a eleição de **Jair Bolsonaro** em 2018, o Brasil viveu uma **polarizaçã
 ### 5.3. **Lula Retorna ao Poder (2023 - Atualidade)**
 Em 2023, **Luiz Inácio Lula da Silva** foi reeleito presidente do Brasil, após uma disputa eleitoral marcada por polarização política e **divisões profundas**. Lula assumiu com promessas de **fortalecer os direitos sociais**, **reformas estruturais** e **retomar o crescimento econômico**, em meio a uma crise fiscal, com a **economia brasileira enfrentando recessão e inflação**.
 
-## 6. O Brasil Hoje: Desafios e Perspectivas
-O Brasil continua sendo uma **democracia** consolidada, mas enfrenta grandes desafios. A economia ainda sofre com a **desigualdade social**, **corrupção**, e um **sistema político altamente fragmentado**, com um grande número de partidos e uma **polarização crescente**.
-
-Além disso, o país precisa lidar com questões estruturais como a **reforma tributária**, a **preservação ambiental**, e o fortalecimento de instituições para garantir um **futuro mais inclusivo** e **sustentável**.
-
-A **politização das redes sociais**, a **crise da confiança nas instituições**, e a necessidade de **reformas institucionais** são questões centrais para o futuro do Brasil.
-
 ---
 
 
