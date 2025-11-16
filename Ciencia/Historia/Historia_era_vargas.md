@@ -20,8 +20,6 @@ O governo reprimiu com força organizações consideradas ameaça à ordem nacio
 - **Ação Integralista Brasileira (AIB)**, de inspiração nacionalista e autoritária,  
 - **Partido Comunista do Brasil (PCB)**, de orientação marxista.  
 
-Ambos os grupos foram perseguidos, presos ou dissolvidos em meio ao clima de vigilância estatal.
-
 ## Avanços Institucionais e Econômicos
 
 A Era Vargas é frequentemente associada à formação do Estado moderno brasileiro. Entre as principais medidas, destacam-se:
