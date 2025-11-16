@@ -44,6 +44,7 @@ Nesse repositório você encontrará uma variedade de tópicos, desde computaç�
 - Ideias
 
 ## Simulações de Ideias:
+- Ideias Futuristas
 
 ## Documentações do Projeto
 - De onde veio a Ideia?
