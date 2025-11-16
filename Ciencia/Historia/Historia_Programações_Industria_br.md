@@ -35,7 +35,7 @@ Durante o período de Vargas, tanto no **Estado Novo (1937–1945)** quanto no s
 ---
 
 
-### **4. Indústrias Criadas por Getúlio Vargas e a Ideia de Celso Furtado (Continuação)**
+### **4. Indústrias Criadas**
 
 7. **Petrobras (1953)**: Criada durante o governo de **Getúlio Vargas**, a **Petrobras** tornou-se a **empresa estatal** responsável pela **exploração e produção de petróleo** no Brasil. Sua fundação foi um marco para o setor energético nacional, com o objetivo de garantir **autossuficiência energética** e controlar as reservas de petróleo brasileiras.
 
