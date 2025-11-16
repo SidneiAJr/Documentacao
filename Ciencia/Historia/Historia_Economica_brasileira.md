@@ -53,3 +53,54 @@ O Brasil teve **9 reformas econômicas** e **9 mudanças de moeda** ao longo de 
 A economia brasileira passou por um longo processo de transformação, desde uma base agrícola-exportadora até se tornar uma economia mais industrializada e diversificada. A constante tentativa de estabilizar a economia, com reformas econômicas e mudanças de moeda, reflete os desafios enfrentados pelo Brasil em sua trajetória de crescimento.
 
 Cada plano de estabilização enfrentou dificuldades diferentes, mas a introdução do **Plano Real** em 1994 foi crucial para a estabilização da economia brasileira, que permitiu o crescimento e a redução da inflação a partir da segunda metade da década de 1990.
+
+### 🧾 Principais Planos Econômicos
+
+| Plano | Ano | Governo | Medidas Principais | Resultado |
+|--------|------|-----------|----------------------|------------|
+| **Plano de Metas** | 1956–1961 | Juscelino Kubitschek | “50 anos em 5” — incentivo à indústria, obras de infraestrutura e capital estrangeiro | Crescimento rápido, aumento da dívida |
+| **Plano de Estabilização** | 1964 | Castelo Branco | Corte de gastos, arrocho salarial e controle da inflação | Inflação caiu, mas houve recessão |
+| **Plano Cruzado** | 1986 | José Sarney | Criação do **Cruzado (Cz$)**, congelamento de preços e salários | Inicialmente popular, depois gerou escassez e inflação voltou |
+| **Plano Bresser** | 1987 | José Sarney | Novo congelamento parcial e reajuste salarial controlado | Alívio temporário, inflação retornou |
+| **Plano Verão** | 1989 | José Sarney | Criação do **Cruzado Novo (NCz$)**, corte de zeros e novo congelamento | Sem sucesso duradouro |
+| **Plano Collor I** | 1990 | Fernando Collor | Criação do **Cruzeiro (Cr$)**, bloqueio de poupanças e ativos financeiros | Inflação despencou, mas economia travou |
+| **Plano Collor II** | 1991 | Fernando Collor | Reajuste de preços e nova tentativa de estabilização | Sem êxito; inflação voltou a subir |
+| **Plano Real** | 1994 | Itamar Franco / FHC | URV → Real, metas fiscais e fim da indexação | Sucesso: estabilização da moeda e controle da inflação |
+
+### 💵 Mudanças de Moeda (Resumo)
+
+| Antiga | Nova | Ano | Fator de conversão |
+|---------|------|------|--------------------|
+| Réis | Cruzeiro | 1942 | 1 Cr$ = 1.000 Rs$ |
+| Cruzeiro | Cruzeiro Novo | 1967 | 1 NCr$ = 1.000 Cr$ |
+| Cruzeiro Novo | Cruzeiro | 1970 | Paridade nominal |
+| Cruzeiro | Cruzado | 1986 | 1 Cz$ = 1.000 Cr$ |
+| Cruzado | Cruzado Novo | 1989 | 1 NCz$ = 1.000 Cz$ |
+| Cruzado Novo | Cruzeiro | 1990 | Paridade nominal |
+| Cruzeiro | Cruzeiro Real | 1993 | 1 CR$ = 1.000 Cr$ |
+| Cruzeiro Real | Real | 1994 | 1 R$ = 2.750 CR$ |
+
+## 🔢 Valores recorrentes na história monetária do Brasil
+
+O Brasil teve várias moedas oficiais ao longo do tempo — mas alguns valores se repetem (2, 5, 10, 20, 50, 100, 200 e 500), aparecendo em quase todas as reformas monetárias.
+
+| Valor | Réis (até 1942) | Cruzeiro(s) (1942–1993) | Cruzado(s) (1986–1990) | Cruzeiro Real (1993–1994) | Real (1994–hoje) |
+|:------:|:----------------:|:------------------------:|:-----------------------:|:-------------------------:|:----------------:|
+| **2**   | ✓ | ✓ | ✓ | — | ✓ |
+| **5**   | ✓ | ✓ | ✓ | — | ✓ |
+| **10**  | ✓ | ✓ | ✓ | — | ✓ |
+| **20**  | ✓ | ✓ | ✓ | — | ✓ |
+| **50**  | ✓ | ✓ | ✓ | — | ✓ |
+| **100** | ✓ | ✓ | ✓ | — | ✓ |
+| **200** | ✓ | ✓ | ✓ | — | ✓ |
+| **500** | ✓ | ✓ *(inclui nota de 500.000 cruzeiros em 1993)* | ✓ | ✓ | — |
+
+> 💬 **Curiosidade:**  
+> - O valor **500** foi recorrente em várias moedas — de **500 réis** no Império até **500.000 cruzeiros** durante a hiperinflação dos anos 1990.  
+> - No **Real**, nunca houve nota de R$500 (a maior é R$200, lançada em 2020).  
+> - Esses valores eram escolhidos por convenção e praticidade: múltiplos de 2, 5 e 10 facilitavam cálculos e troco.
+
+- ## 📚 Fontes
+
+- Banco Central do Brasil – [Histórico das Moedas](https://www.bcb.gov.br)
+- IBGE – Séries Históricas do PIB e Inflação
