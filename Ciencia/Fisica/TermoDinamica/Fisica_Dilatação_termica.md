@@ -60,8 +60,56 @@ Cada material possui um **coeficiente de dilatação**, que indica o quanto ele 
 
 ---
 
-## 🧩 Em resumo
+## 🔥 Dilatação Térmica no Forno Elétrico
 
-A dilatação térmica é um fenômeno físico natural causado pela variação da temperatura.  
-Ela explica desde pequenos estalos metálicos até comportamentos complexos em motores, pontes e estruturas industriais.
+O forno elétrico é um ótimo exemplo de dilatação térmica acontecendo na prática.
+
+Quando você liga o forno, vários componentes começam a aquecer:
+
+- Resistências metálicas  
+- Chapas internas  
+- Grades  
+- Parafusos e suportes  
+- A carcaça metálica (dependendo do modelo)
+
+Assim que esses materiais recebem calor, eles **se expandem**.  
+Por isso, é comum ouvir pequenos **estalos** ou **tiques** enquanto o forno esquenta.
+
+Esse som vem do metal “trabalhando”:  
+ele aumenta de tamanho ao aquecer e depois **contrai** novamente quando o forno esfria.
+
+---
+
+### 🧲 Por que isso acontece?
+
+As resistências e paredes internas do forno são feitas de metais com alto coeficiente de dilatação.  
+Quando o forno vai de 25 °C a 200–250 °C, a variação é grande, então:
+
+- as chapas se curvam levemente  
+- parafusos ajustam a pressão  
+- suportes mudam de posição mínima  
+- as resistências se expandem e contraem
+
+Tudo isso produz os sons típicos de uso.
+
+---
+
+### 🔧 É normal?
+
+Sim — totalmente normal.
+
+A estrutura é projetada para suportar essa expansão e contração sem danos.  
+Se o barulho for muito alto ou metálico demais, pode indicar:
+
+- chapa solta  
+- suporte vibrando  
+- parafusos desalinhados
+
+Mas na maioria dos casos, é simplesmente **dilatação térmica** em ação.
+
+---
+
+
+
+
 
