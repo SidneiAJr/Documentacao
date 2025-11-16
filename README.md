@@ -7,10 +7,10 @@
 
 ***Aqui você encontra de tudo um pouco — desde Hardware e Computação até Matemática Financeira.***
 
-Nesse repositório você encontrará uma variedade de tópicos, desde computação até filosofia:
+Nesse repositório, você encontrará uma variedade de tópicos, desde computação até filosofia:
 
 ## Filosofia
-- Críticas (Economia, Ti, mercado de trabalho,nobel)
+- Críticas (Economia, TI, Mercado de Trabalho, Nobel)
 - Filosofia Geral
 
 ## Economia
@@ -37,22 +37,22 @@ Nesse repositório você encontrará uma variedade de tópicos, desde computaç�
 - História Econômica do Brasil
 - Relação Brasil x EUA
 
-## Experencia de Ti
-- Experencia profissional
+## Experiência em TI
+- Experiência Profissional
 - Carreira
 - Cursos
 - Ideias
 
-## Simulações de Ideias:
+## Simulações de Ideias
 - Ideias Futuristas
 
 ## Documentações do Projeto
-- De onde veio a Ideia?
-- Versão do projeto?
-- Porque do projeto?
+- De onde veio a ideia?
+- Versão do projeto
+- Por que o projeto?
 
-## Fisica
+## Física
 - Astronomia
-- Fisica geral
-- Termodinamica
-- Funcionamento Fisico
+- Física Geral
+- Termodinâmica
+- Funcionamento Físico
