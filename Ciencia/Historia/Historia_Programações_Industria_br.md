@@ -1,4 +1,4 @@
-# História de Programações Sociais e Indústria Brasileira
+# História de Programas Sociais e Indústria Brasileira
 
 A industrialização e a criação de programas sociais no Brasil são processos que começaram com **Getúlio Vargas** e foram impulsionados por diversos fatores ao longo do tempo. A seguir, vamos revisar algumas das principais iniciativas e indústrias que ajudaram a moldar a economia e a sociedade brasileira.
 
