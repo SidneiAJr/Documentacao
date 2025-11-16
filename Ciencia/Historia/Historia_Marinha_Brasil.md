@@ -147,7 +147,6 @@ Comprado da Marinha do Reino Unido, onde operava desde 1945.
 
 O Brasil o recebeu já com 15 anos de uso.
 
-Embora tenha servido por décadas, era caro, limitado e exigia manutenção constante.
 
 ➡️ Nunca foi “sucata” ao receber, mas não era moderno.
 
