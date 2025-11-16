@@ -35,6 +35,7 @@ João Goulart, durante seu governo (1961–1964), também teve iniciativas volta
 Reformas de Base (1963-1964): O Projeto das Reformas de Base, que abrangia reformas agrária, educacional e de saúde, visava a promoção da justiça social e da igualdade. A reforma agrária, em particular, tinha como objetivo redistribuir terras para a população rural, especialmente os trabalhadores sem terra.
 
 Salário Mínimo e Direitos Trabalhistas: Goulart implementou políticas voltadas para o aumento do salário mínimo, como parte de uma tentativa de redistribuição de renda.
+
 ---
 
 ### 4. Dilma Rousseff - Programas de Inclusão Social
