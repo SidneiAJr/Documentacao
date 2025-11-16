@@ -9,6 +9,9 @@ Durante a **Primeira República (1889–1930)**, o Brasil ainda vivia uma estrut
 
 Ainda assim, o início da **industrialização brasileira** pode ser observado nas **pequenas fábricas** que surgiram, muitas delas relacionadas à produção de **bens de consumo**. A **Primeira República** enfrentou **instabilidade política e econômica**, o que dificultou o desenvolvimento de uma indústria de grande porte. O país seguia sendo um grande exportador de produtos primários e um mercado de consumo para indústrias estrangeiras.
 
+- **Indústria Martinelli** (fundada em 1880): A **Indústria Martinelli** foi uma das pioneiras na produção de **alimentos e bebidas** no Brasil, especialmente conhecida por suas **indústrias de conservas**, **sucos** e **produtos alimentícios**. Ela ajudou a consolidar o setor alimentício brasileiro e foi um marco na **indústria de alimentos** no país.
+
+
 ---
 
 ### **2. A Era Vargas e a Criação de Indústrias**
@@ -39,8 +42,6 @@ Durante o governo de Vargas, várias **indústrias de base** e grandes **empresa
 - **Companhia Hidrelétrica do São Francisco (CHESF)** (1948): A **CHESF** teve um papel crucial no desenvolvimento da **energia elétrica no Nordeste**, promovendo o crescimento de **indústrias e infraestrutura urbana** na região.
 
 - **Eletrobras (1962)**: Embora tenha sido criada após o governo Vargas, a **Eletrobras** foi um reflexo das políticas energéticas iniciadas na **Era Vargas**, consolidando o papel do Brasil como um dos maiores produtores de **energia elétrica** da América Latina.
-
-- **Indústria Martinelli** (fundada em 1880): A **Indústria Martinelli** foi uma das pioneiras na produção de **alimentos e bebidas** no Brasil, especialmente conhecida por suas **indústrias de conservas**, **sucos** e **produtos alimentícios**. Ela ajudou a consolidar o setor alimentício brasileiro e foi um marco na **indústria de alimentos** no país.
 
 ---
 
