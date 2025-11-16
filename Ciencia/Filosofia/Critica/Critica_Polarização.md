@@ -75,3 +75,13 @@ não buscava subordinar o Brasil à China ou à URSS,
 e, em episódios específicos, recusou ofertas de apoio material ou político originadas de países comunistas, justamente para preservar sua postura de autonomia nacional.
 
 Isso revela que a leitura externa de “alinhamento comunista” muitas vezes não correspondia às posições oficiais ou práticas adotadas por Brizola.
+
+Ponto de Vista do Brasil
+
+Do ponto de vista interno, o Brasil enfrentava profundas desigualdades sociais, baixa industrialização relativa e forte dependência de capitais estrangeiros. A criação da Petrobras, em 1953, durante o governo Vargas, foi uma das respostas mais emblemáticas a esse cenário, representando a busca por autonomia energética e pela proteção das reservas nacionais de petróleo.
+
+Durante os anos 1950 e 1960, a defesa dos recursos estratégicos — como petróleo, minérios, infraestrutura básica e empresas estatais recém-criadas — tornou-se um eixo central do projeto desenvolvimentista brasileiro. Nesse contexto, a pressão externa sobre o Brasil aumentou significativamente. Investidores estrangeiros, governos e organismos internacionais viam com cautela qualquer iniciativa que limitasse a participação de capitais externos em setores considerados estratégicos.
+
+A postura do governo brasileiro em proteger suas reservas naturais e fortalecer empresas estatais não representava alinhamento com o bloco socialista, mas sim uma política de soberania econômica, amplamente adotada por países em desenvolvimento naquele período. Em outras palavras, tratar recursos estratégicos como patrimônio nacional era menos uma escolha ideológica e mais uma obrigação institucional diante do estágio de desenvolvimento do país.
+
+
