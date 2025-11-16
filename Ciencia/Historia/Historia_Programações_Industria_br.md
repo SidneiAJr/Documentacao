@@ -60,7 +60,7 @@ Universidade para Todos (ProUni): O ProUni foi uma das iniciativas de maior impa
 
 Fome Zero: O Programa Fome Zero foi uma iniciativa de segurança alimentar que visava erradicar a fome e garantir o acesso à alimentação de qualidade para a população de baixa renda.
 
-Cotas para Negros e Pobres nas Universidades: A implementação de políticas de cotas em universidades públicas foi um passo importante para a inclusão racial e social no sistema educacional.
+
 ---
 
 
