@@ -41,3 +41,28 @@ Entre 1899 e 1922, o Brasil viveu:
 - início de transformações urbanas e culturais, culminando na **Semana de Arte Moderna de 1922**, que marcou simbolicamente o início das pressões por mudanças mais amplas no país.
 
 Esse conjunto de elementos define um período de modernização limitada e de forte concentração de poder nas mãos de poucos grupos regionais.
+
+## Referências
+
+ALONSO, Ângela. *Ideias em Movimento: A Geração 1870 na Reconfiguração do Brasil*. São Paulo: Paz e Terra, 2002.
+
+CARVALHO, José Murilo de. *A Construção da Ordem: A Elite Política Imperial*. Rio de Janeiro: Civilização Brasileira, 2003.
+
+CARVALHO, José Murilo de. *Os Bestializados: O Rio de Janeiro e a República que Não Foi*. São Paulo: Companhia das Letras, 1987.
+
+FAUSTO, Boris. *História do Brasil*. São Paulo: Edusp, 1995.
+
+FAUSTO, Boris; DEVOTO, Fernando. *Brasil e Argentina: Um Ensaio de História Comparada (1850–2002)*. São Paulo: Editora 34, 2004.
+
+FURTADO, Celso. *Formação Econômica do Brasil*. São Paulo: Companhia das Letras, 2009.
+
+HOLANDA, Sérgio Buarque de. *Raízes do Brasil*. São Paulo: Companhia das Letras, 1995.
+
+LYNCH, Christian Edward Cyril. *O Império e a República: Uma Nova Interpretação da História Brasileira*. Rio de Janeiro: Paz e Terra, 2014.
+
+PRADO JÚNIOR, Caio. *Formação do Brasil Contemporâneo*. São Paulo: Brasiliense, 1942.
+
+SODRÉ, Nelson Werneck. *História da Burguesia Brasileira*. Rio de Janeiro: Civilização Brasileira, 1976.
+
+WEINSTEIN, Barbara. *A Borracha na Amazônia: Expansão e Decadência*. São Paulo: Hucitec, 1993.
+
