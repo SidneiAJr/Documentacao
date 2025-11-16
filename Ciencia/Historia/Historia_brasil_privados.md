@@ -102,6 +102,7 @@ A seguir, os principais grupos **privados e pioneiros** da industrialização br
 **Fundadores:** Família *Villares*  
 **Setor:** Siderurgia, equipamentos industriais, metalurgia pesada  
 **Local:** São Paulo – SP
+
 ---
 
 # 📌 Conclusão
