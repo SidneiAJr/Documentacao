@@ -9,6 +9,21 @@
 
 Nesse repositório, você encontrará uma variedade de tópicos, desde computação até filosofia:
 
+
+## Sumario:
+- [Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
+  
+- [Computação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao)
+
+- [Economia](https://github.com/SidneiAJr/Documentacao/tree/main/Economia_Geral)
+
+- [Programação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao)
+
+- [Formação](https://github.com/SidneiAJr/Documentacao/tree/main/Forma%C3%A7%C3%B5es)
+
+- [Experiencia TI](https://github.com/SidneiAJr/Documentacao/tree/main/Experiencia_TI)
+
+
 ## Filosofia
 - Críticas (Economia, TI, Mercado de Trabalho, Nobel)
 - Filosofia Geral
@@ -81,18 +96,5 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 - Sueco
 - Alemão(Alemão do sul do brasil x Alemão Alemão)
 - Japones
-
-## Sumario:
-- [Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
-  
-- [Computação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao)
-
-- [Economia](https://github.com/SidneiAJr/Documentacao/tree/main/Economia_Geral)
-
-- [Programação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao)
-
-- [Formação](https://github.com/SidneiAJr/Documentacao/tree/main/Forma%C3%A7%C3%B5es)
-
-- [Experiencia TI](https://github.com/SidneiAJr/Documentacao/tree/main/Experiencia_TI)
 
 
