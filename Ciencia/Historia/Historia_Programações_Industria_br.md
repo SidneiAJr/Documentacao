@@ -27,6 +27,7 @@ Após a **Redemocratização** e a **saída de Vargas** em 1945, **Eurico Gaspar
 Apesar de algumas dificuldades para implementação total do plano, o **SALTE** foi fundamental para a modernização da infraestrutura no pós-guerra.
 
 ---
+
 ### 3. João Goulart - Reformas de Base e Programas Sociais
 
 João Goulart, durante seu governo (1961–1964), também teve iniciativas voltadas para reformas sociais e de redistribuição de renda:
@@ -35,6 +36,7 @@ Reformas de Base (1963-1964): O Projeto das Reformas de Base, que abrangia refor
 
 Salário Mínimo e Direitos Trabalhistas: Goulart implementou políticas voltadas para o aumento do salário mínimo, como parte de uma tentativa de redistribuição de renda.
 ---
+
 ### 4. Dilma Rousseff - Programas de Inclusão Social
 
 O governo de Dilma Rousseff (2011–2016) também se destacou pela criação e ampliação de programas sociais voltados à inclusão social:
@@ -44,7 +46,9 @@ Programa Bolsa Família (2003): Embora tenha sido criado durante o governo de Lu
 Programa Minha Casa Minha Vida: Criado para oferecer habitação popular, o programa Minha Casa Minha Vida visa a construção de casas populares para famílias de baixa renda.
 
 Reformas em Educação e Saúde: Durante o governo de Dilma, houve a expansão de universidades federais, institutos de tecnologia, e a ampliação do Sistema Único de Saúde (SUS).
+
 ---
+
 ### 5. Luiz Inácio Lula da Silva - Programas de Combate à Pobreza e Educação
 
 No governo de Lula, uma série de políticas sociais transformaram o Brasil, com o foco em combater a pobreza e reduzir as desigualdades sociais:
