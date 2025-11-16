@@ -175,14 +175,6 @@ A seguir estão fontes acadêmicas, livros e artigos clássicos que fundamentam 
 
 ---
 
-## 🎓 Teses e Dissertações Relevantes (USP, UNICAMP, UFRJ)
-
-- “**Imigração e Industrialização em São Paulo (1880–1930)**” – Tese (USP).  
-- “**O Papel dos Imigrantes na Formação do Setor Têxtil Paulista**” – Dissertação (UNICAMP).  
-- “**Industrialização Brasileira e Capital Estrangeiro**” – Tese (UFRJ).  
-
----
-
 ## 📌 Observações Importantes
 
 Estas referências cobrem:
