@@ -83,8 +83,10 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 - Japones
 
 Sumario:
-[Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
-[Computação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao)
-[Economia](https://github.com/SidneiAJr/Documentacao/tree/main/Economia_Geral)
+- [Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
+  
+- [Computação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao)
+
+- [Economia](https://github.com/SidneiAJr/Documentacao/tree/main/Economia_Geral)
 
 
