@@ -17,7 +17,7 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 - Grande Nomes por areas
 - Fisicos
 
-- [Filosofia](#filosofia)
+- [Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
 ## Economia
 - Economia do Brasil
 - Simulações Econômicas
