@@ -148,3 +148,23 @@ Uma das maiores reformas da história.
 33. Novo Arcabouço Fiscal (2023)
 
 → Substituiu o teto de gastos.
+
+## Referencias:
+
+- [Banco central do Brasil](https://www.bcb.gov.br/controleinflacao)
+- [Banco central do Brasil - Copom](https://www.bcb.gov.br/controleinflacao/copom)
+
+## 🟦 Referências Acadêmicas e Bibliografia 
+História Econômica Geral do Brasil
+
+Furtado, Celso. "Formação Econômica do Brasil."
+– Principal obra para entender desenvolvimento, industrialização e reformas até os anos 1960.
+
+Jorge Caldeira – "História da Riqueza no Brasil".
+– Mostra evolução econômica desde o período colonial até hoje.
+
+Werner Baer – "A Economia Brasileira".
+– Análise técnica das reformas, inflação e industrialização.
+
+
+
