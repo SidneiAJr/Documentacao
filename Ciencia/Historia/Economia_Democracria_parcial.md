@@ -7,7 +7,6 @@ Com o fim do Estado Novo em 1945, inicia-se no Brasil um período de **democraci
 Dutra é uma figura historicamente controversa. Militar, anticomunista e alinhado à política externa dos EUA no início da Guerra Fria, seu governo:
 
 - restabeleceu eleições diretas,
-- permitiu o funcionamento de vários partidos (PSD, UDN, PTB, entre outros),
 - manteve o PCB legal apenas até 1947, quando o partido foi proibido,
 - adotou políticas econômicas liberais e de controle de gastos.
 
