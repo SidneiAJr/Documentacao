@@ -17,6 +17,7 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 - Grande Nomes por areas
 - Fisicos
 
+- [Filosofia](#filosofia)
 ## Economia
 - Economia do Brasil
 - Simulações Econômicas
