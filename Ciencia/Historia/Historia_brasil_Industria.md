@@ -65,3 +65,13 @@
 - Foco: **Produção e distribuição de energia elétrica**
 - Contribuição: Consolidou o **sistema elétrico brasileiro**, garantindo maior **autossuficiência energética** e promovendo a **expansão do setor energético**.
 
+## Indústrias Reunidas Fábricas Matarazzo
+- Fundação: 1920
+- etor: Alimentos, Têxtil e Papel
+- Contribuição: Um dos maiores conglomerados industriais do Brasil durante o século XX, fundado por Francesco Matarazzo, que produziu alimentos, papel e têxteis, e teve um grande impacto no desenvolvimento da indústria de bens de consumo no país.
+
+## Companhia Paulista de Estradas de Ferro (CPEF)
+- Fundação: 1889
+- Setor: Transportes Ferroviários
+- Contribuição: Foi uma das empresas mais importantes do setor ferroviário, fundamental para o transporte de mercadorias e pessoas, além de desempenhar papel estratégico no escoamento da produção agrícola para o mercado interno e externo.
+
