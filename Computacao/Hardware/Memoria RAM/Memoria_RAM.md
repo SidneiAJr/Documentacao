@@ -50,3 +50,18 @@ Exemplo simplificado:
 - Frequência = velocidade
 - Latência = tempo de resposta
 - Dual channel > single channel
+
+## Memória RAM de Notebook vs. Memória RAM de PC
+Tamanho
+
+Em notebooks, as memórias costumam ser menores, geralmente de 8GB a 16GB. Em PCs, você pode encontrar de 16GB a 64GB ou mais, dependendo da necessidade.
+
+Tensão
+
+As tensões variam com a geração da RAM. Notebooks tendem a usar memórias de 1.2V (DDR4) ou 1.1V (DDR5), para serem mais eficientes em termos de energia. PCs de mesa podem usar tensões mais altas, dependendo da configuração.
+
+ECC (Error-Correcting Code)
+
+ECC é uma tecnologia que detecta e corrige erros de memória. Usada principalmente em servidores e estações de trabalho que exigem alta confiabilidade.
+
+Não ECC é mais comum em PCs e notebooks de uso doméstico ou para jogos, onde o foco é desempenho.
