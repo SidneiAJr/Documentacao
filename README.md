@@ -10,7 +10,7 @@
 Nesse repositório você encontrará uma variedade de tópicos, desde computação até filosofia:
 
 ## Filosofia
-- Crítica Filosófica
+- Críticas (Economia, Ti, mercado de trabalho)
 - Filosofia Geral
 
 ## Economia
@@ -36,3 +36,11 @@ Nesse repositório você encontrará uma variedade de tópicos, desde computaç�
 - História do Brasil
 - História Econômica do Brasil
 - Relação Brasil x EUA
+
+## Experencia de Ti
+- Experencia profissional
+- Carreira
+- Cursos
+- Ideias
+
+## Simulações de Ideias:
