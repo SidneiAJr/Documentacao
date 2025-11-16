@@ -9,7 +9,7 @@
 
 Nesse repositório, você encontrará uma variedade de tópicos, desde computação até filosofia:
 
-## [Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
+## Filosofia
 - Críticas (Economia, TI, Mercado de Trabalho, Nobel)
 - Filosofia Geral
 
@@ -81,3 +81,10 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 - Sueco
 - Alemão(Alemão do sul do brasil x Alemão Alemão)
 - Japones
+
+Sumario:
+[Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
+[Computação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao)
+[Economia](https://github.com/SidneiAJr/Documentacao/tree/main/Economia_Geral)
+
+
