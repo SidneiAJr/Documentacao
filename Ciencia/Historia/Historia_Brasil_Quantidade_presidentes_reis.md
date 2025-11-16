@@ -4,7 +4,7 @@
 - **Dom Pedro I** (1822–1831)
 - **Dom Pedro II** (1831–1889)
 
-**Total de reis:** 2
+**Total de Imperadores:** 2
 
 ---
 
