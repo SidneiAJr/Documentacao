@@ -13,10 +13,16 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 - Críticas (Economia, TI, Mercado de Trabalho, Nobel)
 - Filosofia Geral
 
+## Ciencia Brasileira
+- Grande Nomes por areas
+- Fisicos
+
 ## Economia
 - Economia do Brasil
 - Simulações Econômicas
 - Introdução à Economia
+- Economia verde
+- Matematica Financeira
 
 ## Computação
 - **Processadores**
@@ -26,6 +32,14 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 - **Placa de Vídeo**
 - **Redes de Computadores**
 - **Cibersegurança**
+- Ferramentas 3D e Open source
+- Libre Office Tutorial
+- Linux
+- Logica
+- Sistema Operacionais
+- Atalhos de Teclado
+- Atalhos de IDE
+- Eletronica
 
 ## Programação
 - Guia de **Java**, **JavaScript**, **C#**, **C++**, **C**, **COBOL**
@@ -56,3 +70,14 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 - Física Geral
 - Termodinâmica
 - Funcionamento Físico
+- Sistema Internacional & Sistema Imperial
+- Historia da Fisica
+
+## Lista de Exercicio:
+- Programação somente
+
+## Linguagens(Somente Basico):
+- Ingles
+- Sueco
+- Alemão(Alemão do sul do brasil x Alemão Alemão)
+- Japones
