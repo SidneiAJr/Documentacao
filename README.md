@@ -9,7 +9,7 @@
 
 Nesse repositório, você encontrará uma variedade de tópicos, desde computação até filosofia:
 
-## Filosofia
+## Filosofia [Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
 - Críticas (Economia, TI, Mercado de Trabalho, Nobel)
 - Filosofia Geral
 
@@ -17,7 +17,6 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 - Grande Nomes por areas
 - Fisicos
 
-- [Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
 ## Economia
 - Economia do Brasil
 - Simulações Econômicas
