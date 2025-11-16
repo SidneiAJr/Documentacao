@@ -104,3 +104,5 @@ O Brasil teve várias moedas oficiais ao longo do tempo — mas alguns valores s
 
 - Banco Central do Brasil – [Histórico das Moedas](https://www.bcb.gov.br)
 - IBGE – Séries Históricas do PIB e Inflação
+- O Brasil e a Modernização Capitalista" - Celso Furtado
+- "História Econômica do Brasil" - Jorge Caldeira
