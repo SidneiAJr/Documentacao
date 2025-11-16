@@ -51,3 +51,33 @@ Alguns efeitos negativos também ocorreram:
 A construção de Brasília é alvo de controvérsias históricas: vista por alguns como símbolo de modernização e por outros como obra de alto custo que ampliou o endividamento nacional.
 
 Esse período prepara o terreno para as tensões políticas que culminariam na crise do início dos anos 1960.
+
+## Jânio Quadros (1961)
+
+A eleição de Jânio Quadros representou uma ruptura com o padrão político anterior. Com forte apelo moralista, discurso anticorrupção e apoio amplo de setores conservadores e populares, Jânio prometia reorganizar o Estado e combater o que chamava de "desordem administrativa". Seu governo, porém, foi curto e conturbado.
+
+Entre suas medidas mais polêmicas estiveram:
+
+- proibições excêntricas (como o veto ao biquíni em concursos de beleza e à briga de galo),
+- tentativas de reorientação da política externa com maior autonomia,
+- aproximação diplomática com países do bloco socialista,
+- perda rápida de apoio do Congresso e das Forças Armadas.
+
+A economia enfrentava inflação crescente, e a instabilidade política aumentou rapidamente. Em agosto de 1961, Jânio renunciou inesperadamente, alegando falta de apoio político. A renúncia abriu uma crise institucional de grandes proporções.
+
+## João Goulart (1961–1964)
+
+Com a renúncia de Jânio, o vice-presidente João Goulart — o Jango — deveria assumir a presidência. No entanto, setores militares e parte da elite política se opuseram à sua posse, acusando-o de simpatias comunistas. A solução negociada foi a adoção do **parlamentarismo**, que limitava seus poderes. Apenas em 1963, após um plebiscito, o presidencialismo foi restaurado.
+
+O governo Jango marcou o auge das tensões ideológicas da República de 1946:
+
+- Jango defendia as **Reformas de Base** (agrária, urbana, universitária, tributária e bancária),
+- era acusado por setores conservadores de promover "radicalização esquerdista",
+- buscava apoio de sindicatos, movimentos camponeses e setores trabalhistas,
+- enfrentava oposição intensa de partidos conservadores, empresários, parte da imprensa e militares.
+
+A economia também enfrentava dificuldades: inflação alta, déficit público e aumento da instabilidade externa. No contexto da Guerra Fria, qualquer política reformista vigorosa era rapidamente rotulada pelos EUA e por elites internas como sinal de alinhamento com o comunismo, apesar de Jango não propor um regime socialista.
+
+A polarização atingiu seu ponto máximo em 1964, abrindo caminho para o golpe militar de 31 de março daquele ano.
+
+
