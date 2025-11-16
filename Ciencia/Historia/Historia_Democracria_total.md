@@ -61,4 +61,4 @@ A **politização das redes sociais**, a **crise da confiança nas instituiçõe
 
 ---
 
-Esse conteúdo reflete de forma geral a trajetória das reformas econômicas no Brasil e as dificuldades enfrentadas ao longo do tempo. Pode ser copiado diretamente para o GitHub ou qualquer outra plataforma de documentação que suporte Markdown.
+
