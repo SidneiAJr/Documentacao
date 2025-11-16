@@ -52,3 +52,15 @@ Mesmo assim, o Império conseguiu sustentar o esforço de guerra e saiu do confl
 
 Entre conflitos internos, reformas administrativas e disputas políticas, o Brasil do século XIX se desenvolveu de forma gradual e muitas vezes turbulenta. A construção do Estado imperial ocorreu "aos trancos e barrancos", marcada por contradições e desafios estruturais, mas também por tentativas de modernização e centralização administrativa.
 
+## Emissão de Papel-Moeda para Financiar a Guerra
+
+Durante a Guerra do Paraguai (1864–1870), o Império enfrentou dificuldades fiscais significativas. Para sustentar os gastos militares, o governo brasileiro recorreu à **emissão de grandes quantidades de papel-moeda**, prática que aumentou substancialmente a base monetária.
+
+Essa emissão não foi de uma nova cédula específica, mas de um volume ampliado de notas já existentes no sistema monetário imperial, o que contribuiu para:
+
+- desvalorização da moeda,  
+- aumento da inflação,  
+- desequilíbrios nas contas públicas.
+
+O financiamento da guerra por meio de expansão monetária demonstrou a fragilidade financeira do Império, que carecia de uma estrutura tributária sólida e de um mercado de capitais capaz de sustentar conflitos de longa duração.
+
