@@ -147,9 +147,6 @@ Comprado da Marinha do Reino Unido, onde operava desde 1945.
 
 O Brasil o recebeu já com 15 anos de uso.
 
-
-➡️ Nunca foi “sucata” ao receber, mas não era moderno.
-
 ## ⚓ 5. Porta-Aviões NAe São Paulo (2000–2017)
 
 Ex-navio francês Foch, lançado em 1960.
