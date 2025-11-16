@@ -34,7 +34,7 @@ João Goulart, durante seu governo (1961–1964), também teve iniciativas volta
 Reformas de Base (1963-1964): O Projeto das Reformas de Base, que abrangia reformas agrária, educacional e de saúde, visava a promoção da justiça social e da igualdade. A reforma agrária, em particular, tinha como objetivo redistribuir terras para a população rural, especialmente os trabalhadores sem terra.
 
 Salário Mínimo e Direitos Trabalhistas: Goulart implementou políticas voltadas para o aumento do salário mínimo, como parte de uma tentativa de redistribuição de renda.
-
+---
 ### 4. Dilma Rousseff - Programas de Inclusão Social
 
 O governo de Dilma Rousseff (2011–2016) também se destacou pela criação e ampliação de programas sociais voltados à inclusão social:
@@ -44,7 +44,7 @@ Programa Bolsa Família (2003): Embora tenha sido criado durante o governo de Lu
 Programa Minha Casa Minha Vida: Criado para oferecer habitação popular, o programa Minha Casa Minha Vida visa a construção de casas populares para famílias de baixa renda.
 
 Reformas em Educação e Saúde: Durante o governo de Dilma, houve a expansão de universidades federais, institutos de tecnologia, e a ampliação do Sistema Único de Saúde (SUS).
-
+---
 ### 5. Luiz Inácio Lula da Silva - Programas de Combate à Pobreza e Educação
 
 No governo de Lula, uma série de políticas sociais transformaram o Brasil, com o foco em combater a pobreza e reduzir as desigualdades sociais:
@@ -56,6 +56,6 @@ Universidade para Todos (ProUni): O ProUni foi uma das iniciativas de maior impa
 Fome Zero: O Programa Fome Zero foi uma iniciativa de segurança alimentar que visava erradicar a fome e garantir o acesso à alimentação de qualidade para a população de baixa renda.
 
 Cotas para Negros e Pobres nas Universidades: A implementação de políticas de cotas em universidades públicas foi um passo importante para a inclusão racial e social no sistema educacional.
-
+---
 
 
