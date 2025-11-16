@@ -63,8 +63,9 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 
 ## História
 - História do Brasil
-- História Econômica do Brasil
+- História Econômica do Brasil & Moedas
 - Relação Brasil x EUA
+- Quantidades de Presidentes e imperadores do brasil
 
 ## Experiência em TI
 - Experiência Profissional
