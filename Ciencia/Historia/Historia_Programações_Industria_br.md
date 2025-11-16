@@ -65,7 +65,6 @@ Durante o período de Vargas, tanto no **Estado Novo (1937–1945)** quanto no s
 
 20. **Indústrias de Alimentos**: Diversas fábricas de **alimentos processados** e **bebidas** foram criadas durante a industrialização, com destaque para **Coca-Cola Brasil**, **Nestlé Brasil** e **Votorantim**, empresas que se consolidaram como grandes empregadoras e players no mercado brasileiro.
 
-### **4. Indústrias Criadas por Getúlio Vargas e a Ideia de Celso Furtado (Continuação)**
 
 21. **Siderúrgica de Minas Gerais (Usiminas)**: Fundada em 1956, **Usiminas** foi uma das pioneiras da **indústria siderúrgica** no Brasil. Com o apoio de **Vargas** e de economistas como **Celso Furtado**, o objetivo era **desenvolver a indústria de aço** no Brasil, suprindo a crescente demanda interna e criando uma base industrial para o crescimento do país.
 
