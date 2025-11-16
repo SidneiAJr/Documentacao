@@ -10,7 +10,7 @@
 Nesse repositório você encontrará uma variedade de tópicos, desde computação até filosofia:
 
 ## Filosofia
-- Críticas (Economia, Ti, mercado de trabalho)
+- Críticas (Economia, Ti, mercado de trabalho,nobel)
 - Filosofia Geral
 
 ## Economia
@@ -44,3 +44,14 @@ Nesse repositório você encontrará uma variedade de tópicos, desde computaç�
 - Ideias
 
 ## Simulações de Ideias:
+
+## Documentações do Projeto
+- De onde veio a Ideia?
+- Versão do projeto?
+- Porque do projeto?
+
+## Fisica
+- Astronomia
+- Fisica geral
+- Termodinamica
+- Funcionamento Fisico
