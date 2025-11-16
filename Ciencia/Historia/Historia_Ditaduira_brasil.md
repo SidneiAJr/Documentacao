@@ -32,13 +32,7 @@ O golpe militar de 1964 foi marcado pela deposição do presidente **João Goula
 - **Endividamento e inflação**: Apesar da rápida industrialização e modernização de alguns setores, o Brasil foi incapaz de administrar sua dívida externa crescente. Isso causou um **empobrecimento da população** e uma **inflação galopante** no final dos anos 1970.
 - **Impacto social**: O modelo de desenvolvimento não priorizava a **distribuição de renda** e aumentava as desigualdades. Além disso, o país viveu uma verdadeira **exploração da classe trabalhadora**, enquanto uma pequena elite industrial e financeira prosperava.
 
-## A Repressão e o Controle Social
 
-Com o AI-5, a repressão foi **mais sistemática**:
-
-- **Tortura e desaparecimentos**: Muitos opositores ao regime foram torturados, mortos ou desapareceram, vítimas das forças de segurança, como o DOI-CODI e o DOPS.
-- **Censura**: A música e a cultura sofreram com a censura. Obras literárias, peças de teatro, filmes e músicas foram **proibidos**, sendo que algumas das mais emblemáticas canções da música popular brasileira, como as de **Caetano Veloso**, **Gilberto Gil** e **Chico Buarque**, foram censuradas.
-- **Ato Institucional nº 5**: Em 1968, o governo instituiu o AI-5, uma medida que dava ao presidente poderes quase ditatoriais, incluindo a possibilidade de suspender os direitos civis, dissolver o Congresso e fechar partidos de oposição.
 
 ## A Crise da Ditadura
 
