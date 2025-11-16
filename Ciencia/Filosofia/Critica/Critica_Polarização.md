@@ -76,7 +76,7 @@ e, em episódios específicos, recusou ofertas de apoio material ou político or
 
 Isso revela que a leitura externa de “alinhamento comunista” muitas vezes não correspondia às posições oficiais ou práticas adotadas por Brizola.
 
-Ponto de Vista do Brasil
+## Ponto de Vista do Brasil
 
 Do ponto de vista interno, o Brasil enfrentava profundas desigualdades sociais, baixa industrialização relativa e forte dependência de capitais estrangeiros. A criação da Petrobras, em 1953, durante o governo Vargas, foi uma das respostas mais emblemáticas a esse cenário, representando a busca por autonomia energética e pela proteção das reservas nacionais de petróleo.
 
