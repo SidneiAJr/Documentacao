@@ -60,6 +60,7 @@ A seguir, os principais grupos **privados e pioneiros** da industrialização br
 **Posteriormente controlada por:** Família *Ermírio de Moraes*  
 **Setores:** Cimento, metais, energia, química, agro  
 **Local:** São Paulo – SP
+
 ---
 
 ## 🏭 6. Gerdau
