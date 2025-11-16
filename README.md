@@ -1,34 +1,38 @@
 <p align="center">
   <img src="https://github.com/SidneiAJr/Documentacao/blob/main/prints/Logo.png" width="250" alt="Logo do Guia dos Guri">
-  <h5 align="center">Imagem Gerada por: Chatgpt</h5>
+  <h5 align="center">Imagem Gerada por: ChatGPT</h5>
 </p>
 
 <h1 align="center">📘 O Guia dos Guri</h1>
 
 ***Aqui você encontra de tudo um pouco — desde Hardware e Computação até Matemática Financeira.***
 
-💡 Este repositório foi criado para **guardar anotações, resumos e estudos** em diversas áreas da tecnologia e da educação.
+Nesse repositório você encontrará uma variedade de tópicos, desde computação até filosofia:
 
-Sinta-se à vontade para explorar e aprender! 🚀
+## Filosofia
+- Crítica Filosófica
+- Filosofia Geral
 
----
+## Economia
+- Economia do Brasil
+- Simulações Econômicas
+- Introdução à Economia
 
-## 📚 Áreas de Estudo
+## Computação
+- **Processadores**
+- **Memória RAM**
+- **HD SSD**
+- **Armazenamento**
+- **Placa de Vídeo**
+- **Redes de Computadores**
+- **Cibersegurança**
 
-- 💻 **Computação & Hardware**  
-  Conceitos sobre processadores, memórias, placas, BIOS, redes e muito mais.
+## Programação
+- Guia de **Java**, **JavaScript**, **C#**, **C++**, **C**, **COBOL**
+- **NetBeans**, **Visual Studio**
+- **QtCreator**
 
-- 🧩 **Programação & Lógica**  
-  Códigos e exemplos em várias linguagens (C#, Python, JavaScript, etc).
-
-- 📊 **Matemática Financeira**  
-  Fórmulas, cálculos e aplicações práticas.
-
-- 🧠 **Simulações Ficcionais**  
-  Ideias e experimentos teóricos baseados em cenários hipotéticos.
-
-- 📖 **Filosofias & Reviews**  
-  Textos reflexivos, críticas e revisões sobre temas diversos.
-
----
-
+## História
+- História do Brasil
+- História Econômica do Brasil
+- Relação Brasil x EUA
