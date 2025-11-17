@@ -205,6 +205,9 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - C# Exemplo de POO
 - Java Swing 
 
+## 📚 Estudo de Caso:
+- Fake News
+
 ## Licença
 
 Este conteúdo é gratuito para estudo e uso pessoal.  
