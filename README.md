@@ -137,18 +137,18 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## Simulações de Ideias(Fictional)
 - Simulação de Ideias Futuristas
-  - Ideias para o Futuro: Smartphone sem tela (Ficticional)
-  - Ideias para o Futuro: Defesa Planetaria (Ficticional)
-  - Ideias para o Futuro: Comunicação Planetaria (Ficticional)
-  - Ideias para o Futuro: Android Com Autoconciencia (Ficticional)
-  - Ideias para o Futuro: Simulação de Defesa da Terra (Ficticional)
-  - Ideias para o Futuro: Estrela Quantum (Ficticional)
-  - Ideias para o Futuro: Hiperestrada Portal Salto (Ficticional)
-  - Ideias para o Futuro: IA de Administração Planetária — The Mom (Ficticional)
-  - Ideias para o Futuro: Mineração Interplanetária - Jupiter (Ficticional)
-  - Ideias para o Futuro: Placa de Vídeo Modular (Ficticional)
-  - Ideias para o Futuro: Carro Ultra Inteligente (Ficticional)
-  - Ideias para o Futuro: Simulação de Terraformação (Ficticional)
+  - Ideias para o Futuro: Smartphone sem tela ⚠️(Ficticional)
+  - Ideias para o Futuro: Defesa Planetaria ⚠️(Ficticional)
+  - Ideias para o Futuro: Comunicação Planetaria ⚠️(Ficticional)
+  - Ideias para o Futuro: Android Com Autoconciencia ⚠️(Ficticional)
+  - Ideias para o Futuro: Simulação de Defesa da Terra ⚠️(Ficticional)
+  - Ideias para o Futuro: Estrela Quantum ⚠️(Ficticional)
+  - Ideias para o Futuro: Hiperestrada Portal Salto ⚠️(Ficticional)
+  - Ideias para o Futuro: IA de Administração Planetária — The Mom ⚠️(Ficticional)
+  - Ideias para o Futuro: Mineração Interplanetária - Jupiter ⚠️(Ficticional)
+  - Ideias para o Futuro: Placa de Vídeo Modular ⚠️(Ficticional)
+  - Ideias para o Futuro: Carro Ultra Inteligente ⚠️(Ficticional)
+  - Ideias para o Futuro: Simulação de Terraformação ⚠️(Ficticional)
 - Simulação de Ideias Economicas
    - Simulação de Cenários Econômicos: Gasto do PIB entre 100% e 400%
    - Simulação de Cenários Econômicos:  De Juros de -6 a 60%
