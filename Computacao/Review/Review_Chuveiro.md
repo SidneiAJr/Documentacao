@@ -24,7 +24,6 @@
 
 ### 🌡️ Temperatura
 - Regulagens até **ok**.  
-  Não é excelente, mas também não tenta te carbonizar como a Lorenzetti.
 
 ### 🚿 Experiência de Banho
 - Chuveiro “ok”.  
