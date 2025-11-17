@@ -63,7 +63,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Redes
 - Softwares
 - Virtual Machine
-- Documentacao Computacao
+- Importancia da Documentação na Area de TI.
 
 ## Programação
 - Guia de **Java**
