@@ -25,7 +25,7 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 
 
 ## Filosofia
-- Críticas (Economia, TI, Mercado de Trabalho, Nobel)
+- Críticas (Economia, TI, Mercado de Trabalho)
 - Filosofia Geral
 
 ## Ciencia Brasileira
