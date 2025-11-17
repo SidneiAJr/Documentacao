@@ -21,15 +21,15 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - [Experiencia TI](https://github.com/SidneiAJr/Documentacao/tree/main/Experiencia_TI)
 
 
-## Filosofia
+## 📚Filosofia
 - Críticas (Economia, TI, Mercado de Trabalho)
 - Filosofia Geral
 
-## Ciencia Brasileira
+## 📚Ciencia Brasileira
 - Grande Nomes por areas
 - Fisicos
 
-## Economia
+## 📚Economia
 - Economia do Brasil
 - Simulações Econômicas
 - Introdução à Economia
@@ -38,7 +38,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Falacias Economicas
 - Bolhas Economicas
 
-## Computação
+## 📚Computação
 - **Processadores**
 - **Memória RAM**
 - **HD SSD**
@@ -80,7 +80,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Review: Sistema Operacional
   - Review: Monitor
 
-## Programação
+## 📚Programação
 - ☕Guia de **Java**
   - ☕Basico de Java
   - ☕Java Swing
@@ -113,7 +113,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Cobol
 - Dart
 
-## História Geral
+## 📚História Geral
 - História do Brasil
 - História Econômica do Brasil & Moedas
 - Diferença de Desenvolvimento entre o Brasil e os EUA
@@ -122,10 +122,10 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Moedas do Brasil
 - Economia do Brasil
 
-## Historia Naval:
+## 📚Historia Naval:
 - Historia dos navios desde o começo na grecia antiga.
 
-## Experiência em TI
+## 📚Experiência em TI
 - Experiência Profissional
   - Experiencias Pessoais
   - Experiencias de vagas fora da realidade
@@ -135,7 +135,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Ideias
 - Formações
 
-## Simulações de Ideias(Fictional)
+## 📚Simulações de Ideias(Fictional)
 - Simulação de Ideias Futuristas
   - Ideias para o Futuro: Smartphone sem tela ⚠️(Ficticional)
   - Ideias para o Futuro: Defesa Planetaria ⚠️(Ficticional)
@@ -160,12 +160,12 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
    - Simulação de Cenários Econômicos: De Subsidios parcial medio e total e maximo
 - Simulação de Ideias de IA
 
-## Documentações do Projeto
+## 📚Documentações do Projeto
 - De onde veio a ideia?
 - Versão do projeto
 - Por que o projeto?
 
-## Física
+## 📚Física
 - Astronomia
 - Física Geral
 - Termodinâmica
@@ -173,20 +173,20 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Sistema Internacional & Sistema Imperial
 - Historia da Fisica
 
-## Lista de Exercicio:
+## 📚Lista de Exercicio:
 - Programação somente
 
-## Linguagens(Somente Basico):
+## 📚Linguagens(Somente Basico):
 - Ingles
 - Sueco
 - Alemão(Alemão do sul do brasil x Alemão Alemão)
 - Japones
 
-## Sugestão para Jogos | Melhorias:
+## 📚Sugestão para Jogos | Melhorias:
 - Warthunder
 - Wows
 
-## Exemplo de Codigos:
+## 📚Exemplo de Codigos:
 - JavaScript | Sistema do 3000TI
 - Java POO  | Exemplo de codigo
 - C# Exemplo de POO
