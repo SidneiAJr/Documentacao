@@ -136,6 +136,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Economia do Brasil
 - Historia da Tecnologia
 - Historia da Computação
+- Historia : Sistema administrativo Brasil x EUA
 
 ## 📚Experiência em TI
 - Experiência Profissional
