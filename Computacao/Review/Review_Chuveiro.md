@@ -20,7 +20,7 @@
 
 ## 🔥 Chuveiro Zagonel  
 **Adquirido: 2023**  
-**Resistência queimada: 2025**  
+**Resistência queimada: 2025 Resistência pediu demissão em 2025**  
 
 ### 🌡️ Temperatura
 - Regulagens até **ok**.  
@@ -30,14 +30,6 @@
 
 ### 🧪 Análise Técnica
 *Dura até você falar “agora sim, tá funcionando bem”. Aí queima.*  
-
----
-
-## 📌 Conclusão Técnica e Cômica
-
-| Modelo | Pontos Fortes | Pontos Fracos |
-|--------|----------------|----------------|
-| **Zagonel** | Regulações decentes | Resistência pediu demissão em 2025 |
 
 ---
 
