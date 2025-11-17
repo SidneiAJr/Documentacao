@@ -162,9 +162,8 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Experiencias Entrevista tecnica
   - Experiencias Vagas Internas
 - Carreira
-- Cursos
-- Ideias
-- Formações
+- Cursos 
+- Formações(ADS,SGI,Tecnico Informatica,Tecnico em desevolvimento Sistemas)
 
 ## 📚Simulações de Ideias(Fictional)
 - Simulação de Ideias Futuristas
