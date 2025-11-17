@@ -2,6 +2,8 @@
 
 Imaginemos um país fictício chamado **"Fiscália"**, que adota o **dólar americano** como moeda oficial e não possui um banco central. A economia de Fiscália é fortemente dependente das exportações, investimentos estrangeiros e dos fluxos de dólares para manter a moeda estável.
 
+> Pensamento ficcional
+
 ## 1. Política Monetária e Oferta de Moeda
 
 ### 1.1 **Sem Emissão de Moeda Local**
