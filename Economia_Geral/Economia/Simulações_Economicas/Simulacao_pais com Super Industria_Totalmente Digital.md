@@ -3,6 +3,7 @@
 ## **Objetivo da Simulação:**
 Simular um cenário onde um país possui uma **superindústria** automatizada, controlada por **IA inteligente**, produzindo **robôs** e **sintéticos**, além de uma alta capacidade de produção de **bens duráveis** e **consumíveis**. A indústria e o mercado de trabalho são totalmente transformados por **automação** e **inteligência artificial**.
 
+> Pensamento ficcional
 ---
 
 ## **Características Principais:**
