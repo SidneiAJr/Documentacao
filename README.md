@@ -130,13 +130,14 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - História do Brasil
 - História Econômica do Brasil & Moedas
 - Diferença de Desenvolvimento entre o Brasil e os EUA
-- Quantidades de Presidentes e imperadores do brasil
+- Quantidades de Presidentes e imperadores do Brasil
 - Reformas Monetarias no brasil
 - Moedas do Brasil
 - Economia do Brasil
 - Historia da Tecnologia
 - Historia da Computação
 - Historia : Sistema administrativo Brasil x EUA
+- Historia : Sistema de Voto Brasil x EUA
 
 ## 📚Experiência em TI
 - Experiência Profissional
