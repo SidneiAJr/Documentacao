@@ -61,11 +61,15 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 - **NetBeans**, **Visual Studio**
 - **QtCreator**
 
-## História
+## História Geral
 - História do Brasil
 - História Econômica do Brasil & Moedas
 - Relação Brasil x EUA
 - Quantidades de Presidentes e imperadores do brasil
+- Reformas Monetarias
+
+## Historia Naval:
+- Historia dos navios desde o começo na grecia antiga.
 
 ## Experiência em TI
 - Experiência Profissional
@@ -73,8 +77,10 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 - Cursos
 - Ideias
 
-## Simulações de Ideias
+## Simulações de Ideias(Fictional)
 - Ideias Futuristas
+- Ideias Economicas
+- Ideias de IA
 
 ## Documentações do Projeto
 - De onde veio a ideia?
