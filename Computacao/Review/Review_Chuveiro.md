@@ -11,11 +11,11 @@
 
 ### 🌡️ Temperaturas disponíveis
 
-1. **Frio Comum** 🥶  
+1. **Desligado * 
 
-2. **Frio Medio** 🚿  
+2. **Verão** 🚿  
 
-3. **Quente Inverno** 🔥
+3. **Inverno** 🔥
 ---
 
 ## 🔥 Chuveiro Zagonel  
