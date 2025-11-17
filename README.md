@@ -62,7 +62,8 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
    - IA Problemas
 - Redes
 - Softwares
-- Virtual Nachine
+- Virtual Machine
+- Documentacao Computacao
 
 ## Programação
 - Guia de **Java**
