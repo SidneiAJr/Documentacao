@@ -192,3 +192,11 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - C# Exemplo de POO
 - Java Swing 
 
+## Licença
+
+Este projeto é protegido.  
+- Não é permitido vender ou copiar o conteúdo sem autorização do autor.  
+- Contribuições, sugestões e críticas construtivas são muito bem-vindas!  
+
+Para detalhes sobre permissões e uso, entre em contato comigo.
+
