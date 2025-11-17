@@ -4,6 +4,12 @@
 
 Este repositório tem como objetivo guardar e compartilhar o conhecimento adquirido ao longo da vida, com o intuito de ajudar outras pessoas que buscam aprendizado em diversas áreas. Se você está em busca de informações, curiosidades ou quer explorar temas variados, fique à vontade para navegar e aprender. Espero que este conteúdo seja útil para sua jornada de aprendizado, assim como foi para a minha.
 
+## Minha Formações:
+
+- ADS -(Analise e desevolvimento de sistemas) 2018 a 2020
+- SGI -(Segurança da informação) 2021 a 2023
+- Tecnico em Informatica 2014 a 2016
+- Tecnico em desevolvimento de sistemas 2025 a 2026
 
 ***Aqui você encontra de tudo um pouco — desde Hardware e Computação até Matemática Financeira.***
 
