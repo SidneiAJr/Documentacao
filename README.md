@@ -47,6 +47,8 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - **Redes de Computadores**
 - **Cibersegurança**
 - Ferramentas 3D e Open source
+   - Blender
+   - Make to Human
 - Libre Office Tutorial
 - Linux
 - Logica
