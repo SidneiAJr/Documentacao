@@ -1,213 +1,240 @@
 <h1 align="center">📘 O Guia dos Guri</h1>
 
-## Propósito do Repositório:
+## Propósito do Repositório
 
-Este repositório tem como objetivo guardar e compartilhar o conhecimento adquirido ao longo da vida, com o intuito de ajudar outras pessoas que buscam aprendizado em diversas áreas. Se você está em busca de informações, curiosidades ou quer explorar temas variados, fique à vontade para navegar e aprender. Espero que este conteúdo seja útil para sua jornada de aprendizado, assim como foi para a minha.
+Este repositório foi criado para guardar e compartilhar o conhecimento adquirido ao longo da vida. O objetivo é ajudar pessoas que buscam aprender sobre diversas áreas — desde computação, filosofia e economia, até física e ideias futuristas.  
+Fique à vontade para navegar, explorar e aprender. Espero que este conteúdo seja útil para sua jornada, assim como tem sido para a minha.
 
-## Minhas Formações:
+---
 
-- ADS -(Analise e desenvolvimento de sistemas) 2018 a 2020
-- SGI -(Segurança da informação) 2021 a 2023
-- Tecnico em Informatica 2014 a 2016
-- Tecnico em desenvolvimento de sistemas 2025 a 2026
+## 🎓 Minhas Formações
 
-## Formações Planejadas:
+- ADS – (Análise e Desenvolvimento de Sistemas) — 2018 a 2020  
+- SGI – (Segurança da Informação) — 2021 a 2023  
+- Técnico em Informática — 2014 a 2016  
+- Técnico em Desenvolvimento de Sistemas — 2025 a 2026  
 
-- Pos: Economia
-- Pos: Cybersegurança
-- Pos : Fisica - Astrofisica ***Futuro***
+### 📘 Formações Planejadas
+- Pós-graduação: Economia  
+- Pós-graduação: Cibersegurança  
+- Pós-graduação: Física – Astrofísica (*Futuro*)
 
-***Aqui você encontra de tudo um pouco — desde Hardware e Computação até Matemática Financeira.***
+> **Aqui você encontra de tudo — desde Hardware e Computação até Matemática Financeira.**
 
-## Sumario:
-- [Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
-  
-- [Computação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao)
+---
 
-- [Economia](https://github.com/SidneiAJr/Documentacao/tree/main/Economia_Geral)
+## 📚 Sumário
 
-- [Programação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao)
+- [Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)  
+- [Computação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao)  
+- [Economia](https://github.com/SidneiAJr/Documentacao/tree/main/Economia_Geral)  
+- [Programação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao)  
+- [Formações](https://github.com/SidneiAJr/Documentacao/tree/main/Formações)  
+- [Experiência TI](https://github.com/SidneiAJr/Documentacao/tree/main/Experiencia_TI)
 
-- [Formação](https://github.com/SidneiAJr/Documentacao/tree/main/Forma%C3%A7%C3%B5es)
+---
 
-- [Experiencia TI](https://github.com/SidneiAJr/Documentacao/tree/main/Experiencia_TI)
+## 📚 Filosofia
+- Críticas (Economia, TI, Mercado de Trabalho)  
+- Filosofia Geral  
 
+## 📚 Ciência Brasileira
+- Grandes Nomes por Áreas  
+- Físicos  
 
-## 📚Filosofia
-- Críticas (Economia, TI, Mercado de Trabalho)
-- Filosofia Geral
+## 📚 Economia
+- Economia do Brasil  
+- Simulações Econômicas  
+- Introdução à Economia  
+- Economia Verde  
+- Matemática Financeira  
+- Falácias Econômicas  
+- Bolhas Econômicas  
 
-## 📚Ciencia Brasileira
-- Grande Nomes por areas
-- Fisicos
+## 📚 Computação
+- Processadores  
+- Memória RAM  
+- HD / SSD  
+- Armazenamento  
+- Placa de Vídeo  
+- Redes de Computadores  
+- Cibersegurança  
+- Ferramentas 3D e Open Source:
+  - Blender  
+  - MakeHuman  
+- LibreOffice — Tutorial  
+- Linux  
+- Lógica  
+- Sistemas Operacionais  
+- Atalhos de Teclado  
+- Atalhos de IDE  
+- Eletrônica  
+- IA x Chatbot:
+  - Como Funciona  
+  - Hype  
+  - História  
+  - Machine Learning  
+  - Problemas da IA  
+- Softwares  
+- Redes  
+- Virtual Machines  
+- Importância da Documentação na TI  
 
-## 📚Economia
-- Economia do Brasil
-- Simulações Econômicas
-- Introdução à Economia
-- Economia verde
-- Matematica Financeira
-- Falacias Economicas
-- Bolhas Economicas
+### 📦 Reviews
+- Memória  
+- Smartphones  
+- SSD | HDD | NVMe  
+- Processadores  
+- Placas de Vídeo  
+- Mouse  
+- Teclado  
+- Notebook  
+- Placa-mãe  
+- Sistema Operacional  
+- Monitor  
+- Carros  
 
-## 📚Computação
-- **Processadores**
-- **Memória RAM**
-- **HD SSD**
-- **Armazenamento**
-- **Placa de Vídeo**
-- **Redes de Computadores**
-- **Cibersegurança**
-- Ferramentas 3D e Open source
-   - Blender
-   - Make to Human
-- Libre Office Tutorial
-- Linux
-- Logica
-- Sistema Operacionais
-- Atalhos de Teclado
-- Atalhos de IDE
-- Eletronica
-- IA X Chatbot
-   - Como Funciona?
-   - Hype
-   - Historia
-   - Marchine Learning
-   - IA Problemas
-- Redes
-- Softwares
-- Virtual Machine
-- Importancia da Documentação na Area de TI.
-- Review
-  - Review: Memoria
-  - Review: Smartphone
-  - Review: SSD | HDD | NVME
-  - Review: Processador
-  - Review: Placa de Video
-  - Review: Mouse
-  - Review: Teclado
-  - Review: Notebook
-  - Review: Placa mae
-  - Review: Teclado
-  - Review: Sistema Operacional
-  - Review: Monitor
-  - Review: Carros
+---
 
-## 📚Programação
-- ☕Guia de **Java**
-  - ☕Basico de Java
-  - ☕Java Swing
-  - ☕Java netBeans
-  - ☕Java poo
-  - ☕Java memoria
-- **NetBeans** **Visual Studio**
-- **QtCreator**
-- CSS
-- HTML
-- Typescript
-- Logica de Programação
-- PHP
-- PY
-- Vercel
-- JavaScript
+## 📚 Programação
+- **Java** (Guia completo)
+  - Básico de Java  
+  - Java Swing  
+  - Java NetBeans  
+  - Java POO  
+  - Java e Memória  
+- NetBeans / Visual Studio  
+- QtCreator  
+- CSS  
+- HTML  
+- TypeScript  
+- Lógica de Programação  
+- PHP  
+- Python  
+- Vercel  
+- JavaScript  
 - C#
-  - Unity
-  - Basico de C#
-  - POO em C#
-  - Memoria em C#
-  - Banco de dados com C#
-- C++
-- Framework(Angular Js e React JS)
-- SQl
-   - Basico de SQL
-   - Consultas
-- Shell
-- C
-- Cobol
-- Dart
+  - Unity  
+  - Básico de C#  
+  - POO em C#  
+  - Memória em C#  
+  - Banco de Dados com C#  
+- C++  
+- Frameworks (AngularJS e ReactJS)  
+- SQL
+  - Básico  
+  - Consultas  
+- Shell  
+- C  
+- Cobol  
+- Dart  
 
-## 📚História Geral
-- História do Brasil
-- História Econômica do Brasil & Moedas
-- Diferença de Desenvolvimento entre o Brasil e os EUA
-- Quantidades de Presidentes e imperadores do brasil
-- Reformas Monetarias no brasil
-- Moedas do Brasil
-- Economia do Brasil
+---
 
-## 📚Historia Naval:
-- Historia dos navios desde o começo na grecia antiga.
+## 📚 História Geral
+- História do Brasil  
+- História Econômica & Moedas  
+- Desenvolvimento: Brasil x EUA  
+- Lista de Presidentes e Imperadores  
+- Reformas Monetárias  
+- Moedas do Brasil  
 
-## 📚Experiência em TI
-- Experiência Profissional
-  - Experiencias Pessoais
-  - Experiencias de vagas fora da realidade
-  - Experiencias perguntas tiltantes
-- Carreira
-- Cursos
-- Ideias
-- Formações
+---
 
-## 📚Simulações de Ideias(Fictional)
-- Simulação de Ideias Futuristas
-  - Ideias para o Futuro: Smartphone sem tela ⚠️(Ficticional)
-  - Ideias para o Futuro: Defesa Planetaria ⚠️(Ficticional)
-  - Ideias para o Futuro: Comunicação Planetaria ⚠️(Ficticional)
-  - Ideias para o Futuro: Android Com Autoconciencia ⚠️(Ficticional)
-  - Ideias para o Futuro: Simulação de Defesa da Terra ⚠️(Ficticional)
-  - Ideias para o Futuro: Estrela Quantum ⚠️(Ficticional)
-  - Ideias para o Futuro: Hiperestrada Portal Salto ⚠️(Ficticional)
-  - Ideias para o Futuro: IA de Administração Planetária — The Mom ⚠️(Ficticional)
-  - Ideias para o Futuro: Mineração Interplanetária - Jupiter ⚠️(Ficticional)
-  - Ideias para o Futuro: Placa de Vídeo Modular ⚠️(Ficticional)
-  - Ideias para o Futuro: Carro Ultra Inteligente ⚠️(Ficticional)
-  - Ideias para o Futuro: Simulação de Terraformação ⚠️(Ficticional)
-- Simulação de Ideias Economicas
-   - Simulação de Cenários Econômicos: Gasto do PIB entre 100% e 400%
-   - Simulação de Cenários Econômicos:  De Juros de -6 a 60%
-   - Simulação de Cenários Econômicos: Sem New Deal
-   - Simulação de Cenários Econômicos: Austeridade Fiscal Extrema
-   - Simulação de Cenários Econômicos: De Pais com Super Industria + Totalmente Digital
-   - Simulação de Cenários Econômicos: De Moeda descentralizada
-   - Simulação de Cenários Econômicos: De redução de Impostos em Pais fictio
-   - Simulação de Cenários Econômicos: De Subsidios parcial medio e total e maximo
-- Simulação de Ideias de IA
+## 📚 História Naval
+- História dos Navios desde a Grécia Antiga  
 
-## 📚Documentações do Projeto
-- De onde veio a ideia?
-- Versão do projeto
-- Por que o projeto?
+---
 
-## 📚Física
-- Astronomia
-- Física Geral
-- Termodinâmica
-- Funcionamento Físico
-- Sistema Internacional & Sistema Imperial
-- Historia da Fisica
+## 📚 Experiência em TI
+- Experiência Profissional  
+  - Experiências Pessoais  
+  - Vagas Fora da Realidade  
+  - Perguntas "Tiltantes"  
+- Carreira  
+- Cursos  
+- Ideias  
+- Formações  
 
-## 📚Lista de Exercicio:
-- Programação somente
+---
 
-## 📚Linguagens(Somente Basico):
-- Ingles
-- Sueco
-- Alemão(Alemão do sul do brasil x Alemão Alemão)
-- Japones
+## 📚 Simulações de Ideias (Ficção)
+### 🔮 Ideias Futuristas
+- Smartphone sem tela  
+- Defesa Planetária  
+- Comunicação Planetária  
+- Android com Autoconsciência  
+- Defesa da Terra  
+- Estrela Quantum  
+- Hiperestrada — Portal de Salto  
+- IA Administradora Planetária — *The Mom*  
+- Mineração Interplanetária — Júpiter  
+- Placa de Vídeo Modular  
+- Carro Ultra Inteligente  
+- Terraformação  
 
-## 📚Sugestão para Jogos | Melhorias:
-- Warthunder
-- Wows
+### 💰 Simulações Econômicas
+- PIB entre 100% e 400%  
+- Juros de -6% a 60%  
+- Sem New Deal  
+- Austeridade Fiscal Extrema  
+- País Super Industrializado + Totalmente Digital  
+- Moeda Descentralizada  
+- Redução de Impostos em País Ficcional  
+- Subsídios: parcial / médio / total / máximo  
 
-## 📚Exemplo de Codigos:
-- JavaScript | Sistema do 3000TI
-- Java POO  | Exemplo de codigo
-- C# Exemplo de POO
-- Java Swing 
+### 🤖 Simulações de IA  
+- (Conteúdo a desenvolver)
 
-## Licença
+---
+
+## 📚 Documentações do Projeto
+- Origem da Ideia  
+- Versões  
+- Propósito  
+
+---
+
+## 📚 Física
+- Astronomia  
+- Física Geral  
+- Termodinâmica  
+- Funcionamento Físico  
+- Sistema Internacional & Imperial  
+- História da Física  
+
+---
+
+## 📚 Lista de Exercícios
+- Programação  
+
+---
+
+## 📚 Idiomas (Básico)
+- Inglês  
+- Sueco  
+- Alemão (Alemão do Sul do Brasil x Alemão Padrão)  
+- Japonês  
+
+---
+
+## 🎮 Sugestões de Jogos / Melhorias
+- War Thunder  
+- World of Warships  
+
+---
+
+## 📚 Exemplos de Código
+- JavaScript — Sistema do 3000TI  
+- Java POO — Exemplos  
+- C# POO — Exemplos  
+- Java Swing  
+
+---
+
+## 📜 Licença
 
 Este conteúdo é gratuito para estudo e uso pessoal.  
-- Não é permitido vender ou lucrar com este material.  
-- Contribuições, sugestões e críticas construtivas são bem-vindas.  
-- Se quiser compartilhar, por favor dê crédito ao autor.
+- **Não é permitido vender ou lucrar com este material.**  
+- Contribuições e críticas construtivas são bem-vindas.  
+- Caso compartilhe, dê crédito ao autor.
