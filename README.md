@@ -145,3 +145,8 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Warthunder
 - Wows
 
+## Exemplo de Codigos:
+- JavaScript | Sistema do 3000TI
+- Java POO  | Exemplo de codigo
+- C# Exemplo de POO
+
