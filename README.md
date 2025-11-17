@@ -79,6 +79,14 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 ## Simulações de Ideias(Fictional)
 - Simulação de Ideias Futuristas
 - Simulação de Ideias Economicas
+   - Simulação de Gasto do PIB de 100 a 400%
+   - Simualação de Juros de -6 a 60%
+   - Simulação Sem New Deal
+   - Simulação Austeridade Fiscal Extrema
+   - Simulação de Pais com Super Industria + Totalmente Digital
+   - Simualção de Moeda descentralizada
+   - Simulacao de redução de Impostos em Pais fictio
+   - Simualção de Subsidios parcial medio e total e maximo
 - Simulação de Ideias de IA
 
 ## Documentações do Projeto
