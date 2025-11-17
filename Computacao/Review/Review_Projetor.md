@@ -24,8 +24,6 @@ Assim que liguei o projetor:
 - Sem contraste,  
 - Impossível de visualizar qualquer conteúdo.  
 
-Parecia que a lente tinha virado um *efeito de neve eterna*. ❌
-
 ---
 
 ## 📏 Tamanho da Projeção
