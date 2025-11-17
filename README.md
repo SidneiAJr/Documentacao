@@ -101,4 +101,7 @@
 - Alemão(Alemão do sul do brasil x Alemão Alemão)
 - Japones
 
+## Sugestão para Jogos 
+- Warthunder
+- Wows
 
