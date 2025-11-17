@@ -136,9 +136,6 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Economia do Brasil
 - Historia da tecnologia
 
-## 📚Historia Naval:
-- Historia dos navios desde o começo na grecia antiga.
-
 ## 📚Experiência em TI
 - Experiência Profissional
   - Experiencias Pessoais
