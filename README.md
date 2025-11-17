@@ -55,9 +55,29 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Eletronica
 
 ## Programação
-- Guia de **Java**, **JavaScript**, **C#**, **C++**, **C**, **COBOL**
-- **NetBeans**, **Visual Studio**
+- Guia de **Java**
+  - Basico de Java
+  - Java Swing
+  - Java netBeans
+  - java poo
+  - java memoria
+- **NetBeans** **Visual Studio**
 - **QtCreator**
+- CSS
+- HTML
+- Typescript
+- Logica de Programação
+- PHP
+- PY
+- Vercel
+- JavaScript
+- C#
+  - Unity
+  - Basico de C#
+  - POO em C#
+  - Memoria em C#
+  - banco de dados com C#
+
 
 ## História Geral
 - História do Brasil
