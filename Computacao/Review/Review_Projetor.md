@@ -33,7 +33,6 @@ Mesmo quando tentava ajustar:
 - Pouco brilho,  
 - Sem nitidez.  
 
-Não serviu nem para “cineminha improvisado”.
 
 ---
 
