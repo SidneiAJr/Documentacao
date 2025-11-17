@@ -64,6 +64,19 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Softwares
 - Virtual Machine
 - Importancia da Documentação na Area de TI.
+- Review
+  - Review: Memoria
+  - Review: Smartphone
+  - Review: SSD | HDD | NVME
+  - Review: Processador
+  - Review: Placa de Video
+  - Review: Mouse
+  - Review: Teclado
+  - Review: Notebook
+  - Review: Placa mae
+  - Review: Teclado
+  - Review: Sistema Operacional
+  - Review: Monitor
 
 ## Programação
 - Guia de **Java**
