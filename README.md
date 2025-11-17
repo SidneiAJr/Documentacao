@@ -80,6 +80,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
    - Historia
    - Marchine Learning
    - IA Problemas
+   - Motor de Decisão
 - Redes
 - Softwares
 - Virtual Machine
