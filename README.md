@@ -61,9 +61,11 @@
 ## História Geral
 - História do Brasil
 - História Econômica do Brasil & Moedas
-- Relação Brasil x EUA
+- Diferença de desevolvimento Brasil x EUA
 - Quantidades de Presidentes e imperadores do brasil
-- Reformas Monetarias
+- Reformas Monetarias no brasil
+- Moedas do Brasil
+- Economia do Brasil
 
 ## Historia Naval:
 - Historia dos navios desde o começo na grecia antiga.
