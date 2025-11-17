@@ -4,7 +4,7 @@
 
 Este repositório tem como objetivo guardar e compartilhar o conhecimento adquirido ao longo da vida, com o intuito de ajudar outras pessoas que buscam aprendizado em diversas áreas. Se você está em busca de informações, curiosidades ou quer explorar temas variados, fique à vontade para navegar e aprender. Espero que este conteúdo seja útil para sua jornada de aprendizado, assim como foi para a minha.
 
-## Minha Formações:
+## Minhas Formações:
 
 - ADS -(Analise e desenvolvimento de sistemas) 2018 a 2020
 - SGI -(Segurança da informação) 2021 a 2023
