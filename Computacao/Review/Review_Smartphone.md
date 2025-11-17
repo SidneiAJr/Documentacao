@@ -4,7 +4,7 @@
 - **Preço na época:** R$ 250
 - **Hardware:** 
   - Processador: Não lembro
-  - RAM: 512MB
+  - RAM: 128MB
 - **Comentários:** Smartphone simples, mas na época, entregava o básico. Ideal para quem buscava algo acessível e funcional para uso diário.
 
 ---
