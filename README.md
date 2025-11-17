@@ -13,9 +13,9 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## Formações Planejadas:
 
-- Pos em Economia
-- Cybersegurança
-- Fisica - Astrofisica ***Futuro***
+- Pos: Economia
+- Pos: Cybersegurança
+- Pos :Fisica - Astrofisica ***Futuro***
 
 ***Aqui você encontra de tudo um pouco — desde Hardware e Computação até Matemática Financeira.***
 
