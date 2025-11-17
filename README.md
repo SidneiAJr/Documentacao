@@ -78,9 +78,9 @@ Nesse repositório, você encontrará uma variedade de tópicos, desde computaç
 - Ideias
 
 ## Simulações de Ideias(Fictional)
-- Ideias Futuristas
-- Ideias Economicas
-- Ideias de IA
+- Simulação de Ideias Futuristas
+- Simulação de Ideias Economicas
+- Simulação de Ideias de IA
 
 ## Documentações do Projeto
 - De onde veio a ideia?
