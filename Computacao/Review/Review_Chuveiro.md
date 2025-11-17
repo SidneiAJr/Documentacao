@@ -12,13 +12,10 @@
 ### 🌡️ Temperaturas disponíveis
 
 1. **Frio Congelante** 🥶  
-   *Banho ideal para quem quer descobrir novos palavrões.*
 
 2. **Frio Meia-Bomba** 🚿  
-   *A água não esquenta, mas a esperança esquenta.*
 
 3. **Lava Líquida** 🔥  
-   *Aqui você conhece Deus.*
 ---
 
 ## 🔥 Chuveiro Zagonel  
