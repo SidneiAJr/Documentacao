@@ -17,7 +17,6 @@ Antes da imprensa, rumores se espalhavam oralmente, muitas vezes ganhando força
 
 Ao longo da história, exemplos incluem:
 
-- Acusações falsas contra minorias religiosas;
 - Pseudociências usadas para manipular populações.
 
 ---
