@@ -11,6 +11,12 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Tecnico em Informatica 2014 a 2016
 - Tecnico em desenvolvimento de sistemas 2025 a 2026
 
+## Formações Planejadas:
+
+- Pos em Economia
+- Cybersegurança
+- Fisica - Astrofisica ***Futuro***
+
 ***Aqui você encontra de tudo um pouco — desde Hardware e Computação até Matemática Financeira.***
 
 ## Sumario:
