@@ -11,7 +11,7 @@
 
 ### 🌡️ Temperaturas disponíveis
 
-1. **Desligado * 
+1. **Desligado**
 
 2. **Verão** 🚿  
 
