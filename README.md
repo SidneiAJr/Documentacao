@@ -95,6 +95,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Review: Chuveiro
   - Review: Mouse & Teclado
   - Review: Headset & Headphone
+  - Review: Projetor
 
 ## 📚Programação
 - ☕Guia de **Java**
