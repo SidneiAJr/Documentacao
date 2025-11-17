@@ -83,7 +83,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
    - Motor de Decisão
 - Redes
 - Softwares
-- Virtual Machine
+- Maquina Virtual
 - Importancia da Documentação na Area de TI.
 - Review
   - Review: Memoria
