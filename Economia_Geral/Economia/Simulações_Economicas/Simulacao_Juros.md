@@ -3,7 +3,7 @@
 > Análise teórica sobre os efeitos econômicos de taxas de juros extremamente baixas (negativas) e extremamente altas.  
 > Cenários: **-6%**, **-2%**, **10%**, **20%**, **30%**, **60%** ao ano.
 
-> > Pensamento ficcional
+> Pensamento ficcional
 
 ---
 
