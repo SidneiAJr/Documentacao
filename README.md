@@ -99,6 +99,9 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## Experiência em TI
 - Experiência Profissional
+  - Experiencias Pessoais
+  - Experiencias de vagas fora da realidade
+  - Expeiencias perguntas tiltantes
 - Carreira
 - Cursos
 - Ideias
