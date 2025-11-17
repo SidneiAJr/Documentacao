@@ -112,14 +112,16 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - ☕Java netBeans
   - ☕Java poo
   - ☕Java memoria
-- **NetBeans** **Visual Studio**
+  - ☕Banco de dados em Java
+- **NetBeans- Java Swing**
+- **Visual Studio**
 - **QtCreator**
 - CSS
 - HTML
 - Typescript
 - Logica de Programação
 - PHP
-- PY
+- Python
 - Vercel
 - JavaScript
 - C#
@@ -156,6 +158,9 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Experiencias Pessoais
   - Experiencias de vagas fora da realidade
   - Experiencias perguntas tiltantes
+  - Experiencias Entrevista Comum
+  - Experiencias Entrevista tecnica
+  - Experiencias Vagas Internas
 - Carreira
 - Cursos
 - Ideias
