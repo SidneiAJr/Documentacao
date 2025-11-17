@@ -134,6 +134,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Reformas Monetarias no brasil
 - Moedas do Brasil
 - Economia do Brasil
+- Historia da tecnologia
 
 ## 📚Historia Naval:
 - Historia dos navios desde o começo na grecia antiga.
