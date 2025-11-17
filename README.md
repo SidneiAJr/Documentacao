@@ -111,7 +111,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Alemão(Alemão do sul do brasil x Alemão Alemão)
 - Japones
 
-## Sugestão para Jogos 
+## Sugestão para Jogos | Melhorias:
 - Warthunder
 - Wows
 
