@@ -194,9 +194,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## Licença
 
-Este projeto é protegido.  
-- Não é permitido vender ou copiar o conteúdo sem autorização do autor.  
-- Contribuições, sugestões e críticas construtivas são muito bem-vindas!  
-
-Para detalhes sobre permissões e uso, entre em contato comigo.
-
+Este conteúdo é gratuito para estudo e uso pessoal.  
+- Não é permitido vender ou lucrar com este material.  
+- Contribuições, sugestões e críticas construtivas são bem-vindas.  
+- Se quiser compartilhar, por favor dê crédito ao autor.
