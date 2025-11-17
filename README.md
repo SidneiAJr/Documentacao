@@ -54,6 +54,15 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Atalhos de Teclado
 - Atalhos de IDE
 - Eletronica
+- IA X Chatbot
+   - Como Funciona?
+   - Hype
+   - Historia
+   - Marchine Learning
+   - IA Problemas
+- Redes
+- Softwares
+- Virtual Nachine
 
 ## Programação
 - Guia de **Java**
