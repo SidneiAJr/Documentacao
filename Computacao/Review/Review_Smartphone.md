@@ -1,7 +1,7 @@
 # 📱 Review de Smartphones
 
 ### 1. **Alcatel (Modelo Oval)**
-- **Preço na época:** R$ 550
+- **Preço na época:** R$ 250
 - **Hardware:** 
   - Processador: Não lembro
   - RAM: 512MB
