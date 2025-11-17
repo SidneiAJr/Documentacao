@@ -101,7 +101,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Experiência Profissional
   - Experiencias Pessoais
   - Experiencias de vagas fora da realidade
-  - Expeiencias perguntas tiltantes
+  - Experiencias perguntas tiltantes
 - Carreira
 - Cursos
 - Ideias
