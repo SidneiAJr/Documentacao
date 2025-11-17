@@ -49,7 +49,7 @@ Recebe um gigantesco:
 
 ---
 
-## 💥 O Jaguar que faz tudo continua na base
+## 💥 A Pessoa que faz tudo continua na base
 
 É sempre assim:
 
