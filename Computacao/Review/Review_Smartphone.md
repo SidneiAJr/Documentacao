@@ -68,5 +68,7 @@
 
 ---
 
+### 10. **Futuro Poco x6 pro ou Moto g53 5g**
+
 ## Conclusão:
 Esses smartphones passaram por diferentes gerações e mostraram como a tecnologia evoluiu. Desde modelos super básicos e com limitações, até aparelhos mais recentes com recursos como 5G, NFC e telas de alta taxa de atualização.
