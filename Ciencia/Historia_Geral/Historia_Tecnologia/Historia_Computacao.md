@@ -21,11 +21,11 @@ Esses sistemas já apresentavam a ideia de automações matemáticas, embora ain
 
 A Segunda Guerra Mundial deu origem às primeiras máquinas capazes de processar informação em grande escala.
 
-🔐 Enigma
+### 🔐 Enigma
 
 Máquina de criptografia usada pela Alemanha para codificar mensagens militares.
 
-🧠 Bombe (Máquina de Turing)
+### 🧠 Bombe (Máquina de Turing)
 
 Criada por Alan Turing e sua equipe em Bletchley Park.
 
