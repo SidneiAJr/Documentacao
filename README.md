@@ -34,7 +34,13 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 
 ## 📚Filosofia
-- Críticas (Economia, TI, Mercado de Trabalho)
+- Críticas:
+   - Critica Economicas
+   - Critica Ideologia
+   - Critica TI
+   - Critica ao desevolvimento humano
+   - Critica ao Nobel
+   - Critica a Polarização
 - Filosofia Geral
 
 ## 📚Ciencia Brasileira
