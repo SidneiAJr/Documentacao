@@ -1,3 +1,4 @@
+```Js
 // Fução que pede tudo Literalmente
 function pedeTudo() {
     let nome = String(prompt("Insira seu Nome: ")); // Variavel 1
@@ -84,3 +85,4 @@ function pedeTudo() {
 }
 
 pedeTudo()
+```
