@@ -16,8 +16,6 @@
 2. **Frio Medio** 🚿  
 
 3. **Quente Inverno** 🔥
-
-Obs: No frio do sul, a água vinha quente mas ele dava umas desligadas...
 ---
 
 ## 🔥 Chuveiro Zagonel  
