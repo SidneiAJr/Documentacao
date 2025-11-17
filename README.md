@@ -108,6 +108,8 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
    - Consultas
 - Shell
 - C
+- Cobol
+- Dart
 
 ## História Geral
 - História do Brasil
