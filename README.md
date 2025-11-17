@@ -61,7 +61,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 ## História Geral
 - História do Brasil
 - História Econômica do Brasil & Moedas
-- Diferença de desevolvimento Brasil x EUA
+- Diferença de Desenvolvimento entre o Brasil e os EUA
 - Quantidades de Presidentes e imperadores do brasil
 - Reformas Monetarias no brasil
 - Moedas do Brasil
