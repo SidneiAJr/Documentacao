@@ -35,6 +35,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Introdução à Economia
 - Economia verde
 - Matematica Financeira
+- Falacias Economicas
 
 ## Computação
 - **Processadores**
