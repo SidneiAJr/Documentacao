@@ -106,6 +106,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Carreira
 - Cursos
 - Ideias
+- Formações
 
 ## Simulações de Ideias(Fictional)
 - Simulação de Ideias Futuristas
