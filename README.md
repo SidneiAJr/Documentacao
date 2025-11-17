@@ -92,7 +92,9 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Review: Sistema Operacional
   - Review: Monitor
   - Review: Carros
-  - Review: Chuveiro 
+  - Review: Chuveiro
+  - Review: Mouse & Teclado
+  - Review: Headset & Headphone
 
 ## 📚Programação
 - ☕Guia de **Java**
