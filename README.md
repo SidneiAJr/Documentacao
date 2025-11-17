@@ -59,8 +59,8 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Basico de Java
   - Java Swing
   - Java netBeans
-  - java poo
-  - java memoria
+  - Java poo
+  - Java memoria
 - **NetBeans** **Visual Studio**
 - **QtCreator**
 - CSS
@@ -76,8 +76,14 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Basico de C#
   - POO em C#
   - Memoria em C#
-  - banco de dados com C#
-
+  - Banco de dados com C#
+- C++
+- Framework(Angular Js e React JS)
+- SQl
+   - Basico de SQL
+   - Consultas
+- Shell
+- C
 
 ## História Geral
 - História do Brasil
