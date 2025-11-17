@@ -18,7 +18,7 @@
 3. **Inverno** 🔥
 ---
 
-## 🔥 Chuveiro Zagonel  
+## 🔥 Chuveiro Zagonel Moment
 **Adquirido: 2023**  
 **Resistência queimada: 2025 Resistência pediu demissão em 2025**  
 
