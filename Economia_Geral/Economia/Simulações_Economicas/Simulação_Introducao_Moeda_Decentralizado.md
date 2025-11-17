@@ -3,6 +3,8 @@
 ## **Objetivo da Simulação:**
 Simular um cenário onde a **moeda é totalmente descentralizada**, sem qualquer controle ou interferência do estado, sendo **100% regida pelo mercado**. O estado não tem capacidade de influenciar a política monetária, e a economia é gerida exclusivamente pelos agentes econômicos privados (indivíduos, empresas e mercados financeiros).
 
+> Pensamento ficcional
+
 ---
 
 ## **Cenário: Moeda Descentralizada Controlada pelo Mercado**
