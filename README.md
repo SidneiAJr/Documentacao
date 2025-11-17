@@ -96,6 +96,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Review: Mouse & Teclado
   - Review: Headset & Headphone
   - Review: Projetor
+  - Review: PowerBank
 
 ## 📚Programação
 - ☕Guia de **Java**
