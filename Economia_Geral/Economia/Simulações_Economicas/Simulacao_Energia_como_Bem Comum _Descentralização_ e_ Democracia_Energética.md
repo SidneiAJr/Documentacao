@@ -1,6 +1,6 @@
 # Simulação: Energia como Bem Comum – Descentralização e Democracia Energética
 
-> Pensamento ficcional, crítico e reflexivo sobre o ser humano
+> Pensamento ficcional, crítico
 
 A questão da energia sempre esteve no centro de disputas de poder, seja por razões políticas, econômicas ou simplesmente pelo ganância humana. A história da humanidade mostra que, invariavelmente, algo de grande valor é monopolizado, seja por governos ou corporações, com o objetivo de obter lucros ou controle. A energia, um bem essencial para a vida moderna, não escapa a essa regra.
 
