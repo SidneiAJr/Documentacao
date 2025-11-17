@@ -134,7 +134,8 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Reformas Monetarias no brasil
 - Moedas do Brasil
 - Economia do Brasil
-- Historia da tecnologia
+- Historia da Tecnologia
+- Historia da Computação
 
 ## 📚Experiência em TI
 - Experiência Profissional
