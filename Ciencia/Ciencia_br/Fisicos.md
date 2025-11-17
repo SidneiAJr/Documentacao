@@ -95,6 +95,4 @@
 
 ---
 
-✍️ *Contribua com este arquivo adicionando novos físicos, descobertas ou links de referência.*  
-*Abra um pull request ou envie sugestões!*
 
