@@ -103,8 +103,8 @@ Alguns usam máquinas, outros escaneadores, mas **o papel ainda é a base**.
 
 ---
 
-Atualmente O brasil tem 30 partidos de acordo de acordo com:
+Atualmente, o Brasil possui oficialmente **30 partidos registrados no TSE**, segundo:
 
-[Wikipedia - Lista de Partidos](https://pt.wikipedia.org/wiki/Lista_de_partidos_pol%C3%ADticos_do_Brasil) Atualmente
+➡️ [Lista de partidos políticos do Brasil — Wikipedia](https://pt.wikipedia.org/wiki/Lista_de_partidos_pol%C3%ADticos_do_Brasil)
 
 
