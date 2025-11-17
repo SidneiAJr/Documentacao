@@ -81,12 +81,12 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Review: Monitor
 
 ## Programação
-- Guia de **Java**
-  - Basico de Java
-  - Java Swing
-  - Java netBeans
-  - Java poo
-  - Java memoria
+- ☕Guia de **Java**
+  - ☕Basico de Java
+  - ☕Java Swing
+  - ☕Java netBeans
+  - ☕Java poo
+  - ☕Java memoria
 - **NetBeans** **Visual Studio**
 - **QtCreator**
 - CSS
