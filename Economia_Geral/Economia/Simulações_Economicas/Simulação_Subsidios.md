@@ -3,6 +3,8 @@
 ## **Objetivo da Simulação:**
 Analisar os efeitos de diferentes níveis de **Estado de Bem-estar Social (EBS)** nas **classes sociais** (A, B, C, D, E, F), com foco em subsídios direcionados a grupos específicos e a redistribuição de renda.
 
+> Pensamento ficcional
+
 ---
 
 ## **1. Simulação de Estado de Bem-estar Social Parcial**
