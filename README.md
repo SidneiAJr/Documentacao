@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/SidneiAJr/Documentacao/blob/main/prints/Logo.png" width="250" alt="Logo do Guia dos Guri">
-  <h5 align="center">Imagem Gerada por: ChatGPT</h5>
-</p>
-
 <h1 align="center">📘 O Guia dos Guri</h1>
 
 ***Aqui você encontra de tudo um pouco — desde Hardware e Computação até Matemática Financeira.***
