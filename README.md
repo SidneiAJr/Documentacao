@@ -7,9 +7,6 @@
 
 ***Aqui você encontra de tudo um pouco — desde Hardware e Computação até Matemática Financeira.***
 
-Nesse repositório, você encontrará uma variedade de tópicos, desde computação até filosofia:
-
-
 ## Sumario:
 - [Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
   
