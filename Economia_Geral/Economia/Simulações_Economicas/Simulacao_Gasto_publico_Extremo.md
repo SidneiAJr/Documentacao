@@ -1,5 +1,7 @@
 # 🧨 Simulação Econômica — Gasto Público Acima do PIB
 
+> Pensamento ficcional
+
 > Estudo teórico sobre os efeitos de uma política fiscal de expansão ilimitada,  
 > onde o governo gasta **mais do que o próprio PIB** para "estimular a economia".  
 
