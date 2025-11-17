@@ -11,11 +11,11 @@
 
 ### 🌡️ Temperaturas disponíveis
 
-1. **Frio Congelante** 🥶  
+1. **Frio Comum** 🥶  
 
-2. **Frio Meia-Bomba** 🚿  
+2. **Frio Medio** 🚿  
 
-3. **Lava Líquida** 🔥  
+3. **Quente Inverno** 🔥  
 ---
 
 ## 🔥 Chuveiro Zagonel  
