@@ -146,7 +146,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Banco de dados com C#
     - Visual Studio
 - C++
-  - **QtCreator**
+   - QtCreator
 - Framework(Angular Js e React JS)
 - SQl
    - Basico de SQL
