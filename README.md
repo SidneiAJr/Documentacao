@@ -26,7 +26,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 |  Introdução a Economia |2024
 | Introdução a Bitcon|2024
 
-## Formações Planejadas:
+## Formações Planejadas("Quanto Tiver Dinheiro"):
 
 | Curso                              | 
 |------------------------------------|
