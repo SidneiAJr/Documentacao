@@ -22,7 +22,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 |  Curso de CyberSegurança | 2024  | Udemy
 |  Curso Introdução a c++ |2024 | Youtube - CFB cursos
 |  Curso HTML JS CSS | 2024 | Cursos Online
-|  Curso Java & Java Web | Oracle Next Education On
+|  Curso Java & Java Web | 2024 | Oracle Next Education On
 
 ## Formações Planejadas:
 
