@@ -1,6 +1,7 @@
 # 🧩 Simulação – Nano Fibra Óptica Modular
 
 > ⚠️ *Disclaimer:* Ideia **ficcional e conceitual**, criada para explorar o futuro da transmissão de dados via fibras ópticas.
+
 > “Este projeto é apenas conceitual e experimental, não deve ser interpretado como produto real ou funcional.
 
 ---
