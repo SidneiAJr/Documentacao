@@ -16,8 +16,8 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## Cursos Realizados:
 
-| Curso                              | Período         || Onde        |
-|------------------------------------|-----------------||-----------------|
+| Curso                              | Período         | Onde        
+|------------------------------------|-----------------|-----------------|
 |  Curso PHP do Zero a Maestria - PHP | 2024 | Udemy 
 |  Curso de CyberSegurança | 2024  | Udemy
 |  Curso Introdução a c++ |2024 | Youtube - CFB cursos
