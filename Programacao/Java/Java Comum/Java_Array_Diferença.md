@@ -78,9 +78,8 @@ public class Main {
         }
 
         // Laço para percorrer o array ar e imprimir os números de 0 até o tamanho do array (ar.length-1).
-        // O erro aqui é que você está imprimindo o índice, mas não o valor de ar[i].
         for (int i = 0; ar.length > i; i++) {
-            System.out.println("Numero: " + i); // Imprime o índice, não o valor do array ar
+            System.out.println("Numero: " + i); 
         }
     }
 }
