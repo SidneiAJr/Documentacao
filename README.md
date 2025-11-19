@@ -135,6 +135,15 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Typescript
 - Logica de Programação
 - PHP
+  - PHP: Basico
+  - PHP: Array
+  - PHP: POO
+  - PHP: POO
+  - PHP: XAMP
+  - PHP: Web
+  - PHP: Conexção de Banco
+  - PHP: Saidas Strings
+  - PHP: Var Dump
 - Python
 - Vercel
 - JavaScript
