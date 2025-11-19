@@ -121,16 +121,18 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Review: PowerBank
 
 ## 📚Programação
-- ☕Guia de **Java Comum**
-  - ☕Basico de Java
-  - ☕Java Swing
-  - ☕Java NetBeans
-  - ☕Java POO
-  - ☕Java Memoria
-  - ☕Banco de dados em Java
-  - ☕Java Array & Array List
-  - ☕**NetBeans- Java Swing**
-  - ☕ Android Studio - Java
+
+| ☕Guia de **Java Comum**                              
+|------------------------------------|
+| ☕Basico de Java
+| ☕Java Swing     
+| ☕Java NetBeans 
+| ☕Java POO
+| ☕Java Memoria
+| ☕Banco de dados em Java
+| ☕Java Array & Array List
+| ☕ Android Studio - Java
+
 - CSS
 - HTML
 - Typescript
