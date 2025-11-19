@@ -129,9 +129,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - ☕Java Memoria
   - ☕Banco de dados em Java
   - ☕Java Array & Array List
-- **NetBeans- Java Swing**
-- **Visual Studio**
-- **QtCreator**
+  - ☕**NetBeans- Java Swing**
 - CSS
 - HTML
 - Typescript
@@ -146,7 +144,9 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - POO em C#
   - Memoria em C#
   - Banco de dados com C#
+  - - **Visual Studio**
 - C++
+  - **QtCreator**
 - Framework(Angular Js e React JS)
 - SQl
    - Basico de SQL
