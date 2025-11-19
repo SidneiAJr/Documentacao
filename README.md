@@ -144,7 +144,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - POO em C#
   - Memoria em C#
   - Banco de dados com C#
-  - - **Visual Studio**
+    - **Visual Studio**
 - C++
   - **QtCreator**
 - Framework(Angular Js e React JS)
