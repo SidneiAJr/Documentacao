@@ -149,10 +149,8 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Review: Headset & Headphone
   - Review: Projetor
   - Review: PowerBank
-
-## 📚Programação
-
-## 📚Programação - 
+    
+## 📚Programação 
 - ☕Guia de **Java** 
     - ☕Basico de Java 
     - ☕Java Swing 
