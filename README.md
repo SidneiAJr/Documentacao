@@ -16,15 +16,15 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## Cursos Realizados:
 
-| Curso                              | Período         | Onde        
-|------------------------------------|-----------------|-----------------|
-|  Curso PHP do Zero a Maestria - PHP | 2024 | Udemy 
-|  Curso de CyberSegurança | 2024  | Udemy
-|  Curso Introdução a c++ |2024 | Youtube - CFB cursos
-|  Curso HTML JS CSS | 2024 | Cursos Online
-|  Curso Java & Java Web | 2024 | Oracle Next Education One
-|  Introdução a Economia |2024| Uniasselvi
-| Introdução a Bitcon|2024|Uniasselvi
+| Curso                              | Período         
+|------------------------------------|-----------------|
+|  Curso PHP do Zero a Maestria - PHP | 2024 
+|  Curso de CyberSegurança | 2024  
+|  Curso Introdução a c++ |2024 
+|  Curso HTML JS CSS | 2024 
+|  Curso Java & Java Web | 2024 
+|  Introdução a Economia |2024
+| Introdução a Bitcon|2024
 
 ## Formações Planejadas:
 
