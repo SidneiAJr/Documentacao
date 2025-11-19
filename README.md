@@ -28,9 +28,11 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## Formações Planejadas:
 
-- Pos: Economia
-- Pos: Cybersegurança
-- Pos : Fisica 
+| Curso                              | 
+|------------------------------------|
+| Pos: Economia
+| Pos: Cybersegurança     | 
+| Pos : Fisica            | 
 
 ***Aqui você encontra de tudo um pouco — desde Hardware e Computação até Matemática Financeira.***
 
