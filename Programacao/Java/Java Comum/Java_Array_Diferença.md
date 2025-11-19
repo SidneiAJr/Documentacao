@@ -44,4 +44,44 @@
 
 ---
 
-Essas são as principais diferenças e como cada linguagem lida com arrays e listas dinâmicas. Se precisar de mais detalhes ou ajuda em algum ponto específico, é só chamar! 😄
+
+### Exemplo de codigo:
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        
+        // Array de inteiros, inicializado com os valores 1, 2, 3, 4 e 5.
+        int[] ar = {1, 2, 3, 4, 5};
+        
+        // Array de doubles, inicializado com os valores 1.1, 0.5 e 3.5.
+        double[] b = {1.1, 0.5, 3.5};
+        
+        // Variável para armazenar a soma dos elementos do array b.
+        double soma = 0;
+        
+        // Array de strings, representando os nomes de produtos.
+        String[] c = {"Motor Ap", "Motor De dobra", "Motor esferico", "Motor Esferico esferico"};
+        
+        // Laço para imprimir os nomes dos produtos do array c.
+        // O laço percorre todo o array c, imprimindo cada item (produto) com seu índice.
+        for (int d = 0; c.length > d; d++) {
+            System.out.println("Lista de Produtos: " + c[d]);
+        }
+
+        // Laço para calcular a soma dos elementos do array b.
+        // O laço percorre o array b, e a cada iteração, o valor b[a] é somado à variável soma.
+        // A soma parcial é impressa a cada iteração.
+        for (int a = 0; b.length > a; a++) {
+            soma += b[a]; // Adiciona o valor de b[a] à variável soma
+            System.out.println("Soma: " + soma); // Imprime a soma acumulada
+        }
+
+        // Laço para percorrer o array ar e imprimir os números de 0 até o tamanho do array (ar.length-1).
+        // O erro aqui é que você está imprimindo o índice, mas não o valor de ar[i].
+        for (int i = 0; ar.length > i; i++) {
+            System.out.println("Numero: " + i); // Imprime o índice, não o valor do array ar
+        }
+    }
+}
+```
