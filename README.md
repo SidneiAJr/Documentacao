@@ -123,13 +123,13 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 ## 📚Programação
 
 ## 📚Programação - 
-- ☕Guia de **Java** - 
-    -☕Basico de Java - 
-    - ☕Java Swing - 
-    -☕Java netBeans - 
-    -☕Java poo - 
-    -☕Java memoria - 
-    -☕Banco de dados em Java - 
+☕Guia de **Java** 
+    -☕Basico de Java 
+    - ☕Java Swing 
+    -☕Java netBeans 
+    -☕Java poo 
+    -☕Java memoria 
+    -☕Banco de dados em Java 
 **NetBeans- Java Swing**
 - CSS
 - HTML
