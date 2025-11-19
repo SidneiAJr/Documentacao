@@ -47,37 +47,6 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 - [Experiencia TI](https://github.com/SidneiAJr/Documentacao/tree/main/Experiencia_TI)
 
-# 📚 Áreas de Estudo
-
-| Área        | Conteúdos                                              |
-| ----------- | ------------------------------------------------------ |
-| Filosofia   | Críticas, Filosofia Geral                              |
-| Computação  | Hardware, Redes, Linux, IA, Segurança, Eletrônica      |
-| Economia    | Economia Brasileira, Simulações, Matemática Financeira |
-| Programação | Java, PHP, Python, JS, C#, C++, SQL, Shell, TS         |
-| História    | Tecnologia, Moedas, História do Brasil                 |
-| Física      | Astronomia, Física Geral, Termodinâmica                |
-
-# 🔧 Linguagens & Ferramentas
-
-| Categoria   | Itens                                                  |
-| ----------- | ------------------------------------------------------ |
-| Linguagens  | Java, PHP, C#, C/C++, Python, JS, TS, SQL, Shell, Dart |
-| Frameworks  | Angular, React                                         |
-| Ferramentas | Blender, Linux, QtCreator, Unity, VSCode               |
-| Outros      | IA, Machine Learning, Eletrônica                       |
-
-
-# 🧾 Experiência em TI
-
-| Tipo         | Descrição                  |
-| ------------ | -------------------------- |
-| Carreira     | Experiências profissionais |
-| Entrevistas  | Técnicas, comuns, internas |
-| Mercado      | Vagas fora da realidade    |
-| Documentação | Boas práticas              |
-
-
 ## 📚Filosofia
 - Críticas:
    - Critica Economicas
