@@ -16,11 +16,13 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## Cursos Realizados:
 
-| Curso                              | Período         |
-|------------------------------------|-----------------|
-|  Curso PHP do Zero a Maestria - PHP | 2024 |
-|  Curso de CyberSegurança   | 2024  |
- 
+| Curso                              | Período         || Onde        |
+|------------------------------------|-----------------||-----------------|
+|  Curso PHP do Zero a Maestria - PHP | 2024 | Udemy 
+|  Curso de CyberSegurança | 2024  | Udemy
+|  Curso Introdução a c++ |2024 | Youtube - CFB cursos
+|  Curso HTML JS CSS | 2024 | Cursos Online
+|  Curso Java & Java Web | Oracle Next Education On
 
 ## Formações Planejadas:
 
