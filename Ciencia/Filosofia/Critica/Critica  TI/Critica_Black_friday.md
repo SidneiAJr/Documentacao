@@ -26,7 +26,6 @@ A prática de elevar artificialmente o preço pouco antes da Black Friday para s
 ## 🛒 Por que a situação é complicada?
 
 - Monitorar preços reais exige acompanhamento ao longo de meses.  
-- Alguns varejistas usam estratégias de marketing agressivas.  
 - O consumidor tende a confiar no “desconto” sem ter referência histórica.  
 - O volume de ofertas torna difícil verificar autenticidade.  
 
