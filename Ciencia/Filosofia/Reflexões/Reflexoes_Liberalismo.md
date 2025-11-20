@@ -16,3 +16,15 @@ O **liberalismo extremo**, no estilo **laissez-faire**, defende a **não interve
 Essas questões são essenciais para entender os limites e as consequências do modelo liberal extremo em sociedades contemporâneas, especialmente em um mundo onde a desigualdade social e econômica é crescente.
 
 ---
+
+### ❓ Questionamentos Acerca do Liberalismo
+
+- Liberalismo para quem? Para toda a sociedade ou apenas para as elites econômicas?
+
+- Liberalismo em excesso faz mal — sem regulação mínima, surgem abusos, desigualdade e concentração de poder.
+
+- Liberalismo de menos também faz mal — o Estado pode se tornar inchado, ineficiente e burocrático demais.
+
+- O modelo laissez-faire no século XXI é inviável devido ao tamanho e complexidade das economias modernas.
+
+- Quando bem aplicado, o liberalismo pode funcionar de forma equilibrada, gerando inovação, crescimento e competitividade — desde que exista regulação responsável e igualdade de oportunidades.
