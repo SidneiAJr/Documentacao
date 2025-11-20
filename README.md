@@ -249,6 +249,11 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 ## 📚 Estudo de Caso:
 - Fake News
 
+## 📚 Reflexões
+- Sobre o liberalismo
+- Sobra comunismo
+- Sobre Estado de bem estar social
+
 ## Licença
 
 Este conteúdo é gratuito para estudo e uso pessoal.  
