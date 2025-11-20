@@ -87,4 +87,74 @@ A corrida espacial consolidou:
 
 ---
 
+## 🎭 Símbolos da Propaganda Tecnológica e Ideológica
+
+Durante a Guerra Fria, tanto os EUA quanto a URSS transformaram figuras, missões e feitos espaciais em instrumentos de propaganda global. Esses ícones tinham a função de demonstrar liderança científica, reforçar ideologias e influenciar a opinião pública internacional.
+
+## 🇷🇺 URSS — Símbolos e Narrativas
+
+Yuri Gagarin: primeiro humano no espaço, transformado em símbolo da “superioridade socialista”.
+
+Laika: primeiro ser vivo em órbita, utilizada como símbolo de coragem e sacrifício pelo progresso científico.
+
+Programa Venera: sondas enviadas a Vênus, reforçando a imagem de ousadia científica soviética.
+
+Sputnik 1: deixou o mundo em choque; marcou o início da era espacial e se tornou ícone global.
+
+## 🇺🇸 EUA — Símbolos e Narrativas
+
+Apollo 11 (1969): marco da chegada do homem à Lua, usado como demonstração de capacidade industrial e tecnológica.
+
+Neil Armstrong e Buzz Aldrin: transformados em heróis nacionais e símbolos da vitória americana.
+
+NASA como instituição: construída como símbolo de eficiência, ciência e liberdade tecnológica.
+
+Ambos os lados utilizaram intensamente jornais, documentários, eventos públicos e até material escolar para reforçar suas respectivas narrativas.
+
+## 🧩 Inovações e Instituições que Surgiram no Período
+
+A Guerra Fria acelerou a criação de instituições e tecnologias que mudaram a história:
+
+## 🚀 Criação da NASA (1958)
+
+A NASA surge como resposta direta ao Sputnik.
+Seu objetivo inicial era:
+
+coordenar programas civis de exploração espacial,
+
+promover pesquisa científica,
+
+e competir diretamente com o programa soviético.
+
+Foi estruturada com forte apoio militar e grande investimento federal.
+
+## 🌐 Surgimento da ARPANET (1969)
+
+A ARPANET, criada pela ARPA (Advanced Research Projects Agency) dos EUA, nasceu como:
+
+uma rede de comunicação descentralizada,
+
+resistente a ataques durante um conflito nuclear,
+
+e capaz de conectar universidades e centros de pesquisa.
+
+Ela é o embrião da internet moderna.
+
+## ⚛️ Crescimento de Tecnologias de Dupla Aplicação
+
+Durante a Guerra Fria, surgem tecnologias que poderiam ter uso civil ou militar:
+
+sistemas de navegação (pré-GPS),
+
+comunicação via satélite,
+
+fotografia aérea e orbital,
+
+sistemas de alerta antecipado,
+
+foguetes multietapas.
+
+A maioria dos avanços civis veio de pesquisas originalmente militares.
+
+
 
