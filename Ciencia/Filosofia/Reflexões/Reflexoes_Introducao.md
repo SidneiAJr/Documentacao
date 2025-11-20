@@ -21,6 +21,8 @@ Embora o ideal de Marx fosse uma sociedade sem classes, onde os meios de produç
   
 Essas perguntas nos fazem refletir sobre a viabilidade e as consequências de se implementar o modelo comunista, principalmente nas condições atuais da sociedade.
 
+- Na URSS, ao retirar o capitalista e colocar o trabalhador no topo da estrutura, o resultado não foi igualdade: apenas se formaram “elites invertidas”.
+Em vez de elites capitalistas, surgiram elites burocráticas que controlavam o sistema.
 ---
 
 ### 💡 **Sobre o Liberalismo**
