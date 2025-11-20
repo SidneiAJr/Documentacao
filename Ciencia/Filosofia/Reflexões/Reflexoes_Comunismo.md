@@ -25,3 +25,4 @@ Essas perguntas nos fazem refletir sobre a viabilidade e as consequências de se
 Em vez de elites capitalistas, surgiram elites burocráticas que controlavam o sistema.
 
 - A remoção total de poder privado e o controle absoluto do Estado geraram problemas e distorções. De acordo com a teoria de Marx, o antigo Império Russo não possuía as condições sociais, econômicas e estruturais necessárias para essa transformação, o que criou bolhas de poder, distorções internas e uma ditadura centralizada, muito diferente do comunismo idealizado.
+
