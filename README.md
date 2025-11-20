@@ -251,7 +251,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## 📚 Reflexões
 - Sobre o liberalismo
-- Sobra comunismo
+- Sobre comunismo
 - Sobre Estado de bem estar social
 
 ## Licença
