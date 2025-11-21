@@ -56,5 +56,3 @@ O curso cobre diversos tópicos relacionados ao PHP, incluindo:
 ## Conclusão
 
 Esse curso proporciona uma **visão completa** do que é necessário para se tornar um desenvolvedor PHP proficientemente. Mesmo que alguns conteúdos possam estar um pouco desatualizados, o aprendizado básico e a aplicação prática continuam válidos. Ao final, você estará apto a criar **aplicações web dinâmicas** usando PHP de forma eficiente, segura e escalável.
-
-Recomendo que, após concluir o curso, você procure **documentação oficial** e **atualizações** sobre as versões mais recentes do PHP para garantir que está sempre atualizado com as melhores práticas.
