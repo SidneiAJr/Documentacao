@@ -38,26 +38,36 @@ Este histórico registra a evolução estrutural e conceitual da Wiki ao longo d
 **Novas Seções Incluídas:**
 - **Filosofia**
 - **Lógica**
+
 ---
+
 ## **Versão 0.03.6a**
 **Novas Seções Incluídas:**
 - **Filosofia**
-- **Criticas**
+- **Críticas**
 - **Astronomia**
-- **Critica TI**
+- **Crítica à TI**
 - **Simulação de Economia**
 
 ---
 
 ## **Versão 0.03.7a**
 **Novas Seções Incluídas:**
-- **Mais Criticas na TI**
-- **Fisica Como funciona?**
+- **Mais Críticas na TI**
+- **Física: Como funciona?**
+
 ---
 
 ## **Versão 0.03.8a**
 **Novas Seções Incluídas:**
-- **Mais Criticas na TI**
-- **Fisica Como funciona?**
+- **Mais Críticas na TI**
+- **Física: Como funciona?**
 - **Programação**
+
+---
+
+## **Versão 0.03.9a**
+**Novas Seções Incluídas:**
+- **Melhoria no Readme**
+
 
