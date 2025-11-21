@@ -82,12 +82,5 @@
 - **`Arrays.stream()`**  
   Converte um array em um **stream**, o que permite aplicar operações de stream (como `filter`, `map`, etc.).
 
-### Comandos Básicos para Manipulação de Arrays:
-
-- **Acessando elementos do array**  
-  Para acessar um elemento em um array, usa-se o índice. Exemplo:
-  ```java
-  int[] arr = {1, 2, 3};
-  int primeiroElemento = arr[0];  // Acessa o primeiro elemento (1)
 
 
