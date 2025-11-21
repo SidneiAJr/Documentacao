@@ -49,3 +49,45 @@
 
 - **`valueOf(int x)`**  
   Converte um valor numérico (como `int`, `double`) para uma string.
+
+---
+# Java Comandos Básicos
+
+### Comandos Básicos de Arrays em Java:
+
+- **`length`**  
+  Retorna o tamanho do array (quantidade de elementos no array).
+
+- **`Arrays.toString()`**  
+  Converte o array em uma **string** que pode ser impressa. Útil para visualizar o conteúdo de um array.
+
+- **`Arrays.copyOf()`**  
+  Cria uma cópia do array, com ou sem alteração no tamanho.
+
+- **`Arrays.copyOfRange()`**  
+  Copia uma parte específica do array, definida pelos índices `from` e `to`.
+
+- **`Arrays.sort()`**  
+  Ordena o array em ordem crescente.
+
+- **`Arrays.fill()`**  
+  Preenche todos os elementos do array com o valor fornecido.
+
+- **`Arrays.equals()`**  
+  Verifica se dois arrays são **iguais**, comparando seus elementos.
+
+- **`Arrays.binarySearch()`**  
+  Realiza uma **busca binária** em um array (precisa que o array esteja ordenado).
+
+- **`Arrays.stream()`**  
+  Converte um array em um **stream**, o que permite aplicar operações de stream (como `filter`, `map`, etc.).
+
+### Comandos Básicos para Manipulação de Arrays:
+
+- **Acessando elementos do array**  
+  Para acessar um elemento em um array, usa-se o índice. Exemplo:
+  ```java
+  int[] arr = {1, 2, 3};
+  int primeiroElemento = arr[0];  // Acessa o primeiro elemento (1)
+
+
