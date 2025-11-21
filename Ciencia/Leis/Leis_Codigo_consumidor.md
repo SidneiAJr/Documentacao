@@ -4,6 +4,9 @@
 **Por que escrevi esta pasta de arquivos de leis?**  
 Simples: existem empresas, incluindo grandes corporações, que ignoram prazos e desrespeitam os direitos do consumidor. Este repositório visa ajudar a entender as principais leis que protegem o consumidor, especialmente em casos de descumprimento contratual.
 
+**Não sou formado em direito**  
+Montei esse guia para ajudar a saber os direitos como consumidor. Se precisar de mais ajuda, pode procurar um advogado.
+
 ---
 
 ## Artigo 30 - Código de Defesa do Consumidor
@@ -33,6 +36,15 @@ Caso uma empresa não entregue o produto conforme o prometido, o consumidor tem 
 3. **Pedir um abatimento no preço** – Caso o produto tenha sido entregue, mas com algum defeito ou diferença em relação ao que foi anunciado.
 
 Essas opções asseguram que o consumidor não fique à mercê de empresas que **descumprem suas ofertas** ou **não cumprem prazos** estabelecidos.
+
+---
+
+## Artigo 49 - Direito de Arrependimento
+Esse artigo trata do **direito de arrependimento** do consumidor, especialmente em compras à distância (via internet, telefone, etc.). O consumidor pode devolver o produto e ser reembolsado sem precisar justificar.
+
+> **Art. 49.** O consumidor poderá desistir do contrato, no prazo de **7 dias**, a contar da assinatura do contrato ou do recebimento do produto ou serviço, sempre que a contratação ocorrer fora do estabelecimento comercial.
+
+Este direito é essencial em compras **online**, garantindo que o consumidor tenha a **possibilidade de desistir** da compra caso o produto não atenda às suas expectativas.
 
 ---
 
