@@ -50,6 +50,9 @@
 - **`valueOf(int x)`**  
   Converte um valor numérico (como `int`, `double`) para uma **string**.
 
+- **`isBlank()`**  
+  Verifica se a string está **em branco** (ou seja, contém apenas espaços em branco). Retorna `true` se a string estiver vazia ou contiver apenas espaços. 
+
 ---
 
 ## Comandos Básicos de Arrays em Java:
