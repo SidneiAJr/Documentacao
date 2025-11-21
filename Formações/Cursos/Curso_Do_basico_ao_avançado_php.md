@@ -5,7 +5,7 @@
 Curso realizado na **Udemy**, abordando **PHP** desde os conceitos mais básicos até tópicos avançados. A plataforma oferece acesso totalmente **online**, permitindo que o aprendizado aconteça de forma flexível. É um curso que cobre uma ampla gama de tópicos, adequado tanto para iniciantes quanto para desenvolvedores que querem aprimorar seus conhecimentos em PHP.
 
 ## Observações
-- **Preço**: Na época em que comprei, custava R$9,90. Atualmente, acredito que o preço esteja em torno de **R$29,90** ou mais, já que a Udemy frequentemente reajusta os valores dos cursos.
+- **Preço**: Na época em que comprei, custava R$9,90. Atualmente, acredito que o preço esteja em torno de **R$29,90** ou mais, já que a Udemy reajusta os valores dos cursos.
 - **Atualizações**: Como o PHP evolui rapidamente, alguns conteúdos do curso podem estar um pouco desatualizados. No entanto, a base do aprendizado ainda é válida, e os conceitos principais continuam os mesmos.
 - **Acessibilidade**: O curso é 100% **online**, podendo ser acessado a qualquer momento, o que é ideal para quem tem um ritmo de aprendizado mais flexível.
 
