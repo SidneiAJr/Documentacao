@@ -50,6 +50,5 @@ O curso cobre diversos tópicos básicos relacionados a **Java** e **APIs**, inc
 
 Embora o **Curso Oracle Next Education One** seja uma boa oportunidade para quem está iniciando na área de **Java** e **APIs**, ele pode não ser o mais indicado para quem já tem conhecimento na área, pois o conteúdo é bastante básico e repetitivo. Para quem deseja obter a **certificação gratuita** da Oracle e busca uma introdução ao mundo de APIs e Java, o curso é válido.
 
-No entanto, se você já tem alguma experiência, o curso pode ser mais **entediado**, e seria mais interessante buscar cursos mais avançados ou práticos.
 
-Recomendo que, após concluir o curso, você procure por **conteúdos mais desafiadores** ou até **projetos reais** para aprofundar seu conhecimento e melhorar suas habilidades em **Java** e **APIs**.
+
