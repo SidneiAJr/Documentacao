@@ -88,7 +88,7 @@ Objetivo: reduzir desigualdades regionais sem punir estados superavitários.
 
 # 🧩 Terceira Reforma (a definir)
 
-*(Descreva aqui a próxima reforma que quiser simular e eu transformo em versão técnica.)*
+
 
 ---
 
