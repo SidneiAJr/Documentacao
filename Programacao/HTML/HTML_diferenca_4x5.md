@@ -9,7 +9,7 @@ O HTML5 trouxe melhorias importantes em semântica, multimídia, formularios, AP
 
 Pouca semântica.
 
-Estrutura geralmente feita com muitas <div>.
+Estrutura geralmente feita com muitas.
 
 Difícil para motores de busca e acessibilidade.
 
