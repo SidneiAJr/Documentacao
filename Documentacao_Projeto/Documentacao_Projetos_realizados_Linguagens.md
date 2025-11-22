@@ -26,7 +26,6 @@ Desenvolvido como parte do **TCC do Técnico em Desenvolvimento de Sistemas (TDS
 ### Tecnologias Utilizadas:
 - **JavaScript** & **TypeScript**: Para lógica de funcionamento e interatividade.
 - **HTML** & **CSS**: Para a construção da interface visual.
-- **Frameworks**: Utilização de frameworks modernos para criação de interfaces dinâmicas.
 
 ---
 
