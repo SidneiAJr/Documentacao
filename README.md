@@ -218,6 +218,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - De onde veio a ideia?
 - Versão do projeto
 - Por que o projeto?
+- Projetos Realizados com Java Swing, JS, html, css, ts.
 
 ## 📚Física
 - Astronomia
