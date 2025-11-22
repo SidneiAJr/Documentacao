@@ -26,6 +26,7 @@ Desenvolvido como parte do **TCC do Técnico em Desenvolvimento de Sistemas (TDS
 ### Tecnologias Utilizadas:
 - **JavaScript** & **TypeScript**: Para lógica de funcionamento e interatividade.
 - **HTML** & **CSS**: Para a construção da interface visual.
+- **Frameworks**: Utilização de frameworks modernos para criação de interfaces dinâmicas.
 
 ---
 
@@ -56,7 +57,30 @@ Este projeto visa simular os rendimentos de investimentos financeiros simples, c
 
 ---
 
+## 5. **Múltiplos Projetos: Previsão do Tempo e API do Bacen**
+
+Este conjunto de **microprojetos** é composto por sistemas simples desenvolvidos com **HTML**, **CSS**, e **JavaScript**, com foco em APIs externas e funcionalidades úteis.
+
+### Projetos:
+1. **Previsão do Tempo com API**
+   - Integração com uma API de previsão do tempo, fornecendo informações em tempo real sobre o clima.
+   - Permite ao usuário consultar a previsão do tempo em qualquer local.
+
+2. **API do Bacen**
+   - Conecta-se à **API do Banco Central** (Bacen) para acessar informações como taxas de câmbio, taxas de juros, entre outras informações financeiras.
+   - Apresentação dessas informações de forma simples e acessível para o usuário.
+
+3. **Outros Projetos**
+   - Outros mini-projetos baseados em **HTML, CSS, e JavaScript**, utilizando diversas APIs para demonstrar como integrar dados de fontes externas de maneira prática e eficiente.
+
+### Tecnologias Utilizadas:
+- **HTML**: Para estruturação da página.
+- **CSS**: Para estilização e layout da interface.
+- **JavaScript**: Para integração com as APIs e manipulação de dados.
+- **APIs externas**: Previsão do tempo, Bacen, e outras fontes públicas de dados.
+
+---
+
 # 💡 **Considerações Finais**
 Esses projetos representam um ótimo ponto de partida para estudos práticos e para a aplicação de conceitos adquiridos ao longo dos cursos realizados. Cada um deles foi criado com o objetivo de **resolver problemas reais**, seja no campo **da saúde**, **da produtividade**, ou **da educação financeira**, e serve como base para o aprendizado e experimentação em novas tecnologias.
-
 
