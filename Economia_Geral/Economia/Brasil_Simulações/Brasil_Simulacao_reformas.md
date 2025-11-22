@@ -194,8 +194,7 @@ Setores sensíveis, como:
 ---
 
 # 🧩 Quarta Reforma (Simulação): Reestruturação da Indústria Automobilística  
-> **Cenário totalmente ficcional**, criado apenas para estudo de modelos industriais.  
-> **Sem finalidade política, partidária ou econômica real.**
+
 
 Esta simulação explora um modelo hipotético de reorganização da indústria automobilística nacional, com foco em **qualidade**, **autonomia tecnológica**, **competitividade** e **proteção estratégica**.
 
