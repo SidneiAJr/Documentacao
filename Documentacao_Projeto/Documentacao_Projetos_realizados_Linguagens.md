@@ -59,6 +59,4 @@ Este projeto visa simular os rendimentos de investimentos financeiros simples, c
 # 💡 **Considerações Finais**
 Esses projetos representam um ótimo ponto de partida para estudos práticos e para a aplicação de conceitos adquiridos ao longo dos cursos realizados. Cada um deles foi criado com o objetivo de **resolver problemas reais**, seja no campo **da saúde**, **da produtividade**, ou **da educação financeira**, e serve como base para o aprendizado e experimentação em novas tecnologias.
 
-**Próximos passos:**  
-- Expandir funcionalidades e integrar mais **tecnologias modernas**.  
-- **Refinar interfaces** e melhorar a **experiência do usuário** (UX/UI).
+
