@@ -86,4 +86,55 @@
 
 ---
 
+# Java — Comandos Básicos
+
+---
+
+## 📌 Strings — Métodos Essenciais
+
+| Método | Descrição | Exemplo |
+|--------|-----------|---------|
+| `length()` | Retorna o tamanho da string | `"Java".length()` → `4` |
+| `charAt(int index)` | Retorna o caractere na posição indicada | `"Java".charAt(1)` → `'a'` |
+| `substring(int a, int b)` | Retorna parte da string entre os índices | `"Java".substring(1,3)` → `"av"` |
+| `equals(String s)` | Compara strings exatamente | `"a".equals("A")` → `false` |
+| `equalsIgnoreCase(String s)` | Compara ignorando maiúsculas | `"a".equalsIgnoreCase("A")` → `true` |
+| `toLowerCase()` | Converte para minúsculas | `"JAVA".toLowerCase()` |
+| `toUpperCase()` | Converte para maiúsculas | `"java".toUpperCase()` |
+| `trim()` | Remove espaços no início e fim | `"  oi  ".trim()` → `"oi"` |
+| `replace(char old, char new)` | Substitui caracteres | `"Java".replace('a','o')` → `"Jovo"` |
+| `contains(CharSequence s)` | Verifica se contém trecho | `"Java".contains("av")` |
+| `startsWith(String s)` | Verifica se começa com | `"Java".startsWith("Ja")` |
+| `endsWith(String s)` | Verifica se termina com | `"Java".endsWith("va")` |
+| `indexOf(String s)` | Retorna índice da primeira ocorrência | `"Java".indexOf("a")` → `1` |
+| `split(String regex)` | Divide string em partes | `"a,b,c".split(",")` |
+| `isEmpty()` | Verifica se está vazia | `"".isEmpty()` |
+| `isBlank()` | Verifica se contém apenas espaços | `"   ".isBlank()` |
+| `String.valueOf(x)` | Converte valores para string | `String.valueOf(10)` → `"10"` |
+
+---
+
+## 📌 Arrays — Métodos e Funções Comuns
+
+| Método | Descrição | Exemplo |
+|--------|-----------|---------|
+| `array.length` | Tamanho do array | `int[] a = {1,2}; a.length` |
+| `Arrays.toString()` | Converte array para string legível | `Arrays.toString(a)` |
+| `Arrays.copyOf()` | Copia array | `Arrays.copyOf(a, 5)` |
+| `Arrays.copyOfRange()` | Copia intervalo específico | `Arrays.copyOfRange(a,0,2)` |
+| `Arrays.sort()` | Ordena array | `Arrays.sort(a)` |
+| `Arrays.fill()` | Preenche array com valor | `Arrays.fill(a, 0)` |
+| `Arrays.equals()` | Compara arrays | `Arrays.equals(a,b)` |
+| `Arrays.binarySearch()` | Busca binária (array ordenado) | `Arrays.binarySearch(a,5)` |
+| `Arrays.stream()` | Converte para Stream | `Arrays.stream(a)` |
+
+---
+
+## Exemplos rápidos
+
+### 🔹 Dividir string
+```java
+String[] partes = "a-b-c".split("-");
+
+
 
