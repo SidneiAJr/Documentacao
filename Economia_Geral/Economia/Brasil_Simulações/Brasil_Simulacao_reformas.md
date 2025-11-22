@@ -538,8 +538,6 @@ Estímulo à pesquisa naval.
 
 🚀 4. Desenvolvimento Conceitual de Tecnologias Avançadas
 
-(sem especificação de funcionamento)
-
 Programas de pesquisa em propulsão.
 
 Projetos de alta velocidade e nova geração.
