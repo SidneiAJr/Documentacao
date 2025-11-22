@@ -454,7 +454,7 @@ No cenário fictício, a matriz é recalibrada para dar mais foco a solares e nu
 Eólicas são reavaliadas com base em impacto ambiental e custo de expansão.
 
 
-##🌿 3. Redução de Poluição
+## 🌿 3. Redução de Poluição
 
 Substituição gradual de térmicas a carvão e óleo.
 
@@ -530,7 +530,7 @@ integração com polos de tecnologia e metalurgia pesada
 
 ⚙️ 3. Expansão da Indústria Naval e de Sistemas
 
-Desenvolvimento de navios, veículos e sistemas não descritos tecnicamente.
+Desenvolvimento de navios, veículos e sistemas.
 
 Cooperação internacional para engenharia avançada.
 
