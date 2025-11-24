@@ -1,5 +1,4 @@
-# Comparação de Encouraçados - Schefflin (Tier X) vs Pommern (Tier IX) vs Yamato (Tier X) vs West Virginia (Tier IX)
-
+# Review de Navios | Encouraçados Wows
 ---
 
 ## **Schefflin (Tier X)**
