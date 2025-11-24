@@ -27,6 +27,11 @@
 
 ---
 
+### 4.1 **Galaxy Triend Lite**
+
+- **Comentários:** Memoria 512mb, armazemaneto 4gb, trava muito
+
+---
 ### 5. **Motorola E2**
 - **Memória RAM:** 1GB
 - **Armazenamento:** 4GB
