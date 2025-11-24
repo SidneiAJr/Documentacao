@@ -50,7 +50,7 @@
 - **Manobrabilidade ruim**: A **West Virginia** herda as limitações da classe **Colorado**, o que a torna bastante **pesada e difícil de manobrar**.
   
 ### **Pontos fortes:**
-- **Dano consistente**: O **Yamato da América** possui um **grande potencial de dano** com seus canhões de **406 mm**, sendo capaz de dar grandes **doses de dano** a navios mais fracos.
+- **Dano consistente**: O **Yamato da América** possui um **grande potencial de dano** com seus canhões de **380 mm**, sendo capaz de dar grandes **doses de dano** a navios mais fracos.
 - **Resistência à quilha**: Apesar da blindagem fraca, a **West Virginia** não sofre tanto com **dano de quilha**, o que a torna mais resistente que outros encouraçados de Tier IX.
 
 ---
