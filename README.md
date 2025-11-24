@@ -240,6 +240,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 ## 📚Sugestão para Jogos | Melhorias:
 - Warthunder
 - Wows
+- Review Wows | Couraçados e Cruzadores
 
 ## 📚Exemplo de Codigos:
 - JavaScript | Sistema do 3000TI
