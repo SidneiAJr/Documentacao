@@ -11,7 +11,7 @@
 - **Física sem nexo**: Às vezes, é frustrante quando uma **APDSF** atravessa um prédio e a munição **explode a 6km**, o que não faz sentido na vida real.
 - **Física irrealista**: Falta de um comportamento físico realista, o que prejudica a imersão.
 - **Combates sem noção**: Por exemplo, **OAP** (Obus Auto Propulsado) abatendo tanques, o que não tem explicação lógica no contexto do jogo.
-- **Desenvolvedora negligente**: Parece que a **Gaijin** não dá muita atenção à **comunidade**, o que causa descontentamento entre os jogadores.
+- **Desenvolvedora que não da muito atenção**: Parece que a **Gaijin** não dá muita atenção à **comunidade**, o que causa descontentamento entre os jogadores.
 
 ---
 
