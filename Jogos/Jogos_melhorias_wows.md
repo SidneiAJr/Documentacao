@@ -1,4 +1,4 @@
-# 🛠️ **Melhorias Propostas para Jogos de Guerra – WoWs **
+# 🛠️ **Melhorias Propostas para Jogos de Guerra – WoWs**
 
 ## **World of Warships (WoWs)**
 
