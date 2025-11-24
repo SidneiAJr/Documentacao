@@ -1,5 +1,10 @@
 # Comparativo entre WoWs, WoT e War Thunder
 
+> Disclaimer: Este texto é uma opinião pessoal do autor, baseada em suas experiências individuais com os jogos mencionados. As comparações feitas entre War Thunder, World of Tanks e World of Warships são subjetivas e refletem apenas a visão e o julgamento do autor.
+
+Tenho 2000 mil horas de wows e umas 2mil a 3mil horas de warthunder.
+
+
 ---
 
 ## **War Thunder**
