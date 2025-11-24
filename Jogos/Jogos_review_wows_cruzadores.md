@@ -40,6 +40,7 @@
 
 ### **Pontos Fortes**:
 - **Secundária Boa**: A **bateria secundária** é boa e pode ser muito eficaz em combates próximos. Quando ativado o **modo manual**, o alcance das secundárias aumenta para **13 km**, permitindo que você controle melhor os ataques em diferentes distâncias.
+- Esse 13km e so no tier X
   
 ### **Pontos Fracos**:
 - A **taxa de fogo** da secundária pode ser lenta em comparação com outras linhas, mas com o **modo manual**, você tem o controle da **precisão** e pode maximizar o alcance das suas secundárias, o que pode ser uma grande vantagem no combate.
