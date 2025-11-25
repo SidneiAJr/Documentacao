@@ -138,7 +138,6 @@ A pergunta central é:
 Essa reflexão dá origem à proposta imaginária de um modelo alternativo que priorize:
 - desenvolvimento humano,
 - visão de longo prazo,
-- superação do tribalismo político,
 - e foco no progresso civilizacional.
 
 ---
