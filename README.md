@@ -25,6 +25,9 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 |  Curso Java & Java Web | 2024 
 |  Introdução a Economia |2024
 | Introdução a Bitcoin|2024
+| Introdução a C#|2024
+| Desevolvedor de Jogos Unity|2024
+| Desevolvedor Web |2025
 
 ## Formações Planejadas("Quanto Tiver Dinheiro"):
 
