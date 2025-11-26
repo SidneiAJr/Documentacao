@@ -1,5 +1,9 @@
 ## 💡 Sobre o Estado de Bem-Estar Social
 
+> Texto Reflexivo, sem referências bibliográfica.
+
+> Reflexão pessoal sem fontes específicas.
+
 O **Estado de Bem-Estar Social** é um sistema que visa garantir uma rede de proteção para os cidadãos, fornecendo acesso a saúde, educação, assistência social e aposentadoria. Porém, como qualquer sistema complexo, ele enfrenta **vários desafios estruturais** e **econômicos**, principalmente devido às mudanças demográficas e à **pressão financeira**.
 
 ### 🧑‍🤝‍🧑 A Pirâmide Etária: O Desafio Demográfico
