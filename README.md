@@ -252,9 +252,10 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Fake News
 
 ## 📚 Reflexões
-- Sobre o liberalismo
-- Sobre comunismo
-- Sobre Estado de bem estar social
+- Reflexões: Sobre o liberalismo
+- Reflexões: Sobre comunismo
+- Reflexões: Sobre Estado de bem estar social
+- Reflexões: Ciencia
 
 ## Licença
 
