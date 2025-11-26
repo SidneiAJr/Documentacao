@@ -1,5 +1,8 @@
 # Reflexões sobre o Desenvolvimento da Ciência
 
+> Texto Reflexivo, sem referências bibliográfica.
+> Reflexão pessoal sem fontes específicas.
+
 Antigamente, grandes nomes da ciência, como Albert Einstein, faziam suas descobertas com lápis e imaginação. Einstein, por exemplo, foi um dos maiores gênios da história, e grande parte de suas contribuições foram feitas sem a ajuda de computadores modernos. Ele usava apenas calculadoras e papel para realizar os cálculos complexos que levaram à teoria da relatividade.
 
 Um exemplo ainda mais marcante é o desenvolvimento da bomba atômica. A separação do urânio, fundamental para o desenvolvimento dessa tecnologia, foi feita manualmente, sem a ajuda das ferramentas de automação e computação que temos hoje.
