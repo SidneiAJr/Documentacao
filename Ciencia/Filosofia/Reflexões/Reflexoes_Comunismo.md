@@ -1,5 +1,9 @@
 # 🌍 Reflexões - Parte I
 
+> Texto Reflexivo, sem referências bibliográfica.
+
+> Reflexão pessoal sem fontes específicas.
+
 ### 🤔 **Sobre o Comunismo**
 
 O comunismo, tal como idealizado por **Karl Marx**, não se concretizou da forma como foi proposto. Embora tenha sido uma ideia radical e revolucionária para sua época, **o modelo de Marx** não se encaixou nas condições de diversas sociedades modernas.
