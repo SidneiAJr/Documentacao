@@ -1,5 +1,9 @@
 # 💡 **Sobre o Liberalismo**
 
+> Texto Reflexivo, sem referências bibliográfica.
+
+> Reflexão pessoal sem fontes específicas.
+
 O liberalismo econômico, como muitos acreditam, começou com **Adam Smith**, mas já havia pensadores semelhantes antes dele, como **David Ricardo**. Muitos atribuem a Smith o título de "pai da economia", mas a verdade é que ele não foi o único responsável por esse desenvolvimento. 
 
 #### Liberalismo Laissez-Faire
