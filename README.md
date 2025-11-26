@@ -24,7 +24,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 |  Curso HTML JS CSS | 2024 
 |  Curso Java & Java Web | 2024 
 |  Introdução a Economia |2024
-| Introdução a Bitcon|2024
+| Introdução a Bitcoin|2024
 
 ## Formações Planejadas("Quanto Tiver Dinheiro"):
 
