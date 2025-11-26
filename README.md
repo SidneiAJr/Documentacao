@@ -29,7 +29,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 | Desevolvedor de Jogos Unity|2024
 | Desevolvedor Web |2025
 
-## Formações Planejadas("Quanto Tiver Dinheiro"):
+## Formações Planejadas("Quanto Tiver Dinheiro | E com muita Paciencia "):
 
 | Curso                              | 
 |------------------------------------|
