@@ -96,6 +96,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
    - Linux: Gambiarras
    - Linux: Vm's
    - Linux: basico
+   - Linux: WineHq
 - Logica
 - Sistema Operacionais
 - Atalhos de Teclado
