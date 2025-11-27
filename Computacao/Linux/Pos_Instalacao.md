@@ -1,42 +1,39 @@
-# 🧩 Tutorial de Pós-Instalação — Debian Linux
+# Linux | Pós-Instalação
 
-Guia rápido e direto para deixar seu **Debian** pronto para uso após a instalação.  
-Inclui atualização, instalação de programas essenciais, drivers, Flatpak, Snap, personalização e muito mais. 💻🐧
+## Atualização do Sistema
 
----
-
-## ⚠️ Aviso
-Antes de continuar, **crie um ponto de restauração** (se estiver em máquina virtual) ou tenha backup de seus arquivos importantes.  
-Alguns comandos exigem **permissões de superusuário (root)**.
-
----
-
-## 🧱 1. Atualizar o sistema
-
-Logo após instalar o Debian, é importante atualizar os pacotes do sistema:
+A primeira coisa a fazer após instalar a distro é **atualizar o sistema**:
 
 ```bash
-sudo apt update && sudo apt full-upgrade -y
+sudo apt update && sudo apt upgrade -y
+sudo apt dist-upgrade -y
 sudo apt autoremove -y
 ```
 
-## 🧰 2. Instalar pacotes básicos e utilitários
+Instalação de Programas Básicos
 
-sudo apt install -y wget curl git vim nano unzip htop neofetch build-essential software-properties-common
-
-## 🧩 3. Instalar codecs e suporte multimídia
-
-Para reprodução de vídeos e áudios (MP3, MP4, etc):
+Se você instalou uma versão Lite do sistema, ela pode vir bem básica.
+Aí basta instalar softwares essenciais como:
 
 ```bash
-sudo apt install -y ffmpeg vlc gstreamer1.0-plugins-base \
-gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly \
-gstreamer1.0-libav
+sudo apt install firefox vlc -y
 ```
 
-```bash
-sudo apt install -y firefox-esr gimp libreoffice vlc thunderbird \
-filezilla gparted gdebi synaptic
-```
+Você também pode usar a loja de aplicativos da própria distro para instalar o que preferir.
 
+Preferências Pessoais
 
+Não uso Brave nem Chrome no Linux.
+
+Prefiro usar o Firefox — rápido, integrado e leve.
+
+Gosto de usar menu no terminal para agilizar tarefas.
+
+Uso Linux Mint com personalização — fica da hora.
+
+Para editar arquivos de código, uso Vim.
+Para salvar e sair:
+
+Esc
+
+:wq → write & quit (salvar e sair)
