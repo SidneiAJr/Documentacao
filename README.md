@@ -260,7 +260,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Reflexões: Sobre Estado de bem estar social
 - Reflexões: Ciencia
 
-## Review de SO:
+## 📚 Review de SO:
 - Review SO: Windows
 - Review SO: Linux
 - Review SO: Geral
