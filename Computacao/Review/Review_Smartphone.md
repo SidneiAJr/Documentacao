@@ -73,4 +73,13 @@
 
 ---
 
+### 10. Moto C Plus — Análise Técnica
+- O aparelho apresenta lentidão acentuada em tarefas básicas.
 
+- O principal gargalo está nos 1 GB de RAM, insuficiente para rodar o Android de forma fluida nas versões mais recentes.
+
+- A abertura de aplicativos, alternância entre telas e navegação geral sofrem com travamentos frequentes.
+
+- Memória RAM: 1 GB
+
+- Processador: Mediatek MT6737 
