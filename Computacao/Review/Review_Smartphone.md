@@ -78,4 +78,10 @@
 - O principal gargalo está nos 1 GB de RAM, insuficiente para rodar o Android de forma fluida.
 - A abertura de aplicativos, alternância entre telas e navegação geral sofrem com travamentos frequentes.
 - Memória RAM: 1 GB
-- Processador: Mediatek MT6737 
+- Processador: Mediatek MT6737
+
+### Futuro(Quando eu tiver verba porque os guri tão apertado):
+
+- Poco X6 Pro.
+- Redmi Note 14
+- Motorola Moto G51
