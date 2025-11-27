@@ -88,6 +88,14 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
    - Make to Human
 - Libre Office Tutorial
 - Linux
+   - O que e Linux?
+   - Linux Software Uso pessoal
+   - Linux: Comando que mais uso
+   - Linux: Pos Instalação
+   - Linux: Jogos que rodam
+   - Linux: Gambiarras
+   - Linux: Vm's
+   - Linux: basico
 - Logica
 - Sistema Operacionais
 - Atalhos de Teclado
