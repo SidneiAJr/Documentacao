@@ -83,6 +83,76 @@ Se você não usa muito o **Google Maps** e prefere usar o navegador, você pode
 - **Passo 1**: Vá em **Configurações** > **Aplicativos** > **Google Maps**.
 - **Passo 2**: Toque em **Desativar**.
 
+
+## 9. **Aplicativo do Google**
+
+O **Aplicativo do Google** é um dos aplicativos pré-instalados no Android que oferece uma série de funcionalidades, como pesquisa por voz, notícias e recomendações personalizadas. No entanto, se você não usa esses recursos, pode ser útil **desativá-lo** para economizar recursos do dispositivo.
+
+### Como desativar o Aplicativo do Google:
+
+- **Passo 1**: Vá em **Configurações**.
+- **Passo 2**: Selecione **Aplicativos** ou **Apps** (dependendo da versão do Android).
+- **Passo 3**: Encontre e selecione o **Aplicativo do Google** na lista de aplicativos instalados.
+- **Passo 4**: Toque em **Desativar**. Se houver uma opção de **Desinstalar atualizações**, também pode ser útil clicar nela para liberar ainda mais espaço no dispositivo.
+
+Após desativar o aplicativo, ele não consumirá mais recursos de CPU ou memória em segundo plano, e não aparecerá na tela inicial ou na gaveta de aplicativos.
+
+---
+
+### Considerações:
+
+- **Desativação vs. Desinstalação**: Desativar o aplicativo impede que ele seja executado, mas o mantém no dispositivo para ser reativado a qualquer momento. **Desinstalar** o aplicativo pode não ser possível, pois ele é parte do pacote de aplicativos pré-instalados do Android, mas a desativação é uma solução eficaz para evitar consumo de recursos.
+- **Impacto na Pesquisa**: Se você usa o Google para pesquisa de voz, o Google Assistant ou outras funcionalidades, desativá-lo pode impactar esses recursos. Então, avalie se vale a pena desativá-lo com base no seu uso.
+
+---
+
+Agora o **Aplicativo do Google** também está incluído nas configurações para **desativação**, caso você queira **economizar recursos** ou **personalizar mais o seu Android**!
+
+## 10. **Google Assistente**
+
+O **Google Assistente** é um dos recursos mais populares do Android, permitindo que você interaja com seu dispositivo através de comandos de voz, como fazer pesquisas, definir lembretes, controlar dispositivos inteligentes, entre outros. No entanto, se você não utiliza esse recurso ou prefere não usá-lo, pode desativá-lo para economizar bateria e melhorar o desempenho do seu dispositivo.
+
+### Como desativar o Google Assistente:
+
+1. **Passo 1**: Abra **Configurações** no seu dispositivo.
+2. **Passo 2**: Vá até a seção **Google** (geralmente localizada nas opções de "Contas" ou "Serviços Google").
+3. **Passo 3**: Toque em **Pesquisa** ou **Google Assistente**.
+4. **Passo 4**: Na tela de configurações do **Google Assistente**, role para baixo até a seção **Assistente**.
+5. **Passo 5**: Toque em **Assistente do Google**.
+6. **Passo 6**: Desative a opção **Usar o Assistente do Google**.
+
+Após desativar o Google Assistente, ele não será mais ativado por comandos de voz ou ao pressionar o botão de início de voz (como o "Ok Google" ou "Hey Google").
+
+---
+
+### **Problemas Comuns - "Não funciona após desativação"**
+
+**Tentou usar o Google Assistente e não funcionou?** Pode ser que você esteja tentando ativá-lo com o comando de voz ou outro método, mas ele foi desativado corretamente. Aqui estão algumas possíveis razões pelas quais ele pode não estar funcionando após a desativação:
+
+- **Comando de voz "Ok Google"**: Quando o Assistente é desativado, o comando "Ok Google" não será mais reconhecido. Você pode tentar reativar temporariamente para verificar se o comando de voz está funcionando.
+  
+- **Configuração de microfone**: Mesmo com o assistente desativado, o dispositivo pode continuar a ouvir comandos de voz se o microfone estiver ativo em outro aplicativo. Certifique-se de que a opção **"Ok Google"** foi desmarcada nas configurações.
+
+- **Aplicativos em segundo plano**: Verifique se algum outro aplicativo de assistente está utilizando o microfone ou recursos semelhantes.
+
+---
+
+### **Solução de Problemas**
+- Se o **Google Assistente** não funciona mesmo após a desativação, você pode tentar os seguintes passos:
+  1. **Reinicie o dispositivo**: Às vezes, uma reinicialização pode corrigir problemas de configuração.
+  2. **Verifique permissões de microfone**: Certifique-se de que o microfone está habilitado corretamente nas permissões do dispositivo.
+  3. **Reverta a desativação**: Caso queira tentar novamente o Google Assistente, você pode reativá-lo nas configurações e testar novamente.
+
+---
+
+### **Considerações**
+
+- **Desativar vs. Desinstalar**: O Google Assistente não pode ser completamente desinstalado em dispositivos Android, pois é uma parte integrante dos serviços do Google. A **desativação** é o método recomendado para impedir que ele seja ativado automaticamente ou consumido em segundo plano.
+
+Agora, você tem uma explicação clara de como **desativar o Google Assistente** e o que pode ocorrer ao tentar usá-lo depois. Se precisar de mais ajuda, só chamar! 😊
+
+
+
 ---
 
 Essas são as configurações que costumo fazer nos meus dispositivos Android para **otimizar o desempenho**, **economizar bateria** e **personalizar o sistema** de acordo com as minhas preferências. Se precisar de mais alguma configuração ou ajuda, é só chamar! 😊
