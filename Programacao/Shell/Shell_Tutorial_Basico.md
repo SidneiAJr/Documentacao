@@ -21,7 +21,7 @@ O Shell não tem tipos — tudo é string, e números só funcionam em operaçõ
 `Criando variáveis`
 
 ```shell
-nome="Sidnei"
+nome="S"
 idade=25
 ````
 
