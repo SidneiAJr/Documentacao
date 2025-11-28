@@ -93,4 +93,26 @@ echo somarTodos(1, 2, 3, 4); // Exibe "10"
 echo somarTodos(5, 10);      // Exibe "15"
 ```
 
+### Funções de Callback
+- Funções de callback são funções passadas como argumento para outras funções. São úteis para definir comportamentos personalizados em funções padrão.
+```php
+function executarCallback($funcao) {
+    $funcao();  // Chama a função passada como argumento
+}
+
+executarCallback(function() {
+    echo "Função de Callback!";
+}); // Exibe "Função de Callback!"
+```
+
+| Tipo de Função            | Parâmetros                        | Retorno        | Exemplos de Uso                                  |
+| ------------------------- | --------------------------------- | -------------- | ------------------------------------------------ |
+| `Função Simples`          | ❌ Nenhum                          | ❌ Não retorna  | Função de exibição simples                       |
+| `Função com Parâmetros`   | ✅ Recebe valores                  | ✅ Retorna algo | Cálculos ou processamento                        |
+| `Função com Valor Padrão` | ✅ Com valor padrão                | ✅ Retorna algo | Funções com parâmetros opcionais                 |
+| `Função Anônima`          | ✅ Recebe valores                  | ✅ Retorna algo | Funções rápidas e flexíveis                      |
+| `Função Recursiva`        | ✅ Recebe valores                  | ✅ Retorna algo | Cálculos de estrutura repetitiva (como fatorial) |
+| `Função com Retorno`      | ✅ Recebe valores                  | ✅ Retorna algo | Execução e processamento de valores              |
+| `Função Variádica`        | ✅ Números variáveis de parâmetros | ✅ Retorna algo | Funções que recebem muitos parâmetros            |
+| `Funções de Callback`     | ✅ Função passada como parâmetro   | ✅ Retorna algo | Definir comportamentos personalizados            |
 
