@@ -51,34 +51,34 @@ Não é gerenciável (dependendo do modelo), mas oferece estabilidade e velocida
 
 ###  ⚙️ Pontos Técnicos
 
-Hardware mais forte:
+- Hardware mais forte:
 
-Boa quantidade de memória
+- Boa quantidade de memória
 
-Processador mais eficiente
+- Processador mais eficiente
 
-Entrega desempenho estável em redes com grande tráfego.
+- Entrega desempenho estável em redes com grande tráfego.
 
-Porém, não é tão resistente fisicamente quanto os modelos da Intelbras.
+- Porém, não é tão resistente fisicamente quanto os modelos da Intelbras.
 
 ###  ✔️ Pontos Positivos
 
-Desempenho superior
+- Desempenho superior
 
-Memória melhor
+- Memória melhor
 
-Excelente estabilidade
+- Excelente estabilidade
 
 ###  ❌ Pontos Negativos
 
-Menos resistente fisicamente
+- Menos resistente fisicamente
 
-Já encontrado com defeito em campo
+- Já encontrado com defeito em campo
 
-Dependendo da versão, pode não ser gerenciável
+- Dependendo da versão, pode não ser gerenciável
 
-Interface lenta
+- Interface lenta
 
-Pode travar em configurações pesadas
+- Pode travar em configurações pesadas
 
-Hardware fraco para redes maiores
+- Hardware fraco para redes maiores
