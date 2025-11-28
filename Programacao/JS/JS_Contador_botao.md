@@ -55,7 +55,7 @@ function cont(){
 
 ### 🧱 Passos Resumidos
 
-- Criando o H1: Colocamos um <h1> para exibir a saída do contador.
+- Criando o H1: Colocamos um para exibir a saída do contador.
 
 - Criando o Botão: Criamos um botão com o ID contar, que ao ser clicado chama a função cont().
 
