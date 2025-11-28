@@ -1,0 +1,23 @@
+# Documentação - Programação | O que encontra aqui em Computação
+
+- **Atalhos de Teclado**
+- **CyberSegurança**
+- **Docker**
+- **Alterações de Sistema**
+- **Edição de Imagem**
+- **Edição de Vídeo e Gravação**
+- **Eletrônica**
+- **Experiência com Sistemas Operacionais (SO)**
+- **Ferramentas 3D**
+- **Hardware**
+- **Inteligência Artificial e ChatBots**
+- **LibreOffice**
+- **Linux**
+- **Lógica de Programação**
+- **Redes**
+- **Review de Ferramentas**
+- **Sistemas Operacionais**
+- **Terminal**
+- **Virtualização e Máquinas Virtuais (VM)**
+- **Windows**
+- **Documentação de Computação**
