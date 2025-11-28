@@ -2,12 +2,12 @@
 
 ## 🔌 Switch Intelbras SG 2404
 
-🛠️ Visão Geral
+### 🛠️ Visão Geral
 
 O Intelbras SG 2404 é um switch gerenciável voltado para pequenas e médias redes.
 Seu ponto forte é a simplicidade e o fato de vir totalmente em PT-BR, o que facilita o uso para técnicos iniciantes.
 
-⚙️ Pontos Técnicos
+### ⚙️ Pontos Técnicos
 
 Interface web em português, porém pesada e lenta.
 
@@ -23,7 +23,7 @@ Testado em condição extrema:
 
 unidade muito suja, após limpeza voltou a funcionar normalmente (boa tolerância ambiental).
 
-✔️ Pontos Positivos
+###  ✔️ Pontos Positivos
 
 Fácil de configurar
 
@@ -33,16 +33,16 @@ Baixo custo
 
 Alta durabilidade física
 
-❌ Pontos Negativos
+###  ❌ Pontos Negativos
 
 ## 🔌 Switch TP-Link TL-SG1024
 
-🛠️ Visão Geral
+###  🛠️ Visão Geral
 
 O TL-SG1024 é um switch desenvolvido para desempenho, com hardware mais robusto que o Intelbras.
 Não é gerenciável (dependendo do modelo), mas oferece estabilidade e velocidade superiores.
 
-⚙️ Pontos Técnicos
+###  ⚙️ Pontos Técnicos
 
 Hardware mais forte:
 
@@ -54,7 +54,7 @@ Entrega desempenho estável em redes com grande tráfego.
 
 Porém, não é tão resistente fisicamente quanto os modelos da Intelbras.
 
-✔️ Pontos Positivos
+###  ✔️ Pontos Positivos
 
 Desempenho superior
 
@@ -62,7 +62,7 @@ Memória melhor
 
 Excelente estabilidade
 
-❌ Pontos Negativos
+###  ❌ Pontos Negativos
 
 Menos resistente fisicamente
 
