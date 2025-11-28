@@ -84,7 +84,47 @@ fi
 | `=`        | igualdade entre strings |
 
 ## 🧩 Switch Case
+```shell
+case $opcao in
+    1) echo "Opção 1";;
+    2) echo "Opção 2";;
+    *) echo "Inválido";;
+esac
+```
 
+## 🧩Loops
+```shell
+for i in {1..5}; do
+    echo "$i"
+done
+contador=1
 
+while [ $contador -le 5 ]; do
+    echo "$contador"
+    contador=$((contador+1))
+done
+```
+
+## 🧩Entrada do usuário
+```shell
+read -p "Digite seu nome: " nome
+echo "Olá, $nome!"
+```
+
+##🧩Trabalhando com Arquivos
+```shell
+touch arquivo.txt
+cp a.txt b.txt
+mv a.txt pasta/
+rm arquivo.txt
+````
+
+| Comando | Função                   |
+| ------- | ------------------------ |
+| `>`     | sobrescreve arquivo      |
+| `>>`    | adiciona ao arquivo      |
+| `<`     | usa arquivo como entrada |
+| `2>`    | redireciona erros        |
+| `&>`    | saída + erro             |
 
 
