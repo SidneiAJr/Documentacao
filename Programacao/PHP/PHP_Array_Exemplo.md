@@ -59,3 +59,16 @@ $alunos = [
 echo $alunos[0]["notas"][2]; // 9
 ```
 
+## Exemplo de Array:
+- Exemplo de Array Acessando valores:
+
+````php
+<?php
+$ar = ["pedro",20,30];
+
+for($i=0; $i<count($ar); $i++){
+    echo "Indice $i: ".$ar[$i]." \n";
+}
+
+?>
+````
