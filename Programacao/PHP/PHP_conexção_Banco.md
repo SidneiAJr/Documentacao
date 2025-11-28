@@ -8,9 +8,13 @@ Abaixo está um exemplo completo, seguro e padronizado de como fazer isso corret
 Este exemplo mostra como:
 
 ✔ Receber dados via POST
+
 ✔ Validar informações
+
 ✔ Proteger contra SQL Injection
+
 ✔ Hash de senha (obrigatório!)
+
 ✔ Usar prepared statements do MySQLi
 
 ````php
