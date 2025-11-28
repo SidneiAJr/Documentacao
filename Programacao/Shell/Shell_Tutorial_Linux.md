@@ -26,3 +26,28 @@ chmod 777 meu_script.sh
 `✔️ Recomendado: usar apenas o necessário, como +x`
 
 `❌ Não recomendado: usar 777, pois abre permissão total.`
+
+## ▶️ Executando o Script
+````shell
+./meu_script.sh
+````
+
+## ⚙️ Exemplo Básico
+
+````shell
+#!/bin/bash
+
+echo "Olá, Shell Script!"
+````
+
+| Recurso       | Descrição              |
+| ------------- | ---------------------- |
+| `#!/bin/bash` | Define o interpretador |
+| `chmod +x`    | Permite executar       |
+| `echo`        | Exibe texto            |
+| `read`        | Lê entrada             |
+| `if/else`     | Lógica condicional     |
+| `for/while`   | Repetições             |
+| `$variavel`   | Variáveis              |
+| `"$@"`        | Argumentos do script   |
+| `exit 0`      | Finaliza com sucesso   |
