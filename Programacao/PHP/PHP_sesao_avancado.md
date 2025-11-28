@@ -29,7 +29,7 @@ $_SESSION['nivel'] = "admin";
 ?>
 ```
 
-## Regenerando ID de Sessão (Proteção Anti-Hijack)
+## `Regenerando ID de Sessão (Proteção Anti-Hijack)`
 ```php
 session_start();
 session_regenerate_id(true); // Gera um ID totalmente novo
