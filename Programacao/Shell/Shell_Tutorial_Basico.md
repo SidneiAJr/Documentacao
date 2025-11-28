@@ -1,17 +1,18 @@
 # 🐚 Shell Script | Tutorial Básico
 
-O Shell Script é usado para automatizar tarefas no Linux, manipular arquivos, criar sistemas simples e muito mais.
+## O Shell Script é usado para automatizar tarefas no Linux, manipular arquivos, criar sistemas simples e muito mais.
+
 Este guia cobre os principais fundamentos:
 
-Variáveis
+- Variáveis
 
-Funções
+- Funções
 
-Loop (for, while)
+- Loop (for, while)
 
-Condicionais (case)
+- Condicionais (case)
 
-Arrays
+- Arrays
 
 ## 🧩 Variáveis no Shell
 
