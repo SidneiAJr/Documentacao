@@ -64,10 +64,12 @@ echo $alunos[0]["notas"][2]; // 9
 
 ````php
 <?php
-$ar = ["pedro",20,30];
 
-for($i=0; $i<count($ar); $i++){
-    echo "Indice $i: ".$ar[$i]." \n";
+$ar = ["pedro",20,30]; // Array com 3 Valores
+
+
+for($i=0; $i<count($ar); $i++){ // For para acessar o array e percorrer o tamanho
+    echo "Indice $i: ".$ar[$i]." \n"; // Em PHP usa-se count() em vez de length() para arrays
 }
 
 ?>
