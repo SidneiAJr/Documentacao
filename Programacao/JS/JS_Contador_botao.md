@@ -55,14 +55,14 @@ function cont(){
 
 ### 🧱 Passos Resumidos
 
-Criando o H1: Colocamos um <h1> para exibir a saída do contador.
+- Criando o H1: Colocamos um <h1> para exibir a saída do contador.
 
-Criando o Botão: Criamos um botão com o ID contar, que ao ser clicado chama a função cont().
+- Criando o Botão: Criamos um botão com o ID contar, que ao ser clicado chama a função cont().
 
-JavaScript:
+- JavaScript:
 
-Criamos a variável contador iniciada com 0.
+- Criamos a variável contador iniciada com 0.
 
-Criamos a função cont(), que incrementa o valor do contador e atualiza o conteúdo do H1.
+- Criamos a função cont(), que incrementa o valor do contador e atualiza o conteúdo do H1.
 
-Usamos document.getElementById("contador").innerHTML para alterar o conteúdo do H1 com o novo valor de contador.
+- Usamos document.getElementById("contador").innerHTML para alterar o conteúdo do H1 com o novo valor de contador.
