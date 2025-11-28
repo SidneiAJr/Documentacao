@@ -23,9 +23,9 @@ No arquivo `index.html`, vamos criar a estrutura básica com um **H1** para exib
 <h1 id="contador">Contando:</h1>
 <button id="contar" onclick="cont()">Contar</button>
 ````
-- <h1 id="contador">Contando:</h1>: Cria um título com o ID "contador", onde o valor do contador será exibido.
+-  id="contador">Contando:</h1>: Cria um título com o ID "contador", onde o valor do contador será exibido.
 
-- <button id="contar" onclick="cont()">Contar</button>: Cria o botão que, ao ser clicado, chama a função cont() no JavaScript.
+- button id="contar" onclick="cont()">Contar</button>: Cria o botão que, ao ser clicado, chama a função cont() no JavaScript.
 
 ```JS
 let contador = 0;  // Variável contador iniciada com valor 0
