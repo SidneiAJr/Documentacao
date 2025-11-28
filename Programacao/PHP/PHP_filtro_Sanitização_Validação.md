@@ -63,6 +63,29 @@ $string = filter_var("<script>alert('XSS')</script>", FILTER_SANITIZE_FULL_SPECI
 echo $string; // Exibe "&lt;script&gt;alert(&#039;XSS&#039;)&lt;/script&gt;"
 ```
 
+### FILTER_VALIDATE_EMAIL
+- A validação é o processo de garantir que os dados atendem a um formato específico, como se o e-mail tem o formato correto ou se o número é válido.
+```php
+$email = filter_var("teste@exemplo.com", FILTER_VALIDATE_EMAIL);
+if ($email) {
+    echo "E-mail válido!";
+} else {
+    echo "E-mail inválido!";
+}
+```
+
+### FILTER_VALIDATE_URL
+- Valida uma URL.
+```php
+$url = filter_var("http://www.exemplo.com", FILTER_VALIDATE_URL);
+if ($url) {
+    echo "URL válida!";
+} else {
+    echo "URL inválida!";
+}
+```
+
+
 
 
   
