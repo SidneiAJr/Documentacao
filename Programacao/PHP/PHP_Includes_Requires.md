@@ -15,7 +15,7 @@ echo "Conteúdo principal";
 include 'footer.php';
 ```
 
-## 📥 require
+## 📥 `require`
 
 O comando require também insere o conteúdo de outro arquivo,
 mas se o arquivo não existir, o PHP interrompe completamente a execução do script.
@@ -25,7 +25,7 @@ require 'config.php';
 echo "Esse texto nunca será exibido se config.php não existir.";
 ```
 
-♻️ Versões com _once
+### ♻️ `Versões com _once`
 
 Tanto include quanto require têm versões que garantem que o arquivo seja incluído apenas uma vez,
 evitando erros de redefinição de funções ou variáveis.
