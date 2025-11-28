@@ -24,4 +24,5 @@ chmod 777 meu_script.sh
 ````
 
 `✔️ Recomendado: usar apenas o necessário, como +x
+
 ❌ Não recomendado: usar 777, pois abre permissão total.`
