@@ -145,14 +145,4 @@ Após desativar o Google Assistente, ele não será mais ativado por comandos de
 
 ---
 
-### **Considerações**
 
-- **Desativar vs. Desinstalar**: O Google Assistente não pode ser completamente desinstalado em dispositivos Android, pois é uma parte integrante dos serviços do Google. A **desativação** é o método recomendado para impedir que ele seja ativado automaticamente ou consumido em segundo plano.
-
-Agora, você tem uma explicação clara de como **desativar o Google Assistente** e o que pode ocorrer ao tentar usá-lo depois. Se precisar de mais ajuda, só chamar! 😊
-
-
-
----
-
-Essas são as configurações que costumo fazer nos meus dispositivos Android para **otimizar o desempenho**, **economizar bateria** e **personalizar o sistema** de acordo com as minhas preferências. Se precisar de mais alguma configuração ou ajuda, é só chamar! 😊
