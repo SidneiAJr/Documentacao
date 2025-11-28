@@ -231,6 +231,8 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Versão do projeto
 - Por que o projeto?
 - Projetos Realizados com Java Swing, JS, html, css, ts.
+- [Documentação Programação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documentacao_Programa%C3%A7ao.md)
+- [Documentação COmputação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_Computa%C3%A7%C3%A3o.md)
 
 ## 📚Física
 - Astronomia
