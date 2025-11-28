@@ -35,6 +35,8 @@ Alta durabilidade física
 
 ###  ❌ Pontos Negativos
 
+---
+
 ## 🔌 Switch TP-Link TL-SG1024
 
 ###  🛠️ Visão Geral
