@@ -19,7 +19,7 @@ function saudacao() {
 saudacao(); // Chama a função e exibe "Olá, mundo!"
 ```
 
-### Função com Parâmetros:
+### `Função com Parâmetros`:
 - Funções com parâmetros são aquelas que recebem valores externos para serem processados dentro delas.
 
 ```php
@@ -32,7 +32,7 @@ echo $resultado; // Exibe "8"
 ```
 ---
 
-### Função com Valor Padrão:
+### `Função com Valor Padrão`:
 
 - Você pode definir um valor padrão para os parâmetros de uma função. Isso significa que, se o parâmetro não for passado ao chamar a função, o valor padrão será utilizado.
 
@@ -48,7 +48,7 @@ saudacao();        // Exibe "Olá, Visitante!" (valor padrão)
 ```
 ---
 
-### Função Anônima (Função Lambda)
+### `Função Anônima (Função Lambda)`
 - Funções anônimas, também conhecidas como funções lambda, são funções sem nome. Elas podem ser atribuídas a variáveis e passadas como parâmetros para outras funções.
 ```php
 $soma = function($a, $b) {
@@ -58,7 +58,7 @@ $soma = function($a, $b) {
 echo $soma(2, 3); // Exibe "5"
 ```
 
-### Função Recursiva
+### `Função Recursiva`
 - Funções recursivas são aquelas que se chamam a si mesmas. Elas são úteis para resolver problemas de repetição ou divisão, como cálculo de fatorial.
 ```php
 function fatorial($n) {
@@ -71,7 +71,7 @@ function fatorial($n) {
 echo fatorial(5); // Exibe "120" (5 * 4 * 3 * 2 * 1)
 ```
 
-### Função com Retorno
+### `Função com Retorno`
 - Funções podem retornar valores que podem ser utilizados em outras partes do código. O comando return é utilizado para enviar de volta um valor da função.
 ```php
   function multiplicar($a, $b) {
@@ -82,7 +82,7 @@ $resultado = multiplicar(4, 5); // Chama a função e armazena o retorno
 echo $resultado; // Exibe "20"
 ```
 
-### Função Variádica
+### `Função Variádica`
 - Funções variádicas são aquelas que podem receber um número variável de argumentos. No PHP, isso é feito usando o operador ....
 ```php
 function somarTodos(...$numeros) {
@@ -93,7 +93,7 @@ echo somarTodos(1, 2, 3, 4); // Exibe "10"
 echo somarTodos(5, 10);      // Exibe "15"
 ```
 
-### Funções de Callback
+### `Funções de Callback`
 - Funções de callback são funções passadas como argumento para outras funções. São úteis para definir comportamentos personalizados em funções padrão.
 ```php
 function executarCallback($funcao) {
