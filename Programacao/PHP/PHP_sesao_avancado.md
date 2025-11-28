@@ -105,3 +105,14 @@ session.use_strict_mode = 1
 session.sid_length = 64
 session.sid_bits_per_character = 6
 ```
+
+| Técnica             | Protege Contra       |
+| ------------------- | -------------------- |
+| `httponly`          | XSS                  |
+| `secure`            | sniffing em HTTP     |
+| validar IP          | session hijacking    |
+| validar User-Agent  | roubo de cookie      |
+| timeout             | sessões abandonadas  |
+| regenerar ID        | fixation e hijacking |
+| SameSite            | CSRF                 |
+| handler customizado | escalabilidade       |
