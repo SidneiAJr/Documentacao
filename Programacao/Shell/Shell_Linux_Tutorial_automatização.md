@@ -31,8 +31,10 @@ echo "✅ Atualização concluída!"
 
 ## Como Usar:
 
-- 1. Primeiro ter o Vim Instalado:
-- 2. Segundo ter noção de shell kk
+- 1. Primeiro ter o Vim Instalado
+  1.1. sudo apt install vim -y
+- 2. Dar permissão de execução
+- 3. ./atualizar.sh
 
 ## Depois de feito isso:
 ```shell
