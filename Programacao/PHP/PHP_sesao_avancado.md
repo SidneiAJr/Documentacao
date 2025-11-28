@@ -5,7 +5,7 @@ Mas, para aplicações profissionais, é necessário usar sessões com seguranç
 
 Este guia cobre tudo isso em um único documento.
 
-## 🧱 Iniciando uma Sessão da Forma Correta
+## 🧱 `Iniciando uma Sessão da Forma Correta`
 
 O PHP permite iniciar sessões com session_start(), porém existem configurações adicionais que aumentam a segurança.
 
@@ -19,7 +19,7 @@ session_start([
 ?>
 ```
 
-## 🔐 Criando Variáveis de Sessão
+## 🔐 `Criando Variáveis de Sessão`
 ```php
 <?php
 session_start();
@@ -35,7 +35,7 @@ session_start();
 session_regenerate_id(true); // Gera um ID totalmente novo
 ```
 
-## Encerrando Sessão com Segurança
+## `Encerrando Sessão com Segurança`
 ```php
 <?php
 session_start();
@@ -51,7 +51,7 @@ setcookie(session_name(), "", time() - 3600);
 ?>
 ```
 
-## Proteção Contra Session Hijacking
+## `Proteção Contra Session Hijacking`
 ```php
 if (!isset($_SESSION['agente'])) {
     $_SESSION['agente'] = $_SERVER['HTTP_USER_AGENT'];
@@ -61,7 +61,7 @@ if (!isset($_SESSION['agente'])) {
 }
 ```
 
-## Bloqueio por IP
+## `Bloqueio por IP`
 ```php
 if (!isset($_SESSION['ip'])) {
     $_SESSION['ip'] = $_SERVER['REMOTE_ADDR'];
@@ -71,7 +71,7 @@ if (!isset($_SESSION['ip'])) {
 }
 ```
 
-## Definindo Tempo de Expiração da Sessão
+## `Definindo Tempo de Expiração da Sessão`
 ```php
 session_start();
 
@@ -90,7 +90,7 @@ if (!isset($_SESSION['ultimo_acesso'])) {
 }
 ```
 
-## Bloqueando ataques de Session Fixation
+## `Bloqueando ataques de Session Fixation`
 ```php
 session_start();
 session_regenerate_id(true); // Antes de criar sessão do usuário
