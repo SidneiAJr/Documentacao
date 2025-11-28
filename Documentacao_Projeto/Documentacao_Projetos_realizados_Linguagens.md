@@ -81,6 +81,27 @@ Este conjunto de **microprojetos** é composto por sistemas simples desenvolvido
 
 ---
 
+## 6. **Guia dos Guri**
+
+### Ideia do Projeto
+
+O **Guia dos Guri** é um projeto criado com o intuito de **ajudar as pessoas** a desenvolverem seus conhecimentos e habilidades na área de **tecnologia e programação**. O objetivo é compartilhar **experiências pessoais** e **conhecimentos adquiridos ao longo do tempo**, de maneira **gratuita**.
+
+Este guia não é um **curso pago**, mas sim uma **disponibilização de conteúdo** e **dicas** que eu aprendi ao longo da minha jornada, para que você também possa aprender sem precisar investir dinheiro.
+
+### O que você encontra aqui:
+- **Tutoriais práticos** e dicas sobre diversas tecnologias.
+- **Experiências reais** que ajudarão a entender a prática por trás da teoria.
+- **Guias passo a passo** para aprender novas ferramentas e linguagens de programação.
+- **Compartilhamento de recursos gratuitos** e links úteis para estudo.
+
+### Não sou vendedor de curso, sou apenas alguém que quer compartilhar o que aprendeu gratuitamente. O objetivo é ajudar, ensinar, e proporcionar a outros o mesmo acesso ao conhecimento que eu tive. 
+
+---
+
+Sinta-se à vontade para explorar e aprender no seu próprio ritmo. Espero que o Guia dos Guri possa ser útil para sua jornada no mundo da tecnologia! 🚀
+
+
 # 💡 **Considerações Finais**
 Esses projetos representam um ótimo ponto de partida para estudos práticos e para a aplicação de conceitos adquiridos ao longo dos cursos realizados. Cada um deles foi criado com o objetivo de **resolver problemas reais**, seja no campo **da saúde**, **da produtividade**, ou **da educação financeira**, e serve como base para o aprendizado e experimentação em novas tecnologias.
 
