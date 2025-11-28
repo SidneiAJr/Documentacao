@@ -1,77 +1,51 @@
-# 🧠 Funções em PHP – Conceitos, Tipos e Estrutura (Sem Código)
+# PHP | Tutorial de Função:
 
-## 📌 O que é uma Função?
-Uma função é um bloco organizado de instruções que executa uma tarefa específica.  
-Serve para reutilizar lógica, evitar repetição de código e melhorar a manutenção do sistema.
+# 🧩 Tipos de Funções em PHP
 
----
-
-## 🔹 Tipos de Funções em PHP
-
-### 1. Funções Simples
-São funções declaradas pelo usuário para realizar uma ação específica.  
-Possuem nome, podem ou não receber parâmetros e podem ou não retornar valores.
+Em PHP, as funções podem ser definidas de várias maneiras, dependendo do contexto e do comportamento desejado. Abaixo, veremos os principais tipos de funções em PHP.
 
 ---
 
-### 2. Funções com Parâmetros
-Permitem receber valores externos para operar com eles.  
-Esses valores são passados quando a função é chamada.
+## 📥 `Função Simples`
 
+Uma **função simples** é aquela que é definida para executar uma tarefa específica e não recebe parâmetros ou retorna valores, ou então pode retornar um valor simples.
+
+### Exemplo:
+
+```php
+function saudacao() {
+    echo "Olá, mundo!";
+}
+saudacao(); // Chama a função e exibe "Olá, mundo!"
+```
+
+### Função com Parâmetros:
+- Funções com parâmetros são aquelas que recebem valores externos para serem processados dentro delas.
+
+```php
+function somar($a, $b) {
+    return $a + $b;
+}
+
+$resultado = somar(5, 3); // Chama a função com os parâmetros 5 e 3
+echo $resultado; // Exibe "8"
+```
 ---
 
-### 3. Funções com Parâmetros Opcionais
-Aceitam valores padrão caso nenhum valor seja enviado pelo usuário.  
-Úteis quando a função tem um comportamento padrão.
+### Função com Valor Padrão:
 
----
+- Você pode definir um valor padrão para os parâmetros de uma função. Isso significa que, se o parâmetro não for passado ao chamar a função, o valor padrão será utilizado.
 
-### 4. Funções com Tipagem
-Podem ter tipos definidos nos parâmetros e no retorno.  
-Isso ajuda a deixar o código mais seguro e organizado.
+Exemplo:
 
----
+```php
+function saudacao($nome = "Visitante") {
+    echo "Olá, $nome!";
+}
 
-### 5. Funções Anônimas
-Funções sem nome, armazenadas em variáveis ou usadas como argumentos.  
-Muito utilizadas em lógica funcional, filtros, mapeamentos e callbacks.
+saudacao("João");  // Exibe "Olá, João!"
+saudacao();        // Exibe "Olá, Visitante!" (valor padrão)
+```
 
----
 
-### 6. Arrow Functions
-São versões simplificadas das funções anônimas.  
-Mais curtas, diretas e úteis para operações rápidas.
-
----
-
-### 7. Funções com Escopo e Closures
-Closures são funções anônimas que podem acessar variáveis externas ao seu escopo através de um mecanismo especial.  
-Permitem comportamentos mais flexíveis e complexos.
-
----
-
-### 8. Funções Recursivas
-Funções que chamam a si mesmas.  
-Comuns para resolver problemas que podem ser divididos em subproblemas menores.
-
----
-
-## 🔹 Estrutura de uma Função
-Uma função normalmente contém:
-- Nome  
-- Parâmetros (opcionais ou obrigatórios)  
-- Corpo da função (as instruções)  
-- Valor de retorno (opcional)
-
----
-
-## ✔️ Boas Práticas
-- Dê nomes claros e descritivos às funções.  
-- Cada função deve realizar apenas uma tarefa.  
-- Utilize tipagem quando possível.  
-- Evite funções muito longas.  
-- Use parâmetros opcionais somente quando fizer sentido.  
-- Organize funções relacionadas em arquivos separados.
-
----
 
