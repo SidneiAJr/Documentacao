@@ -26,14 +26,14 @@ console.log(elements); // Exibe os elementos com a classe 'minhaClasse' dentro d
 ````
 - Esse método combina o uso do getElementsByClassName com um ID específico, permitindo capturar elementos com uma classe específica dentro de um determinado elemento.
 
-### querySelector
+### `querySelector`
 ````js
 const element = document.querySelector('#meuElemento');
 console.log(element); // Exibe o primeiro elemento com o ID 'meuElemento'
 ````
 - O método querySelector retorna o primeiro elemento que corresponde a um seletor CSS especificado. É mais flexível do que getElementById ou getElementsByClassName, permitindo o uso de qualquer seletor CSS válido.
 
-### querySelectorAll
+### `querySelectorAll`
 ````js
 const elements = document.querySelectorAll('.minhaClasse');
 console.log(elements); // Exibe todos os elementos com a classe 'minhaClasse'
