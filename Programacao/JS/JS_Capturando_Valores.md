@@ -11,14 +11,14 @@ const element = document.getElementById('meuElemento');
 console.log(element); // Exibe o elemento com o ID 'meuElemento'
 ```
 
-### getElementsByClassName
+### `getElementsByClassName`
 ````js
 const elements = document.getElementsByClassName('minhaClasse');
 console.log(elements); // Exibe todos os elementos com a classe 'minhaClasse'
 ````
 - O método getElementsByClassName retorna uma coleção de elementos com a classe especificada. Essa coleção é "ao vivo", ou seja, é automaticamente atualizada quando a estrutura do DOM muda.
 
-### getElementsByClassName
+### `getElementsByClassName`
 ````js
 const parent = document.getElementById('meuElementoPai');
 const elements = parent.getElementsByClassName('minhaClasse');
