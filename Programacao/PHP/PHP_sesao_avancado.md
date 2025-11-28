@@ -24,7 +24,7 @@ session_start([
 <?php
 session_start();
 
-$_SESSION['usuario'] = "SidneiAJr";
+$_SESSION['usuario'] = "S";
 $_SESSION['nivel'] = "admin";
 ?>
 ```
