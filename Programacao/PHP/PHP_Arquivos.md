@@ -1,9 +1,9 @@
 # 📁 PHP | Upload Seguro de Arquivos
 
-´ O upload de arquivos é uma das partes mais perigosas de qualquer aplicação web.
+O upload de arquivos é uma das partes mais perigosas de qualquer aplicação web.
 Se não for bem feito, permite envio de arquivos maliciosos, execução remota e invasões.
 
-Abaixo está um guia completo e padronizado para fazer upload de forma segura.´
+Abaixo está um guia completo e padronizado para fazer upload de forma segura.
 
 ````php
 <?php
@@ -74,6 +74,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 }
 ?>
 ````
+## 📤 📑 Formulário HTML para Upload
 ```html
 <form action="" method="POST" enctype="multipart/form-data">
     <label for="arquivo">Selecione um arquivo:</label>
