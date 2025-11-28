@@ -25,15 +25,20 @@ unidade muito suja, após limpeza voltou a funcionar normalmente (boa tolerânci
 
 ###  ✔️ Pontos Positivos
 
-Fácil de configurar
+- Fácil de configurar
 
-Documentação em PT-BR
+- Documentação em PT-BR
 
-Baixo custo
+- Baixo custo
 
-Alta durabilidade física
+- Alta durabilidade física
 
 ###  ❌ Pontos Negativos
+- Interface lenta
+
+- Pode travar em configurações pesadas
+
+- Hardware fraco para redes maiores
 
 ---
 
