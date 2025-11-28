@@ -46,6 +46,51 @@ function saudacao($nome = "Visitante") {
 saudacao("João");  // Exibe "Olá, João!"
 saudacao();        // Exibe "Olá, Visitante!" (valor padrão)
 ```
+---
 
+### Função Anônima (Função Lambda)
+- Funções anônimas, também conhecidas como funções lambda, são funções sem nome. Elas podem ser atribuídas a variáveis e passadas como parâmetros para outras funções.
+```php
+$soma = function($a, $b) {
+    return $a + $b;
+};
+
+echo $soma(2, 3); // Exibe "5"
+```
+
+### Função Recursiva
+- Funções recursivas são aquelas que se chamam a si mesmas. Elas são úteis para resolver problemas de repetição ou divisão, como cálculo de fatorial.
+```php
+function fatorial($n) {
+    if ($n == 0) {
+        return 1;
+    }
+    return $n * fatorial($n - 1);
+}
+
+echo fatorial(5); // Exibe "120" (5 * 4 * 3 * 2 * 1)
+```
+
+### Função com Retorno
+- Funções podem retornar valores que podem ser utilizados em outras partes do código. O comando return é utilizado para enviar de volta um valor da função.
+```php
+  function multiplicar($a, $b) {
+    return $a * $b;
+}
+
+$resultado = multiplicar(4, 5); // Chama a função e armazena o retorno
+echo $resultado; // Exibe "20"
+```
+
+### Função Variádica
+- Funções variádicas são aquelas que podem receber um número variável de argumentos. No PHP, isso é feito usando o operador ....
+```php
+function somarTodos(...$numeros) {
+    return array_sum($numeros);
+}
+
+echo somarTodos(1, 2, 3, 4); // Exibe "10"
+echo somarTodos(5, 10);      // Exibe "15"
+```
 
 
