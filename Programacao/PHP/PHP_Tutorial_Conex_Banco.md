@@ -24,3 +24,31 @@ $db   = 'meu_banco'; // Nome do banco
 $user = 'root'; // Usuário do banco
 $pass = 'minha_senha'; // Senha do banco
 $charset = 'utf8mb4'; // Charset para garantir a codificação correta
+````
+
+### Explicação do Código:
+
+- $dsn: O Data Source Name (DSN) contém as informações necessárias para conectar ao banco de dados, incluindo o host (localhost), nome do banco e charset.
+
+- new PDO(): Cria uma nova instância do PDO (PHP Data Object), responsável pela conexão com o banco de dados. Ele recebe o DSN, o usuário e a senha do banco.
+
+- $pdo->setAttribute(): Define atributos para a conexão, neste caso, configuramos para lançar exceções em caso de erro.
+
+- try/catch: Usado para tratar possíveis erros de conexão. Caso a conexão falhe, a mensagem de erro será exibida.
+
+### 🔒 Boas Práticas de Conexão com Banco de Dados
+
+- Use PDO (PHP Data Object): PDO é mais flexível e seguro, pois permite o uso de prepared statements, prevenindo SQL Injection.
+
+- Evite armazenar senhas em texto claro: Sempre use funções como password_hash() para armazenar senhas de forma segura.
+
+- Utilize try/catch para tratamento de exceções: Sempre trate erros de conexão para evitar vazamento de informações sensíveis.
+
+### 🧱 Diferenças entre PDO e MySQLi
+
+| Característica                 | PDO                                                         | MySQLi                        |
+| ------------------------------ | ----------------------------------------------------------- | ----------------------------- |
+| **Suporte a múltiplos bancos** | ✅ Suporta diversos bancos (MySQL, SQLite, PostgreSQL, etc.) | ❌ Suporta apenas MySQL        |
+| **Preparação de Consultas**    | ✅ Suporta prepared statements                               | ✅ Suporta prepared statements |
+| **Orientação a Objetos**       | ✅ Sim                                                       | ✅ Sim                         |
+| **Procedural**                 | ❌ Não                                                       | ✅ Sim                         |
