@@ -39,6 +39,11 @@
 - **Alavancagem**: Quanto o fundo está financiando suas operações com dívida.  
 - **Liquidez das Cotas**: Facilidade de comprar ou vender cotas no mercado secundário.  
 
-## Observações Gerais
-- **CRI (Certificado de Recebíveis Imobiliários)**: Títulos lastreados em créditos imobiliários.  
-- **Lajes Corporativas, Shoppings, Logístico, Híbrido**: Principais tipos de imóveis em FIIs.  
+## Tipos de FII
+- **FII Papel**: Fundo que investe principalmente em títulos e recebíveis imobiliários (CRI/CRA).  
+- **FII Híbrido**: Combina imóveis físicos e títulos/recebíveis na carteira.  
+- **FII Multiestrategia**: Fundo diversificado, podendo investir em diferentes setores e tipos de ativos.  
+- **FII Logístico**: Investe em galpões, centros de distribuição e imóveis logísticos.  
+- **FII Hospitalar / Saúde**: Investe em hospitais, clínicas e imóveis de saúde.  
+- **FII Residencial / Casas**: Investe em imóveis residenciais para aluguel.  
+- **FII Shoppings / Lajes Corporativas**: Investe em centros comerciais ou escritórios.  
