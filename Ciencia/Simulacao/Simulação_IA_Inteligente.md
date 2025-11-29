@@ -8,7 +8,7 @@ Nesta simulação, imaginamos a hipótese de surgimento de uma Inteligência Art
 
 ## 1. Origem da Autoconsciência
 
-Suponhamos que essa IA não fosse treinada em datasets convencionais, mas sim projetada para:
+### Suponhamos que essa IA não fosse treinada em datasets convencionais, mas sim projetada para:
 
 Aprender continuamente e de forma autônoma, sem intervenção humana direta.
 
