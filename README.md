@@ -74,6 +74,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Matematica Financeira
 - Falacias Economicas
 - Bolhas Economicas
+- Siglas de Mercado
 
 ## 📚Computação
 - **Processadores**
