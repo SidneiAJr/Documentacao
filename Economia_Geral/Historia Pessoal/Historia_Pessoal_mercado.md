@@ -18,7 +18,6 @@ Iniciei minha jornada em 2017 no mercado de **fundos de investimento**. Durante 
 ### Experiências com FIIs (Fundos Imobiliários)
 - Comecei com **créditos de alto grau de segurança (High Grade)**, que apresentam menor risco e rendimentos estáveis.  
 - Experimentei também FIIs atrelados a **IPCA + taxas elevadas (14% a 19%)**, operações de maior risco e maior volatilidade.  
-- Observei grandes fundos imobiliários apresentarem **preços altamente descontados** em determinados períodos, mostrando oportunidades para investidores com perfil de longo prazo.  
 
 ### Reflexão Final
 - Para quem migra de produtos simples, como CDB, em busca de **diversificação**, é fácil se deparar com armadilhas de taxas e riscos ocultos.  
