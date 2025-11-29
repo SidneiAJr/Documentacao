@@ -27,11 +27,7 @@
 - **LPA (Lucro por Ação)**  
   Lucro líquido da empresa dividido pelo número de ações, usado para calcular P/L.  
 
-- **EV/EBITDA (Enterprise Value / EBITDA)**  
-  Métrica de valuation que relaciona o valor total da empresa ao seu lucro operacional.  
 
-- **Beta**  
-  Medida de volatilidade da ação em relação ao mercado, indica risco relativo.  
 
 - **Margem Líquida**  
   Percentual do lucro líquido em relação à receita da empresa, mostra eficiência operacional.  
