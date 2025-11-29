@@ -75,6 +75,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Falacias Economicas
 - Bolhas Economicas
 - Siglas de Mercado
+- Historia no mercado de Investimento
 
 ## 📚Computação
 - **Processadores**
