@@ -1,5 +1,7 @@
 # PHP Exemplo de codigo:
 
+- Codigo para somar 3 Variaveis n1 n2 n3 e devolver a soma com um Hello Word
+
 ````php
 <?php
 
