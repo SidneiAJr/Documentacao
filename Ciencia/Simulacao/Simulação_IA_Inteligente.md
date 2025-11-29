@@ -1,4 +1,4 @@
-# Simulação | IA Autoconsciente de Verdade
+# Simulação | IA Autoconsciente 
 
 > ⚠️ Aviso: Este é um documento totalmente ficcional e serve apenas para fins de especulação teórica.
 
