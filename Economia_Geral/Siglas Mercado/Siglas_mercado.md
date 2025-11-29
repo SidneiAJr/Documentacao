@@ -1,4 +1,4 @@
-# Siglas de Mercado | Fundos & Ações
+# Siglas de Mercado | Fundos 
 
 ## Fundos
 
