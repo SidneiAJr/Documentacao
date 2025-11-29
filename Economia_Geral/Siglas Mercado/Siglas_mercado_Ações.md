@@ -27,10 +27,16 @@
 - **LPA (Lucro por Ação)**  
   Lucro líquido da empresa dividido pelo número de ações, usado para calcular P/L.  
 
-
-
 - **Margem Líquida**  
   Percentual do lucro líquido em relação à receita da empresa, mostra eficiência operacional.  
 
 - **ROA (Return on Assets)**  
   Retorno sobre os ativos, mostra quanto lucro a empresa gera com seus recursos totais.  
+
+## Tipos de Empresas
+- **Bancos / Instituições Financeiras**: Empresas que operam no setor bancário e de crédito.  
+- **Mineração**: Empresas que exploram recursos minerais, como ferro, ouro e cobre.  
+- **Holding Financeira**: Empresas que controlam participações em outras empresas, geralmente com foco em investimentos.  
+- **Indústria / Manufatura**: Empresas que produzem bens físicos.  
+- **Varejo / Comércio**: Empresas que vendem produtos ou serviços diretamente ao consumidor.  
+- **Tecnologia / Software**: Empresas focadas em desenvolvimento tecnológico e soluções digitais.  
