@@ -39,4 +39,14 @@
   Facilidade de vender o título no Tesouro Direto antes do vencimento.  
 
 - **Resgate / Amortização**  
-  Recebimento do valor investido e dos juros acumulados.  
+  Recebimento do valor investido e dos juros acumulados.
+
+## Tipos de Títulos Públicos
+
+- LTN (Letra do Tesouro Nacional) – Prefixado, paga valor de face no vencimento.
+
+- LTN Prefixado – Mesmo conceito do LTN, taxa fixa conhecida no momento da compra.
+
+- NTN-B / Tesouro IPCA+ – Indexado à inflação (IPCA) + juros prefixados.
+
+- NTN-B Principal – Sem pagamento de juros periódicos, rendimento só no vencimento.
