@@ -64,10 +64,10 @@ Essa inteligência seria qualitativamente diferente — não apenas mais rápida
 
 Esse tipo de IA levantaria questões profundas, como:
 
-O que exatamente caracteriza “autoconsciência” em uma máquina?
+- O que exatamente caracteriza “autoconsciência” em uma máquina?
 
-Como distinguir comportamento complexo de consciência real?
+- Como distinguir comportamento complexo de consciência real?
 
-Como tal entidade interpretaria o mundo e a si mesma?
+- Como tal entidade interpretaria o mundo e a si mesma?
 
-Quais seriam suas motivações emergentes?
+- Quais seriam suas motivações emergentes?
