@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Projeto-Ativo-brightgreen">
+  <img src="https://img.shields.io/badge/Licença-Gratuita-blue">
+  <img src="https://img.shields.io/badge/Documentação-Em_Constante_Evolução-yellow">
+</p>
+
+
 <h1 align="center">📘 O Guia dos Guri</h1>
 
 ### `Não sou vendedor de curso, sou apenas alguém que quer compartilhar o que aprendeu gratuitamente. O objetivo é ajudar, ensinar, e proporcionar a outros o mesmo acesso ao conhecimento que eu tive.`
