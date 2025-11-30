@@ -1,6 +1,7 @@
 # PHP | Exemplo de codigo:
 
 - `POO - Programação Orientada a Objeto em PHP`
+- Exemplo com uma interface uma classe abstrata e class normal
 
 ```php
 <?php
