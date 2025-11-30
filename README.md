@@ -149,10 +149,10 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - [JavaScript | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/JS)
 - [C# | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_C%23.md)
 - [C++ | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_c%2B%2B.md)
-- Framework(Angular Js e React JS)
+- [Framework(Angular Js e React JS)| Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Frameworks)
 - [SQl | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_Sql.md)
-- Shell
-- C
+- [Shell | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Shell)
+- [C | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/C)
 - Cobol
 - Dart
 
