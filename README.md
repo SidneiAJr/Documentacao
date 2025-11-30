@@ -139,14 +139,14 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
     
 ## 📚Programação 
 - [☕Guia de Java | Documentação ](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_Java.md)
-- CSS
-- HTML
-- Typescript
+- [CSS | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/CSS)
+- [Guia de HTML | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/HTML)
+- [Typescript | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Typescript)
 - [Logica de Programação| Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Logica_programacao)
 - [🐘PHP | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_PHP.md)
-- Python
-- Vercel
-- JavaScript
+- [Python | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Python)
+- [Vercel | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Vercel)
+- [JavaScript | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/JS)
 - [C# | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_C%23.md)
 - [C++ | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_c%2B%2B.md)
 - Framework(Angular Js e React JS)
