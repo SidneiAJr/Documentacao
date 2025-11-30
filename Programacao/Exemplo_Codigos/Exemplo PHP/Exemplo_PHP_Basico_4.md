@@ -61,11 +61,4 @@ function limparEntrada($valor) {
 
 ---
 
-Se quiser, posso montar agora:
 
-🔥 **Conexão PDO completa (nível profissional)**
-🔥 **CRUD básico**
-🔥 **CRUD com prepared statements (seguro)**
-🔥 **Conexão com POO / Singleton / Interface / Classe abstrata**
-
-Só mandar!
