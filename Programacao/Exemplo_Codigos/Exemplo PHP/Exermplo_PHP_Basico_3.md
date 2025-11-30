@@ -1,6 +1,6 @@
 # PHP | Exemplo de codigo:
 
-## `POO - Soma com readline funciona somente no compilador web`
+## `POO — Soma com readline() (funciona apenas no terminal/compilador web)`
 
 ## Aqui temos 4 valores mais a soma, mais redline e uma interface com dois metodos.
 
