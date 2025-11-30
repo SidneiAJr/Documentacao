@@ -151,9 +151,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - C++
    - QtCreator
 - Framework(Angular Js e React JS)
-- SQl
-   - Basico de SQL
-   - Consultas
+- [SQl | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_Sql.md)
 - Shell
 - C
 - Cobol
