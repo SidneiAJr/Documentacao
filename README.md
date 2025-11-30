@@ -147,13 +147,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Python
 - Vercel
 - JavaScript
-- C#
-  - Unity
-  - Basico de C#
-  - POO em C#
-  - Memoria em C#
-  - Banco de dados com C#
-    - Visual Studio
+- [C# | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_C%23.md)
 - C++
    - QtCreator
 - Framework(Angular Js e React JS)
