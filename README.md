@@ -138,18 +138,12 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Review: PowerBank
     
 ## 📚Programação 
-- ☕Guia de **Java** 
-    - ☕Basico de Java 
-    - ☕Java Swing 
-    - ☕Java netBeans 
-    - ☕Java poo 
-    - ☕Java memoria 
-    - ☕Banco de dados em Java 
+- [☕Guia de Java | Documentação ](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_Java.md)
 - CSS
 - HTML
 - Typescript
 - Logica de Programação
-- [PHP | Documerntação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_PHP.md)
+- [🐘PHP | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_PHP.md)
 - Python
 - Vercel
 - JavaScript
