@@ -4,7 +4,7 @@
 
 ## Aqui temos 4 valores mais a soma, mais redline e uma interface com dois metodos.
 
-
+```php
 <?php
 
 interface Ver {
@@ -60,3 +60,4 @@ $calc->somar();
 $calc->subtracao();
 
 ?>
+````
