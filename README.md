@@ -148,8 +148,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Vercel
 - JavaScript
 - [C# | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_C%23.md)
-- C++
-   - QtCreator
+- [C++ | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_c%2B%2B.md)
 - Framework(Angular Js e React JS)
 - [SQl | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_Sql.md)
 - Shell
