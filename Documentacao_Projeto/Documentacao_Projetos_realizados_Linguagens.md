@@ -95,13 +95,43 @@ Este guia não é um **curso pago**, mas sim uma **disponibilização de conteú
 - **Guias passo a passo** para aprender novas ferramentas e linguagens de programação.
 - **Compartilhamento de recursos gratuitos** e links úteis para estudo.
 
-### Não sou vendedor de curso, sou apenas alguém que quer compartilhar o que aprendeu gratuitamente. O objetivo é ajudar, ensinar, e proporcionar a outros o mesmo acesso ao conhecimento que eu tive. 
+### `Não sou vendedor de curso, sou apenas alguém que quer compartilhar o que aprendeu gratuitamente. O objetivo é ajudar, ensinar, e proporcionar a outros o mesmo acesso ao conhecimento que eu tive.`
 
 ---
+
+## 7. APP - Prime Tools
+
+App de Android somente pensado para ter 26 funções projeto ainda em desevolvimento, feito completamente em java.
+
+- Proventos / Quantidade para investir.
+- DY 
+- Consumo de Watts / Conversor de W
+- Montador de PC com watts
+- Conversor de C F H, para temperatura e horas anos e dias
+- Valor futuro investimento, Aplicação em CDI 
+- Aplicação em CDB IPCA
+- Salário horas custo
+- Juros para verificar % de rendimento até o momento
+- Custo da ação da empresa 
+- Tabuada 
+- Economia de mercado
+- Desconto só débito 
+- Imposto de FII e ação.
+- Calculadora de 30% do salário mais reserva
+- Custo de vida para 1 ano + % do salário usado para as contas
+- Preço médio de ativos Fii e ações 
+- Consumo de combustível e distância.
+- Calculadora de Deposito
+- Calculadora de IPVA
+- Calculadora de empréstimo
+- Calculadora de consórcio 
+- Calculadora de CDI
+
 
 Sinta-se à vontade para explorar e aprender no seu próprio ritmo. Espero que o Guia dos Guri possa ser útil para sua jornada no mundo da tecnologia! 🚀
 
 
 # 💡 **Considerações Finais**
 Esses projetos representam um ótimo ponto de partida para estudos práticos e para a aplicação de conceitos adquiridos ao longo dos cursos realizados. Cada um deles foi criado com o objetivo de **resolver problemas reais**, seja no campo **da saúde**, **da produtividade**, ou **da educação financeira**, e serve como base para o aprendizado e experimentação em novas tecnologias.
+
 
