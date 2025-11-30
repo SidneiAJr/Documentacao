@@ -142,7 +142,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - CSS
 - HTML
 - Typescript
-- Logica de Programação
+- [Logica de Programação| Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Logica_programacao)
 - [🐘PHP | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_PHP.md)
 - Python
 - Vercel
