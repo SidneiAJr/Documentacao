@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" height=50px>
   <img src="https://img.shields.io/badge/Projeto-Ativo-brightgreen">
   <img src="https://img.shields.io/badge/Licença-Gratuita-blue">
   <img src="https://img.shields.io/badge/Documentação-Em_Constante_Evolução-yellow">
