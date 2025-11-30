@@ -149,16 +149,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - HTML
 - Typescript
 - Logica de Programação
-- PHP
-  - PHP: Basico
-  - PHP: Array
-  - PHP: POO
-  - PHP: POO
-  - PHP: XAMP
-  - PHP: Web
-  - PHP: Conexção de Banco
-  - PHP: Saidas Strings
-  - PHP: Var Dump
+- [PHP | Documerntação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_PHP.md)
 - Python
 - Vercel
 - JavaScript
