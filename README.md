@@ -153,8 +153,8 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - [SQl | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_Sql.md)
 - [Shell | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Shell)
 - [C | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/C)
-- Cobol
-- Dart
+- [Cobol | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Cobol)
+- [Dart | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Dart)
 
 ## 📚História Geral
 - História do Brasil
