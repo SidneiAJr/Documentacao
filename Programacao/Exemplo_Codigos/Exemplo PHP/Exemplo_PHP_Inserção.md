@@ -88,7 +88,7 @@ if(isset($_FILES["f_foto"]) && !empty($_FILES["f_foto"]["name"])){
 
 ### Explicações:
 
-📌 Cadastro de Alunos com Upload de Foto (PHP + MySQL + Upload Seguro)
+### `📌 Cadastro de Alunos com Upload de Foto (PHP + MySQL + Upload Seguro)`
 
 Este script permite:
 
