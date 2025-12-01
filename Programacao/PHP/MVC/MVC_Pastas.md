@@ -2,7 +2,7 @@
 
 ## `Estrtura de pasta do mvc para Projetos`:
 
-````bash
+````Shell
 md app
 md app\Controllers
 md app\Models
