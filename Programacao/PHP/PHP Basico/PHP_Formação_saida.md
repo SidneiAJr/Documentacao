@@ -74,3 +74,25 @@ Array
 */
 ```
 
+## Uso de var_dump() para Depuração de Variáveis
+```php
+$numero = 10;
+var_dump($numero);  // Saída: int(10)
+```
+
+## Quebra de Linha com \n
+```php
+echo "Olá, Mundo!\n";  // Saída: Olá, Mundo! (com quebra de linha no console)
+```
+
+| Função/Operação | Descrição                                                                  |
+| --------------- | -------------------------------------------------------------------------- |
+| `echo`          | Imprime variáveis e strings de forma simples.                              |
+| `sprintf()`     | Permite formatar números, strings e outras variáveis de maneira detalhada. |
+| `print_r()`     | Exibe a estrutura de arrays ou objetos.                                    |
+| `var_dump()`    | Exibe o tipo e o valor de variáveis.                                       |
+| `print`         | Funciona como `echo`, mas retorna sempre 1.                                |
+| `\n`            | Quebra de linha em strings no console.                                     |
+
+
+
