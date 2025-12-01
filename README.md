@@ -213,16 +213,13 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Review Wows | Couraçados e Cruzadores
 
 ## 📚Exemplo de Codigos:
-[Exemplo de Codigo](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Exemplo_Codigos)
+- [Exemplo de Codigo](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Exemplo_Codigos)
 
 ## 📚 Estudo de Caso:
 - Fake News
 
 ## 📚 Reflexões
-- Reflexões: Sobre o liberalismo
-- Reflexões: Sobre comunismo
-- Reflexões: Sobre Estado de bem estar social
-- Reflexões: Ciencia
+- [Reflexões](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia/Reflex%C3%B5es)
 
 ## 📚 Review de SO:
 - Review SO: Windows
