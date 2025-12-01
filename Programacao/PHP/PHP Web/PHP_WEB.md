@@ -6,7 +6,7 @@ include "conexao.php";
 
 // Recebe os valores do formulário enviados via POST
 $usuario = $_POST["f_usuario"];
-$senha   = $_POST["f_senha"]; //
+$senha   = $_POST["f_senha"]; 
 
 // Monta a query SQL para selecionar o usuário pelo login
 $sql = "select *FROM tab_usuario where usu_login ='$usuario'";
