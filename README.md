@@ -213,10 +213,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Review Wows | Couraçados e Cruzadores
 
 ## 📚Exemplo de Codigos:
-- JavaScript | Sistema do 3000TI
-- Java POO  | Exemplo de codigo
-- C# Exemplo de POO
-- Java Swing 
+[Exemplo de Codigo](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Exemplo_Codigos)
 
 ## 📚 Estudo de Caso:
 - Fake News
