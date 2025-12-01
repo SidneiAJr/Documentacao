@@ -1,8 +1,8 @@
 # PHP | Capturando Informações do Form:
 
-`Captura de Formulário + Login Seguro em PHP (mysqli + password_verify)`
+## `Captura de Formulário + Login Seguro em PHP (mysqli + password_verify)`
 
-`Este exemplo demonstra como capturar dados de um formulário via POST, consultar o banco de dados com Prepared Statements e validar senha utilizando password_verify(), seguindo as práticas modernas de segurança no PHP.`
+## `Este exemplo demonstra como capturar dados de um formulário via POST, consultar o banco de dados com Prepared Statements e validar senha utilizando password_verify(), seguindo as práticas modernas de segurança no PHP.`
 
 - Arquivo:
 
