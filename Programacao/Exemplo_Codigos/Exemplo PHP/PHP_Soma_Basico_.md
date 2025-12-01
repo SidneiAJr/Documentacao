@@ -1,6 +1,6 @@
 # PHP | Soma Basico:
 
-## `Exemplo de codigo PHP | Soma com casa decimal`
+## `Exemplo de codigo PHP | Multiplicação com casa decimal`
 
 ```php
 <?php
