@@ -63,22 +63,14 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## 📚Filosofia
 - [Criticas](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia/Critica)
-- Filosofia Geral
+- [Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
 
 ## 📚Ciencia Brasileira
 - Grande Nomes por areas
 - Fisicos
 
 ## 📚Economia
-- Economia do Brasil
-- Simulações Econômicas
-- Introdução à Economia
-- Economia verde
-- Matematica Financeira
-- Falacias Economicas
-- Bolhas Economicas
-- Siglas de Mercado
-- Historia no mercado de Investimento
+- [Economia Geral](https://github.com/SidneiAJr/Documentacao/tree/main/Economia_Geral)
 
 ## 📚Computação
 - **Processadores**
@@ -158,17 +150,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - [Dart | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Dart)
 
 ## 📚História Geral
-- História do Brasil
-- História Econômica do Brasil & Moedas
-- Diferença de Desenvolvimento entre o Brasil e os EUA
-- Quantidades de Presidentes e imperadores do Brasil
-- Reformas Monetarias no brasil
-- Moedas do Brasil
-- Economia do Brasil
-- Historia da Tecnologia
-- Historia da Computação
-- Historia : Sistema administrativo Brasil x EUA
-- Historia : Sistema de Voto Brasil x EUA
+- [Historia do Brasil | Historia Tecnologia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Historia_Geral)
 
 ## 📚Experiência em TI
 - Experiência Profissional
