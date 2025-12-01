@@ -1,4 +1,4 @@
-# 📚 Formatação de Saídas em PHP
+# 📚PHP | Formatação de Saídas em PHP
 
 ## Impressão Simples com echo
 
