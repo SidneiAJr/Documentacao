@@ -4,7 +4,7 @@
 
 ### `Este exemplo demonstra como capturar dados de um formulário via POST, consultar o banco de dados com Prepared Statements e validar senha utilizando password_verify(), seguindo as práticas modernas de segurança no PHP.`
 
-- Arquivo: Login.php
+- ### Arquivo: Login.php
 
 ```php
 <?php
@@ -47,7 +47,7 @@ if(password_verify($senha, $linha["usu_senha"])){
 
 ## Conexção de PHP
 
-- Arquivo: conexao.php
+- ### Arquivo: conexao.php
 
 ```php
 <?php
