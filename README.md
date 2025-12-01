@@ -62,13 +62,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - [Experiencia TI](https://github.com/SidneiAJr/Documentacao/tree/main/Experiencia_TI)
 
 ## 📚Filosofia
-- Críticas:
-   - Critica Economicas
-   - Critica Ideologia
-   - Critica TI
-   - Critica ao desevolvimento humano
-   - Critica ao Nobel
-   - Critica a Polarização
+- [Criticas](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia/Critica)
 - Filosofia Geral
 
 ## 📚Ciencia Brasileira
