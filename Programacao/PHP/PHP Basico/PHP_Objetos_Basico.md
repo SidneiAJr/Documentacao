@@ -1,6 +1,3 @@
-# 📄 **2️⃣ — PHP_Objetos_Basico.md**
-
-```md
 # PHP – Programação Orientada a Objetos (Básico)
 
 A POO no PHP permite organizar o código em classes e objetos.  
