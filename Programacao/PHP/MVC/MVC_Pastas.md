@@ -1,6 +1,6 @@
 # PHP | MVC Pastas:
 
-## `Estrtura de pasta do mvc` para Projetos:
+## `Estrtura de pasta do mvc para Projetos`:
 
 ````bash
 md Models
