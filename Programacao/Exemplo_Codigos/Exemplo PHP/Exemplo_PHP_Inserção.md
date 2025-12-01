@@ -11,7 +11,7 @@ require "../atv3/conexao.php";
 // 1. RECEBE E VALIDA DADOS
 // --------------------------
 $nome  = trim($_POST["f_codigo"]);
-$nivel = trim($_POST["f_nivel"]); // Ajustei o nome do campo que estava faltando
+$nivel = trim($_POST["f_nivel"]); 
 
 $erro = false;
 
