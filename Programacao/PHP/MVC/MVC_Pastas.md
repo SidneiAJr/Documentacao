@@ -1,6 +1,6 @@
 # 🐘PHP | MVC Pastas:
 
-## `Estrtura de pasta do mvc para Projetos`:
+## `Estrutura de pasta do mvc para Projetos`:
 
 ````Shell
 md app
