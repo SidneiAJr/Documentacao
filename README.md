@@ -153,16 +153,10 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - [Historia do Brasil | Historia Tecnologia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Historia_Geral)
 
 ## 📚Experiência em TI
-- Experiência Profissional
-  - Experiencias Pessoais
-  - Experiencias de vagas fora da realidade
-  - Experiencias perguntas tiltantes
-  - Experiencias Entrevista Comum
-  - Experiencias Entrevista tecnica
-  - Experiencias Vagas Internas
-- Carreira
-- Cursos 
-- Formações(ADS,SGI,Tecnico Informatica,Tecnico em desevolvimento Sistemas)
+- [Experiência em TI](https://github.com/SidneiAJr/Documentacao/tree/main/Experiencia_TI)
+- [Formações](https://github.com/SidneiAJr/Documentacao/tree/main/Forma%C3%A7%C3%B5es)
+- [Curso](https://github.com/SidneiAJr/Documentacao/tree/main/Forma%C3%A7%C3%B5es/Cursos)
+- [Conhecimento de Linguagem](https://github.com/SidneiAJr/Documentacao/tree/main/Forma%C3%A7%C3%B5es/Conhecimento_Linguagens)
 
 ## 📚Simulações de Ideias(Fictional)
 - Simulação de Ideias Futuristas
