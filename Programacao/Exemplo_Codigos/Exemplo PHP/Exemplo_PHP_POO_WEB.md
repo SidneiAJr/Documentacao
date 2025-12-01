@@ -109,6 +109,8 @@ $login->Login("s", "1234");
 ?>
 ````
 
+## Pontos do Sistema:
+
 | Recurso             | Benefício                     |
 | ------------------- | ----------------------------- |
 | Interface           | Padronização                  |
