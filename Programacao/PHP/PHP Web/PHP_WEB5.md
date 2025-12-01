@@ -95,7 +95,7 @@ class Usuario extends UsuarioBase {
 $login = new Usuario();
 
 // Chamamos o método Login passando o nome e a senha para testar a autenticação.
-$login->Login("sidnei", "1234");
+$login->Login("s", "1234");
 
 ?>
 ```
