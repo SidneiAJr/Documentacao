@@ -17,14 +17,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"height=60px width=60px />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"height=60px width=60px />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"height=60px width=60px  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"height=60px width=60px />
-          
-    
-          
-          
-          
-          
-          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"height=60px width=60px /> 
 </p>
 
 ---
@@ -45,7 +38,7 @@
 
 Este repositório tem como objetivo guardar e compartilhar o conhecimento adquirido ao longo da vida, com o intuito de ajudar outras pessoas que buscam aprendizado em diversas áreas. Se você está em busca de informações, curiosidades ou quer explorar temas variados, fique à vontade para navegar e aprender. Espero que este conteúdo seja útil para sua jornada de aprendizado, assim como foi para a minha.
 
-## Minhas Formações
+## 🎓Minhas Formações
 
 | Curso                              | Período         |
 |------------------------------------|-----------------|
@@ -55,7 +48,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 | Técnico em Desenvolvimento de Sistemas | 2025 a 2026 |
 
 
-## Cursos Realizados:
+## 📚Cursos Realizados:
 
 | Curso                              | Período         
 |------------------------------------|-----------------|
@@ -70,7 +63,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 | Desevolvedor de Jogos Unity|2024
 | Desevolvedor Web |2025
 
-## Formações Planejadas("Quanto Tiver Dinheiro | E com muita Paciencia "):
+## ⁉️Formações Planejadas("Quanto Tiver Dinheiro | E com muita Paciencia "):
 
 | Curso                              | 
 |------------------------------------|
