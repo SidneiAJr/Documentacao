@@ -92,7 +92,7 @@ public class Aula1 {
 }
 ````
 
-### `Array Set - List`
+### `Array Set |List`
 
 ````java
 package aula0212;
@@ -122,3 +122,54 @@ public class Aula0212 {
     }
 }
 ````
+
+
+## Array | MAP
+
+```java
+package aula0212;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Aula0212 {
+
+    public static void main(String[] args) {
+
+        // Mapa de magos e seus poderes
+        Map<String, Double> poderes = new HashMap<>();
+
+        poderes.put("Eldrin", 750.0);
+        poderes.put("Mira", 920.0);
+        poderes.put("Thalos", 860.3);
+
+        // Atualizando o poder de Eldrin e guardando o valor antigo
+        double poderAntigoEldrin = poderes.put("Eldrin", 800.0);
+
+        // Recuperando valores
+        double poderMira = poderes.get("Mira");
+
+        // Exibindo todos os registros
+        System.out.println("Lista de Magos e seus Poderes:");
+        for (Map.Entry<String, Double> entry : poderes.entrySet()) {
+            System.out.println("Mago: " + entry.getKey() + " | Poder: " + entry.getValue());
+        }
+
+        // Exibições individuais
+        System.out.println("\nPoder de Mira: " + poderMira);
+        System.out.println("Poder antigo de Eldrin: " + poderAntigoEldrin);
+        System.out.println("Poder atual de Eldrin: " + poderes.get("Eldrin"));
+
+        // Tamanho total
+        int totalMagos = poderes.size();
+        System.out.println("Quantidade Total de Magos: " + totalMagos);
+    }
+}
+````
+## Quadro Comparativo – Array vs Set vs Map
+
+| Estrutura | Como funciona                                                | Aceita valores repetidos?    | Mantém ordem?                    | Acesso por índice? | Acesso por chave?        | Usos típicos                                         |
+| --------- | ------------------------------------------------------------ | ---------------------------- | -------------------------------- | ------------------ | ------------------------ | ---------------------------------------------------- |
+| **Array** | Lista fixa de elementos, sempre com tamanho definido.        | ✔ Sim                        | ✔ Sim (ordem de inserção)        | ✔ Sim              | ✖ Não                    | Listas simples, dados em sequência.                  |
+| **Set**   | Conjunto que armazena valores únicos.                        | ✖ Não (remove duplicados)    | ✖ Não (HashSet não mantém ordem) | ✖ Não              | ✖ Não                    | Garantir que não existam repetidos, coleções únicas. |
+| **Map**   | Estrutura de chave → valor. Cada chave aponta para UM valor. | Chave: ✖ Não<br>Valor: ✔ Sim | ✖ Não (HashMap não ordena)       | ✖ Não              | ✔ Sim (acessa por chave) | Dicionários, cadastros, tabelas de busca, configs.   |
