@@ -9,39 +9,58 @@ public class HelloWorld
     public static void Main(string[] args)
     {
         int[] array = new int[5];
-        for(int i=0; i<array.Length; i++){
-            array[i] = i * 2;  
+
+        for (int i = 0; i < array.Length; i++)
+        {
+            array[i] = i * 2;
             Console.WriteLine(array[i]);
         }
     }
 }
+
 ```
 
 ##  `Imprimindo na Posição:`
 ````C#
 using System;
-class Array{
-    static void Main(){
-        int n1,n2,n3,n4,n5;
-        int[] array=new int[5];
-        n1= array[1];
-        array[0]=1;
-        array[1]=10;
-        array[2]=100;
-        array[3]=1000;
-        array[4]=10000;
 
-     Console.WriteLine("O Valor do array",array);
-     Console.WriteLine(array[0]);
-     Console.WriteLine(array[1]);
-     Console.WriteLine(array[2]);
-     Console.WriteLine(array[3]);
-     Console.WriteLine(array[4]);
-     Console.WriteLine(n1);
-     Console.WriteLine(num[3]);
+class ArrayExemplo
+{
+    static void Main()
+    {
+        int[] array = new int[5];
 
- 
+        array[0] = 1;
+        array[1] = 10;
+        array[2] = 100;
+        array[3] = 1000;
+        array[4] = 10000;
 
+        // Agora sim: capturar n1 depois de preencher
+        int n1 = array[1];
+
+        Console.WriteLine("Array completo:");
+
+        // Imprime todas as posições
+        for (int i = 0; i < array.Length; i++)
+        {
+            Console.WriteLine($"Posição {i}: {array[i]}");
+        }
+
+        Console.WriteLine();
+        Console.WriteLine("Valor de n1: " + n1);
+        Console.WriteLine("Valor da posição 3: " + array[3]);
     }
 }
+
 ````
+
+- ✔ O que esse exemplo ensina
+
+- Criar arrays em C#
+
+- Acessar valores por índice
+
+- Preencher manualmente
+
+- Imprimir usando for
