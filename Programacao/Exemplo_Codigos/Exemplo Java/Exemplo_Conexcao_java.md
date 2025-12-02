@@ -75,7 +75,9 @@ class Con{
 
 ## `Banco de dados de estudo`
 
-<p color="red" size="30px">Banco de dados Somente para Estudo!</p>
+# Exemplo de título
+
+<p style="color: red; font-size: 30px;">Banco de dados Somente para Estudo!</p>
 
 - Banco de estudo.
 - Banco com senha salva no banco, não.
