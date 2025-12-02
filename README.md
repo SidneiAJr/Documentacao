@@ -136,12 +136,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - [Documentação Computação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_Computa%C3%A7%C3%A3o.md)
 
 ## 📚Física
-- Astronomia
-- Física Geral
-- Termodinâmica
-- Funcionamento Físico
-- Sistema Internacional & Sistema Imperial
-- Historia da Fisica
+- [Fisica](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Fisica)
 
 ## 📚Lista de Exercicio:
 - Programação somente
@@ -161,7 +156,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - [Exemplo de Codigo](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Exemplo_Codigos)
 
 ## 📚 Estudo de Caso:
-- Fake News
+- [Fake News](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Estudo%20de%20Caso)
 
 ## 📚 Reflexões
 - [Reflexões](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia/Reflex%C3%B5es)
