@@ -131,12 +131,12 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
   - Review: PowerBank
     
 ## 📚Programação 
-- [☕Guia de Java | Documentação ](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_Java.md)
+- [☕Guia de Java | Documentação ](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Java)
 - [CSS | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/CSS)
 - [Guia de HTML | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/HTML)
 - [Typescript | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Typescript)
 - [Logica de Programação| Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Logica_programacao)
-- [🐘PHP | Documentação](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documenta%C3%A7%C3%A3o_PHP.md)
+- [🐘PHP | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/PHP)
 - [Python | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Python)
 - [Vercel | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Vercel)
 - [JavaScript | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/JS)
