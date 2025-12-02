@@ -47,6 +47,8 @@ echo "Quantidade de magos: ".count($magos)."\n";
 
 ````
 
+## `QUADRO COMPARATIVO — PHP vs Java`
+
 | Estrutura        | Java                    | PHP                               | Observação                       |
 | ---------------- | ----------------------- | --------------------------------- | -------------------------------- |
 | **Array**        | Tamanho fixo            | Dinâmico                          | PHP é mais flexível              |
