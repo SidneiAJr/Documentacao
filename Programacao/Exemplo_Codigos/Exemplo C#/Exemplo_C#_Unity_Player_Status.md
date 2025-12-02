@@ -1,6 +1,23 @@
-# PHP | Player Status 
+# C# | Player Status (Unity)
 
-## Script Playerstats.cs
+## 🎮 Script: PlayerStats.cs
+
+Este script gerencia vida, pontuação, munição, armadura e feedback visual quando o jogador leva dano.
+Ele também atualiza elementos UI (Slider, TextMeshPro e Image).
+
+📌 Funções Principais
+
+- Gerenciar vida (tomar dano, curar, atualizar UI)
+
+- Controlar munição
+
+- Controlar pontuação
+
+- Controlar armadura (ainda sem método, mas já previsto)
+
+- Efeito de flash vermelho ao tomar dano
+
+- Atualização automática da HUD
 
 ````C#
 using UnityEngine;
