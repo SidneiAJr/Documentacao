@@ -106,3 +106,11 @@ class Jogo
     }
 }
 ```
+
+## Diferença entre Classe, Interface e Classe Abstrata (C#)
+
+| Tipo                | Pode ter implementação? | Pode instanciar? | Pode ter atributos?               | Pode ter métodos abstratos?             | Pode herdar de mais de um?       |
+| ------------------- | ----------------------- | ---------------- | --------------------------------- | --------------------------------------- | -------------------------------- |
+| **Classe**          | ✔️ Sim                  | ✔️ Sim           | ✔️ Sim                            | ❌ Não (exceto virtual/override)         | ❌ Não                            |
+| **Classe Abstrata** | ✔️ Sim                  | ❌ Não            | ✔️ Sim                            | ✔️ Sim                                  | ❌ Não                            |
+| **Interface**       | ❌ Não (só assinatura)   | ❌ Não            | ❌ Não (só propriedades sem corpo) | ✔️ Sim (todos são abstratos por padrão) | ✔️ Sim (pode implementar várias) |
