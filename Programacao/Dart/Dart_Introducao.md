@@ -105,6 +105,35 @@ Set<String> frutas = {'maçã', 'banana', 'laranja'};
 Map<String, String> contatos = {'João': '1234-5678', 'Maria': '9876-5432'};
 ```
 
+### Manipulação de Strings
+```dart
+String saudacao = "Olá, Flutter!";
+print(saudacao.toUpperCase()); // "OLÁ, FLUTTER!"
+print(saudacao.substring(0, 3)); // "Olá"
+print(saudacao.contains("Flutter")); // true
+print(saudacao.replaceAll("Flutter", "Dart")); // "Olá, Dart!"
+```
+
+### Null Safety
+```dart
+int? numeroNullable = null; // O tipo pode ser null
+String nome = "Dart";
+
+// Verificando valores nulos
+if (numeroNullable != null) {
+  print(numeroNullable + 10);
+}
+
+int numero = 10; // Não pode ser nulo
+```
+
+### Operadores Avançados
+```dart
+var carro = Carro('Fusca', 1965)
+  ..descricao()
+  ..ano = 1966;
+````
+
 
 
 
