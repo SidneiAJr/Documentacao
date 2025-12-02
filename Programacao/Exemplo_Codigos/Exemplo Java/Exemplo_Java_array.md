@@ -32,7 +32,7 @@ public class Aula1 {
 }
 ````
 
-### `Array | Lista`:
+### `Array | Lista(Lista Array)`:
 
 ````java
 package aula1;
