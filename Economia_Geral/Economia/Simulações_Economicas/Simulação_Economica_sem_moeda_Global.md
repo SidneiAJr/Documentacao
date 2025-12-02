@@ -1,6 +1,6 @@
 # Simulação Econômica | Mundo sem Moeda Global
 
-Esta simulação visa mostrar como seria o mundo sem uma moeda global dominante, como o **dólar** ou a **moeda do BRICS**. Em vez disso, cada país usaria sua própria moeda sem reservas internacionais e dependeria das suas próprias moedas para transações globais.
+> Esta simulação visa mostrar como seria o mundo sem uma moeda global dominante, como o **dólar** ou a **moeda do BRICS**. Em vez disso, cada país usaria sua própria moeda sem reservas internacionais e dependeria das suas próprias moedas para transações globais.
 
 ---
 
