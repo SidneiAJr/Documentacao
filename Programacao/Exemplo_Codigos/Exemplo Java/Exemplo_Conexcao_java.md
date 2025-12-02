@@ -72,3 +72,63 @@ class Con{
     }                                                 
 }
 ````
+
+## `Banco de dados de estudo`
+
+<p color="red" size="30px">Banco de dados Somente para Estudo!</p>
+
+- Banco de estudo.
+- Banco com senha salva no banco, não.
+
+```SQL
+DROP DATABASE teste;
+
+CREATE DATABASE teste;
+
+use teste;
+
+CREATE TABLE usuario(
+ id int auto_increment primary key not null,
+ nome_usuario varchar(50) not null,
+ senha varchar(50) not null
+);
+
+INSERT INTO usuario (nome_usuario,senha) values 
+("Pedro Mesa","123"),
+("Pedro Mesa","123"),
+("Ana Souza","456"),
+("Carlos Lima","789"),
+("Maria Fernandes","abc"),
+("João Araujo","xyz"),
+("Beatriz Gomes","654"),
+("Lucas Pereira","321"),
+("Fernanda Alves","159"),
+("Rafael Santos","753"),
+("Juliana Castro","951");
+
+
+
+create table produtos(
+     id int auto_increment primary key not null,
+     nome_Produto varchar(50) not null,
+     quantidade_produto int not null,
+     preco_produto decimal(7,2) not null
+);
+
+INSERT INTO produtos (nome_produto, quantidade_produto, preco_produto) VALUES
+("Camiseta Estampada", 15, 49.90),
+("Cafeteira Elétrica", 8, 199.99),
+("Fone de Ouvido Bluetooth", 25, 149.50),
+("Bolsa de Couro", 10, 229.00),
+("Caderno Universitário", 50, 15.75),
+("Relógio de Pulso", 12, 129.90),
+("Tênis Esportivo", 20, 169.99),
+("Guitarra Elétrica", 5, 799.00),
+("Papel Higiênico", 200, 12.99),
+("Lâmpada LED", 100, 10.50),
+("Mouse Óptico", 40, 29.99),
+("Cadeira Gamer", 7, 499.00),
+("Câmera Fotográfica Digital", 3, 1200.00),
+("Controle de Videogame", 30, 99.90),
+("Sofá Retrátil", 2, 2299.99);
+````
