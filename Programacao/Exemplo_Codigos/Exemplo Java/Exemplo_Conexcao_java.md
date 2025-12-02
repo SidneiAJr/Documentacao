@@ -75,12 +75,9 @@ class Con{
 
 ## `Banco de dados de estudo`
 
-# Exemplo de título
-
-<p style="color: red; font-size: 30px;">Banco de dados Somente para Estudo!</p>
-
-- Banco de estudo.
-- Banco com senha salva no banco, não.
+- Banco de estudo & Testes.
+- Banco com senha salva no banco, não pode.
+- Banco somente para teste.
 
 ```SQL
 DROP DATABASE teste;
