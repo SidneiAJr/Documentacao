@@ -4,17 +4,17 @@
 
 Pequeno exemplo de um sistema simples de jogo utilizando Programação Orientada a Objetos (POO) em C#.
 
-- Ele demonstra:
+- `Ele demonstra:`
 
-- Criação de classes
+- `Criação de classes`
 
-- Construtores
+- `Construtores`
 
-- Atributos
+- `Atributos`
 
-- Métodos
+- `Métodos`
 
-- Interação entre objetos
+- `Interação entre objetos`
 
 ## Classe Personagem
 
