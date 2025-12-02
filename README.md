@@ -101,7 +101,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - [Guia de HTML | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/HTML)
 - [Typescript | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Typescript)
 - [Logica de Programação| Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Logica_programacao)
-- [🐘PHP | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/PHP)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30px" widht =30px/> [🐘PHP | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/PHP)
 - [Python | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Python)
 - [Vercel | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Vercel)
 - [JavaScript | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/JS)
