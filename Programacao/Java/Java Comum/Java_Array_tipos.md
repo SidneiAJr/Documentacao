@@ -98,7 +98,7 @@ Combinação muito usada com HashMap:
 | `map.entrySet()` | retorna pares chave→valor           |
 
 
-## Resumo Final (Quadrinho Comparativo)
+## Resumo Final
 
 | Estrutura     | Repetição   | Ordem | Índice        | Cresce Dinamicamente | Uso Comum      |
 | ------------- | ----------- | ----- | ------------- | -------------------- | -------------- |
