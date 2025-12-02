@@ -25,7 +25,7 @@ Este modelo simula o impacto econômico de um cenário global **pós-guerra nucl
 ### **Ano 1 - Desorganização e Colapso Inicial**
 
 - **Colapso Econômico Global**:
-  - O **PIB global** entra em **colapso**, com uma queda significativa nas **atividades econômicas** devido à **destruição de infraestrutura** e à morte em massa.
+  - O **PIB global** entra em **colapso**, com uma queda significativa nas **atividades econômicas** devido à **destruição de infraestrutura**.
   - A produção de bens e serviços praticamente para, com a **morte de trabalhadores essenciais** e a perda de **tecnologia crítica** para a **produção industrial**.
   - A **distribuição de alimentos** torna-se **caótica**, com regiões inteiras enfrentando **escassez extrema** e **fome generalizada** devido à **contaminação radioativa** de **terras agrícolas**.
   
