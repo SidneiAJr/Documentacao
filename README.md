@@ -149,7 +149,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - [Curso](https://github.com/SidneiAJr/Documentacao/tree/main/Forma%C3%A7%C3%B5es/Cursos)
 - [Conhecimento de Linguagem](https://github.com/SidneiAJr/Documentacao/tree/main/Forma%C3%A7%C3%B5es/Conhecimento_Linguagens)
 
-## 📚Simulações de Ideias(Fictional)
+## 🔭Simulações de Ideias(Fictional)
 - [Simulação de Ideias Futuristas⚠️- Ficticional/Fictício](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Simulacao)
 - [Simulação de Ideias Economicas⚠️- Fictional/Ficticio](https://github.com/SidneiAJr/Documentacao/tree/main/Economia_Geral/Economia/Simula%C3%A7%C3%B5es_Economicas)
 
