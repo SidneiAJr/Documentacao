@@ -96,6 +96,7 @@
 
 ## 📚Economia
 - [Economia Geral](https://github.com/SidneiAJr/Documentacao/tree/main/Economia_Geral)
+- [Economia Geral | Simulações Economicas](https://github.com/SidneiAJr/Documentacao/tree/main/Economia_Geral/Economia/Simula%C3%A7%C3%B5es_Economicas)
 
 ## 📚Computação
 - **Processadores**
