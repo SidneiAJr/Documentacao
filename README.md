@@ -125,19 +125,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - [Conhecimento de Linguagem](https://github.com/SidneiAJr/Documentacao/tree/main/Forma%C3%A7%C3%B5es/Conhecimento_Linguagens)
 
 ## 📚Simulações de Ideias(Fictional)
-- Simulação de Ideias Futuristas
-  - Ideias para o Futuro: Smartphone sem tela ⚠️(Ficticional/Fictício)
-  - Ideias para o Futuro: Defesa Planetaria ⚠️(Ficticional/Fictício)
-  - Ideias para o Futuro: Comunicação Planetaria ⚠️(Ficticional/Fictício)
-  - Ideias para o Futuro: Android Com Autoconciencia ⚠️(Ficticional/Fictício)
-  - Ideias para o Futuro: Simulação de Defesa da Terra ⚠️(Ficticional/Fictício)
-  - Ideias para o Futuro: Estrela Quantum ⚠️(Ficticional/Fictício)
-  - Ideias para o Futuro: Hiperestrada Portal Salto ⚠️(Ficticional/Fictício)
-  - Ideias para o Futuro: IA de Administração Planetária — The Mom ⚠️(Ficticional/Fictício)
-  - Ideias para o Futuro: Mineração Interplanetária - Jupiter ⚠️(Ficticional/Fictício)
-  - Ideias para o Futuro: Placa de Vídeo Modular ⚠️(Ficticional/Fictício)
-  - Ideias para o Futuro: Carro Ultra Inteligente ⚠️(Ficticional/Fictício)
-  - Ideias para o Futuro: Simulação de Terraformação ⚠️(Ficticional/Fictício)
+- [Simulação de Ideias Futuristas⚠️- Ficticional/Fictício](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Simulacao)
 - Simulação de Ideias Economicas
    - Simulação de Cenários Econômicos: Gasto do PIB entre 100% e 400%
    - Simulação de Cenários Econômicos:  De Juros de -6 a 60%
