@@ -97,7 +97,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## 📚Programação 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30px" widht =30px/> [Java | Documentação ](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Java)
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30px" widht =30px/> [🐘PHP | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/PHP)
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30px" widht =30px/>](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/PHP)
 - [CSS | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/CSS)
 - [Guia de HTML | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/HTML)
 - [Typescript | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Typescript)
