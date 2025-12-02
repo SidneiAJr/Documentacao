@@ -114,3 +114,29 @@ public class PlayerStats : MonoBehaviour
 }
 ````
 
+## 🧩 O que esse script faz
+- ✔ Sistema de Vida
+
+- Controle de vida
+
+- Cura
+
+- Barra de vida atualizada no HUD
+
+- Flash vermelho ao levar dano
+
+- ✔ Sistema de Pontos
+
+- Incremento de score
+
+- Atualização em tempo real no HUD
+
+- ✔ Munição
+
+- Adiciona munição
+
+- Atualiza HUD
+
+- ✔ Armadura
+
+- Variável pronta para expansão (não usada ainda)
