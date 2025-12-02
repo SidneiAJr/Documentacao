@@ -48,6 +48,15 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ***Aqui você encontra de tudo um pouco — desde Hardware e Computação até Matemática Financeira.***
 
+## Linguagens Disponiveis:
+
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height=50px width=50px/>
+</p>
+
+          
+
+
 ## Sumario:
 - [Filosofia](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Filosofia)
   
