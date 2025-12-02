@@ -89,6 +89,3 @@ A simulação a seguir analisa o impacto econômico de um mundo onde o **padrão
 
 ---
 
-Essa simulação apresenta os principais efeitos que a volta ao **padrão-ouro** causaria na economia global, incluindo desafios e oportunidades para as economias, comércio internacional e estabilidade financeira.
-
-Se você quiser mais detalhes ou ajustes na simulação, é só avisar!
