@@ -47,7 +47,7 @@ Após a instalação, você pode verificar se o Flutter foi instalado corretamen
 - cd meu_primeiro_app
 - flutter run
 
-```flutter
+```dart
 import 'package:flutter/material.dart';
 
 void main() {
@@ -74,3 +74,4 @@ class MyApp extends StatelessWidget {
 
 ```bash
 flutter doctor
+````
