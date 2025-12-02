@@ -126,16 +126,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## 📚Simulações de Ideias(Fictional)
 - [Simulação de Ideias Futuristas⚠️- Ficticional/Fictício](https://github.com/SidneiAJr/Documentacao/tree/main/Ciencia/Simulacao)
-- Simulação de Ideias Economicas
-   - Simulação de Cenários Econômicos: Gasto do PIB entre 100% e 400%
-   - Simulação de Cenários Econômicos:  De Juros de -6 a 60%
-   - Simulação de Cenários Econômicos: Sem New Deal
-   - Simulação de Cenários Econômicos: Austeridade Fiscal Extrema
-   - Simulação de Cenários Econômicos: De Pais com Super Industria + Totalmente Digital
-   - Simulação de Cenários Econômicos: De Moeda descentralizada
-   - Simulação de Cenários Econômicos: De redução de Impostos em Pais fictio
-   - Simulação de Cenários Econômicos: De Subsidios parcial medio e total e maximo
-- Simulação de Ideias de IA
+- [Simulação de Ideias Economicas⚠️- Fictional/Ficticio](https://github.com/SidneiAJr/Documentacao/tree/main/Economia_Geral/Economia/Simula%C3%A7%C3%B5es_Economicas)
 
 ## 📚Documentações do Projeto
 - [Versão do projeto](https://github.com/SidneiAJr/Documentacao/blob/main/Documentacao_Projeto/Documentacao_Nota_Vers%C3%A3o.md)
