@@ -1,6 +1,6 @@
 # PHP | ARRAY(MAP,SET,MAP)
 
-## Array Comum:
+## `Array Comum`:
 
 ````php
 $numeros = [10, 20, 30, 40];
@@ -10,7 +10,7 @@ foreach ($numeros as $i => $valor) {
 }
 ````
 
-## SET 
+## `SET`
 
 ````php
 $tecnologias = ["Java", "Python", "Java"]; 
@@ -19,7 +19,7 @@ $set = array_unique($tecnologias);
 print_r($set);
 ````
 
-## MAP
+## `MAP`
 
 ````php
 Map<String, Double>
