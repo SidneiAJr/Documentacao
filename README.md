@@ -97,11 +97,11 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 
 ## 📚Programação 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30px" widht =30px/> [Java | Documentação ](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Java)
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30px" widht =30px/> [🐘PHP | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/PHP)
 - [CSS | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/CSS)
 - [Guia de HTML | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/HTML)
 - [Typescript | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Typescript)
 - [Logica de Programação| Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Logica_programacao)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30px" widht =30px/> [🐘PHP | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/PHP)
 - [Python | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Python)
 - [Vercel | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Vercel)
 - [JavaScript | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/JS)
