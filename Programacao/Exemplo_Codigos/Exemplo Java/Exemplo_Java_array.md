@@ -34,6 +34,7 @@ public class Aula1 {
 
 ### `Array | Lista`:
 
+````java
 package aula1;
 
 // Importa as classes necessárias para entrada de dados (Scanner) e listas (ArrayList e List)
@@ -42,7 +43,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Aula1 {
-````java
     public static void main(String[] args) {
        
        // Cria uma lista de Strings chamada "lista"
