@@ -1,5 +1,6 @@
 # C# | Array:
 
+## `Array C#`
 ```C#
 using System;
 
