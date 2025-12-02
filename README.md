@@ -80,9 +80,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - **Placa de Vídeo**
 - **Redes de Computadores**
 - **Cibersegurança**
-- Ferramentas 3D e Open source
-   - Blender
-   - Make to Human
+- [Ferramentas 3D e Open source | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao/Ferramentas%203D)
 - Libre Office Tutorial
 - [Linux | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao/Linux)
 - Logica
@@ -90,13 +88,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Atalhos de Teclado
 - Atalhos de IDE
 - Eletronica
-- IA X Chatbot
-   - Como Funciona?
-   - Hype
-   - Historia
-   - Marchine Learning
-   - IA Problemas
-   - Motor de Decisão
+- [IA X Chatbot | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao/Ia%20X%20ChatBox)
 - Redes
 - Softwares
 - Maquina Virtual
