@@ -2,6 +2,8 @@
 
 ## `Java|Exemplo de conexção com banco SQL` - Swing 
 
+- Segurança Franca
+
 ````java
 class Con{
     protected String Nome_banco;
