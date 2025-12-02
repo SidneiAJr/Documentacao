@@ -6,7 +6,7 @@ Aqui, vamos explorar os principais tipos de **saídas** no Flutter.
 
 ---
 
-## 1. **Texto: Exibindo Informações com `Text`**
+##  **Texto: Exibindo Informações com `Text`**
 
 O widget mais comum para exibir texto no Flutter é o **`Text`**. Ele permite mostrar dados simples ou dinâmicos de uma forma clara e customizável.
 
