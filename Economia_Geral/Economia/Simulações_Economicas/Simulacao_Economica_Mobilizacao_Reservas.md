@@ -4,7 +4,7 @@
 
 Cenário ficcional entre **nação X** (10 milhões de habitantes) e **nação Y** (20 milhões de habitantes), com foco na mobilização de reservas de população, sem considerar armas e equipamentos, apenas a **mobilização humana** por estágios.
 
-> CENARIOS FICITONAL
+> CENáRIO FICITONAL
 
 ---
 
