@@ -96,8 +96,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - [Reviews | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao/Review)
 
 ## 📚Programação 
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="10px" widht =20px/>"</p>
-- [Java | Documentação ](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Java)
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="10px" widht =20px/> [Java | Documentação ](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Java)</p>
 - [CSS | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/CSS)
 - [Guia de HTML | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/HTML)
 - [Typescript | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Typescript)
