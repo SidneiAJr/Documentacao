@@ -1,6 +1,6 @@
 # PHP | Programação Orientada a Objeto:
 
-## Nesse codigo Vemos `Uma classe Abstrata | Uma Classe comum | e uma interface`:
+## Nesse codigo Vemos `Uma classe Abstrata | Uma Classe comum | e uma Interface`:
 
 ```php
 <?php
