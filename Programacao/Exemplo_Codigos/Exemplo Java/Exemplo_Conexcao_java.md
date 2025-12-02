@@ -2,7 +2,7 @@
 
 ## `Java|Exemplo de conexção com banco SQL` - Swing 
 
-- Segurança Franca
+- Segurança Fraca
 
 ````java
 class Con{
