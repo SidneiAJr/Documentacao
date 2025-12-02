@@ -119,14 +119,6 @@ public class Aula0212 {
         for(String tech: tecnologia){
             System.out.println("Tecnologias Disponiveis: "+tech);
         }
-        
-        
-        
-        
-         
-        
-        
     }
-    
 }
 ````
