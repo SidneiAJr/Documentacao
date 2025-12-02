@@ -84,16 +84,7 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
    - Blender
    - Make to Human
 - Libre Office Tutorial
-- Linux
-   - O que e Linux?
-   - Linux Software Uso pessoal
-   - Linux: Comando que mais uso
-   - Linux: Pos Instalação
-   - Linux: Jogos que rodam
-   - Linux: Gambiarras
-   - Linux: Vm's
-   - Linux: basico
-   - Linux: WineHq
+- [Linux | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao/Linux)
 - Logica
 - Sistema Operacionais
 - Atalhos de Teclado
@@ -110,26 +101,8 @@ Este repositório tem como objetivo guardar e compartilhar o conhecimento adquir
 - Softwares
 - Maquina Virtual
 - Importancia da Documentação na Area de TI.
-- Review
-  - Review: Memoria
-  - Review: Smartphone
-  - Review: SSD | HDD | NVME
-  - Review: Processador
-  - Review: Placa de Video
-  - Review: Mouse
-  - Review: Teclado
-  - Review: Notebook
-  - Review: Placa mae
-  - Review: Teclado
-  - Review: Sistema Operacional
-  - Review: Monitor
-  - Review: Carros
-  - Review: Chuveiro
-  - Review: Mouse & Teclado
-  - Review: Headset & Headphone
-  - Review: Projetor
-  - Review: PowerBank
-    
+- [Reviews | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Computacao/Review)
+
 ## 📚Programação 
 - [☕Guia de Java | Documentação ](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/Java)
 - [CSS | Documentação](https://github.com/SidneiAJr/Documentacao/tree/main/Programacao/CSS)
