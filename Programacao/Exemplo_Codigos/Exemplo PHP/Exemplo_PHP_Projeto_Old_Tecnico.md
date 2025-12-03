@@ -186,7 +186,7 @@ if ($_SESSION['loginok'] != 'ok') {
 </form>
 ````
 
-## PHp | Formulario de cadastramento de usuario:
+## PHP | Formulario de cadastramento de usuario:
 
 ```php
 <?php
