@@ -141,7 +141,7 @@ if ($total == 0) {
 
 ## Verificação de sessão | Formulario de cadastro:
 
-````html
+````php
 <?php
 // Inicia a sessão
 session_start();
@@ -153,7 +153,9 @@ if ($_SESSION['loginok'] != 'ok') {
     exit(); // Interrompe o código após o redirecionamento
 }
 ?>
+````
 
+````html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
