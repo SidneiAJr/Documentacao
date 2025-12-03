@@ -80,5 +80,64 @@ if(mysqli_num_rows($res) == 0) {
 ?>
 ````
 
+## Listando Livros:
+
+- Listagem de Livros em html
+
+````html
+<?php
+// Conectar ao banco de dados
+$conexao = mysqli_connect("localhost", "root", "") or die("Falha ao conectar com o MySQL");
+
+// Selecionar o banco de dados
+$bd = mysqli_select_db($conexao, "livros") or die("Falha ao selecionar o banco de dados 'livros'");
+?>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listagem de Livros</title>
+</head>
+<body>
+````
+
+## Formulario de Listagem de Livros(Logica em PHP):
+
+````php
+<?php
+// Verificar se o valor de 'n' foi passado via GET (para filtrar por nível, se necessário)
+$nivel = isset($_GET["n"]) ? $_GET["n"] : null;
+
+// Buscar dados do formulário de pesquisa
+$busca = isset($_POST["f_busca"]) ? $_POST["f_busca"] : '';
+
+// Construir a consulta SQL com base na busca
+if (!empty($busca)) {
+    // Consulta para buscar livros com o título que contenha a string digitada
+    $sql = "SELECT codigo, titulo, preco, categoria, descricao FROM livros WHERE titulo LIKE ? ORDER BY titulo";
+    $stmt = mysqli_prepare($conexao, $sql);
+    $searchTerm = "%" . $busca . "%";  // Prepara o termo de busca
+    mysqli_stmt_bind_param($stmt, 's', $searchTerm);
+} else {
+    // Se não houver busca, seleciona todos os livros
+    $sql = "SELECT codigo, titulo, preco, categoria, descricao FROM livros ORDER BY titulo";
+    $stmt = mysqli_prepare($conexao, $sql);
+}
+
+// Executar a consulta
+mysqli_stmt_execute($stmt);
+$res = mysqli_stmt_get_result($stmt);
+
+// Verificar se algum livro foi encontrado
+$total = mysqli_num_rows($res);
+if ($total == 0) {
+    echo "<b>Nenhum livro encontrado</b>";
+}
+?>
+````
+
+
 
 
