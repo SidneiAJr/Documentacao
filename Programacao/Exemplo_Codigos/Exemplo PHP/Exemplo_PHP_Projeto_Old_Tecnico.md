@@ -84,7 +84,7 @@ if(mysqli_num_rows($res) == 0) {
 
 - Listagem de Livros em html
 
-````html
+````php
 <?php
 // Conectar ao banco de dados
 $conexao = mysqli_connect("localhost", "root", "") or die("Falha ao conectar com o MySQL");
@@ -92,7 +92,8 @@ $conexao = mysqli_connect("localhost", "root", "") or die("Falha ao conectar com
 // Selecionar o banco de dados
 $bd = mysqli_select_db($conexao, "livros") or die("Falha ao selecionar o banco de dados 'livros'");
 ?>
-
+````
+````html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
