@@ -1,6 +1,8 @@
 # PHP | Autenticação | Projeto OLD
 
 - Codigo de PHP com Mini sistema de Autenticação
+- Cadastro com formulario
+- Cadastro com Banco em PHP
 
 ## `Validação em PHP | Sem POO`
 
@@ -56,5 +58,37 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 ?>
 ````
 
+## `Cadastro de cliente | Banco PHP`
 
+````php
+<?php
+// Conexão com o banco de dados
+include('conex.php'); // Verifique se o arquivo conex.php está configurado corretamente
+
+// Verifica se o formulário foi enviado
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Recebe os dados do formulário
+    $nome = $_POST['nome'];
+    $sobrenome = $_POST['sobrenome'];
+    $email = $_POST['email'];
+    $senha = $_POST['senha'];  // Senha sem hash - será convertida para hash
+    $telefone = $_POST['telefone'];
+    $usuario = $_POST['usuario'];
+
+    // Hash da senha antes de armazenar
+    $senhaHash = password_hash($senha, PASSWORD_DEFAULT);  // Utiliza bcrypt para gerar o hash da senha
+
+    // Prepara a consulta SQL para inserir os dados no banco
+    $stmt = $conn->prepare("INSERT INTO usuarios (nome, sobrenome, email, senha, telefone, usuario) VALUES (?, ?, ?, ?, ?, ?)");
+    $stmt->bind_param("ssssss", $nome, $sobrenome, $email, $senhaHash, $telefone, $usuario);
+
+    // Executa a consulta
+    if ($stmt->execute()) {
+        echo "Cadastro realizado com sucesso!";
+    } else {
+        echo "Erro ao cadastrar usuário: " . $stmt->error;
+    }
+}
+?>
+````
 
