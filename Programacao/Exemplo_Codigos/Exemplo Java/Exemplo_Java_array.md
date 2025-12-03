@@ -173,3 +173,26 @@ public class Aula0212 {
 | **Array** | Lista fixa de elementos, sempre com tamanho definido.        | ✔ Sim                        | ✔ Sim (ordem de inserção)        | ✔ Sim              | ✖ Não                    | Listas simples, dados em sequência.                  |
 | **Set**   | Conjunto que armazena valores únicos.                        | ✖ Não (remove duplicados)    | ✖ Não (HashSet não mantém ordem) | ✖ Não              | ✖ Não                    | Garantir que não existam repetidos, coleções únicas. |
 | **Map**   | Estrutura de chave → valor. Cada chave aponta para UM valor. | Chave: ✖ Não<br>Valor: ✔ Sim | ✖ Não (HashMap não ordena)       | ✖ Não              | ✔ Sim (acessa por chave) | Dicionários, cadastros, tabelas de busca, configs.   |
+
+## Tipos de Arrays:
+
+| Estrutura     | Método          | Descrição                                                  | Exemplo de Uso em Java                               |
+| ------------- | --------------- | ---------------------------------------------------------- | ---------------------------------------------------- |
+| **Array**     | `array[index]`  | Acesso direto por índice.                                  | `int[] arr = {1, 2, 3}; System.out.println(arr[0]);` |
+|               | `length`        | Retorna o tamanho do array.                                | `System.out.println(arr.length);`                    |
+| **ArrayList** | `add()`         | Adiciona um elemento à lista.                              | `list.add("Java");`                                  |
+|               | `get()`         | Obtém o valor pelo índice.                                 | `String value = list.get(0);`                        |
+|               | `remove()`      | Remove o elemento especificado ou pelo índice.             | `list.remove(0);`                                    |
+|               | `size()`        | Retorna o tamanho da lista.                                | `int size = list.size();`                            |
+| **Set**       | `add()`         | Adiciona um elemento ao conjunto (não permite duplicados). | `set.add("Java");`                                   |
+|               | `remove()`      | Remove um elemento do conjunto.                            | `set.remove("Java");`                                |
+|               | `contains()`    | Verifica se um elemento está presente no conjunto.         | `set.contains("Java");`                              |
+|               | `size()`        | Retorna o número de elementos no conjunto.                 | `int size = set.size();`                             |
+| **Map**       | `put()`         | Insere um par chave-valor.                                 | `map.put("Java", 1);`                                |
+|               | `get()`         | Obtém o valor associado a uma chave.                       | `int value = map.get("Java");`                       |
+|               | `remove()`      | Remove a chave e o valor associado.                        | `map.remove("Java");`                                |
+|               | `containsKey()` | Verifica se a chave existe no mapa.                        | `map.containsKey("Java");`                           |
+|               | `size()`        | Retorna o número de entradas (pares chave-valor) no mapa.  | `int size = map.size();`                             |
+|               | `keySet()`      | Retorna um conjunto de todas as chaves do mapa.            | `Set<String> keys = map.keySet();`                   |
+|               | `values()`      | Retorna uma coleção de todos os valores do mapa.           | `Collection<Integer> values = map.values();`         |
+
