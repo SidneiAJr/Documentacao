@@ -138,6 +138,116 @@ if ($total == 0) {
 ?>
 ````
 
+## Verificação de sessão | Formulario de cadastro:
 
+````html
+<?php
+// Inicia a sessão
+session_start();
+
+// Verifica se o usuário está logado
+if ($_SESSION['loginok'] != 'ok') {
+    // Se não estiver logado, redireciona para a página de erro
+    header('location:erro.html');
+    exit(); // Interrompe o código após o redirecionamento
+}
+?>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+</head>
+<body>
+<form id="form1" name="form1" method="post" action="" enctype="multipart/form-data">
+    <p><strong>Nome do aluno:</strong><br>
+        <input name="f_nome" type="text" required="required" placeholder="Favor informar o nome" size="50">
+    </p>
+    <p><strong>Nível de Ensino:</strong><br />
+        <select name="f_nivel" id="f_nivel">
+            <option value="1">Educação Infantil</option>
+            <option value="2">Ensino Fundamental</option>
+            <option value="3">Ensino Médio</option>
+            <option value="4">Técnico</option>
+        </select>
+    </p>
+    <p><strong>Foto:</strong><br />
+        <input type="file" name="f_foto" id="f_foto" />
+    </p>
+    <p>
+        <input type="submit" value="Incluir" />
+        <input type="reset" value="Limpar" />
+    </p>
+</form>
+````
+
+## PHp | Formulario de cadastramento de usuario:
+
+```php
+<?php
+// Recebe os dados do formulário
+$mnome = $_POST["f_nome"];
+$mnivel = $_POST["f_nivel"];
+$erro = false;
+
+// Valida o nome
+if (empty($mnome)) {
+    echo "<b>Nome</b> não informado!";
+    $erro = true;
+}
+
+// Se houver erro, exibe mensagem
+if ($erro) {
+    echo "<br> O formulário apresenta erros, favor corrigir...";
+} else {
+    // Conecta ao banco de dados
+    include "../atv2/conexao.php";
+
+    // Prepara a consulta SQL com Prepared Statement
+    $sql = "INSERT INTO Alunos (nome, nivel) VALUES (?, ?)";
+    $stmt = mysqli_prepare($conexao, $sql);
+    mysqli_stmt_bind_param($stmt, 'si', $mnome, $mnivel);
+
+    // Executa a consulta
+    if (mysqli_stmt_execute($stmt)) {
+        echo "<b>Aluno</b> inserido com sucesso!";
+    } else {
+        echo "Erro ao inserir aluno.";
+    }
+
+    // Verifica se foi enviada uma foto
+    if (!empty($_FILES["f_foto"]["name"])) {
+        $foto = $_FILES["f_foto"];
+
+        // Verifica o tipo de arquivo
+        if ($foto["type"] != 'image/jpeg') {
+            echo "<b>Formato de arquivo inválido! Necessário .JPEG!</b><br>";
+        } else {
+            // Recupera o ID do último aluno inserido
+            $ultimocod = mysqli_insert_id($conexao);
+
+            // Define o caminho para salvar a imagem
+            $arquivo = "../imagens/" . $ultimocod . ".jpg";
+
+            // Verifica se o arquivo já existe e o remove
+            if (file_exists($arquivo)) {
+                unlink($arquivo);
+            }
+
+            // Move o arquivo para o diretório
+            if (move_uploaded_file($foto["tmp_name"], $arquivo)) {
+                echo "<b>Foto inserida com sucesso!</b><br>";
+            } else {
+                echo "<b>Erro ao fazer upload da foto!</b><br>";
+            }
+        }
+    } else {
+        echo "<b>Nenhuma foto enviada!</b><br>";
+    }
+}
+?>
+````
 
 
