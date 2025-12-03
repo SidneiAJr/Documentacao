@@ -45,6 +45,8 @@ mysqli_close($con);
 
 ## `Cadastro em PHP | Simples`:
 
+### Aqui está um exemplo simples de cadastro, onde os dados são apenas recebidos e uma mensagem é exibida ao usuário. Ideal para situações de teste ou quando você só precisa dos dados na memória (sem persistência).
+
 ````php
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
