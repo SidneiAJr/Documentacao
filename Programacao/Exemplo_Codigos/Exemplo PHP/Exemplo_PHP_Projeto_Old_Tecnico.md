@@ -253,4 +253,130 @@ if ($erro) {
 ?>
 ````
 
+## Painel Administrativo:
+
+- Este código PHP está exibindo uma lista de alunos que foram recuperados de um banco de dados, com a possibilidade de excluir e alterar informações desses alunos. Há também um formulário de busca e a inclusão de uma função JavaScript para confirmar a exclusão de um aluno.
+
+````php
+<?php
+// Inicia a sessão
+session_start();
+
+// Verifica se o usuário está logado
+if ($_SESSION['loginok'] != 'ok') {
+    // Se não estiver logado, redireciona para a página de erro
+    header('location:erro.html');
+    exit(); // Interrompe o código após o redirecionamento
+}
+?>
+````
+
+````html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+    <script language="javascript">
+        // Função para confirmar a exclusão do registro
+        function confirmaExclusaoRegistro() {
+            return confirm("Confirma a exclusão deste aluno?");
+        }
+    </script>
+</head>
+````
+````php
+<body>
+    <p>
+        <?php
+        // Conexão com o banco de dados
+        include "../atv2/conexao.php";
+
+        // Consulta SQL para selecionar todos os alunos
+        $sql = "SELECT id, nome FROM alunos ORDER BY nome";
+        $res = mysqli_query($conexao, $sql) or die("Falha ao selecionar alunos!");
+        $total = mysqli_num_rows($res);
+
+        // Verifica se existem alunos cadastrados
+        if ($total == 0) {
+            echo "<b>Nenhum</b> aluno encontrado!";
+        } else {
+            while ($linha = mysqli_fetch_row($res)) {
+        ?>
+            <table width="712" height="93" border="2">
+                <tr>
+                    <td width="182" rowspan="2">
+                        <img src="../atv2/images/9.jpg" width="176" height="140" />
+                    </td>
+                    <td width="512">Livraria Paluminio</td>
+                </tr>
+                <tr>
+                    <td>
+                        <form id="form2" name="form2" method="post" action="">
+                            <p><strong>Usuário:
+                                <input type="text" name="f_usuario" id="f_usuario" />
+                            </strong></p>
+                            <p><strong>Senha:
+                                <input name="f_senha" type="password" id="f_senha" />
+                            </strong>
+                            <input type="submit" name="button2" id="button2" value="OK" />
+                            </p>
+                        </form>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="2">
+                        <form id="form1" name="form1" method="post" action="">
+                            <strong>Busca:
+                                <input type="text" name="f_prod" id="f_prod" />
+                            </strong>
+                            <input type="submit" name="button" id="button" value="OK" />
+                        </form>
+                    </td>
+                    <td>
+                        <a href="exc_aluno.php?cod=<?php echo $linha[0]; ?>" onclick="javascript:return confirmaExclusaoRegistro();">Excluir</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="alt_aluno.php?cod=<?php echo $linha[0]; ?>">
+                            <img src="imagens/pencil.png" width="16" height="16" border="0" />
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            <p><?php echo $linha[1]; ?></p>
+            <p>&nbsp;</p>
+        <?php
+            }
+        }
+        mysqli_close($conexao);
+        ?>
+    </p>
+
+    <table width="711" height="181" border="2">
+        <tr>
+            <td>
+                <div id="menu">
+                    <ul id="menu">
+                        <li><a href="../atv2/listagem.php">Listar Todos os Produtos</a></li>
+                        <li><a href="../atv2/listagem.php?ctg=1">Listar Livros de Banco de Dados</a></li>
+                        <li><a href="../atv2/listagem.php?ctg=2">Listar Livros de Web</a></li>
+                        <li><a href="../atv2/listagem.php?ctg=3">Listar Livros de Gráficos</a></li>
+                        <li><a href="../atv2/listagem.php?ctg=4">Listar Livros de Programação</a></li>
+                        <li><a href="../atv2/listagem.php?ctg=5">Listar Livros de HTML</a></li>
+                        <li><a href="../atv2/listagem.php?ctg=6">Listar Livros de Javascript</a></li>
+                    </ul>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="../atv2/index.html">Retornar</a></td>
+        </tr>
+    </table>
+</body>
+</html>
+````
+
 
