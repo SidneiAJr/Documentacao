@@ -59,10 +59,16 @@ CREATE TABLE usuarios (
     id INT AUTO_INCREMENT PRIMARY KEY,
     usuario VARCHAR(50) NOT NULL UNIQUE,
     senha VARCHAR(255) NOT NULL
-);
 
 INSERT INTO usuarios (usuario, senha)
 VALUES ('admin', MD5('123'));
+);
+````
+
+
+
+### `Tabela |  medico_especialidade:`
+````SQl
 CREATE TABLE medico_especialidade (
     id INT AUTO_INCREMENT PRIMARY KEY,
     medico_id INT NOT NULL,
@@ -70,7 +76,6 @@ CREATE TABLE medico_especialidade (
     FOREIGN KEY (medico_id) REFERENCES medicos(id),
     FOREIGN KEY (especialidade_id) REFERENCES especialidades(id)
 );
-
 ````
 
 
