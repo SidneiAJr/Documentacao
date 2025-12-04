@@ -413,6 +413,7 @@ Este código PHP se conecta a um banco de dados MySQL para listar médicos de um
 <p><a href="index.html">Retornar</a></p>
 </body>
 </html>
+
 ````
 
 # Código PHP - Menu Administrativo da Clínica Médica
