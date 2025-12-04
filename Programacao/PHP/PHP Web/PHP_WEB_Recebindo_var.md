@@ -27,7 +27,7 @@ $_SESSION['usuario'] = 'S';  // Armazena o nome do usuário
 
 // Em outra página, você pode acessar o valor assim
 session_start();
-echo $_SESSION['usuario'];  // Exibe: Sidnei
+echo $_SESSION['usuario'];  // Exibe: S
 ````
 
 ### `Formulário HTML`:
