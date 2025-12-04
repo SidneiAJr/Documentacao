@@ -37,3 +37,38 @@ if(!$conexao){
     die("Erro ao conectar: " . mysqli_connect_error());
 }
 ```
+
+## Conexão com PDO (A melhor e mais moderna)
+
+- Suporta vários bancos (MySQL, SQLite, PostgreSQL…)
+
+- Mais seguro
+
+- Melhor tratamento de erros
+
+- Permite prepared statements avançados
+
+```php
+$host     = "localhost";
+$banco    = "Nome_Banco";
+$user     = "Usuario";
+$password = "Senha_banco";
+
+try {
+    $conexao = new PDO("mysql:host=$host;dbname=$banco;charset=utf8", $user, $password);
+    $conexao->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+
+} catch (PDOException $erro) {
+    echo "Erro na conexão: " . $erro->getMessage();
+}
+```
+
+## Resumo Comparativo
+
+| Estilo            | Fácil | Seguro | Moderno | Ideal para                    |
+| ----------------- | ----- | ------ | ------- | ----------------------------- |
+| mysqli procedural | ✔     | ❌      | ❌       | sistemas antigos, técnicos    |
+| mysqli OOP        | ✔     | ✔      | ✔       | projetos médios               |
+| PDO               | ✔     | ✔✔✔    | ✔✔✔     | qualquer sistema profissional |
+
+
