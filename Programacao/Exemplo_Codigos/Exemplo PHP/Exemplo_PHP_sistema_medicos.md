@@ -70,9 +70,6 @@ Este código PHP recebe um **ID de aluno** passado via URL e realiza a **verific
 </body>
 </html>
 ````
-
-```php
-
 # Formulário de Especialidade - HTML
 
 ## Descrição
