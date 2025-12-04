@@ -355,7 +355,8 @@ include "conexao.php";
         <input type="reset" value="Limpar">
     </p>
 </form>
-
+````
+````php
 <?php
 // --- PROCESSA O FORMULÁRIO ---
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -395,7 +396,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 ?>
-
+````
 <br>
 <a href="menuadm.php">Voltar ao Menu</a>
 
