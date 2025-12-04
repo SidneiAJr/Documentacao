@@ -180,7 +180,7 @@ if($_SESSION['loginok'] != 'ok') {
 <p>
 <?php
 include "conexao.php";
-$sql = "SELECT codigo, crm FROM alunos ORDER BY nome";
+$sql = "SELECT codigo, crm FROM medicos ORDER BY nome";
 $res = mysqli_query($conexao, $sql) or die("Falha ao selecionar!");
 $total = mysqli_num_rows($res);
 if ($total == 0) {
