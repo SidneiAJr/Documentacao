@@ -1,6 +1,6 @@
 ## PHP | `Sistema de Cadastro Medico` | `Listagem` |` Exclusão` | `Menu Administrativo`
 
-### Observações do Dev em 2025
+### Observações Minha em 2025(`So eu e deus- Nem Ele Lembra Muito menos eu`)
 - Este sistema foi originalmente feito entre 2014 e 2016.
 - Muitos trechos tinham mistura de "alunos" e "médicos" por causa de reciclagem de código.
 - Esta documentação serve para lembrar a estrutura original antes da refatoração.
