@@ -40,7 +40,7 @@ CREATE TABLE alunos (
 );
 ```
 
-### SQl | Tabela yab_usuario`
+### `SQl | Tabela yab_usuario`
 ```sql
 CREATE TABLE tab_usuario (
     usu_login VARCHAR(40) NOT NULL PRIMARY KEY,
