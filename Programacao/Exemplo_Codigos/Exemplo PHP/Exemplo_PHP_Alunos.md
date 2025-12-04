@@ -1,5 +1,21 @@
 # Exemplo de Código PHP - Exclusão de Aluno com Parâmetro via URL
 
+## Banco de dados | `Escola`:
+
+```sql
+CREATE TABLE alunos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    matricula VARCHAR(50),
+    email VARCHAR(100),
+    telefone VARCHAR(20)
+);
+```
+
+```sql
+
+
+
 ## Descrição
 Este código PHP recebe um **ID de aluno** passado via URL e realiza a **verificação** e **exclusão** do aluno na base de dados. Ele usa a função `$_GET` para receber o parâmetro `cod` e então executa as verificações de segurança antes de executar a consulta no banco de dados.
 
