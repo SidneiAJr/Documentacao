@@ -52,53 +52,48 @@ Este código PHP recebe um **ID de aluno** passado via URL e realiza a **verific
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Documento sem título</title>
+<title>Excluir Registro</title>
 </head>
 
 <body>
-    <?php 
-    $idaluno = $_GET["cod"];  // Recebe o parâmetro 'cod' da URL
-    
-    // Verifica se o parâmetro não foi passado
-    if(!isset($idcod))
-    {
-        echo"livros nao informado!";
-    }
-    
-    // Verifica se o parâmetro 'cod' é numérico
-    if(!is_numeric($cod))
-    {
-        echo "parametro invalido";
-    }
-    else
-    {
-        // Conexão com o banco de dados
-        include "conexao.php";
-        
-        // Consulta para verificar se o aluno existe no banco
-        $sql = "select * from livros where id=$idaluno";
-        $res = mysqli_query($conexao,$sql) or die("erro ao selecionar aluno!");
-        
-        // Verifica se algum aluno foi encontrado
-        $total = mysqli_num_rows($res);
-        
-        // Se não encontrar nenhum aluno
-        if($total == 0)
-        {
-            echo "livros nao localizado";
-        }
-        else
-        {
-            // Deleta o aluno do banco de dados
-            $sql = "DELETE FROM alunos where id=$idaluno";
-            $res = mysqli_query($conexao,$sql) or die ("erro ao excluir aluno");
-            echo "aluno excluído com sucesso!";
-        }
-    }
-    
-    // Fecha a conexão com o banco de dados
-    mysqli_close($close);
-    ?>    
+<?php
+// RECEBE O PARÂMETRO
+$idaluno = $_GET["cod"] ?? null;
+
+// 1 — VERIFICA SE FOI PASSADO
+if (!isset($idaluno)) {
+    echo "Registro não informado!";
+    exit;
+}
+
+// 2 — VERIFICA SE É NUMÉRICO
+if (!is_numeric($idaluno)) {
+    echo "Parâmetro inválido!";
+    exit;
+}
+
+// CONEXÃO COM O BANCO
+include "conexao.php";
+
+// 3 — VERIFICA SE O ALUNO EXISTE
+$sql = "SELECT * FROM alunos WHERE id = $idaluno";
+$res = mysqli_query($conexao, $sql) or die("Erro ao selecionar aluno!");
+
+if (mysqli_num_rows($res) == 0) {
+    echo "Aluno não localizado!";
+} else {
+
+    // 4 — EXCLUI O ALUNO
+    $sql = "DELETE FROM alunos WHERE id = $idaluno";
+    mysqli_query($conexao, $sql) or die("Erro ao excluir aluno!");
+
+    echo "Aluno excluído com sucesso!";
+}
+
+// FECHA A CONEXÃO
+mysqli_close($conexao);
+?>
 </body>
 </html>
+
 ````
