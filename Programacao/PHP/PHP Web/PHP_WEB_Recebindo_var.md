@@ -23,7 +23,7 @@ Exemplo:
 session_start();
 
 // Recebendo dados em uma página e armazenando na sessão
-$_SESSION['usuario'] = 'Sidnei';  // Armazena o nome do usuário
+$_SESSION['usuario'] = 'S';  // Armazena o nome do usuário
 
 // Em outra página, você pode acessar o valor assim
 session_start();
