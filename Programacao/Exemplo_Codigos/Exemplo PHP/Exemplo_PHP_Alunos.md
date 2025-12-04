@@ -13,8 +13,24 @@ CREATE TABLE alunos (
 ```
 
 ```sql
+CREATE TABLE livros (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    titulo VARCHAR(150) NOT NULL,
+    autor VARCHAR(100),
+    ano INT,
+    editora VARCHAR(100)
+);
+```
 
-
+```sql
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    usuario VARCHAR(50) NOT NULL UNIQUE,
+    senha VARCHAR(255) NOT NULL
+);
+INSERT INTO usuarios (usuario, senha)
+VALUES ('admin', MD5('123'));
+```
 
 ## Descrição
 Este código PHP recebe um **ID de aluno** passado via URL e realiza a **verificação** e **exclusão** do aluno na base de dados. Ele usa a função `$_GET` para receber o parâmetro `cod` e então executa as verificações de segurança antes de executar a consulta no banco de dados.
