@@ -1,6 +1,6 @@
 ## PHP | `Sistema de Cadastro Medico` | `Listagem` |` Exclusão` | `Menu Administrativo`
 
-# Formulário de Especialidade - HTML
+## Formulário de Especialidade - HTML
 
 ## Descrição
 Este código HTML contém um formulário simples para a entrada de dados de especialidade. O usuário pode inserir uma especialidade e enviar o valor para o script `incESP.php` via método `POST`.
@@ -82,7 +82,7 @@ CREATE TABLE medico_especialidade (
 ````
 
 
-# Formulário de Cadastro de Médico
+## Formulário de Cadastro de Médico
 
 ## Descrição
 Este código HTML cria um formulário simples para cadastrar informações sobre um médico. O formulário coleta dados como nome, CRM, data de nascimento, especialidade e foto. O formulário usa o método `POST` para enviar os dados, incluindo a capacidade de fazer upload de um arquivo de imagem (foto).
