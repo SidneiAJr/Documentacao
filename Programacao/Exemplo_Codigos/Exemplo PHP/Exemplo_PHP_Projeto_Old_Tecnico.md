@@ -1,5 +1,46 @@
 # PHP | Projeto Completo Tecnico | OLD HTML 4
 
+
+## Banco de dados | Recriado porem Não se sabe o original:
+
+### `SQL |Tabela de usuários`
+
+```sql
+CREATE TABLE tab_usuario (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    usu_login VARCHAR(50) NOT NULL,
+    usu_senha VARCHAR(255) NOT NULL
+);
+INSERT INTO tab_usuario (usu_login, usu_senha)
+VALUES ('admin', '123');
+````
+
+### `SQL |Tabela Livros`
+```sql
+CREATE TABLE livros (
+    codigo INT AUTO_INCREMENT PRIMARY KEY,
+    titulo VARCHAR(150) NOT NULL,
+    preco DECIMAL(10,2) NOT NULL,
+    categoria INT NOT NULL,
+    descricao TEXT
+INSERT INTO livros (titulo, preco, categoria, descricao)
+VALUES
+('Banco de Dados Relacional', 59.90, 1, 'Livro sobre SQL e bancos de dados.'),
+('HTML e CSS para iniciantes', 39.90, 5, 'Introdução ao HTML clássico.'),
+('Javascript Moderno', 49.90, 6, 'Curso completo de JS.');
+);
+```
+
+### `SQL |Tabela Alunos`
+```sql
+CREATE TABLE alunos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(150) NOT NULL,
+    nivel INT NOT NULL
+);
+```
+
+
 ### Formulario em HTML
 
 - Entradas de usuario com F usuario
