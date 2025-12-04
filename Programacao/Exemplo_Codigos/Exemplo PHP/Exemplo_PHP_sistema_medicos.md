@@ -1,6 +1,11 @@
 ## PHP | `Sistema de Cadastro Medico` | `Listagem` |` Exclusão` | `Menu Administrativo`
 
-### Sistem Escrito em 2014~2016 - Não Lembrava era so eu e deus agora so deus HAHAHA 
+### ## Observações do Dev em 2025
+- Este sistema foi originalmente feito entre 2014 e 2016.
+- Muitos trechos tinham mistura de "alunos" e "médicos" por causa de reciclagem de código.
+- Esta documentação serve para lembrar a estrutura original antes da refatoração.
+- Código legado preservado apenas para nostalgia e referência.
+
 
 ## Banco de Dados Clinica:
 
