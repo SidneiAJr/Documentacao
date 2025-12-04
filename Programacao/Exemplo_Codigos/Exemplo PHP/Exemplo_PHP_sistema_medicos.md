@@ -145,7 +145,7 @@ Este código HTML cria um formulário simples para cadastrar informações sobre
 
 ```
 
-# Código PHP - Atualização e Exibição de Dados de Médicos
+## Código PHP - Atualização e Exibição de Dados de Médicos
 
 ## Descrição
 
@@ -316,7 +316,7 @@ mysqli_close($conexao);
 
 ````
 
-# Código PHP - Listagem de Médicos
+## Código PHP - Listagem de Médicos
 
 ## Descrição
 Este código PHP se conecta a um banco de dados MySQL para listar médicos de uma clínica. Ele permite:
@@ -418,7 +418,7 @@ Este código PHP se conecta a um banco de dados MySQL para listar médicos de um
 
 ````
 
-# Código PHP - Menu Administrativo da Clínica Médica
+## Código PHP - Menu Administrativo da Clínica Médica
 
 ## Descrição
 
@@ -464,7 +464,7 @@ Este código HTML exibe um menu administrativo de uma clínica médica. Ele incl
 
 ````
 
-# Código PHP - Menu de Médicos Administrativos
+## Código PHP - Menu de Médicos Administrativos
 
 ## Descrição
 
