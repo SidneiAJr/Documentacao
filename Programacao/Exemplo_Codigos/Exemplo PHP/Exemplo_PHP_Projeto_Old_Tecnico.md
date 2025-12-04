@@ -276,5 +276,133 @@ mysqli_close($conexao);
 </html>
 ````
 
+### HTML | Menu
+
+```html
+<?php
+session_start();
+
+// Proteção da área restrita
+if (!isset($_SESSION['loginok']) || $_SESSION['loginok'] !== 'ok') {
+    header('location:erro.html');
+    exit();
+}
+?>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Painel Administrativo</title>
+</head>
+<body>
+
+<h2>Painel Administrativo</h2>
+
+<ul>
+    <li><a href="cadastro.php">Cadastrar aluno</a></li>
+    <li><a href="listagem.php">Listar alunos</a></li>
+    <li><a href="logout.php">Sair</a></li>
+</ul>
+
+</body>
+</html>
+````
+
+### Html | Cadastro
+
+```html
+<?php
+session_start();
+
+if (!isset($_SESSION['loginok']) || $_SESSION['loginok'] != 'ok') {
+    header("location:erro.html");
+    exit();
+}
+
+include "conexao.php";
+?>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8" />
+<title>Cadastrar Aluno</title>
+</head>
+<body>
+
+<h2>Cadastrar novo aluno</h2>
+
+<form method="post" enctype="multipart/form-data">
+    <p><strong>Nome:</strong><br>
+        <input type="text" name="f_nome" required size="50">
+    </p>
+
+    <p><strong>Nível:</strong><br>
+        <select name="f_nivel">
+            <option value="1">Educação Infantil</option>
+            <option value="2">Ensino Fundamental</option>
+            <option value="3">Ensino Médio</option>
+            <option value="4">Técnico</option>
+        </select>
+    </p>
+
+    <p><strong>Foto (JPEG):</strong><br>
+        <input type="file" name="f_foto" accept="image/jpeg">
+    </p>
+
+    <p>
+        <input type="submit" value="Cadastrar">
+        <input type="reset" value="Limpar">
+    </p>
+</form>
+
+<?php
+// --- PROCESSA O FORMULÁRIO ---
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+
+    $nome  = $_POST["f_nome"];
+    $nivel = $_POST["f_nivel"];
+
+    // Insere aluno no banco
+    $sql = "INSERT INTO alunos (nome, nivel) VALUES (?, ?)";
+    $stmt = mysqli_prepare($conexao, $sql);
+    mysqli_stmt_bind_param($stmt, "si", $nome, $nivel);
+
+    if (mysqli_stmt_execute($stmt)) {
+        echo "<b>Aluno cadastrado com sucesso!</b><br><br>";
+
+        // ID do novo aluno
+        $id = mysqli_insert_id($conexao);
+
+        // FOTO
+        if (!empty($_FILES["f_foto"]["name"])) {
+            $foto = $_FILES["f_foto"];
+
+            if ($foto["type"] != "image/jpeg") {
+                echo "<b>Erro:</b> A foto deve ser JPEG!<br>";
+            } else {
+                $destino = "imagens/" . $id . ".jpg";
+
+                move_uploaded_file($foto["tmp_name"], $destino);
+                echo "Foto enviada com sucesso!<br>";
+            }
+        } else {
+            echo "Nenhuma foto enviada.<br>";
+        }
+
+    } else {
+        echo "Erro ao cadastrar aluno!";
+    }
+}
+?>
+
+<br>
+<a href="menuadm.php">Voltar ao Menu</a>
+
+</body>
+</html>
+````
+
+
 
 
