@@ -1,38 +1,6 @@
 ## PHP | `Sistema de Cadastro Medico` | `Listagem` |` Exclusão` | `Menu Administrativo`
 
-## Formulário de Especialidade - HTML
-
-## Descrição
-Este código HTML contém um formulário simples para a entrada de dados de especialidade. O usuário pode inserir uma especialidade e enviar o valor para o script `incESP.php` via método `POST`.
-
-## Fluxo do Código
-
-1. O código apresenta um formulário com um campo de texto para o usuário digitar a especialidade.
-2. O campo tem o nome `f_especialidade`, e o valor inserido será enviado para o script PHP `incESP.php` quando o formulário for submetido.
-3. O formulário não possui botão de envio visível, o que significa que o envio do formulário pode ser feito por outro mecanismo (ex: JavaScript ou ação de outro elemento).
-
-## Código HTML
-
-```html
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Documento sem título</title>
-</head>
-
-<body>
-<form id="form1" name="form1" method="post" action="incESP.php">
-  Especialidade 
-  <label for="f_especialidade"></label>
-  <input name="f_especialidade" type="text" id="f_especialidade" size="50" maxlength="50" />
-</form>
-</body>
-</html>
-
-````
-
-## Banco de Dados:
+## Banco de Dados Clinica:
 
 ### `Tabela |Especialização:`
 
@@ -81,6 +49,37 @@ CREATE TABLE medico_especialidade (
 );
 ````
 
+## Formulário de Especialidade - HTML
+
+## Descrição
+Este código HTML contém um formulário simples para a entrada de dados de especialidade. O usuário pode inserir uma especialidade e enviar o valor para o script `incESP.php` via método `POST`.
+
+## Fluxo do Código
+
+1. O código apresenta um formulário com um campo de texto para o usuário digitar a especialidade.
+2. O campo tem o nome `f_especialidade`, e o valor inserido será enviado para o script PHP `incESP.php` quando o formulário for submetido.
+3. O formulário não possui botão de envio visível, o que significa que o envio do formulário pode ser feito por outro mecanismo (ex: JavaScript ou ação de outro elemento).
+
+## Código HTML
+
+```html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento sem título</title>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="incESP.php">
+  Especialidade 
+  <label for="f_especialidade"></label>
+  <input name="f_especialidade" type="text" id="f_especialidade" size="50" maxlength="50" />
+</form>
+</body>
+</html>
+
+````
 
 ## Formulário de Cadastro de Médico
 
