@@ -40,384 +40,241 @@ CREATE TABLE alunos (
 );
 ```
 
+### SQl | Tabela yab_usuario`
+```sql
+CREATE TABLE tab_usuario (
+    usu_login VARCHAR(40) NOT NULL PRIMARY KEY,
+    usu_senha VARCHAR(40) NOT NULL
+);
+INSERT INTO tab_usuario (usu_login, usu_senha)
+VALUES ('admin', '123');
+````
 
-### Formulario em HTML
+---
 
-- Entradas de usuario com F usuario
-- Entrdas de senha com F senha
+### PHP | Conexção com Banco: 
+
+```php
+<?php
+$host = "localhost";
+$user = "root";
+$pass = "";
+$db   = "projeto_old";
+
+// cria a conexão
+$conexao = mysqli_connect($host, $user, $pass, $db);
+
+// verifica erros
+if (!$conexao) {
+    die("Erro ao conectar ao banco de dados: " . mysqli_connect_error());
+}
+
+// define charset (importante pra acentuação)
+mysqli_set_charset($conexao, "utf8");
+?>
+````
+
+### HTML | Formulario:
 
 ````html
-<table width="712" height="93" border="2">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Livraria Paluminio</title>
+</head>
+
+<body>
+
+<table width="712" border="2">
     <tr>
         <td width="182" rowspan="2">
             <img src="images/9.jpg" alt="" width="176" height="140" />
         </td>
-        <td width="512">Livraria Paluminio</td>
+        <td width="512">
+            <strong>Livraria Paluminio</strong>
+        </td>
     </tr>
+
+    <!-- LOGIN -->
     <tr>
         <td>
-            <form id="form2" name="form2" method="post" action="">
+            <form id="form_login" name="form_login" method="post" action="login.php">
                 <p><strong>Usuário:
                     <input type="text" name="f_usuario" id="f_usuario" />
                 </strong></p>
                 <p><strong>Senha:
-                    <input name="f_senha" type="password" id="f_senha" />
+                    <input type="password" name="f_senha" id="f_senha" />
                 </strong>
-                <input type="submit" name="button2" id="button2" value="OK" />
+                <input type="submit" value="OK" />
                 </p>
             </form>
         </td>
     </tr>
+
+    <!-- BUSCA -->
     <tr>
         <td colspan="2">
-            <form id="form1" name="form1" method="post" action="">
+            <form id="form_busca" name="form_busca" method="post" action="listagem.php">
                 <strong>Busca:
                     <input type="text" name="f_prod" id="f_prod" />
                 </strong>
-                <input type="submit" name="button" id="button" value="OK" />
+                <input type="submit" value="OK" />
             </form>
         </td>
     </tr>
 </table>
+
+</body>
+</html>
 ````
 
-## `Conexção com Banco & Login `
+### PHP | Login - Recriado
 
 ````php
 <?php
-// Inclui a conexão com o banco de dados
-include "conexao.php"; 
+// Inicia a sessão
+session_start();
 
-// Recebe os dados do formulário
-$usuario = $_POST["f_usuario"]; 
-$senha = $_POST["f_senha"]; 
+// Verifica se o formulário foi enviado
+if (!isset($_POST["f_usuario"]) || !isset($_POST["f_senha"])) {
+    header("location:erro.html");
+    exit();
+}
 
-// Prepara a consulta para buscar o usuário no banco
-$sql = "SELECT * FROM tab_usuario WHERE usu_login = ?";
+// Recebe dados do formulário
+$usuario = trim($_POST["f_usuario"]);
+$senha   = trim($_POST["f_senha"]);
 
-// Prepara a consulta e vincula o parâmetro
-$stmt = mysqli_prepare($conn, $sql);
+// Verifica campos vazios
+if ($usuario == "" || $senha == "") {
+    header("location:erro.html");
+    exit();
+}
+
+// Conexão com o banco
+include "conexao.php";
+
+// Consulta preparada
+$sql = "SELECT usu_login, usu_senha FROM tab_usuario WHERE usu_login = ?";
+$stmt = mysqli_prepare($conexao, $sql);
 mysqli_stmt_bind_param($stmt, "s", $usuario);
-
-// Executa a consulta
 mysqli_stmt_execute($stmt);
 $res = mysqli_stmt_get_result($stmt);
 
 // Verifica se o usuário existe
-if(mysqli_num_rows($res) == 0) {
-    header('location:erro.html'); // Redireciona para a página de erro
+if (mysqli_num_rows($res) == 0) {
+    header("location:erro.html");
+    exit();
+}
+
+$linha = mysqli_fetch_assoc($res);
+
+// Aqui estamos comparando a senha diretamente (modelo antigo)
+if ($senha === $linha["usu_senha"]) {
+
+    // Login OK
+    $_SESSION["loginok"] = "ok";
+    $_SESSION["usuario"] = $linha["usu_login"];
+
+    header("location:menuadm.php");
+    exit();
+
 } else {
-    $linha = mysqli_fetch_row($res);
-
-    // Verifica se a senha está correta
-    if($linha[1] == $senha) {  // $linha[1] deveria ser a senha hashada no banco
-        session_start();
-        $_SESSION['loginok'] = 'ok'; // Inicia a sessão de login
-        header('location:menuadm.php'); // Redireciona para a área administrativa
-    } else {
-        header('location:erro.html'); // Senha incorreta
-    }
+    // Senha incorreta
+    header("location:erro.html");
+    exit();
 }
+
 ?>
 ````
 
-## Listando Livros:
-
-- Listagem de Livros em html
-
-````php
-<?php
-// Conectar ao banco de dados
-$conexao = mysqli_connect("localhost", "root", "") or die("Falha ao conectar com o MySQL");
-
-// Selecionar o banco de dados
-$bd = mysqli_select_db($conexao, "livros") or die("Falha ao selecionar o banco de dados 'livros'");
-?>
-````
-````html
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Listagem de Livros</title>
-</head>
-<body>
-````
-
-## Formulario de Listagem de Livros(Logica em PHP):
-
-````php
-<?php
-// Verificar se o valor de 'n' foi passado via GET (para filtrar por nível, se necessário)
-$nivel = isset($_GET["n"]) ? $_GET["n"] : null;
-
-// Buscar dados do formulário de pesquisa
-$busca = isset($_POST["f_busca"]) ? $_POST["f_busca"] : '';
-
-// Construir a consulta SQL com base na busca
-if (!empty($busca)) {
-    // Consulta para buscar livros com o título que contenha a string digitada
-    $sql = "SELECT codigo, titulo, preco, categoria, descricao FROM livros WHERE titulo LIKE ? ORDER BY titulo";
-    $stmt = mysqli_prepare($conexao, $sql);
-    $searchTerm = "%" . $busca . "%";  // Prepara o termo de busca
-    mysqli_stmt_bind_param($stmt, 's', $searchTerm);
-} else {
-    // Se não houver busca, seleciona todos os livros
-    $sql = "SELECT codigo, titulo, preco, categoria, descricao FROM livros ORDER BY titulo";
-    $stmt = mysqli_prepare($conexao, $sql);
-}
-
-// Executar a consulta
-mysqli_stmt_execute($stmt);
-$res = mysqli_stmt_get_result($stmt);
-
-// Verificar se algum livro foi encontrado
-$total = mysqli_num_rows($res);
-if ($total == 0) {
-    echo "<b>Nenhum livro encontrado</b>";
-}
-?>
-````
-
-## Verificação de sessão | Formulario de cadastro:
-
-````php
-<?php
-// Inicia a sessão
-session_start();
-
-// Verifica se o usuário está logado
-if ($_SESSION['loginok'] != 'ok') {
-    // Se não estiver logado, redireciona para a página de erro
-    header('location:erro.html');
-    exit(); // Interrompe o código após o redirecionamento
-}
-?>
-````
-
-````html
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Index</title>
-</head>
-<body>
-<form id="form1" name="form1" method="post" action="" enctype="multipart/form-data">
-    <p><strong>Nome do aluno:</strong><br>
-        <input name="f_nome" type="text" required="required" placeholder="Favor informar o nome" size="50">
-    </p>
-    <p><strong>Nível de Ensino:</strong><br />
-        <select name="f_nivel" id="f_nivel">
-            <option value="1">Educação Infantil</option>
-            <option value="2">Ensino Fundamental</option>
-            <option value="3">Ensino Médio</option>
-            <option value="4">Técnico</option>
-        </select>
-    </p>
-    <p><strong>Foto:</strong><br />
-        <input type="file" name="f_foto" id="f_foto" />
-    </p>
-    <p>
-        <input type="submit" value="Incluir" />
-        <input type="reset" value="Limpar" />
-    </p>
-</form>
-````
-
-## PHP | Formulario de cadastramento de usuario:
+### PHP | HTML Listagem
 
 ```php
 <?php
-// Recebe os dados do formulário
-$mnome = $_POST["f_nome"];
-$mnivel = $_POST["f_nivel"];
-$erro = false;
-
-// Valida o nome
-if (empty($mnome)) {
-    echo "<b>Nome</b> não informado!";
-    $erro = true;
-}
-
-// Se houver erro, exibe mensagem
-if ($erro) {
-    echo "<br> O formulário apresenta erros, favor corrigir...";
-} else {
-    // Conecta ao banco de dados
-    include "../atv2/conexao.php";
-
-    // Prepara a consulta SQL com Prepared Statement
-    $sql = "INSERT INTO Alunos (nome, nivel) VALUES (?, ?)";
-    $stmt = mysqli_prepare($conexao, $sql);
-    mysqli_stmt_bind_param($stmt, 'si', $mnome, $mnivel);
-
-    // Executa a consulta
-    if (mysqli_stmt_execute($stmt)) {
-        echo "<b>Aluno</b> inserido com sucesso!";
-    } else {
-        echo "Erro ao inserir aluno.";
-    }
-
-    // Verifica se foi enviada uma foto
-    if (!empty($_FILES["f_foto"]["name"])) {
-        $foto = $_FILES["f_foto"];
-
-        // Verifica o tipo de arquivo
-        if ($foto["type"] != 'image/jpeg') {
-            echo "<b>Formato de arquivo inválido! Necessário .JPEG!</b><br>";
-        } else {
-            // Recupera o ID do último aluno inserido
-            $ultimocod = mysqli_insert_id($conexao);
-
-            // Define o caminho para salvar a imagem
-            $arquivo = "../imagens/" . $ultimocod . ".jpg";
-
-            // Verifica se o arquivo já existe e o remove
-            if (file_exists($arquivo)) {
-                unlink($arquivo);
-            }
-
-            // Move o arquivo para o diretório
-            if (move_uploaded_file($foto["tmp_name"], $arquivo)) {
-                echo "<b>Foto inserida com sucesso!</b><br>";
-            } else {
-                echo "<b>Erro ao fazer upload da foto!</b><br>";
-            }
-        }
-    } else {
-        echo "<b>Nenhuma foto enviada!</b><br>";
-    }
-}
-?>
-````
-
-## Painel Administrativo:
-
-- Este código PHP está exibindo uma lista de alunos que foram recuperados de um banco de dados, com a possibilidade de excluir e alterar informações desses alunos. Há também um formulário de busca e a inclusão de uma função JavaScript para confirmar a exclusão de um aluno.
-
-````php
-<?php
 // Inicia a sessão
 session_start();
 
 // Verifica se o usuário está logado
-if ($_SESSION['loginok'] != 'ok') {
-    // Se não estiver logado, redireciona para a página de erro
-    header('location:erro.html');
-    exit(); // Interrompe o código após o redirecionamento
+if (!isset($_SESSION['loginok']) || $_SESSION['loginok'] != 'ok') {
+    header("location:erro.html");
+    exit();
 }
+
+// Conexão com o banco
+include "conexao.php";
+
+// Consulta todos os alunos
+$sql = "SELECT id, nome FROM alunos ORDER BY nome";
+$res = mysqli_query($conexao, $sql) or die("Erro ao selecionar alunos!");
+
+$total = mysqli_num_rows($res);
 ?>
-````
+```
 
-````html
+```html
 <!DOCTYPE html>
-<html lang="pt-br">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Index</title>
-    <script language="javascript">
-        // Função para confirmar a exclusão do registro
-        function confirmaExclusaoRegistro() {
-            return confirm("Confirma a exclusão deste aluno?");
-        }
-    </script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Listagem de Alunos</title>
+
+<script type="text/javascript">
+function confirmaExclusao() {
+    return confirm("Deseja realmente excluir este aluno?");
+}
+</script>
+
 </head>
-````
-````php
 <body>
-    <p>
-        <?php
-        // Conexão com o banco de dados
-        include "../atv2/conexao.php";
 
-        // Consulta SQL para selecionar todos os alunos
-        $sql = "SELECT id, nome FROM alunos ORDER BY nome";
-        $res = mysqli_query($conexao, $sql) or die("Falha ao selecionar alunos!");
-        $total = mysqli_num_rows($res);
+<h2>Listagem de Alunos</h2>
+```
+```php
+<?php
+// Se não existirem alunos
+if ($total == 0) {
+    echo "<b>Nenhum aluno encontrado!</b>";
+} else {
 
-        // Verifica se existem alunos cadastrados
-        if ($total == 0) {
-            echo "<b>Nenhum</b> aluno encontrado!";
-        } else {
-            while ($linha = mysqli_fetch_row($res)) {
-        ?>
-            <table width="712" height="93" border="2">
-                <tr>
-                    <td width="182" rowspan="2">
-                        <img src="../atv2/images/9.jpg" width="176" height="140" />
-                    </td>
-                    <td width="512">Livraria Paluminio</td>
-                </tr>
-                <tr>
-                    <td>
-                        <form id="form2" name="form2" method="post" action="">
-                            <p><strong>Usuário:
-                                <input type="text" name="f_usuario" id="f_usuario" />
-                            </strong></p>
-                            <p><strong>Senha:
-                                <input name="f_senha" type="password" id="f_senha" />
-                            </strong>
-                            <input type="submit" name="button2" id="button2" value="OK" />
-                            </p>
-                        </form>
-                    </td>
-                </tr>
-                <tr>
-                    <td rowspan="2">
-                        <form id="form1" name="form1" method="post" action="">
-                            <strong>Busca:
-                                <input type="text" name="f_prod" id="f_prod" />
-                            </strong>
-                            <input type="submit" name="button" id="button" value="OK" />
-                        </form>
-                    </td>
-                    <td>
-                        <a href="exc_aluno.php?cod=<?php echo $linha[0]; ?>" onclick="javascript:return confirmaExclusaoRegistro();">Excluir</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="alt_aluno.php?cod=<?php echo $linha[0]; ?>">
-                            <img src="imagens/pencil.png" width="16" height="16" border="0" />
-                        </a>
-                    </td>
-                </tr>
-            </table>
-            <p><?php echo $linha[1]; ?></p>
-            <p>&nbsp;</p>
-        <?php
-            }
-        }
-        mysqli_close($conexao);
-        ?>
-    </p>
+    // Lista os alunos
+    while ($linha = mysqli_fetch_assoc($res)) {
+?>
+        <table width="600" border="1" cellpadding="5" cellspacing="0">
+            <tr>
+                <td width="400"><b><?php echo $linha['nome']; ?></b></td>
 
-    <table width="711" height="181" border="2">
-        <tr>
-            <td>
-                <div id="menu">
-                    <ul id="menu">
-                        <li><a href="../atv2/listagem.php">Listar Todos os Produtos</a></li>
-                        <li><a href="../atv2/listagem.php?ctg=1">Listar Livros de Banco de Dados</a></li>
-                        <li><a href="../atv2/listagem.php?ctg=2">Listar Livros de Web</a></li>
-                        <li><a href="../atv2/listagem.php?ctg=3">Listar Livros de Gráficos</a></li>
-                        <li><a href="../atv2/listagem.php?ctg=4">Listar Livros de Programação</a></li>
-                        <li><a href="../atv2/listagem.php?ctg=5">Listar Livros de HTML</a></li>
-                        <li><a href="../atv2/listagem.php?ctg=6">Listar Livros de Javascript</a></li>
-                    </ul>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="../atv2/index.html">Retornar</a></td>
-        </tr>
-    </table>
+                <td width="100">
+                    <a href="alt_aluno.php?cod=<?php echo $linha['id']; ?>">
+                        Editar
+                    </a>
+                </td>
+
+                <td width="100">
+                    <a href="exc_aluno.php?cod=<?php echo $linha['id']; ?>" 
+                       onclick="return confirmaExclusao();">
+                        Excluir
+                    </a>
+                </td>
+            </tr>
+        </table>
+        <br>
+<?php
+    }
+}
+
+mysqli_close($conexao);
+?>
+
+<br><br>
+<a href="menuadm.php">Voltar ao Menu</a>
+````
+````html
 </body>
 </html>
 ````
+
 
 
