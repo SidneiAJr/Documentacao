@@ -42,7 +42,7 @@ INSERT INTO HOSPEDAGEM (NomeHospedagem, ValorTarifa, PacoteId) VALUES
 ('Pousada das Montanhas', 80.00, 1), -- Pacote Básico
 ('Resort Bela Vista', 250.00, 3); -- Pacote Luxo
 ````
-
+---
 
 ````html
 <%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="ADDHOSPEDAGEM.ASPX.cs" Inherits="ADDHOSPEDAGEM" %>
