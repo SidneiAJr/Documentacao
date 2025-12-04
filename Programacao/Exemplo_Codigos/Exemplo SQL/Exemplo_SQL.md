@@ -144,3 +144,145 @@ INSERT INTO classificacao (id_jogo, id_jogador, posicao) VALUES
 (5, 9, 4);  -- Platinados
 ````
 
+## `Consultas`
+
+````sql
+-- =========================================
+-- CONSULTAS
+-- =========================================
+SELECT id_jogador, COUNT(*) AS jogos_disputados
+FROM classificacao
+GROUP BY id_jogador
+ORDER BY jogos_disputados DESC;
+
+
+
+-- 1. Jogadores e suas equipes
+SELECT nome_jogador,
+       (SELECT nome_equipe FROM equipe WHERE equipe.id_equipe = jogador.id_equipe) AS grupo
+FROM jogador;
+
+-- 2. Partidas com equipe, jogo e pontuação
+SELECT 
+    jogador.nome_jogador,
+    jogo.nome_jogo,
+    pontuacao_por_posicao.pontos
+FROM 
+    classificacao,
+    jogador,
+    jogo,
+    pontuacao_por_posicao
+WHERE 
+    classificacao.id_jogador = jogador.id_jogador
+    AND classificacao.id_jogo = jogo.id_jogo
+    AND classificacao.posicao = pontuacao_por_posicao.posicao;
+
+
+-- 3. Soma total de pontos de cada equipe
+SELECT 
+    equipe.nome_equipe,
+    jogador.nome_jogador,
+    SUM(pontuacao_por_posicao.pontos) AS total_pontos
+FROM 
+    classificacao,
+    jogador,
+    equipe,
+    pontuacao_por_posicao
+WHERE 
+    classificacao.id_jogador = jogador.id_jogador
+    AND jogador.id_equipe = equipe.id_equipe
+    AND classificacao.posicao = pontuacao_por_posicao.posicao
+GROUP BY 
+    equipe.id_equipe, jogador.id_jogador
+ORDER BY 
+    total_pontos DESC;
+
+
+-- 4. Maior pontuação em cada jogo
+SELECT 
+    jogo.nome_jogo,
+    jogador.nome_jogador,
+    equipe.nome_equipe,
+    pontuacao_por_posicao.pontos AS pontuacao
+FROM 
+    classificacao,
+    jogo,
+    jogador,
+    equipe,
+    pontuacao_por_posicao
+WHERE 
+    classificacao.id_jogo = jogo.id_jogo
+    AND classificacao.id_jogador = jogador.id_jogador
+    AND jogador.id_equipe = equipe.id_equipe
+    AND classificacao.posicao = pontuacao_por_posicao.posicao
+    AND (classificacao.id_jogo, pontuacao_por_posicao.pontos) IN (
+        SELECT 
+            c2.id_jogo,
+            MAX(pp2.pontos)
+        FROM 
+            classificacao c2,
+            pontuacao_por_posicao pp2
+        WHERE 
+            c2.posicao = pp2.posicao
+        GROUP BY 
+            c2.id_jogo
+    );
+    
+-- 5. Média de pontuação de cada equipe
+SELECT 
+    equipe.nome_equipe,
+    AVG(pontuacao_por_posicao.pontos) AS media_pontos
+FROM 
+    classificacao,
+    jogador,
+    equipe,
+    pontuacao_por_posicao
+WHERE 
+    classificacao.id_jogador = jogador.id_jogador
+    AND jogador.id_equipe = equipe.id_equipe
+    AND classificacao.posicao = pontuacao_por_posicao.posicao
+GROUP BY 
+    equipe.id_equipe
+ORDER BY 
+    media_pontos DESC;
+
+-- 6. Menor e maior pontuação de cada equipe
+SELECT 
+    equipe.nome_equipe,
+    MIN(pontuacao_por_posicao.pontos) AS menor_pontuacao,
+    MAX(pontuacao_por_posicao.pontos) AS maior_pontuacao
+FROM 
+    classificacao,
+    jogador,
+    equipe,
+    pontuacao_por_posicao
+WHERE 
+    classificacao.id_jogador = jogador.id_jogador
+    AND jogador.id_equipe = equipe.id_equipe
+    AND classificacao.posicao = pontuacao_por_posicao.posicao
+GROUP BY 
+    equipe.id_equipe,
+    equipe.nome_equipe
+ORDER BY 
+    equipe.nome_equipe;
+
+-- 7. Ranking final
+SELECT 
+    equipe.nome_equipe,
+    SUM(pontuacao_por_posicao.pontos) AS total_pontos
+FROM 
+    classificacao,
+    jogador,
+    equipe,
+    pontuacao_por_posicao
+WHERE 
+    classificacao.id_jogador = jogador.id_jogador
+    AND jogador.id_equipe = equipe.id_equipe
+    AND classificacao.posicao = pontuacao_por_posicao.posicao
+GROUP BY 
+    equipe.id_equipe,
+    equipe.nome_equipe
+ORDER BY 
+    total_pontos DESC;
+````
+
