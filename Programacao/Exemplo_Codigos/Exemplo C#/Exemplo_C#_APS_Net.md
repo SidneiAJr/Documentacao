@@ -7,6 +7,43 @@ Aqui está um resumo do que está acontecendo na página.
 ### `Esse Codigo foi desevolvido no tecnico nem eu muito menos eu lembra KKKKK`
 
 
+### Banco de dados Usado | `Suposição`:
+
+````sql
+-- Criação do Banco de Dados
+CREATE DATABASE SistemaHospedagem;
+
+USE SistemaHospedagem;
+
+-- Tabela para armazenar Pacotes
+CREATE TABLE PACOTES (
+    id INT IDENTITY(1,1) PRIMARY KEY,   -- ID do pacote (chave primária)
+    pacote NVARCHAR(100) NOT NULL        -- Nome do pacote (ex: "Pacote Básico", "Pacote Premium")
+);
+
+-- Inserir alguns pacotes para exemplificar
+INSERT INTO PACOTES (pacote) VALUES
+('Pacote Básico'),
+('Pacote Premium'),
+('Pacote Luxo');
+
+-- Tabela para armazenar as Hospedagens
+CREATE TABLE HOSPEDAGEM (
+    id INT IDENTITY(1,1) PRIMARY KEY,    -- ID da hospedagem (chave primária)
+    NomeHospedagem NVARCHAR(100) NOT NULL,  -- Nome da hospedagem
+    ValorTarifa DECIMAL(10, 2) NOT NULL,   -- Valor da tarifa (por exemplo, 100.00)
+    PacoteId INT,                          -- ID do pacote associado (chave estrangeira)
+    CONSTRAINT FK_Pacote FOREIGN KEY (PacoteId) REFERENCES PACOTES(id)  -- Relacionamento com PACOTES
+);
+
+-- Exemplo de inserção de hospedagens
+INSERT INTO HOSPEDAGEM (NomeHospedagem, ValorTarifa, PacoteId) VALUES
+('Hotel Praia Azul', 150.00, 2), -- Pacote Premium
+('Pousada das Montanhas', 80.00, 1), -- Pacote Básico
+('Resort Bela Vista', 250.00, 3); -- Pacote Luxo
+````
+
+
 ````html
 <%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="ADDHOSPEDAGEM.ASPX.cs" Inherits="ADDHOSPEDAGEM" %>
 
