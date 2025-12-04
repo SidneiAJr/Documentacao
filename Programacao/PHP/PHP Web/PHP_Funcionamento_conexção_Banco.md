@@ -72,3 +72,10 @@ try {
 | PDO               | ✔     | ✔✔✔    | ✔✔✔     | qualquer sistema profissional |
 
 
+## Formulario(Get & POST):
+
+## GET vs POST
+- `$_GET`: usado para parâmetros na URL (ex: excluir?id=3)
+- `$_POST`: usado para formulários sensíveis (ex: login)
+- `$_SESSION`: guarda dados temporários de login e controle de acesso
+
