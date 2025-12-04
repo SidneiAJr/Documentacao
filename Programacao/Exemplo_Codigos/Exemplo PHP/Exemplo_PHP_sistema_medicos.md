@@ -67,7 +67,7 @@ VALUES ('admin', MD5('123'));
 
 
 
-### `Tabela |  medico_especialidade:`
+### `Tabela | Medico Especialidade:`
 ````SQl
 CREATE TABLE medico_especialidade (
     id INT AUTO_INCREMENT PRIMARY KEY,
