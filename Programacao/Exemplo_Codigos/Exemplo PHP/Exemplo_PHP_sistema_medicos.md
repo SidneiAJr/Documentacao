@@ -27,6 +27,7 @@ Este código HTML contém um formulário simples para a entrada de dados de espe
 </form>
 </body>
 </html>
+
 ````
 
 ## Banco de Dados:
@@ -139,6 +140,7 @@ Este código HTML cria um formulário simples para cadastrar informações sobre
 </form>
 </body>
 </html>
+
 ```
 
 # Código PHP - Atualização e Exibição de Dados de Médicos
