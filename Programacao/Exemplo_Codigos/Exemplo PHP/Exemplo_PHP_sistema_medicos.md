@@ -31,14 +31,17 @@ Este código HTML contém um formulário simples para a entrada de dados de espe
 
 ## Banco de Dados:
 
-### `Especialização:`
+### `Tabela |Especialização:`
 
 ````SQl
 CREATE TABLE especialidades (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(100) NOT NULL
 );
+````
+### `Tabela | Medicos:`
 
+````SQl
 CREATE TABLE medicos (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
@@ -48,6 +51,10 @@ CREATE TABLE medicos (
     foto VARCHAR(200),
     FOREIGN KEY (especialidade_id) REFERENCES especialidades(id)
 );
+````
+
+### `Tabela | Usuarios:`
+````SQl
 CREATE TABLE usuarios (
     id INT AUTO_INCREMENT PRIMARY KEY,
     usuario VARCHAR(50) NOT NULL UNIQUE,
