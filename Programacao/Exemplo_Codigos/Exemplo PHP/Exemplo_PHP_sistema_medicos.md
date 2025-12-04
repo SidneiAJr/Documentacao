@@ -29,6 +29,44 @@ Este código HTML contém um formulário simples para a entrada de dados de espe
 </html>
 ````
 
+## Banco de Dados:
+
+### `Especialização:`
+
+````SQl
+CREATE TABLE especialidades (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE medicos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    crm VARCHAR(20) NOT NULL,
+    dt_nascimento DATE NOT NULL,
+    especialidade_id INT NOT NULL,
+    foto VARCHAR(200),
+    FOREIGN KEY (especialidade_id) REFERENCES especialidades(id)
+);
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    usuario VARCHAR(50) NOT NULL UNIQUE,
+    senha VARCHAR(255) NOT NULL
+);
+
+INSERT INTO usuarios (usuario, senha)
+VALUES ('admin', MD5('123'));
+CREATE TABLE medico_especialidade (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    medico_id INT NOT NULL,
+    especialidade_id INT NOT NULL,
+    FOREIGN KEY (medico_id) REFERENCES medicos(id),
+    FOREIGN KEY (especialidade_id) REFERENCES especialidades(id)
+);
+
+````
+
+
 # Formulário de Cadastro de Médico
 
 ## Descrição
