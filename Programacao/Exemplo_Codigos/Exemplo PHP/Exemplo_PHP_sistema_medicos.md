@@ -170,6 +170,9 @@ if($_SESSION['loginok'] != 'ok') {
     header('location:erro.html');
 }
 ?>
+```
+
+```html
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -180,6 +183,9 @@ if($_SESSION['loginok'] != 'ok') {
 
 <body>
 <p>
+```
+
+```php
 <?php
 include "conexao.php";
 $sql = "SELECT codigo, crm FROM medicos ORDER BY nome";
@@ -241,7 +247,8 @@ if ($total == 0) {
 mysqli_close($conexao);
 ?>
 </p>
-
+```
+```html
 <table width="712" height="93" border="2">
     <tr>
         <td width="182" rowspan="2"><img src="Imagens/1.jpg" width="194" height="129" /></td>
@@ -302,7 +309,6 @@ mysqli_close($conexao);
         </td>
     </tr>
 </table>
-
 </body>
 </html>
 
