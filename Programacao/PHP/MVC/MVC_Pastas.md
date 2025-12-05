@@ -7,6 +7,8 @@ Este repositório contém um script .bat que cria automaticamente uma estrutura 
 Ideal para quem quer iniciar projetos rapidamente com uma arquitetura organizada e escalável.
 Só usar e torrar 😄🔥
 
+## 📜Script de criação (Batch | .bat)
+
 ````Shell
 @echo off
 echo ==============================
