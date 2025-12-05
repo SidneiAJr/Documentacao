@@ -1,6 +1,11 @@
 # 🐘PHP| TS | MVC Pastas:
 
-## `Script para criação de Projeto MVC | TS | PHP - Só Usar e Torar kk`:
+## `Script automático para criação de projeto MVC (PHP + TypeScript)`:
+
+Este repositório contém um script .bat que cria automaticamente uma estrutura completa de projeto MVC, incluindo pastas, arquivos e organização para desenvolvimento com PHP e TypeScript.
+
+Ideal para quem quer iniciar projetos rapidamente com uma arquitetura organizada e escalável.
+Só usar e torrar 😄🔥
 
 ````Shell
 @echo off
