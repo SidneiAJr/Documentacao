@@ -3,17 +3,44 @@
 ## `Estrutura de pasta do mvc para Projetos`:
 
 ````Shell
+@echo off
+echo Criando estrutura MVC...
+
+:: Pastas principais
 md app
 md app\Controllers
 md app\Models
 md app\Views
 md app\Views\product
 md app\Views\user
+
+:: Pastas avançadas
+md core
+md helpers
+md services
+md middleware
+
+:: Storage
+md storage
+md storage\logs
+md storage\uploads
+md storage\cache
+
+:: Public
 md public
 md public\css
 md public\js
 md public\img
+
+:: Configurações
 md config
+
+:: Vendor (composer adiciona depois)
+md vendor
+
+echo Estrutura criada com sucesso!
+pause
+
 ````
 
 ### `app/`
