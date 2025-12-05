@@ -1,6 +1,6 @@
-# 🐘PHP | MVC Pastas:
+# 🐘PHP| TS | MVC Pastas:
 
-## `Estrutura de pasta do mvc para Projetos`:
+## `Script para criação de Projeto MVC | TS | PHP - Só Usar e Torar kk`:
 
 ````Shell
 @echo off
