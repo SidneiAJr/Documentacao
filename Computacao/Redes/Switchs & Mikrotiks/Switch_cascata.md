@@ -52,9 +52,13 @@ Cascata Simples (padrão)
 
 Switch A → Switch B
 
+
 ✔ Funciona
+
 ❌ Não escala para grandes redes
+
 ❌ Pode gerar gargalo
+
 ❌ Evitar grandes cadeias
 
 Cascata com Trunk (correto)
@@ -69,9 +73,13 @@ Switch A ↔ Switch B usando trunk com VLANs.
 
 A → B → C → D → E → F → G
 
+
 ❌ Latência alta
+
 ❌ Toda rede depende de um cabo
+
 ❌ risco de loop
+
 ❌ desastre em empresas
 
 Loops e como evitar
@@ -92,7 +100,10 @@ travamento da rede
 
 Um switch principal → todos os outros ligados nele.
 
+
 ✔ melhor latência
+
 ✔ mais rápido
+
 ✔ mais seguro
 
