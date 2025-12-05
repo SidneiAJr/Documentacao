@@ -69,7 +69,9 @@ O pfSense é um firewall completo e muito usado em empresas, escolas e provedore
 `Ele é acessado pelo navegador via Web GUI:`
 
 http://192.168.1.1
+
 usuário: admin
+
 senha: pfsense
 
 ✔ Principais funções do pfSense
