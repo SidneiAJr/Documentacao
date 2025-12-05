@@ -66,7 +66,9 @@ Cascata com Trunk (correto)
 Switch A ↔ Switch B usando trunk com VLANs.
 
 ✔ Ideal
+
 ✔ Suporta VLANs
+
 ✔ Correto para ambientes profissionais
 
 2.3 Cascata em Corrente Grande (proibido)
