@@ -143,7 +143,7 @@ app/
 Contém toda a lógica da aplicação.
 Aqui ficam Controllers, Models e Views, que são as três camadas principais do padrão MVC.
 
-## Camada Controller
+## 📁Camada Controller
 app/Controllers/
 
 Armazena os controladores da aplicação.
@@ -159,7 +159,7 @@ chamar Views (interface)
 
 Exemplos: ProductController, UserController.
 
-## Camada Model
+## 📁Camada Model
 app/Models/
 
 Contém as classes que trabalham com os dados da aplicação.
@@ -174,7 +174,7 @@ lidam com regras de negócio relacionadas a dados
 
 Exemplos: Product, User.
 
-## Camada View
+## 📁Camada View
 app/Views/
 
 Guarda as telas e arquivos de interface do usuário.
@@ -189,7 +189,7 @@ layouts
 
 pastas separadas por módulo (ex.: product, user)
 
-## Core do Sistema
+## 📁Core do Sistema
 core/
 
 É o núcleo do seu mini-framework MVC.
@@ -209,7 +209,7 @@ fornecer classe base para Models
 
 Arquivos como App, Router, Controller, Model e View pertencem aqui.
 
-## Configurações
+## 📁Configurações
 config/
 
 Contém arquivos de configuração global da aplicação.
@@ -226,7 +226,7 @@ configurações de ambiente
 
 Exemplos: database.php, routes.php, app.php.
 
-## Helpers
+## 📁Helpers
 helpers/
 
 Contém funções auxiliares, utilitárias e não relacionadas a nenhuma camada específica.
@@ -239,7 +239,7 @@ formatar dados
 
 realizar pequenas tarefas comuns
 
-## Services
+## 📁Services
 services/
 
 A camada Service serve para colocar lógicas mais complexas que não pertencem diretamente a um Controller ou Model.
@@ -256,7 +256,7 @@ validações mais elaboradas
 
 Exemplos: UserService, ProductService.
 
-## Middleware
+## 📁Middleware
 middleware/
 
 Executa ações antes ou depois de uma requisição chegar ao Controller.
@@ -271,7 +271,7 @@ controle de acesso
 
 filtros de requisição
 
-## Pasta Pública
+## 📁Pasta Pública
 public/
 
 É a única pasta acessível diretamente pelo navegador.
@@ -292,7 +292,7 @@ páginas públicas (ex.: erro 404)
 
 Essa pasta é servida pelo Apache/Nginx.
 
-## Storage
+## 📁Storage
 storage/
 
 Armazena tudo o que o sistema grava automaticamente.
@@ -305,7 +305,7 @@ uploads/ → arquivos enviados pelo usuário
 
 cache/ → dados temporários para melhorar performance
 
-## Vendor
+## 📁Vendor
 vendor/
 
 Criada automaticamente pelo Composer.
