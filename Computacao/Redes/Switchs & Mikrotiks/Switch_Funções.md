@@ -3,7 +3,8 @@
 A switch possui diversas funcionalidades que podem ser configuradas para melhorar desempenho, segurança e segmentação da rede.
 
 Configurações Comuns em Switches Gerenciáveis
-🟦 Layer 2 (Camada de Enlace)
+
+## 🟦 Layer 2 (Camada de Enlace)
 
 VLANs
 
