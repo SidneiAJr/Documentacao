@@ -12,11 +12,11 @@ Conecte um cabo de rede do PC ao switch.
 
 Acesse o IP padrão do equipamento (exemplos):
 
-192.168.0.1
+- 192.168.0.1
 
-192.168.1.1
+- 192.168.1.1
 
-192.168.0.254
+- 192.168.0.254
 
 Login padrão (pode variar):
 
