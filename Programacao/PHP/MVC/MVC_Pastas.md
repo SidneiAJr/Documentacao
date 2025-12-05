@@ -133,70 +133,224 @@ pause
 
 
 ````
+## 📁 `Estrutura MVC — Explicação Completa (Sem Código)`
 
-### `app/`
+Abaixo está o significado de cada pasta e arquivo da sua estrutura MVC.
 
-Descrição: A pasta app é onde a maior parte da lógica da aplicação acontece. É o núcleo da sua aplicação e geralmente contém as pastas Controllers, Models e Views.
+## Nível Principal
+app/
 
-Por que usar: Manter todos os componentes principais da aplicação organizados em um único lugar, facilitando a navegação e a manutenção do código.
+Contém toda a lógica da aplicação.
+Aqui ficam Controllers, Models e Views, que são as três camadas principais do padrão MVC.
 
-### `app/Controllers/`
+## Camada Controller
+app/Controllers/
 
-Descrição: Aqui ficam os controladores da sua aplicação. O controlador é responsável por receber as requisições do usuário, processá-las e determinar qual resposta (geralmente uma view) será enviada.
+Armazena os controladores da aplicação.
+Eles são responsáveis por:
 
-Exemplo de conteúdo: Arquivos como ProductController.php, UserController.php podem ser encontrados nesta pasta.
+receber requisições do usuário
 
+decidir o que fazer
 
-### `app/Models/`
+chamar Models (dados)
 
-Descrição: A pasta Models contém as classes que representam as entidades e manipulam os dados da sua aplicação. Ela gerencia a interação com o banco de dados ou outras fontes de dados.
+chamar Views (interface)
 
-Exemplo de conteúdo: Arquivos como Product.php, User.php, onde você define as propriedades e os métodos que interagem com os dados.
+Exemplos: ProductController, UserController.
 
-Exemplo de Model (Product.php):
+## Camada Model
+app/Models/
 
-### `app/Views/`
+Contém as classes que trabalham com os dados da aplicação.
 
-Descrição: A pasta Views armazena os arquivos de interface (UI) da sua aplicação. Cada view é uma página ou um componente da interface com o usuário. No padrão MVC, a view exibe os dados processados pelos controladores.
+Os Models:
 
-Exemplo de conteúdo: Aqui você pode encontrar pastas para cada entidade ou controlador, como product/, user/, e dentro delas, arquivos de templates como index.php, show.php, etc.
+representam tabelas ou entidades
 
-### `public/`
+fazem consultas ao banco
 
-Descrição: A pasta public é onde ficam os arquivos públicos, acessíveis diretamente pelos usuários. Isso inclui o arquivo principal de entrada da aplicação (geralmente index.php), bem como arquivos estáticos como CSS, JavaScript e imagens.
+lidam com regras de negócio relacionadas a dados
 
-Por que usar: A ideia é que apenas o que for acessível ao usuário final fique dentro desta pasta, garantindo segurança e organização.
+Exemplos: Product, User.
 
-###  `Exemplo de conteúdo:`
+## Camada View
+app/Views/
 
-index.php: Arquivo que recebe todas as requisições do usuário e dispara a lógica da aplicação (geralmente inclui o roteamento, ou chama o controlador correspondente).
+Guarda as telas e arquivos de interface do usuário.
 
-public/css/: Contém arquivos CSS para estilizar o site.
+Aqui ficam:
 
-public/js/: Contém scripts JavaScript, como funcionalidades de interação na interface.
+páginas HTML/PHP exibidas no navegador
 
-public/img/: Contém imagens usadas na aplicação.
+templates
 
-### `config/`
+layouts
 
-Descrição: A pasta config armazena os arquivos de configuração da aplicação, como acesso ao banco de dados, configurações de roteamento, e outras configurações globais da aplicação.
+pastas separadas por módulo (ex.: product, user)
 
-Exemplo de conteúdo:
+## Core do Sistema
+core/
 
-database.php: Arquivo com as configurações de conexão com o banco de dados.
+É o núcleo do seu mini-framework MVC.
+Aqui ficam classes que fazem tudo funcionar.
 
-routes.php: Arquivo que mapeia as URLs para os controladores, definindo como a aplicação deve tratar as requisições HTTP.
+Funções principais:
 
-### `Resumo geral:`
+iniciar a aplicação
 
-app/Controllers/: Lógica de controle da aplicação, onde a requisição é processada.
+controlar o roteamento
 
-app/Models/: Lógica de manipulação de dados, interage com o banco de dados.
+renderizar views
 
-app/Views/: Exibe os dados ao usuário (interface).
+fornecer classe base para Controllers
 
-public/: Arquivos acessíveis diretamente, como o ponto de entrada da aplicação e arquivos estáticos.
+fornecer classe base para Models
 
-config/: Configurações globais da aplicação, como banco de dados e rotas.
+Arquivos como App, Router, Controller, Model e View pertencem aqui.
 
+## Configurações
+config/
 
+Contém arquivos de configuração global da aplicação.
+
+Aqui você define:
+
+conexão com banco
+
+rotas do sistema
+
+opções gerais do app
+
+configurações de ambiente
+
+Exemplos: database.php, routes.php, app.php.
+
+## Helpers
+helpers/
+
+Contém funções auxiliares, utilitárias e não relacionadas a nenhuma camada específica.
+
+São usadas para:
+
+manipular sessões
+
+formatar dados
+
+realizar pequenas tarefas comuns
+
+## Services
+services/
+
+A camada Service serve para colocar lógicas mais complexas que não pertencem diretamente a um Controller ou Model.
+
+Usado para:
+
+regras de negócio pesadas
+
+cálculos
+
+orquestração de processos
+
+validações mais elaboradas
+
+Exemplos: UserService, ProductService.
+
+## Middleware
+middleware/
+
+Executa ações antes ou depois de uma requisição chegar ao Controller.
+
+Exemplos de responsabilidades:
+
+autenticação (ver se o usuário está logado)
+
+proteção contra CSRF
+
+controle de acesso
+
+filtros de requisição
+
+## Pasta Pública
+public/
+
+É a única pasta acessível diretamente pelo navegador.
+
+Aqui ficam:
+
+index.php (ponto de entrada da aplicação)
+
+CSS
+
+JavaScript
+
+imagens
+
+arquivos TypeScript/JS do frontend
+
+páginas públicas (ex.: erro 404)
+
+Essa pasta é servida pelo Apache/Nginx.
+
+## Storage
+storage/
+
+Armazena tudo o que o sistema grava automaticamente.
+
+Subpastas comuns:
+
+logs/ → para logs da aplicação
+
+uploads/ → arquivos enviados pelo usuário
+
+cache/ → dados temporários para melhorar performance
+
+## Vendor
+vendor/
+
+Criada automaticamente pelo Composer.
+Armazena todas as bibliotecas externas e dependências do seu projeto.
+
+## Arquivos Raiz
+.env
+
+Variáveis sensíveis do ambiente, como:
+
+senha do banco
+
+chave de API
+
+modo debug
+
+.gitignore
+
+Define quais arquivos/pastas não devem ir para o repositório.
+
+composer.json
+
+Arquivo principal do Composer:
+
+lista dependências
+
+define configurações da aplicação
+
+README.md
+
+Documentação do projeto.
+
+| Pasta / Arquivo   | Função                                      |
+| ----------------- | ------------------------------------------- |
+| **app/**          | Lógica da aplicação                         |
+| app/Controllers   | Controladores (recebem requisições)         |
+| app/Models        | Dados e regras de negócios                  |
+| app/Views         | Interface e telas                           |
+| **core/**         | Núcleo do MVC (roteamento, base de classes) |
+| **config/**       | Configurações globais                       |
+| **helpers/**      | Funções auxiliares                          |
+| **services/**     | Regras de negócio complexas                 |
+| **middleware/**   | Filtros e autenticação                      |
+| **public/**       | Arquivos acessíveis pela web                |
+| **storage/**      | Logs, uploads e cache                       |
+| **vendor/**       | Dependências externas                       |
+| **.env**          | Configurações sensíveis                     |
+| **composer.json** | Dependências do Composer                    |
