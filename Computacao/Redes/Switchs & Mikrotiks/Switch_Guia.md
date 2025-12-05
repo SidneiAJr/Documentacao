@@ -1,3 +1,70 @@
+# Switch | Guia Completo
+
+Este é um guia completo para **entender e configurar switches** em redes. O objetivo deste documento é proporcionar uma visão geral das funcionalidades, tipos de switches, além de explicar como configurar e otimizar switches para redes corporativas e domésticas.
+
+---
+
+# 📌 Índice
+1. [O que é um Switch?](#-o-que-é-um-switch)
+2. [Tipos de Switches](#-tipos-de-switches)
+3. [Configuração Básica de um Switch](#-configuração-básica-de-um-switch)
+4. [VLAN em Switches](#-vlan-em-switches)
+5. [Trunking e Uplink](#-trunking-e-uplink)
+6. [Configuração de Portas](#-configuração-de-portas)
+7. [STP - Spanning Tree Protocol](#-stp---spanning-tree-protocol)
+8. [Switching Avançado: LACP e EtherChannel](#-switching-avançado-lacp-e-etherchannel)
+9. [QoS e Controle de Banda](#-qos-e-controle-de-banda)
+10. [Segurança em Switches](#-segurança-em-switches)
+11. [Monitoramento e Diagnóstico](#-monitoramento-e-diagnóstico)
+12. [Boas Práticas em Switches](#-boas-práticas-em-switches)
+
+---
+
+# 🧠 O que é um Switch?
+
+Um **switch** é um dispositivo de rede que conecta diferentes dispositivos em uma rede local (LAN), como computadores, impressoras e servidores.  
+Ele permite a comunicação entre esses dispositivos de forma rápida e eficiente, usando tabelas de endereços MAC para encaminhar pacotes entre as portas.
+
+Ao contrário de um hub, que transmite os pacotes para todas as portas, um switch envia o pacote apenas para a **porta de destino**, o que melhora a **eficiência** e reduz **congestionamentos**.
+
+---
+
+# 🔄 Tipos de Switches
+
+## ✔ Switch Não Gerenciável
+- Plug-and-play, simples de configurar
+- Não permite controle remoto
+- Ideal para **ambientes domésticos** ou pequenas redes
+
+## ✔ Switch Gerenciável
+- Oferece controle e personalização
+- Permite configurar VLANs, QoS, STP, etc.
+- Ideal para **redes corporativas** e ambientes que exigem maior controle
+
+## ✔ Switch Layer 2 (L2)
+- Opera na camada de enlace de dados
+- Responsável pelo **encaminhamento de pacotes** dentro da rede local
+- Suporta VLANs, STP, port security
+
+## ✔ Switch Layer 3 (L3)
+- Operação de roteamento entre VLANs
+- Ideal para **rede corporativa** e **roteamento inter-VLAN**
+
+---
+
+# 🔧 Configuração Básica de um Switch
+
+## Passos Iniciais
+
+### 1. Acesse o Switch
+- Use **SSH**, **Telnet**, ou interface **Web (para switches gerenciáveis)**.
+  
+### 2. Defina o IP de gerenciamento
+- Atribua um IP estático à interface de gerenciamento (geralmente **VLAN 1** ou **VLAN de gestão**).
+
+Exemplo:
+
+
 Switch> enable
 Switch# configure terminal
 Switch(config)# interface vlan1
