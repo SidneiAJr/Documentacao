@@ -7,13 +7,13 @@ Este guia explica o processo inicial de forma simples e clara.
 
 A maior parte dos switches usa um IP padrão de fábrica, como:
 
-192.168.0.1
+- 192.168.0.1
 
-192.168.1.1
+- 192.168.1.1
 
-192.168.0.254
+- 192.168.0.254
 
-192.168.2.1
+- 192.168.2.1
 
 Esse IP varia conforme o fabricante e o modelo.
 
@@ -23,9 +23,9 @@ Conecte o PC diretamente na porta do switch (geralmente porta 1 ou a porta marca
 
 Configure o computador com um IP fixo da mesma faixa, por exemplo:
 
-IP: 192.168.0.10
+- IP: 192.168.0.10
 
-Máscara: 255.255.255.0
+- Máscara: 255.255.255.0
 
 Abra o navegador e digite o IP padrão do switch.
 
@@ -35,8 +35,12 @@ Cada fabricante define credenciais iniciais diferentes.
 Os mais comuns:
 
 Usuário: admin
+
 Senha: admin
+
+
 Usuário: admin
+
 Senha: password
 
 ## Configurações Básicas Necessárias
