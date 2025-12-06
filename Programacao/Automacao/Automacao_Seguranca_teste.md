@@ -133,9 +133,7 @@ case $ttype in
 ;;
 
 0)
-    ./sentinela.sh
 ;;
-
 *)
     echo "Opcao invalida."
 ;;
