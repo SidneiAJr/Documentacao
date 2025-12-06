@@ -4,12 +4,12 @@
 
 - Instalção do basico
 
-## Script Linux – Installer + Menu (APT baseado – Ubuntu/Debian)
-
 ````bash
 chmod +x install.sh
 ./install.sh
 ````
+
+## Script Linux – Installer + Menu (APT baseado – Ubuntu/Debian)
 
 ```bash
 #!/bin/bash
