@@ -32,6 +32,8 @@ chmod +x sentinel.sh
 ./sentinel.sh
 ```
 
+---
+
 ````bash
 #!/bin/bash
 clear
