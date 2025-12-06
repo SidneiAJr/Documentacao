@@ -1,6 +1,9 @@
-# Automação | Teste e Segurança Software:
+# 📜Automação | Teste e Segurança Software: `Framework: Supreme Sentinel – S6 Engine`
 
-## `Nome Framework: Supreme Sentinel – S6 Engine`
+## 📌 🤪Introdução | Explicando o propósito do Supreme Sentinel – S6.
+
+`Framework desevolvido para automação & teste em aplicação | Não Malicioso`
+
 
 Automação pensanda para verifica Teste & Vunerabilidades de Projeto.
 
