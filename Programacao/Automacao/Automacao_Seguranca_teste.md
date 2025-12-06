@@ -18,6 +18,20 @@
 
 - Automação pensanda para verifica Teste & Vunerabilidades de Projeto.
 
+## 📌 Requisitos
+
+Bash
+
+Git Bash (para Windows)
+
+Ferramentas opcionais (dependendo do módulo que for integrar)
+
+## 📌 Como executar
+```bash
+chmod +x sentinel.sh
+./sentinel.sh
+```
+
 ````bash
 #!/bin/bash
 clear
