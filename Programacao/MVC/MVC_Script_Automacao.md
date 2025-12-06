@@ -139,3 +139,12 @@ echo Estrutura COMPLETA criada!
 echo ==============================
 pause
 ````
+
+## Opção 2 | Somente Typescript
+
+Essa versão e somente Typescript
+
+- Ja vem com .`ts` | Removido `.php`
+
+
+
