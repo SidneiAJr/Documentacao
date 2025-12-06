@@ -50,10 +50,13 @@ Histórico básico de requisições e execuções
 ```bash
 #!/bin/bash
 
-echo "Bem vindo ao APIDAMASSA Generator"
-echo "Criando Estrutura das Pastas"
+echo "============================================"
+echo "      🚀 APIDAMASSA Generator v1.0"
+echo "============================================"
+sleep 1
 
-# Criar pastas
+echo "📁 Criando estrutura de pastas..."
+
 mkdir -p api/routes
 mkdir -p api/controllers
 mkdir -p api/services
@@ -62,21 +65,168 @@ mkdir -p docs
 mkdir -p tests
 mkdir -p logs
 
-# Criar arquivos sem sobrescrever
-touch api/api.js
-touch docs/readme.md
-touch logs/install.log
-touch .env
-touch package.json
-touch api/routes/userRoutes.js
-touch server.js
-touch app.js
-touch api/controllers/userController.js
-touch api/services/userService.js
-touch api/models/userModel.js
-touch .gitignore
+echo "📄 Criando arquivos base..."
 
-echo "Arquivos e pastas criados com sucesso!"
+# ---------------------------
+# app.js
+# ---------------------------
+cat << 'EOF' > app.js
+const express = require('express');
+const app = express();
+const path = require('path');
+
+// Middlewares
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+// Rotas
+const userRoutes = require('./api/routes/userRoutes');
+app.use('/users', userRoutes);
+
+// Rota principal
+app.get('/', (req, res) => {
+  res.json({
+    message: "🔥 APIDAMASSA está ON!",
+    docs: "/docs",
+    example: "/users"
+  });
+});
+
+module.exports = app;
+EOF
+
+# ---------------------------
+# server.js
+# ---------------------------
+cat << 'EOF' > server.js
+const app = require('./app');
+require('dotenv').config();
+
+const PORT = process.env.PORT || 3000;
+
+app.listen(PORT, () => {
+  console.log("🚀 APIDAMASSA rodando na porta " + PORT);
+});
+EOF
+
+# ---------------------------
+# userRoutes.js
+# ---------------------------
+cat << 'EOF' > api/routes/userRoutes.js
+const express = require('express');
+const router = express.Router();
+const controller = require('../controllers/userController');
+
+router.get('/', controller.getUsers);
+router.post('/', controller.createUser);
+
+module.exports = router;
+EOF
+
+# ---------------------------
+# userController.js
+# ---------------------------
+cat << 'EOF' > api/controllers/userController.js
+const service = require('../services/userService');
+
+exports.getUsers = (req, res) => {
+  res.json(service.listUsers());
+};
+
+exports.createUser = (req, res) => {
+  const user = service.addUser(req.body);
+  res.json(user);
+};
+EOF
+
+# ---------------------------
+# userService.js
+# ---------------------------
+cat << 'EOF' > api/services/userService.js
+let users = [
+  { id: 1, nome: "Fulano" },
+  { id: 2, nome: "Ciclano" }
+];
+
+exports.listUsers = () => users;
+
+exports.addUser = (data) => {
+  const novo = {
+    id: users.length + 1,
+    nome: data.nome || "Usuário sem nome"
+  };
+  users.push(novo);
+  return novo;
+};
+EOF
+
+# ---------------------------
+# Model (simples)
+# ---------------------------
+cat << 'EOF' > api/models/userModel.js
+// Modelo simples (mockado)
+module.exports = {
+  id: Number,
+  nome: String
+};
+EOF
+
+# ---------------------------
+# .env
+# ---------------------------
+cat << 'EOF' > .env
+PORT=3000
+EOF
+
+# ---------------------------
+# package.json
+# ---------------------------
+cat << 'EOF' > package.json
+{
+  "name": "apida-massa",
+  "version": "1.0.0",
+  "description": "Gerador automático de API para estudos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  }
+}
+EOF
+
+# ---------------------------
+# docs/readme.md
+# ---------------------------
+cat << 'EOF' > docs/readme.md
+# 📚 Documentação da APIDAMASSA
+
+API criada automaticamente para estudos.
+
+## Rotas disponíveis:
+- GET /users
+- POST /users
+
+Projeto gerado com ❤️ pelo APIDAMASSA Generator.
+EOF
+
+# ---------------------------
+# .gitignore
+# ---------------------------
+cat << 'EOF' > .gitignore
+node_modules/
+.env
+logs/
+EOF
+
+echo "============================================"
+echo "🔥 APIDAMASSA criada com sucesso!"
+echo "👉 Para iniciar: npm install && npm start"
+echo "============================================"
+
 ````
 
 
