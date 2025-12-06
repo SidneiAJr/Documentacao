@@ -16,75 +16,79 @@ E permite instalar todas as dependências essenciais para um backend modern
 - NPM ts-dev
 
 ## 📦 Instalação automática de dependências
-Principais
 
-express
+- Principais
 
-cors
+- express
 
-helmet
+- cors
 
-express-rate-limit
+- helmet
 
-compression
+- express-rate-limit
 
-dotenv
+- compression
 
-Banco de Dados
+- dotenv
 
-mysql2
+- Banco de Dados
 
-typeorm
+- mysql2
 
-prisma
+- typeorm
 
-@prisma/client
+- prisma
 
-Segurança
+- @prisma/client
 
-bcryptjs
+- Segurança
 
-jsonwebtoken
+- bcryptjs
 
-speakeasy (2FA)
+- jsonwebtoken
 
-Autenticação
+- speakeasy (2FA)
 
-passport
+- Autenticação
 
-passport-local
+- passport
 
-passport-jwt
+- passport-local
 
-passport-google-oauth20
+- passport-jwt
 
-Cache
+- passport-google-oauth20
 
-redis
+- Cache
 
-ioredis
+- redis
 
-Dev
+- ioredis
 
-typescript
+- Dev
 
-ts-node-dev
+- typescript
 
-tsconfig-paths
+- ts-node-dev
 
-nodemon
+- tsconfig-paths
 
-Types
+- nodemon
 
-@types/node
+- Types
 
-@types/express
+- @types/node
 
-@types/bcryptjs
+- @types/express
 
-@types/jsonwebtoken
+- @types/bcryptjs
 
-@types/passport-local
+- @types/jsonwebtoken
+
+- @types/passport-local
+
+
+---
 
 ````bash
 @echo off
