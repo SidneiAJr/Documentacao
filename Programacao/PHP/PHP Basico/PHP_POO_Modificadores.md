@@ -23,13 +23,13 @@ class Segredo {
 }
 ````
 ### protected
-````php
+
 Pode ser acessado:
 
 dentro da classe
 
 por classes filhas (herança)
-
+````php
 class Pai {
     protected $nome = "João";
 }
