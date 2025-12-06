@@ -1,5 +1,19 @@
 # 📜 MVC | Script Automação| PHP e TS:
 
+## 🌳 Arvore de Pasta
+
+- app/
+  - Controllers/
+  - Models/
+  - Views/
+- core/
+- helpers/
+- services/
+- public/
+- config/
+- storage/
+
+
 ## 🤪Porque eu fiz isso? `Automação Simples direta...`
 
 ## 🤖 Por que existe esse script? `preguiça inteligente. Automação > repetição.`
