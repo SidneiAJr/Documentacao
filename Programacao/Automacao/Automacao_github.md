@@ -12,14 +12,14 @@ echo 🚀 BEM-VINDO AO AUTO-GIT v1.0
 echo ================================
 
 echo.
-echo 📂 Diretório atual:
+echo 📂 Diretorio atual:
 cd
 echo.
 
-set /p confirm="Esta pasta está correta? (s/n): "
+set /p confirm="Esta pasta e a que gostaria de clonar o repositorio? correto? (s/n): "
 
 if /I "%confirm%" NEQ "s" (
-    echo ❌ Cancelado.
+    echo ❌ Operacao Cancelada.
     pause
     exit
 )
