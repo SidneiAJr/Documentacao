@@ -11,86 +11,50 @@
 ```bash
 
 @echo off
-title Criador de Banco e Tabelas MySQL
+title Criador de Banco - MySQL XAMPP
+cls
 
-:: =============================
-:: DADOS DO BANCO
-:: =============================
+echo ==============================
+echo     CRIAR BANCO DE DADOS
+echo ==============================
+
 set /p DBNAME="Nome do banco: "
 set /p DBUSER="Usuario do banco: "
 set /p DBPASS="Senha do usuario: "
+set /p ROOTPASS="Senha do root (XAMPP): "
 
 echo Criando banco de dados...
+mysql -u root -p%ROOTPASS% -e "CREATE DATABASE IF NOT EXISTS %DBNAME%;"
 
-mysql -u root -p -e "CREATE DATABASE IF NOT EXISTS %DBNAME%;"
-mysql -u root -p -e "CREATE USER IF NOT EXISTS '%DBUSER%'@'localhost' IDENTIFIED BY '%DBPASS%';"
-mysql -u root -p -e "GRANT ALL PRIVILEGES ON %DBNAME%.* TO '%DBUSER%'@'localhost'; FLUSH PRIVILEGES;"
+echo Criando usuario...
+mysql -u root -p%ROOTPASS% -e "CREATE USER IF NOT EXISTS '%DBUSER%'@'localhost' IDENTIFIED BY '%DBPASS%';"
+
+echo Aplicando permissoes...
+mysql -u root -p%ROOTPASS% -e "GRANT ALL PRIVILEGES ON %DBNAME%.* TO '%DBUSER%'@'localhost'; FLUSH PRIVILEGES;"
 
 echo Banco criado com sucesso!
 echo.
 
-:: =======================================
-:: CRIAR PASTA E ARQUIVO SQL
-:: =======================================
-md "Banco de Dados" 2>nul
-set SQLFILE="Banco de Dados\estrutura.sql"
-type nul > %SQLFILE%
+:: Criar pasta e arquivo sql
+md "Banco de Dados" >nul 2>&1
+echo -- Arquivo SQL gerado automaticamente > "Banco de Dados\%DBNAME%.sql"
 
-echo USE %DBNAME%; >> %SQLFILE%
-echo. >> %SQLFILE%
+echo ==============================
+echo Criar tabela agora
+echo ==============================
 
-:: =======================================
-:: CRIAR TABELA
-:: =======================================
-set /p TABNAME="Nome da tabela: "
-echo Criando tabela %TABNAME%...
+set /p TABLENAME="Nome da tabela: "
+set /p COLUMNS="Defina as colunas (ex: id INT PRIMARY KEY, nome VARCHAR(100)): "
 
-set /p COLS="Quantas colunas a tabela vai ter? "
+echo Adicionando tabela ao arquivo SQL...
 
-echo CREATE TABLE %TABNAME% ( >> %SQLFILE%
-
-for /l %%i in (1,1,%COLS%) do (
-    echo --------------------------------
-    echo Coluna %%i
-
-    set /p COLNAME="Nome da coluna: "
-    set /p COLTYPE="Tipo (INT, VARCHAR, DATE, FLOAT, TEXT...): "
-    
-    set SIZEOPT=
-    if /i "%COLTYPE%"=="VARCHAR" (
-        set /p COLSIZE="Tamanho (ex: 255): "
-        set SIZEOPT="(%COLSIZE%)"
-    ) else (
-        set SIZEOPT=
-    )
-
-    set /p NOTNULL="Not Null (S/N)? "
-    if /i "%NOTNULL%"=="S" (set NN="NOT NULL") else (set NN=)
-
-    set /p PRIMARYKEY="Primary Key (S/N)? "
-    if /i "%PRIMARYKEY%"=="S" (set PK="PRIMARY KEY") else (set PK=)
-
-    set /p AUTOI="Auto Increment (S/N)? "
-    if /i "%AUTOI%"=="S" (set AI="AUTO_INCREMENT") else (set AI=)
-
-    :: Montar linha SQL
-    echo %COLNAME% %COLTYPE%%SIZEOPT% %NN% %PK% %AI%, >> %SQLFILE%
-)
-
-:: Remove a última vírgula: precisa terminar com ")"
-powershell -Command "(Get-Content %SQLFILE%) -replace ',\s*$','' | Set-Content %SQLFILE%"
-
-echo ) ENGINE=InnoDB; >> %SQLFILE%
+echo CREATE TABLE %TABLENAME% (%COLUMNS%); >> "Banco de Dados\%DBNAME%.sql"
 
 echo.
-echo Estrutura gerada no arquivo %SQLFILE%
-echo Executando script SQL...
-
-mysql -u root -p %DBNAME% < %SQLFILE%
-
+echo Tabela adicionada ao arquivo SQL!
 echo.
-echo Tabela criada com sucesso!
 pause
+
 ````
 
 
