@@ -15,7 +15,7 @@ chmod +x install.sh
 #!/bin/bash
 
 # ==========================================
-# HYDRO RS - Linux Quick Installer
+# Linux Quick Installer
 # Ubuntu / Debian Based
 # ==========================================
 
