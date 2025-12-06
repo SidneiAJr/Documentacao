@@ -3,7 +3,6 @@
 ## 📘 O que são Ativos?
 
 Ativos são todos os bens e direitos que a empresa possui e que podem gerar benefícios econômicos no futuro.
-Exemplos:
 
 - Dinheiro em caixa
 
@@ -17,12 +16,9 @@ Exemplos:
 
 - Investimentos
 
-Ou seja, tudo aquilo que a empresa tem e que possui valor.
-
 ## 📕 O que são Passivos?
 
 Passivos são todas as obrigações que a empresa precisa pagar, agora ou no futuro.
-Exemplos:
 
 - Empréstimos bancários
 
