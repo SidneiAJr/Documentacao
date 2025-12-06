@@ -20,7 +20,7 @@ echo           #######  ##   ##  ##
 echo ================================
 
 echo.
-echo 📂 Diretorio atual:
+echo  Diretorio atual:
 cd
 echo.
 
