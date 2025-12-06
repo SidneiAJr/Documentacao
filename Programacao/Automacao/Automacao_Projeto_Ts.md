@@ -1,5 +1,12 @@
-# 📜 Automação | Projeto TS 
+# 📜 Automação de Projeto Node.js + TypeScript
 
+Script .bat completo que cria automaticamente projetos nos padrões:
+
+- MVC → Controllers, Models, Views, Services, Middleware, Core, Helpers
+
+- MVVC → Models, Views, ViewModels, Controllers, Services, Routes
+
+E permite instalar todas as dependências essenciais para um backend modern
 ## O que tem nesse Script?
 
 - TypeORM
@@ -7,6 +14,77 @@
 - 2FA
 - NPM
 - NPM ts-dev
+
+## 📦 Instalação automática de dependências
+Principais
+
+express
+
+cors
+
+helmet
+
+express-rate-limit
+
+compression
+
+dotenv
+
+Banco de Dados
+
+mysql2
+
+typeorm
+
+prisma
+
+@prisma/client
+
+Segurança
+
+bcryptjs
+
+jsonwebtoken
+
+speakeasy (2FA)
+
+Autenticação
+
+passport
+
+passport-local
+
+passport-jwt
+
+passport-google-oauth20
+
+Cache
+
+redis
+
+ioredis
+
+Dev
+
+typescript
+
+ts-node-dev
+
+tsconfig-paths
+
+nodemon
+
+Types
+
+@types/node
+
+@types/express
+
+@types/bcryptjs
+
+@types/jsonwebtoken
+
+@types/passport-local
 
 ````bash
 @echo off
