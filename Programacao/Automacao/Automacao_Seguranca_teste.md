@@ -20,11 +20,11 @@
 
 ## 📌 Requisitos
 
-Bash
+- `Bash`
 
-Git Bash (para Windows)
+- `Git Bash (para Windows)`
 
-Ferramentas opcionais (dependendo do módulo que for integrar)
+- `Ferramentas opcionais (dependendo do módulo que for integrar)`
 
 ## 📌 Como executar
 ```bash
