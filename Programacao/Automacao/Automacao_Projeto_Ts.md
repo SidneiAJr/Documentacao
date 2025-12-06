@@ -17,7 +17,7 @@ E permite instalar todas as dependências essenciais para um backend modern
 
 ## 📦 Instalação automática de dependências
 
-- Principais
+### `Principais`
 
 - express
 
