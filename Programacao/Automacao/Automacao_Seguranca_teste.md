@@ -2,7 +2,12 @@
 
 ## `Nome Framework: Supreme Sentinel – S6 Engine`
 
-Automação pensanda para verifica Vunerabilidades de Projeto.
+Automação pensanda para verifica Teste & Vunerabilidades de Projeto.
+
+- Usando Bibliotecas que ja existem.
+
+- Criar o Shell para rodar
+
 
 ````bash
 #!/bin/bash
