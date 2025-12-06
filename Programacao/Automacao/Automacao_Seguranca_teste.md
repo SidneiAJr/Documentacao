@@ -18,6 +18,8 @@
 
 - Automação pensanda para verifica Teste & Vunerabilidades de Projeto.
 
+---
+
 ## 📌 Requisitos
 
 - `Bash`
@@ -26,6 +28,7 @@
 
 - `Ferramentas opcionais (dependendo do módulo que for integrar)`
 
+---
 ## 📌 Como executar
 ```bash
 chmod +x sentinel.sh
