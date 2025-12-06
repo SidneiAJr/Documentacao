@@ -4,13 +4,19 @@
 
 `Framework desevolvido para automação & teste em aplicação | Não Malicioso`
 
+## 📌 Features
 
-Automação pensanda para verifica Teste & Vunerabilidades de Projeto.
+- Multi-linguagem
 
-- Usando Bibliotecas que ja existem.
+- Multi-stack
 
-- Criar o Shell para rodar
+- Testes modulares
 
+- Automação extensível
+
+- ASCII UI exclusiva
+
+- Automação pensanda para verifica Teste & Vunerabilidades de Projeto.
 
 ````bash
 #!/bin/bash
