@@ -10,7 +10,9 @@ O APIDAMASSA Generator cria automaticamente uma estrutura funcional de API para 
 A ideia é simples:
 
 -👉 Você executa o gerador
+
 -👉 Ele constrói toda a API por você
+
 -👉 Você só precisa fazer requisições locais e receber os dados
 
 Perfeito para aprender como uma API nasce, quais pastas são usadas, como rotas se organizam e como o backend responde.
