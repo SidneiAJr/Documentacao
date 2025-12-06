@@ -2,6 +2,8 @@
 
 ## 🤪Porque eu fiz isso? `Automação Simples direta...`
 
+## 🤖 Por que existe esse script? `preguiça inteligente. Automação > repetição.`
+
 ### Opção 1 | Esse Script cria os arquivos pre configurados na pasta.
 
 - Ja cria as pasta conforme padrão MVC
