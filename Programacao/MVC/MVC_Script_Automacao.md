@@ -2,13 +2,25 @@
 
 ## 🤪Porque eu fiz isso? `Automação Simples direta...`
 
-### 🐘Opção 1 | Esse Script cria os arquivos pre configurados na pasta.
+### Opção 1 | Esse Script cria os arquivos pre configurados na pasta.
 
 - Ja cria as pasta conforme padrão MVC
 
 - Ja cria os arquivos em `.php` e em `.ts` conforme padrão mvc
 
 - Precisa Escrever o codigo nos arquivos
+
+### Como rodar?
+
+- Simples cria uma pasta na tua maquina onde tu quiser.
+
+- Depois cria um arquivo de texto com o botão direto do mouse
+
+- Depois disso tu so copia esse script
+
+- Na opção de salvar como coloca em todos os arquivos
+
+- Depois disso so `executar` cabo...
 
 ````bash
 @echo off
