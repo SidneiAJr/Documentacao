@@ -1,4 +1,4 @@
-# 📜 Script de Automação | Infra Estrutura:
+# 📜 Script de Automação | InfraEstrutura:
 
 ## O que tem no Script?
 
