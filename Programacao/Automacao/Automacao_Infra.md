@@ -19,7 +19,7 @@ set LOG=monitor_log.txt
 :MENU
 cls
 echo ============================================
-echo        🚨 Monitor de Servidor / Rede
+echo         Monitor de Servidor / Rede
 echo ============================================
 echo.
 echo [1] Monitorar servidor e reiniciar se cair
