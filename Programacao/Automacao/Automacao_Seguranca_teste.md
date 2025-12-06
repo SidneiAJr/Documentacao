@@ -2,7 +2,7 @@
 
 ## 📌 🤪Introdução | Explicando o propósito do Supreme Sentinel – S6.
 
-`Framework desevolvido para automação & teste em aplicação | Não Malicioso`
+### `Framework desevolvido para automação & teste em aplicação | Não Malicioso`
 
 ## 📌 Features
 
