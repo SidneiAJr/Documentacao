@@ -8,7 +8,7 @@
 
 ```bash
 # =========================================================
-#   HYDRO RS - Windows Tools
+#    Windows Tools
 #   Menu + Debloat Hardcore (mantém Spooler)
 # =========================================================
 
