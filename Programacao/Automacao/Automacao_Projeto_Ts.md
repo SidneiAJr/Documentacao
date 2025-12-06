@@ -1,4 +1,4 @@
-# Automação | Projeto TS com Express TypeORM Mysql2
+# 📜 Automação | Projeto TS 
 
 ## O que tem nesse Script?
 
